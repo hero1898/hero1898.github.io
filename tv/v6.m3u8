@@ -343,26 +343,18 @@ https://v.cdnlz11.com/20240108/19156_ae616363/index.m3u8
 https://v.cdnlz11.com/20240109/19186_273833b8/index.m3u8
 #EXTINF:-1 group-title="电视剧",繁花  第三十集
 https://v.cdnlz11.com/20240109/19185_53b735db/index.m3u8
-#EXTINF:-1 group-title="电视剧",权力的游戏  第一集
-https://v.qq.com/x/cover/mzc00200qlc3ynp/l00461dgp1q.html@qq
-#EXTINF:-1 group-title="电视剧",权力的游戏  第二集
-https://v.qq.com/x/cover/mzc00200qlc3ynp/i0046vfdx7y.html@qq
-#EXTINF:-1 group-title="电视剧",权力的游戏  第三集
-https://v.qq.com/x/cover/mzc00200qlc3ynp/y0046n7w4ug.html@qq
-#EXTINF:-1 group-title="电视剧",权力的游戏  第四集
-https://v.qq.com/x/cover/mzc00200qlc3ynp/y0046ojkrup.html@qq
-#EXTINF:-1 group-title="电视剧",权力的游戏  第五集
-https://v.qq.com/x/cover/mzc00200qlc3ynp/s0046hhauwl.html@qq
-#EXTINF:-1 group-title="电视剧",权力的游戏  第六集
-https://v.qq.com/x/cover/mzc00200qlc3ynp/z00469oaxty.html@qq
-#EXTINF:-1 group-title="电视剧",权力的游戏  第七集
-https://v.qq.com/x/cover/mzc00200qlc3ynp/f00460iwjbg.html@qq
-#EXTINF:-1 group-title="电视剧",权力的游戏  第八集
-https://v.qq.com/x/cover/mzc00200qlc3ynp/l0046ypwo91.html@qq
-#EXTINF:-1 group-title="电视剧",权力的游戏  第九集
-https://v.qq.com/x/cover/mzc00200qlc3ynp/f0046egif9c.html@qq
-#EXTINF:-1 group-title="电视剧",权力的游戏  第十集
-https://v.qq.com/x/cover/mzc00200qlc3ynp/w0046si7gm9.html@qq
+#EXTINF:-1 group-title="电视剧",权力的游戏  第八季 第一集
+https://vip.lz-cdn6.com/20220327/74_48646cf5/index.m3u8
+#EXTINF:-1 group-title="电视剧",权力的游戏  第八季 第二集
+https://vip.lz-cdn6.com/20220327/73_06042ca2/index.m3u8
+#EXTINF:-1 group-title="电视剧",权力的游戏  第八季 第三集
+https://vip.lz-cdn6.com/20220327/72_87084495/index.m3u8
+#EXTINF:-1 group-title="电视剧",权力的游戏  第八季 第四集
+https://vip.lz-cdn6.com/20220327/71_46c3cbc7/index.m3u8
+#EXTINF:-1 group-title="电视剧",权力的游戏  第八季 第五集
+https://vip.lz-cdn6.com/20220327/70_71f56b0d/index.m3u8
+#EXTINF:-1 group-title="电视剧",权力的游戏  第八季 第六集
+https://vip.lz-cdn6.com/20220327/69_e77c939c/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
