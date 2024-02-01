@@ -36,7 +36,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰中文
-https://0472.org/hls/youzaiSB/fhzw.m3u8
+https://0472.org/hls/youzaiSB/fhzw.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰资讯
 https://0472.org/hls/youzaiSB/fhzx.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰香港
