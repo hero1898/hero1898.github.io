@@ -36,11 +36,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.fgit.cf/wang987742/fanmingming/main/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
-https://0472.org/hls/youzaiSB/fhzw.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8#https://0472.org/hls/youzaiSB/fhzw.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.fgit.cf/wang987742/fanmingming/main/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
-https://0472.org/hls/youzaiSB/fhzx.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8#https://0472.org/hls/youzaiSB/fhzx.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://raw.fgit.cf/wang987742/fanmingming/main/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
-https://0472.org/hls/youzaiSB/fhhk.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8#https://0472.org/hls/youzaiSB/fhhk.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.fgit.cf/wang987742/fanmingming/main/tv/wxxw.png" group-title="港澳台",无线新闻
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153399
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://raw.fgit.cf/wang987742/fanmingming/main/tv/TVB翡翠台.png" group-title="港澳台",翡翠台
