@@ -73,11 +73,11 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33d
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育频道",五星体育
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="其他",超级体育
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="其他",精品体育
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000021/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="其他",深圳体育健康
+#EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="体育频道",超级体育
+http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育频道",精品体育
+http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1,tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="体育频道",深圳体育健康
 http://hls.ye23.vip/dl/sztv2211.php?id=sztyjk
 #EXTINF:-1,tvg-id="美国红牛体育" tvg-name="美国红牛体育" tvg-logo="" group-title="体育频道",美国红牛体育
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
