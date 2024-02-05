@@ -107,53 +107,53 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 #EXTINF:-1,tvg-id="王者荣耀" tvg-name="王者荣耀" tvg-logo="https://epg.112114.xyz/logo/王者荣耀.png" group-title="体育频道",王者荣耀
 http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1,tvg-id="咪咕综合体育" tvg-name="咪咕综合体育" tvg-logo="https://epg.112114.xyz/logo/咪咕综合体育.png" group-title="咪咕体育",咪咕综合
+#EXTINF:-1,tvg-id="咪咕综合体育" tvg-name="咪咕综合体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕综合
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="咪咕体育",咪咕足球
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
-#EXTINF:-1,tvg-id="咪咕体育 1" tvg-name="咪咕体育 1" tvg-logo="https://epg.112114.xyz/logo/咪咕体育1.png" group-title="咪咕体育",咪咕体育 1
+#EXTINF:-1,tvg-id="咪咕体育 1" tvg-name="咪咕体育 1" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 1
 http://[2409:8087:7001:20:1000::92]:6610/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 2" tvg-name="咪咕体育 2" tvg-logo="https://epg.112114.xyz/logo/咪咕体育2.png" group-title="咪咕体育",咪咕体育 2
+#EXTINF:-1,tvg-id="咪咕体育 2" tvg-name="咪咕体育 2" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 2
 http://[2409:8087:7001:20:1000::91]:6610/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 3" tvg-name="咪咕体育 3" tvg-logo="https://epg.112114.xyz/logo/咪咕体育3.png" group-title="咪咕体育",咪咕体育 3
+#EXTINF:-1,tvg-id="咪咕体育 3" tvg-name="咪咕体育 3" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 3
 http://[2409:8087:7001:20:1000::83]:6610/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 4" tvg-name="咪咕体育 4" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4.png" group-title="咪咕体育",咪咕体育 4
+#EXTINF:-1,tvg-id="咪咕体育 4" tvg-name="咪咕体育 4" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 4
 http://[2409:8087:7001:20:1000::93]:6610/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 5" tvg-name="咪咕体育 5" tvg-logo="https://epg.112114.xyz/logo/咪咕体育5.png" group-title="咪咕体育",咪咕体育 5
+#EXTINF:-1,tvg-id="咪咕体育 5" tvg-name="咪咕体育 5" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 5
 http://[2409:8087:7001:20:1000::83]:6610/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 6" tvg-name="咪咕体育 6" tvg-logo="https://epg.112114.xyz/logo/咪咕体育6.png" group-title="咪咕体育",咪咕体育 6
+#EXTINF:-1,tvg-id="咪咕体育 6" tvg-name="咪咕体育 6" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 6
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 7" tvg-name="咪咕体育 7" tvg-logo="https://epg.112114.xyz/logo/咪咕体育7.png" group-title="咪咕体育",咪咕体育 7
+#EXTINF:-1,tvg-id="咪咕体育 7" tvg-name="咪咕体育 7" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 7
 http://[2409:8087:7001:20:1000::90]:6610/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 8" tvg-name="咪咕体育 8" tvg-logo="https://epg.112114.xyz/logo/咪咕体育8.png" group-title="咪咕体育",咪咕体育 8
+#EXTINF:-1,tvg-id="咪咕体育 8" tvg-name="咪咕体育 8" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 8
 http://[2409:8087:7001:20:1000::90]:6610/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 9" tvg-name="咪咕体育 9" tvg-logo="https://epg.112114.xyz/logo/咪咕体育9.png" group-title="咪咕体育",咪咕体育 9
+#EXTINF:-1,tvg-id="咪咕体育 9" tvg-name="咪咕体育 9" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 9
 http://[2409:8087:7001:20:1000::86]:6610/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 10" tvg-name="咪咕体育 10" tvg-logo="https://epg.112114.xyz/logo/咪咕体育10.png" group-title="咪咕体育",咪咕体育 10
+#EXTINF:-1,tvg-id="咪咕体育 10" tvg-name="咪咕体育 10" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 10
 http://[2409:8087:7001:20:1000::89]:6610/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 11" tvg-name="咪咕体育 11" tvg-logo="https://epg.112114.xyz/logo/咪咕体育11.png" group-title="咪咕体育",咪咕体育 11
+#EXTINF:-1,tvg-id="咪咕体育 11" tvg-name="咪咕体育 11" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 11
 http://[2409:8087:7001:20:1000::84]:6610/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 12" tvg-name="咪咕体育 12" tvg-logo="https://epg.112114.xyz/logo/咪咕体育12.png" group-title="咪咕体育",咪咕体育 12
+#EXTINF:-1,tvg-id="咪咕体育 12" tvg-name="咪咕体育 12" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 12
 http://[2409:8087:7001:20:1000::94]:6610/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 13" tvg-name="咪咕体育 13" tvg-logo="https://epg.112114.xyz/logo/咪咕体育13.png" group-title="咪咕体育",咪咕体育 13
+#EXTINF:-1,tvg-id="咪咕体育 13" tvg-name="咪咕体育 13" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 13
 http://[2409:8087:7001:20:1000::93]:6610/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 14" tvg-name="咪咕体育 14" tvg-logo="https://epg.112114.xyz/logo/咪咕体育14.png" group-title="咪咕体育",咪咕体育 14
+#EXTINF:-1,tvg-id="咪咕体育 14" tvg-name="咪咕体育 14" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 14
 http://[2409:8087:7001:20:1000::96]:6610/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 15" tvg-name="咪咕体育 15" tvg-logo="https://epg.112114.xyz/logo/咪咕体育15.png" group-title="咪咕体育",咪咕体育 15
+#EXTINF:-1,tvg-id="咪咕体育 15" tvg-name="咪咕体育 15" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 15
 http://[2409:8087:7001:20:1000::91]:6610/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 16" tvg-name="咪咕体育 16" tvg-logo="https://epg.112114.xyz/logo/咪咕体育16.png" group-title="咪咕体育",咪咕体育 16
+#EXTINF:-1,tvg-id="咪咕体育 16" tvg-name="咪咕体育 16" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 16
 http://[2409:8087:7001:20:1000::97]:6610/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 17" tvg-name="咪咕体育 17" tvg-logo="https://epg.112114.xyz/logo/咪咕体育17.png" group-title="咪咕体育",咪咕体育 17
+#EXTINF:-1,tvg-id="咪咕体育 17" tvg-name="咪咕体育 17" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 17
 http://[2409:8087:7001:20:1000::97]:6610/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 18" tvg-name="咪咕体育 18" tvg-logo="https://epg.112114.xyz/logo/咪咕体育18.png" group-title="咪咕体育",咪咕体育 18
+#EXTINF:-1,tvg-id="咪咕体育 18" tvg-name="咪咕体育 18" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 18
 http://[2409:8087:7001:20:1000::96]:6610/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 19" tvg-name="咪咕体育 19" tvg-logo="https://epg.112114.xyz/logo/咪咕体育19.png" group-title="咪咕体育",咪咕体育 19
+#EXTINF:-1,tvg-id="咪咕体育 19" tvg-name="咪咕体育 19" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 19
 http://[2409:8087:7001:20:1000::89]:6610/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 20" tvg-name="咪咕体育 20" tvg-logo="https://epg.112114.xyz/logo/咪咕体育20.png" group-title="咪咕体育",咪咕体育 20
+#EXTINF:-1,tvg-id="咪咕体育 20" tvg-name="咪咕体育 20" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 20
 http://[2409:8087:7001:20:1000::84]:6610/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 21" tvg-name="咪咕体育 21" tvg-logo="https://epg.112114.xyz/logo/咪咕体育21.png" group-title="咪咕体育",咪咕体育 21
+#EXTINF:-1,tvg-id="咪咕体育 21" tvg-name="咪咕体育 21" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 21
 http://[2409:8087:7001:20:1000::91]:6610/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="咪咕体育 22" tvg-name="咪咕体育 22" tvg-logo="https://epg.112114.xyz/logo/咪咕体育22.png" group-title="咪咕体育",咪咕体育 22
+#EXTINF:-1,tvg-id="咪咕体育 22" tvg-name="咪咕体育 22" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 22
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
