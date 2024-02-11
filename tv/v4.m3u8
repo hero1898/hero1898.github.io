@@ -97,8 +97,6 @@ https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="体育频道",快乐垂钓
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="体育频道",游戏风云
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226954/index.m3u8
 #EXTINF:-1,tvg-id="和平精英" tvg-name="和平精英" tvg-logo="https://epg.112114.xyz/logo/和平精英.png" group-title="体育频道",和平精英
 http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 #EXTINF:-1,tvg-id="王者荣耀" tvg-name="王者荣耀" tvg-logo="https://epg.112114.xyz/logo/王者荣耀.png" group-title="体育频道",王者荣耀
@@ -159,53 +157,53 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000000097/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育 22
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="地方卫视",湖南卫视
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="地方卫视",浙江卫视
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="地方卫视",东方卫视
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="地方卫视",江苏卫视
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="地方卫视",北京卫视
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="地方卫视",天津卫视
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视频道",天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="地方卫视",广东卫视
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="地方卫视",深圳卫视
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1,tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="地方卫视",深圳都市
+#EXTINF:-1,tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="卫视频道",深圳都市
 http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="地方卫视",大湾区卫视
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://www.namewee.xyz/gudou.php?id=364&id=1456_4500
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="地方卫视",河南卫视
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视频道",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="地方卫视",山东卫视
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视频道",山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="地方卫视",四川卫视
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视频道",四川卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="地方卫视",重庆卫视
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="地方卫视",吉林卫视
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="地方卫视",辽宁卫视
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="地方卫视",河北卫视
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视频道",河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="地方卫视",湖北卫视
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="地方卫视",江西卫视
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="地方卫视",东南卫视
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视频道",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="地方卫视",安徽卫视
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="地方卫视",广西卫视
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视频道",广西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="地方卫视",贵州卫视
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="地方卫视",海南卫视
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视频道",海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1, group-title="精选电影",刀尖
 https://v.cdnlz12.com/20240117/11012_3f5cf514/2000k/hls/mixed.m3u8
@@ -651,94 +649,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="IHOT",iHOT爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1 group-title="百视电影",百视电影1
-https://bp-caster.bestv.com.cn/88/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影2
-https://bp-caster.bestv.com.cn/89/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影3
-https://bp-caster.bestv.com.cn/91/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影4
-https://bp-caster.bestv.com.cn/92/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影5
-https://bp-caster.bestv.com.cn/93/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影6
-https://bp-caster.bestv.com.cn/94/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影7
-https://bp-caster.bestv.com.cn/95/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影8
-https://bp-caster.bestv.com.cn/96/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影9
-https://bp-caster.bestv.com.cn/97/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影10
-https://bp-caster.bestv.com.cn/98/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影11
-https://bp-caster.bestv.com.cn/99/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影12
-https://bp-caster.bestv.com.cn/100/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影13
-https://bp-caster.bestv.com.cn/101/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影14
-https://bp-caster.bestv.com.cn/102/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影15
-https://bp-caster.bestv.com.cn/103/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影16
-https://bp-caster.bestv.com.cn/104/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影17
-https://bp-caster.bestv.com.cn/105/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影18
-https://bp-caster.bestv.com.cn/106/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影19
-https://bp-caster.bestv.com.cn/107/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影20
-https://bp-caster.bestv.com.cn/108/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影21
-https://bp-caster.bestv.com.cn/109/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影22
-https://bp-caster.bestv.com.cn/110/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影23
-https://bp-caster.bestv.com.cn/111/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影24
-https://bp-caster.bestv.com.cn/112/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影25
-https://bp-caster.bestv.com.cn/113/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影26
-https://bp-caster.bestv.com.cn/114/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影27
-https://bp-caster.bestv.com.cn/115/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影28
-https://bp-caster.bestv.com.cn/116/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影29
-https://bp-caster.bestv.com.cn/117/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影30
-https://bp-caster.bestv.com.cn/118/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影31
-https://bp-caster.bestv.com.cn/119/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影32
-https://bp-caster.bestv.com.cn/120/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影33
-https://bp-caster.bestv.com.cn/121/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影34
-https://bp-caster.bestv.com.cn/122/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影35
-https://bp-caster.bestv.com.cn/123/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影36
-https://bp-caster.bestv.com.cn/124/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影37
-https://bp-caster.bestv.com.cn/125/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影38
-https://bp-caster.bestv.com.cn/126/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影39
-https://bp-caster.bestv.com.cn/127/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影40
-https://bp-caster.bestv.com.cn/128/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影41
-https://bp-caster.bestv.com.cn/129/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视电影42
-https://bp-caster.bestv.com.cn/130/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视搞笑01
-https://bp-caster.bestv.com.cn/131/3/video.m3u8
-#EXTINF:-1 group-title="百视电影",百视搞笑02
-https://bp-caster.bestv.com.cn/132/3/video.m3u8
 #EXTINF:-1,tvg-id="13" tvg-name="Love Nrture" tvg-logo="https://usercontent.githubfast.com/raw/wang987742/fanmingming/main/tv/LOVENATURE.png" group-title="纪录片",Love Nrture
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="纪录片",人与自然
