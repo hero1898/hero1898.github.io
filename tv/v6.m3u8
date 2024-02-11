@@ -55,8 +55,6 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际频道",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际频道",CNN International
-https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1,tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://epg.112114.xyz/logo/金砖中文.png" group-title="国际频道",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id="金砖英文" tvg-name="金砖英文" tvg-logo="https://epg.112114.xyz/logo/金砖英文.png" group-title="国际频道",金砖英文
