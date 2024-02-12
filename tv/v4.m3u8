@@ -567,6 +567,20 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/1.m3u8
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="数字频道",茶频道
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/1.m3u8
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="SITV",动漫秀场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="SITV",法治天地
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="SITV",欢笑剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="SITV",七彩戏剧
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="SITV",生活时尚
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="SITV",都市剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000015&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="SITV",东方财经
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000090/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" tvg-logo="https://epg.112114.xyz/logo/NEWTV军事评论.png" group-title="NewTV",NewTV军事评论
 http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
 #EXTINF:-1,tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NewTV",NewTV金牌综艺
