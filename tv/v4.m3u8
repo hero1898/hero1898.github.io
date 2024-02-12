@@ -95,6 +95,224 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 #EXTINF:-1,tvg-id="ONE Golf「高尔夫」" tvg-name="ONE Golf「高尔夫」" tvg-logo="" group-title="体育频道",ONE Golf「高尔夫」
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="体育频道",NBA-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline02
+#EXTINF:-1 group-title="体育频道",NBA-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline03
+#EXTINF:-1 group-title="体育频道",NBA-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline04
+#EXTINF:-1 group-title="体育频道",NBA-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline05
+#EXTINF:-1 group-title="体育频道",NBA-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline06
+#EXTINF:-1 group-title="体育频道",NBA-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline07
+#EXTINF:-1 group-title="体育频道",NBA-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline08
+#EXTINF:-1 group-title="体育频道",NBA-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline09
+#EXTINF:-1 group-title="体育频道",NBA-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline10
+#EXTINF:-1 group-title="体育频道",NBA-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline11
+#EXTINF:-1 group-title="体育频道",NBA-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mgline12
+#EXTINF:-1 group-title="体育频道",腾讯NBA-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline01
+#EXTINF:-1 group-title="体育频道",腾讯NBA-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=txline02
+#EXTINF:-1 group-title="体育频道",帧享NBA-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline01
+#EXTINF:-1 group-title="体育频道",帧享NBA-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline02
+#EXTINF:-1 group-title="体育频道",帧享NBA-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline03
+#EXTINF:-1 group-title="体育频道",帧享NBA-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline04
+#EXTINF:-1 group-title="体育频道",帧享NBA-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline05
+#EXTINF:-1 group-title="体育频道",帧享NBA-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline07
+#EXTINF:-1 group-title="体育频道",帧享NBA-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline08
+#EXTINF:-1 group-title="体育频道",帧享NBA-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline09
+#EXTINF:-1 group-title="体育频道",帧享NBA-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline10
+#EXTINF:-1 group-title="体育频道",帧享NBA-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline11
+#EXTINF:-1 group-title="体育频道",帧享NBA-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=zxline12
+#EXTINF:-1 group-title="体育频道",英超-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline01
+#EXTINF:-1 group-title="体育频道",英超-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline03
+#EXTINF:-1 group-title="体育频道",英超-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline04
+#EXTINF:-1 group-title="体育频道",英超-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline05
+#EXTINF:-1 group-title="体育频道",英超-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline06
+#EXTINF:-1 group-title="体育频道",英超-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline07
+#EXTINF:-1 group-title="体育频道",英超-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline08
+#EXTINF:-1 group-title="体育频道",英超-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline09
+#EXTINF:-1 group-title="体育频道",英超-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=ycline10
+#EXTINF:-1 group-title="体育频道",体育赛事-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline01
+#EXTINF:-1 group-title="体育频道",体育赛事-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline02
+#EXTINF:-1 group-title="体育频道",体育赛事-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline03
+#EXTINF:-1 group-title="体育频道",体育赛事-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline04
+#EXTINF:-1 group-title="体育频道",体育赛事-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline05
+#EXTINF:-1 group-title="体育频道",体育赛事-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline06
+#EXTINF:-1 group-title="体育频道",体育赛事-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline07
+#EXTINF:-1 group-title="体育频道",体育赛事-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline08
+#EXTINF:-1 group-title="体育频道",体育赛事-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline09
+#EXTINF:-1 group-title="体育频道",体育赛事-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=spline10
+#EXTINF:-1 group-title="体育频道",咪咕综合
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1tyzh
+#EXTINF:-1 group-title="体育频道",咪咕足球
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zq
+#EXTINF:-1 group-title="体育频道",咪咕健身
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1js
+#EXTINF:-1 group-title="体育频道",咪咕Live-1
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb02
+#EXTINF:-1 group-title="体育频道",咪咕Live-2
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb03
+#EXTINF:-1 group-title="体育频道",咪咕Live-3
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb04
+#EXTINF:-1 group-title="体育频道",咪咕Live-4
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb11
+#EXTINF:-1 group-title="体育频道",咪咕Live-5
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb12
+#EXTINF:-1 group-title="体育频道",咪咕Live-6
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb13
+#EXTINF:-1 group-title="体育频道",咪咕Live-7
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb14
+#EXTINF:-1 group-title="体育频道",咪咕Live-8
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb15
+#EXTINF:-1 group-title="体育频道",咪咕Live-9
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb16
+#EXTINF:-1 group-title="体育频道",咪咕Live-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb17
+#EXTINF:-1 group-title="体育频道",咪咕Live-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb18
+#EXTINF:-1 group-title="体育频道",咪咕Live-12
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb19
+#EXTINF:-1 group-title="体育频道",咪咕Live-13
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb20
+#EXTINF:-1 group-title="体育频道",咪咕Live-14
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb21
+#EXTINF:-1 group-title="体育频道",咪咕Live-15
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb22
+#EXTINF:-1 group-title="体育频道",咪咕Live-16
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb23
+#EXTINF:-1 group-title="体育频道",咪咕Live-17
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb24
+#EXTINF:-1 group-title="体育频道",咪咕Live-18
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb25
+#EXTINF:-1 group-title="体育频道",咪咕Live-19
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb26
+#EXTINF:-1 group-title="体育频道",咪咕Live-20
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb27
+#EXTINF:-1 group-title="体育频道",咪咕Live-21
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb28
+#EXTINF:-1 group-title="体育频道",咪咕Live-22
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb29
+#EXTINF:-1 group-title="体育频道",咪咕Live-23
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb30
+#EXTINF:-1 group-title="体育频道",咪咕Live-24
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb31
+#EXTINF:-1 group-title="体育频道",咪咕Live-25
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb32
+#EXTINF:-1 group-title="体育频道",咪咕Live-26
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb33
+#EXTINF:-1 group-title="体育频道",咪咕Live-27
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb35
+#EXTINF:-1 group-title="体育频道",咪咕Live-28
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb36
+#EXTINF:-1 group-title="体育频道",咪咕Live-29
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb37
+#EXTINF:-1 group-title="体育频道",咪咕Live-30
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb38
+#EXTINF:-1 group-title="体育频道",咪咕Live-31
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb39
+#EXTINF:-1 group-title="体育频道",咪咕Live-32
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb41
+#EXTINF:-1 group-title="体育频道",咪咕Live-33
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb42
+#EXTINF:-1 group-title="体育频道",咪咕Live-34
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb43
+#EXTINF:-1 group-title="体育频道",咪咕Live-35
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb44
+#EXTINF:-1 group-title="体育频道",咪咕Live-36
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb45
+#EXTINF:-1 group-title="体育频道",咪咕Live-37
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb46
+#EXTINF:-1 group-title="体育频道",咪咕Live-38
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb47
+#EXTINF:-1 group-title="体育频道",咪咕Live-39
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb48
+#EXTINF:-1 group-title="体育频道",咪咕Live-40
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb49
+#EXTINF:-1 group-title="体育频道",咪咕Live-41
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb51
+#EXTINF:-1 group-title="体育频道",咪咕Live-42
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb52
+#EXTINF:-1 group-title="体育频道",咪咕Live-43
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb53
+#EXTINF:-1 group-title="体育频道",咪咕Live-44
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb54
+#EXTINF:-1 group-title="体育频道",咪咕Live-45
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg1zb55
+#EXTINF:-1 group-title="体育频道",Live-1
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb13
+#EXTINF:-1 group-title="体育频道",Live-2
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb14
+#EXTINF:-1 group-title="体育频道",Live-3
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb15
+#EXTINF:-1 group-title="体育频道",Live-4
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb16
+#EXTINF:-1 group-title="体育频道",Live-5
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb17
+#EXTINF:-1 group-title="体育频道",Live-6
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb18
+#EXTINF:-1 group-title="体育频道",Live-7
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb19
+#EXTINF:-1 group-title="体育频道",Live-8
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb21
+#EXTINF:-1 group-title="体育频道",Live-9
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb22
+#EXTINF:-1 group-title="体育频道",Live-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb24
+#EXTINF:-1 group-title="体育频道",Live-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb25
+#EXTINF:-1 group-title="体育频道",游戏赛事-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game01
+#EXTINF:-1 group-title="体育频道",游戏赛事-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game02
+#EXTINF:-1 group-title="体育频道",游戏赛事-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game03
+#EXTINF:-1 group-title="体育频道",游戏赛事-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game04
+#EXTINF:-1 group-title="体育频道",游戏赛事-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=game05
+#EXTINF:-1 group-title="体育频道",咪咕Live-1-4K
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg14k1
+#EXTINF:-1 group-title="体育频道",咪咕Live-2-4K
+http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg14k2
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="体育频道",快乐垂钓
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
 #EXTINF:-1,tvg-id="和平精英" tvg-name="和平精英" tvg-logo="https://epg.112114.xyz/logo/和平精英.png" group-title="体育频道",和平精英
