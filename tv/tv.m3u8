@@ -1,4 +1,14 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://123.160.233.32:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://58.210.60.226:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://60.213.92.38:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://111.225.113.232:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://221.226.4.10:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/东南卫视" tvg-id="东南卫视" tvg-name="东南卫视" ,东南卫视
 http://111.225.113.232:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/东南卫视" tvg-id="东南卫视" tvg-name="东南卫视" ,东南卫视
