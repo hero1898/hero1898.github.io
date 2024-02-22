@@ -409,6 +409,10 @@ https://v.cdnlz12.com/20240220/11663_c1e31a39/index.m3u8
 https://v.cdnlz12.com/20240221/11715_b5510936/index.m3u8
 #EXTINF:-1 group-title="精选电视剧",南来北往  第三十二集
 https://v.cdnlz12.com/20240221/11714_f5c77c36/index.m3u8
+#EXTINF:-1 group-title="精选电视剧",南来北往  第三十三集
+https://v.cdnlz12.com/20240222/11743_2bde03eb/index.m3u8
+#EXTINF:-1 group-title="精选电视剧",南来北往  第三十四集
+https://v.cdnlz12.com/20240222/11742_49e53ba5/index.m3u8
 #EXTINF:-1 group-title="精选电视剧",侦察英雄  第一集
 https://v.cdnlz11.com/20240109/19178_11b6fda6/index.m3u8
 #EXTINF:-1 group-title="精选电视剧",侦察英雄  第二集
@@ -667,6 +671,20 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/1.m3u8
 #EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="数字频道",茶频道
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/1.m3u8
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="SITV",动漫秀场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="SITV",法治天地
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="SITV",欢笑剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="SITV",七彩戏剧
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="SITV",生活时尚
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="SITV",都市剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000015&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="SITV",东方财经
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000090/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" tvg-logo="https://epg.112114.xyz/logo/NEWTV军事评论.png" group-title="NewTV",NewTV军事评论
 http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
 #EXTINF:-1,tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NewTV",NewTV金牌综艺
@@ -709,44 +727,22 @@ http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
 #EXTINF:-1,tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" tvg-logo="https://epg.112114.xyz/logo/NEWTV怡伴健康.png" group-title="NewTV",NewTV怡伴健康
 http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
-#EXTINF:-1,tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://epg.112114.xyz/logo/爱电竞.png" group-title="IHOT",iHOT爱电竞
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="IHOT",iHOT爱谍战
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="IHOT",iHOT爱动漫
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="IHOT",iHOT爱都市
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="IHOT",iHOT爱怀旧
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="IHOT",iHOT爱经典
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="IHOT",iHOT爱科幻
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://epg.112114.xyz/logo/爱科学.png" group-title="IHOT",iHOT爱科学
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.112114.xyz/logo/爱浪漫.png" group-title="IHOT",iHOT爱浪漫
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://epg.112114.xyz/logo/爱历史.png" group-title="IHOT",iHOT爱历史
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://epg.112114.xyz/logo/爱旅行.png" group-title="IHOT",iHOT爱旅行
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="IHOT",iHOT爱奇谈
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱青春" tvg-name="爱青春" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="IHOT",iHOT爱青春
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="IHOT",iHOT爱赛车
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="IHOT",iHOT爱玩具
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="IHOT",iHOT爱喜剧
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="IHOT",iHOT爱悬疑
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="IHOT",iHOT爱幼教
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="IHOT",iHOT爱院线
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+http://tvbox6.com/tv/dl/dl668/migu.php?3650
+#EXTINF:-1,tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="IHOT",iHOT爱科幻
+http://tvbox6.com/tv/dl/dl668/migu.php?3656
+#EXTINF:-1,tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="IHOT",iHOT爱喜剧
+http://tvbox6.com/tv/dl/dl668/migu.php?3658
+#EXTINF:-1,tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.112114.xyz/logo/爱浪漫.png" group-title="IHOT",iHOT爱浪漫
+http://tvbox6.com/tv/dl/dl668/migu.php?3665
+#EXTINF:-1,tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://epg.112114.xyz/logo/爱历史.png" group-title="IHOT",iHOT爱历史
+http://tvbox6.com/tv/dl/dl668/migu.php?3685
+#EXTINF:-1,tvg-id="爱旅游" tvg-name="爱旅游" tvg-logo="https://epg.112114.xyz/logo/爱旅游.png" group-title="IHOT",iHOT爱旅游
+http://tvbox6.com/tv/dl/dl668/migu.php?3703
+#EXTINF:-1,tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="IHOT",iHOT爱谍战
+http://tvbox6.com/tv/dl/dl668/migu.php?3691
+#EXTINF:-1,tvg-id="爱影院" tvg-name="爱影院" tvg-logo="https://epg.112114.xyz/logo/爱影院.png" group-title="IHOT",iHOT爱影院
+http://tvbox6.com/tv/dl/dl668/migu.php?3680
 #EXTINF:-1,tvg-id="13" tvg-name="Love Nrture" tvg-logo="https://usercontent.githubfast.com/raw/wang987742/fanmingming/main/tv/LOVENATURE.png" group-title="纪录片",Love Nrture
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="纪录片",人与自然
