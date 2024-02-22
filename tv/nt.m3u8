@@ -1,40 +1,40 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视频道",CCTV-1
-http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-1-HQ
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视频道",CCTV-2
-http://58.210.60.226:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-2-HQ
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视频道",CCTV-3
-http://58.210.60.226:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-3-HQ
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视频道",CCTV-4
-http://58.210.60.226:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-4-HQ
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视频道",CCTV-5
-http://58.210.60.226:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-5-HQ
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视频道",CCTV-5+
-http://111.225.113.232:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-5PLUS-HQ
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视频道",CCTV-6
-http://58.210.60.226:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-6-HQ
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视频道",CCTV-7
-http://58.210.60.226:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-7-HQ
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视频道",CCTV-8
-http://58.210.60.226:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-8-HQ
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视频道",CCTV-9
-http://58.210.60.226:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-9-HQ
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视频道",CCTV-10
-http://58.210.60.226:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-10-HQ
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视频道",CCTV-11
-http://183.66.49.230:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-11-HQ
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视频道",CCTV-12
-http://58.210.60.226:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-12-HQ
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视频道",CCTV-13
-http://111.225.113.232:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-13-HQ
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视频道",CCTV-14
-http://58.210.60.226:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-14-HQ
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视频道",CCTV-15
-http://112.235.202.141:9901/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-15-HQ
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视频道",CCTV-16
-http://219.146.83.202:9902/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-16-HQ
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视频道",CCTV-17
-http://219.146.83.202:9902/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvbox6.com/tv/dl/dl668/gitv.php?id=G_CCTV-17-HQ
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
 https://0472.org/hls/youzaiSB/fhzw.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
