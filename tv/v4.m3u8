@@ -63,12 +63,6 @@ rtmp://f13h.mine.nu/sat/tv581
 rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="港澳台",MoMoTV
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="港澳台",ELEVEN体育1
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="港澳台",ELEVEN体育2
-rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",纬来育乐
@@ -143,7 +137,11 @@ http://38.96.178.201:80/live/Disney/index.m3u8
 http://38.96.178.201/live/NBA/index.m3u8
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="https://epg.112114.xyz/logo/JJ斗地主.png" group-title="体育频道",JJ斗地主
 http://159.75.85.63:35455/douyu/488743
-#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育频道",纬来体育
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="港澳台",ELEVEN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="港澳台",ELEVEN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="体育频道",五星体育
 http://180.158.146.27:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
