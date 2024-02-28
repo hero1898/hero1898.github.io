@@ -155,7 +155,7 @@ http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1,tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="体育频道",深圳体育健康
 http://hls.ye23.vip/dl/sztv2211.php?id=sztyjk
-#EXTINF:-1,tvg-id="美国红牛体育" tvg-name="美国红牛体育" tvg-logo="" group-title="体育频道",美国红牛体育
+#EXTINF:-1,tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.112114.xyz/logo/REDBULLTV.png" group-title="体育频道",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 #EXTINF:-1,tvg-id="美国摔角" tvg-name="美国摔角" tvg-logo="" group-title="体育频道",美国摔角
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
