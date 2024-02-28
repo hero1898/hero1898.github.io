@@ -157,7 +157,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u
 http://116.21.121.116:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://epg.112114.xyz/logo/深圳体育健康.png" group-title="体育频道",深圳体育健康
 http://113.65.188.190:54321/udp/239.77.1.128:5146
-#EXTINF:-1,tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.112114.xyz/logo/REDBULLTV.png" group-title="其他",Red Bull TV
+#EXTINF:-1,tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.112114.xyz/logo/REDBULLTV.png" group-title="体育频道",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
 #EXTINF:-1,tvg-id="美国摔角" tvg-name="美国摔角" tvg-logo="" group-title="体育频道",美国摔角
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
