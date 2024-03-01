@@ -15,7 +15,7 @@
       "group": "CCTV",
       "channels": [
         { "name": "CCTV1", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8"] },
-        { "name": "CCTV2", "urls": ["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8"] },
+        { "name": "CCTV2", "urls": ["http://123.160.175.128:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0"] },
         { "name": "CCTV3", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"] },
         { "name": "CCTV4", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"] },
         { "name": "CCTV5", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"] },
