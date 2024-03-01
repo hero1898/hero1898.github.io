@@ -47,7 +47,14 @@
       "channels": [
         { "name": "湖南卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8"] },
         { "name": "浙江卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8"] },
-        { "name": "东方卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8"] }
+        { "name": "东方卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8"] },
+        { "name": "北京卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225728/index.m3u8"] },
+        { "name": "江苏卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226310/index.m3u8"] },
+        { "name": "河南卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8"] },
+        { "name": "广东卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226248/index.m3u8"] },
+        { "name": "深圳卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226313/index.m3u8"] },
+        { "name": "四川卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8"] },
+        { "name": "山东卫视", "urls": ["http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226456/index.m3u8"] }
       ]
     }
   ]
