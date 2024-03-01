@@ -47,7 +47,7 @@ http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszx
 http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
 http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
-#EXTINF:-1,tvg-id="hkc" tvg-name="hkc" tvg-logo="https://epg.112114.xyz/logo/HKC.png" group-title="其他",HKC 18
+#EXTINF:-1,tvg-id="hkc" tvg-name="hkc" tvg-logo="https://epg.112114.xyz/logo/HKC.png" group-title="港澳台",HKC 18
 mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视新闻
 http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
@@ -149,11 +149,11 @@ http://38.96.178.201:80/live/Disney/index.m3u8
 http://38.96.178.201/live/NBA/index.m3u8
 #EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="https://epg.112114.xyz/logo/JJ斗地主.png" group-title="体育频道",JJ斗地主
 http://159.75.85.63:35455/douyu/488743
-#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="港澳台",ELEVEN体育1
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育频道",ELEVEN体育1
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="港澳台",ELEVEN体育2
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="体育频道",ELEVEN体育2
 rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="体育频道",五星体育
 http://180.158.146.27:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
