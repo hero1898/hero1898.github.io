@@ -25,11 +25,11 @@
         { "name": "CCTV8", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"] },
         { "name": "CCTV9", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"] },
         { "name": "CCTV10", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8"] },
-        { "name": "CCTV11", "urls": ["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8"] },
+        { "name": "CCTV11", "urls": ["http://123.160.175.128:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0"] },
         { "name": "CCTV12", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8"] },
         { "name": "CCTV13", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"] },
         { "name": "CCTV14", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8"] },
-        { "name": "CCTV15", "urls": ["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8"] },
+        { "name": "CCTV15", "urls": ["http://123.160.175.128:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0"] },
         { "name": "CCTV16", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"] },
         { "name": "CCTV17", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"] }
       ]
