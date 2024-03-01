@@ -55,7 +55,7 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="港澳台",TVB星河
 http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
-#EXTINF:-1,tvg-id="hkc" tvg-name="hkc" tvg-logo="https://epg.112114.xyz/logo/HKC.png" group-title="港澳台",香港赛马
+#EXTINF:-1,tvg-id="18台" tvg-name="18台" tvg-logo="https://epg.112114.xyz/logo/18台.png" group-title="港澳台",香港赛马18台
 mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视新闻
 http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
@@ -87,7 +87,7 @@ rtmp://f13h.mine.nu/sat/tv331
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",纬来育乐
+#EXTINF:-1,tvg-id="纬来育乐台" tvg-name="纬来育乐台" tvg-logo="https://epg.112114.xyz/logo/纬来育乐台.png" group-title="港澳台",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="国际频道",FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
