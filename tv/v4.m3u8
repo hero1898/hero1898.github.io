@@ -99,25 +99,21 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际频道",CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,tvg-id="One America News" tvg-name="One America News" tvg-logo="https://epg.112114.xyz/logo/ONEAMERICANEWS.png" group-title="国际频道",One America News
-http://n1.klowdtv.net/live1/oan_1080p/chunks.m3u8
 #EXTINF:-1,tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="国际频道",CBS News
 http://38.96.178.201:80/live/CBS/index.m3u8
 #EXTINF:-1,tvg-id="OAN" tvg-name="OAN" tvg-logo="https://epg.112114.xyz/logo/OAN.png" group-title="国际频道",OAN
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 #EXTINF:-1,tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://epg.112114.xyz/logo/TRTWORLD.png" group-title="国际频道",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1,tvg-id="Yahoo Finance" tvg-name="Yahoo Finance" tvg-logo="https://epg.112114.xyz/logo/YAHOOFINANCE.png" group-title="国际频道",Yahoo Finance
+#EXTINF:-1,tvg-id="Yahoo Finance" tvg-name="Yahoo Finance" tvg-logo="https://epg.112114.xyz/logo/YAHOO.png" group-title="国际频道",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist1080pl.m3u8
-#EXTINF:-1,tvg-id="CNA" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="国际频道",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,tvg-id="Brics Chinese" tvg-name="Brics Chinese" tvg-logo="https://epg.112114.xyz/logo/BRICSCHINESE.png" group-title="国际频道",Brics Chinese
+#EXTINF:-1,tvg-id="Brics Chinese" tvg-name="Brics Chinese" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="国际频道",Brics Chinese
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1,tvg-id="Brics English" tvg-name="Brics English" tvg-logo="https://epg.112114.xyz/logo/BRICSENGLISH.png" group-title="国际频道",Brics English
+#EXTINF:-1,tvg-id="Brics English" tvg-name="Brics English" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="国际频道",Brics English
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id="GITV" tvg-name="GITV" tvg-logo="https://epg.112114.xyz/logo/GITV.png" group-title="国际频道",GITV
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,tvg-id="Tomato" tvg-name="Tomato" tvg-logo="https://epg.112114.xyz/logo/TOMATO.png" group-title="国际频道",韩国 Tomato
+#EXTINF:-1,tvg-id="Tomato" tvg-name="Tomato" tvg-logo="https://epg.112114.xyz/logo/TOMATOTV.png" group-title="国际频道",韩国 Tomato
 http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 #EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="国际频道",韩国 Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -133,17 +129,15 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="国际频道",Cinemax East
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
-#EXTINF:-1,tvg-id="Universal Televison" tvg-name="Universal Televison" tvg-logo="https://epg.112114.xyz/logo/UNIVERSALTELEVISON.png" group-title="国际频道",Universal Televison
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1,tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://epg.112114.xyz/logo/&FLIX.png" group-title="国际频道",&Flix HD
+#EXTINF:-1,tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://epg.112114.xyz/logo/FLIXHD.png" group-title="国际频道",&Flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1,tvg-id="ASTV" tvg-name="ASTV" tvg-logo="https://epg.112114.xyz/logo/ASTV.png" group-title="国际频道",ASTV
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="国际频道",EZYV1
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="国际频道",欧洲华文 1
 http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="国际频道",EZYV2
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="国际频道",欧洲华文 2
 http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="国际频道",EZYV6
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="国际频道",欧洲华文 6
 http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
 #EXTINF:-1,tvg-id="ESPN News" tvg-name="ESPN News" tvg-logo="https://epg.112114.xyz/logo/ESPNNEWS.png" group-title="国际频道",ESPN News
 http://38.96.178.201:80/live/ESPNews/index.m3u8
