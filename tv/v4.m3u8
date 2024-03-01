@@ -47,23 +47,21 @@ http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszx
 http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
 http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
-#EXTINF:-1,tvg-id="东森亚洲新闻台" tvg-name="东森亚洲新闻台" tvg-logo="https://epg.112114.xyz/logo/东森亚洲新闻台.png" group-title="港澳台",东森新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视新闻
 http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视新闻
 http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视新闻
 http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
-#EXTINF:-1,tvg-id="寰宇HD综合" tvg-name="寰宇HD综合" tvg-logo="https://epg.112114.xyz/logo/寰宇HD综合.png" group-title="其他",寰宇新闻
+#EXTINF:-1,tvg-id="寰宇HD综合" tvg-name="寰宇HD综合" tvg-logo="https://epg.112114.xyz/logo/寰宇HD综合.png" group-title="港澳台",寰宇新闻
 http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="其他",中天新闻
+#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="港澳台",中天新闻
 https://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-#EXTINF:-1,tvg-id="东森亚洲卫视" tvg-name="东森亚洲卫视" tvg-logo="https://epg.112114.xyz/logo/东森亚洲卫视.png" group-title="港澳台",东森亚洲
+#EXTINF:-1,tvg-id="东森亚洲卫视" tvg-name="东森亚洲卫视" tvg-logo="https://epg.112114.xyz/logo/东森亚洲卫视.png" group-title="港澳台",东森新闻
 https://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
 #EXTINF:-1,tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="https://epg.112114.xyz/logo/三立台湾台.png" group-title="港澳台",三立台湾
 http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
-#EXTINF:-1,tvg-id="有线" tvg-name="有线" tvg-logo="https://epg.112114.xyz/logo/有线.png" group-title="港澳台",有线新闻
+#EXTINF:-1,tvg-id="hoy资讯" tvg-name="hoy资讯" tvg-logo="https://epg.112114.xyz/logo/HOY资讯.png" group-title="港澳台",HOY资讯
 https://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
 #EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
 rtmp://f13h.mine.nu/sat/tv331
@@ -77,6 +75,8 @@ rtmp://f13h.mine.nu/sat/tv701
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="国际频道",BBC
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
+#EXTINF:-1,tvg-id="cna" tvg-name="cna" tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="国际频道",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="国际频道",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际频道",CNN News
