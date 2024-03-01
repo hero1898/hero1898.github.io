@@ -53,6 +53,8 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港澳台",无线财经体育
 http://live.cooltv.top/tv/tvb.php?id=2&hq
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="港澳台",TVB星河
+http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
 #EXTINF:-1,tvg-id="hkc" tvg-name="hkc" tvg-logo="https://epg.112114.xyz/logo/HKC.png" group-title="港澳台",香港赛马
 mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视新闻
