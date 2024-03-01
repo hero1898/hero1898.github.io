@@ -9,6 +9,10 @@
     { "name": "红牛", "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/" },
     { "name": "飞速", "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/" },
     { "name": "天空", "api": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/" },
+    { "name": "火狐", "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/" },
+    { "name": "速播", "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/" },
+    { "name": "无尽", "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/" },
+    { "name": "金鹰", "api": "https://jyzyapi.com/api.php/provide/vod/from/jinyingm3u8/" },
     { "name": "非凡", "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/" }
   ],
   "lives": [
