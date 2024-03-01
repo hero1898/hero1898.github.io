@@ -34,7 +34,7 @@
         { "name": "CCTV17", "urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"] },
         { "name": "CCTV4K", "urls": ["http://113.65.188.190:54321/udp/239.77.1.180:5146"] }
       ]
-    }
+    },
     {
       "group": "港澳台",
       "channels": [
