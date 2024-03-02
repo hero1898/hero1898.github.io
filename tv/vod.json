@@ -45,19 +45,11 @@
         { "name": "凤凰中文", "urls": ["https://0472.org/hls/youzaiSB/fhzw.m3u8"] },
         { "name": "凤凰资讯", "urls": ["https://0472.org/hls/youzaiSB/fhzx.m3u8"] },
         { "name": "凤凰香港", "urls": ["https://0472.org/hls/youzaiSB/fhhk.m3u8"] },
-        { "name": "翡翠台", "urls": ["http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv"] },
-        { "name": "明珠台", "urls": ["http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv"] },
-        { "name": "无线新闻", "urls": ["http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv"] },
-        { "name": "HOY资讯", "urls": ["https://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv"] },
-        { "name": "J2", "urls": ["http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv"] },
-        { "name": "民视新闻", "urls": ["http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv"] },
-        { "name": "中视新闻", "urls": ["http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv"] },
-        { "name": "台视新闻", "urls": ["http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv"] },
-        { "name": "寰宇新闻", "urls": ["http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv"] },
-        { "name": "中天新闻", "urls": ["https://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv"] },
-        { "name": "东森新闻", "urls": ["https://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv"] },
-        { "name": "TVBS新闻", "urls": ["http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv"] },
-        { "name": "TVBS", "urls": ["http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv"] }
+        { "name": "翡翠台", "urls": ["http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8"] },
+        { "name": "无线新闻", "urls": ["http://live.cooltv.top/tv/tvb.php?id=0&hq"] },
+        { "name": "耀才财经", "urls": ["https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8"] },
+        { "name": "澳亚卫视", "urls": ["https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8"] },
+        { "name": "澳门卫视", "urls": ["https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8"] }
       ]
     },
     {
