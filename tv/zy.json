@@ -100,9 +100,9 @@
     
     },
     {
-        "key":"南国资源",
-        "name":"南国资源",
-        "api":"http://api.nguonphim.tv/api.php/provide/vod/",
+        "key":"乐活影视",
+        "name":"乐活影视",
+        "api":"https://lehootv.com/api.php/provide/vod/at/xml",
         "download":"",
         "playUrl":"",
         "group":"默认",
