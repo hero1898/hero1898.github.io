@@ -13,6 +13,11 @@
     { "name": "速播", "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/" },
     { "name": "无尽", "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/" },
     { "name": "金鹰", "api": "https://jyzyapi.com/api.php/provide/vod/from/jinyingm3u8/" },
+    { "name": "快车","api": "https://caiji.kczyapi.com/api.php/provide/vod/from/lzbm3u8/" },
+    { "name": "ikun","api": "https://ikunzyapi.com/api.php/provide/vod/from/ikbm3u8/" },
+    { "name": "映迷","api": "https://www.inmi.app/api.php/provide/vod/from/ffbm3u8/" },
+    { "name": "百度","api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/" },
+    { "name": "1080","api": "https://api.1080zyku.com/inc/api_mac10.php" },
     { "name": "非凡", "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/" }
   ],
   "lives": [
