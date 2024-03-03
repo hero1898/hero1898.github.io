@@ -27,9 +27,9 @@
       "id": 2
     },
     {
-      "key": "忆梦资源",
-      "name": "忆梦资源",
-      "api": "http://anltv.cn/api.php/provide/vod/",
+      "key": "爱坤影视",
+      "name": "爱坤影视",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
       "download": "",
       "playUrl": "",
       "group": "默认",
@@ -159,9 +159,9 @@
       "id": 13
     },
     {
-      "key": "U酷影视",
-      "name": "U酷影视",
-      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "key": "天翼影视",
+      "name": "天翼影视",
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/from/lzm3u8/",
       "download": "",
       "playUrl": "",
       "group": "默认",
@@ -246,6 +246,26 @@
       "key": "1080资源库", 
       "name":"1080资源库", 
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "type": 1,
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "true"
+    },
+    {
+      "key": "索尼影视", 
+      "name":"索尼影视", 
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "type": 1,
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "true"
+    },
+    {
+      "key": "火狐影视", 
+      "name":"火狐影视", 
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
       "type": 1,
       "jiexiUrl": "",
       "group": "默认",
