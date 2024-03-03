@@ -87,22 +87,9 @@
         "id":7
     },
     {
-        "key":"唐人街影视",
-        "name":"唐人街影视",
-        "api":"https://www.tangrenjie.tv/api.php/provide/vod/",
-        "download":"",
-        "playUrl":"",
-        "group":"默认",
-        "status":true,
-        "isActive":true,
-        "type":1,
-        "id":8
-    
-    },
-    {
         "key":"乐活影视",
         "name":"乐活影视",
-        "api":"https://lehootv.com/api.php/provide/vod/at/xml",
+        "api":"https://lehootv.com/api.php/provide/vod/",
         "download":"",
         "playUrl":"",
         "group":"默认",
@@ -136,18 +123,6 @@
         "id":11
     },
     {
-        "key":"天堂资源",
-        "name":"天堂资源",
-        "api":"http://vipmv.cc/api.php/provide/vod/",
-        "download":"",
-        "playUrl":"",
-        "group":"默认",
-        "status":true,
-        "isActive":true,
-        "type":1,
-        "id":12
-    },
-    {
         "key":"映迷影院",
         "name":"映迷影院",
         "api":"https://www.inmi.app/api.php/provide/vod/",
@@ -158,42 +133,6 @@
         "isActive":true,
         "type":1,
         "id":13
-    },
-    {
-        "key":"1080资源",
-        "name":"1080资源",
-        "api":"https://1080p.tv/api.php/provide/vod",
-        "download":"",
-        "playUrl":"",
-        "group":"默认",
-        "status":true,
-        "isActive":true,
-        "type":1,
-        "id":14
-    },
-    {
-        "key":"易看资源",
-        "name":"易看资源",
-        "api":"https://api.yikanapi.com/api.php/provide/vod/",
-        "download":"",
-        "playUrl":"",
-        "group":"默认",
-        "status":true,
-        "isActive":true,
-        "type":1,
-        "id":15
-    },
-    {
-        "key":"酷点资源",
-        "name":"酷点资源",
-        "api":"https://kudianzy.com/api.php/provide/vod/",
-        "download":"",
-        "playUrl":"",
-        "group":"默认",
-        "status":true,
-        "isActive":true,
-        "type":1,
-        "id":16
     },
     {
         "key":"忆梦资源",
@@ -218,30 +157,6 @@
         "isActive":true,
         "type":1,
         "id":18
-    },
-    {
-        "key":"TOM资源",
-        "name":"TOM资源",
-        "api":"https://api.tomcaiji.com/api.php/provide/vod/",
-        "download":"",
-        "playUrl":"",
-        "group":"默认",
-        "status":true,
-        "isActive":true,
-        "type":1,
-        "id":19
-    },
-    {
-        "key":"闪电资源",
-        "name":"闪电资源",
-        "api":"http://sdzyapi.com/api.php/provide/vod/",
-        "download":"",
-        "playUrl":"",
-        "group":"默认",
-        "status":true,
-        "isActive":true,
-        "type":1,
-        "id":20
     },
     {
         "key":"红牛资源",
