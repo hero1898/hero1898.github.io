@@ -181,6 +181,18 @@
         "isActive":true,
         "type":1,
         "id":15
+    },
+    {
+        "key":"金鹰影视",
+        "name":"金鹰影视",
+        "api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/",
+        "download":"",
+        "playUrl":"",
+        "group":"默认",
+        "status":true,
+        "isActive":true,
+        "type":1,
+        "id":16
     }
     ]
     },
