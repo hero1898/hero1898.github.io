@@ -241,6 +241,16 @@
       "isActive": true,
       "type": 1,
       "id": 20
+    },
+    {
+      "key": "1080资源库", 
+      "name":"1080资源库", 
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "type": 1,
+      "jiexiUrl": "",
+      "group": "默认",
+      "isActive": true,
+      "status": "true"
     }
   ]
   },
