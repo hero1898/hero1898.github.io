@@ -244,18 +244,6 @@
         "id":20
     },
     {
-        "key":"FOX资源",
-        "name":"FOX资源",
-        "api":"https://api.foxzyapi.com/api.php/provide/vod/",
-        "download":"",
-        "playUrl":"",
-        "group":"默认",
-        "status":true,
-        "isActive":true,
-        "type":1,
-        "id":21
-    },
-    {
         "key":"红牛资源",
         "name":"红牛资源",
         "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
@@ -266,18 +254,6 @@
         "isActive":true,
         "type":1,
         "id":22
-    },
-    {
-        "key":"77韩剧",
-        "name":"77韩剧",
-        "api":"https://www.77hanju.com/api.php/provide/vod/",
-        "download":"",
-        "playUrl":"",
-        "group":"默认",
-        "status":true,
-        "isActive":true,
-        "type":1,
-        "id":23
     }
     ]
     },
