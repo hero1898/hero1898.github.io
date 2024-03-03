@@ -15,6 +15,30 @@
         "id":1
     },
     {
+        "key":"红牛资源",
+        "name":"红牛资源",
+        "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+        "download":"",
+        "playUrl":"",
+        "group":"默认",
+        "status":true,
+        "isActive":true,
+        "type":1,
+        "id":2
+    }, 
+    {
+        "key":"忆梦资源",
+        "name":"忆梦资源",
+        "api":"http://anltv.cn/api.php/provide/vod/",
+        "download":"",
+        "playUrl":"",
+        "group":"默认",
+        "status":true,
+        "isActive":true,
+        "type":1,
+        "id":3
+    },
+    {
         "key":"非凡资源",
         "name":"非凡资源",
         "api":"http://www.ffzy.tv/api.php/provide/vod/",
@@ -24,7 +48,7 @@
         "status":true,
         "isActive":true,
         "type":1,
-        "id":2    
+        "id":4    
     },
     {
         "key":"光速影视",
@@ -36,7 +60,7 @@
         "status":true,
         "isActive":true,
         "type":1,
-        "id":3
+        "id":5
     },
     {
         "key":"快车资源",
@@ -48,7 +72,7 @@
         "status":true,
         "isActive":true,
         "type":1,
-        "id":4
+        "id":6
     },
     {
         "key":"无尽资源",
@@ -60,7 +84,7 @@
         "status":true,
         "isActive":true,
         "type":1,
-        "id":5
+        "id":7
     },
     {
         "key":"天空影院",
@@ -72,24 +96,12 @@
         "status":true,
         "isActive":true,
         "type":1,
-        "id":6
+        "id":8
     },
     {
         "key":"卧龙资源",
         "name":"卧龙资源",
         "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-        "download":"",
-        "playUrl":"",
-        "group":"默认",
-        "status":true,
-        "isActive":true,
-        "type":1,
-        "id":7
-    },
-    {
-        "key":"乐活影视",
-        "name":"乐活影视",
-        "api":"https://lehootv.com/api.php/provide/vod/",
         "download":"",
         "playUrl":"",
         "group":"默认",
@@ -132,7 +144,7 @@
         "status":true,
         "isActive":true,
         "type":1,
-        "id":13
+        "id":12
     },
     {
         "key":"忆梦资源",
@@ -144,7 +156,7 @@
         "status":true,
         "isActive":true,
         "type":1,
-        "id":17
+        "id":13
     },
     {
         "key":"樱花资源",
@@ -156,19 +168,19 @@
         "status":true,
         "isActive":true,
         "type":1,
-        "id":18
+        "id":14
     },
-    {
-        "key":"红牛资源",
-        "name":"红牛资源",
-        "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+        {
+        "key":"U酷影视",
+        "name":"U酷影视",
+        "api":"https://api.ukuapi.com/api.php/provide/vod/",
         "download":"",
         "playUrl":"",
         "group":"默认",
         "status":true,
         "isActive":true,
         "type":1,
-        "id":22
+        "id":15
     }
     ]
     },
