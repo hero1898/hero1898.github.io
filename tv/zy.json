@@ -1,7 +1,7 @@
-{"sites":
-  {"default":1,
-  "data":
-[
+{
+  "sites":
+  "default":1,
+  "data":[
     {
       "key": "量子资源",
       "name": "量子资源",
@@ -242,6 +242,51 @@
       "type": 1,
       "id": "20"
     }
-]
+  ]
+  },
+  "iptv": {
+    "default": 1, 
+    "data": [
+      {
+        "id": 1,
+        "name": "PX电视",
+        "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/TV2.m3u",
+        "playerType": 1,
+        "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+        "isActive": true 
+      }
+    ]
+  },
+  "analyzes": {
+    "default": 2, 
+    "data": [
+      {"name":"解析1","url":"https://jx.777jiexi.com/player/?url=","isActive": true}, 
+      {"name":"解析2","url":"https://jx.bozrc.com:4433/player/?url=","isActive": true}, 
+      {"name":"解析3","url":"https://www.ckmov.vip/api.php?url=","isActive": true},
+      {"name":"解析4","url":"https://www.h8jx.com/jiexi.php?url=","isActive": true},
+      {"name":"解析5","url":"https://jx.playerjy.com/?url=","isActive": true},
+      {"name":"解析6","url":"https://www.playm3u8.cn/jiexi.php?url=","isActive": true},
+      {"name":"解析7","url":"https://api.jiexi.la/?url=","isActive": true},
+      {"name":"解析8","url":"https://jx.ivito.cn/?url=","isActive": true},
+      {"name":"解析9","url":"https://www.8090g.cn/?url=","isActive": true},
+      {"name":"解析10","url":"https://jx.zhanlangbu.com/?url=","isActive": true}, 
+      {"name":"解析11","url":"https://www.ckplayer.vip/jiexi/?url=","isActive": true},
+      {"name":"解析12","url":"https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url=","isActive": true}, 
+      {"name":"解析13","url":"https://b.umkan.cc/API.php?url","isActive": true}, 
+      {"name":"解析15","url":"https://jx.zhanlangbu.com/?url=","isActive": true}, 
+      {"name":"解析16","url":"https://h5.freejson.xyz/player/?url=","isActive": true}, 
+      {"name":"解析17","url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","isActive": true}, 
+      {"name":"解析18","url":"http://www.pandown.pro/app/tkys/tkysjx.php?url=","isActive": true},
+      {"name":"解析19","url":"https://json.xn--9kq078cdn3a.cc/api/?key=9ksb8DzGi6xUtNf1Cm&url=","isActive": true},
+      {"name":"解析20","url":"https://jx.ccabc.cc/byg/?url=","isActive": true},
+      {"name":"解析21","url":"https://b.umkan.cc/API.php?url=","isActive": true},
+      {"name":"解析22","url":"http://45.248.10.163:4433/json.php?wap=0&url=","isActive": true},
+      {"name":"解析23","url":"http://newjiexi.gotka.top/keyu3.php?url=","isActive": true},
+      {"name":"解析24","url":"http://www.miaoys.cc/vip/?url=","isActive": true},
+      {"name":"解析25","url":"http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url=","isActive": true},
+      {"name":"解析26","url":"http://47.108.39.237:55/api/jsonindex.php/?key=dp2xOsl8Nws8uFdY0E&url=","isActive": true},
+      {"name":"解析27","url":"https://okjx.cc/?url=","isActive": true}
+    ]
+  }
 }
-}
+
