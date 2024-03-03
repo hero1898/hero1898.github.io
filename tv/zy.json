@@ -183,9 +183,9 @@
         "id":15
     },
     {
-        "key":"优质资源",
-        "name":"优质资源",
-        "api":"https://api.1080zyku.com/inc/api.php/provide/vod/",
+        "key":"天堂资源",
+        "name":"天堂资源",
+        "api":"http://vipmv.cc/api.php/provide/vod/",
         "download":"",
         "playUrl":"",
         "group":"默认",
