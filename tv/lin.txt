@@ -2,7 +2,7 @@
     "urls": [
         {
 
-            "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/pan.json",
+            "url": "https://hero1898.github.io/tv/pan.json",
 
             "name": "🐹PX云盘🐹"
 
@@ -121,7 +121,7 @@
         },         
         {
 
-            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/yyfxz/yyfx/main/yyfx.json",
+            "url": "https://github.moeyy.xyz/raw.bgithub.xyz/yyfxz/yyfx/main/yyfx.json",
 
             "name": "💎分享者💎"
 
