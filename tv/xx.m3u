@@ -1,7 +1,4 @@
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="成人频道",Erox
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="成人频道",Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="成人频道",Extasy
@@ -12,30 +9,6 @@ http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 http://168.181.122.234:8000/play/a027/index.m3u8
 #EXTINF:-1, tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="成人频道",Eropulse TV
 http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-#EXTINF:-1 group-title="成人频道",Adult Time
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6166/index.m3u8
-#EXTINF:-1 group-title="成人频道",cento x cento
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6184/index.m3u8
-#EXTINF:-1 group-title="成人频道",DDF Busty
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6193/index.m3u8
-#EXTINF:-1 group-title="成人频道",Digital Playground HD
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6196/index.m3u8
-#EXTINF:-1 group-title="成人频道",Evil Angel HD
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6199/index.m3u8
-#EXTINF:-1 group-title="成人频道",Exxxotica HD
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/2397/index.m3u8
-#EXTINF:-1 group-title="成人频道",Fap TV Lesbian
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6209/index.m3u8
-#EXTINF:-1 group-title="成人频道",Hard X
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6218/index.m3u8
-#EXTINF:-1 group-title="成人频道",Hitzefrei HD
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6220/index.m3u8
-#EXTINF:-1 group-title="成人频道",Hot and Mean
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6222/index.m3u8
-#EXTINF:-1 group-title="成人频道",Lesbea
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6227/index.m3u8
-#EXTINF:-1 group-title="成人频道",Naughty America
-http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6237/index.m3u8
 #EXTINF:-1 group-title="成人频道",🔞 Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人频道",🔞 Private
@@ -48,10 +21,6 @@ http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 http://146.59.54.163/353/index.m3u8
 #EXTINF:-1 group-title="成人频道",🔞 Babes
 http://146.59.54.163/354/index.m3u8
-#EXTINF:-1 group-title="成人频道",一本00
-https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-#EXTINF:-1 group-title="成人频道",二本01
-https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 #EXTINF:-1 group-title="成人视频",安斋
 https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
 #EXTINF:-1 group-title="成人视频",百永纱理奈
@@ -3070,8 +3039,12 @@ https://vip2.slbfsl.com/20230402/FUrt617s/index.m3u8
 https://vip2.slbfsl.com/20230410/4teSdK5N/index.m3u8
 #EXTINF:-1 group-title="成人视频",MIAA-247
 https://siwazywcdn2.com:5278//zhongwenzimu/TZb8hicm/index.m3u8
-#EXTINF:-1 group-title="成人视频",MIAA-320
+#EXTINF:-1 group-title="一本道",MIAA-320
 https://siwazywcdn2.com:5278//zhongwenzimu/4idREMlz/index.m3u8
+#EXTINF:-1 group-title="一本道",一本00
+https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+#EXTINF:-1 group-title="成人频道",二本01
+https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 #EXTINF:-1 group-title="一本道",一本道_1
 https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
 #EXTINF:-1 group-title="一本道",一本道_4
