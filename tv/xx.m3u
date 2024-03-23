@@ -55,6 +55,27 @@ http://live.adultiptv.net/brunette.m3u8
 http://live.adultiptv.net/blonde.m3u8
 #EXTINF:-1 group-title="成人频道", Asian
 http://live.adultiptv.net/asian.m3u8
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 group-title="成人频道", 俄罗斯成人2台
+http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="成人频道", 爆乳 720
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="成人频道", 口交 720
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="成人频道", 拉丁 720
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="成人频道", 少妇 720
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="成人频道", 色星 720
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="成人频道", 少女 720
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="成人频道", 三人 720
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="成人频道", 异类
+http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="成人频道", 偷情
+http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
 #EXTINF:-1 group-title="成人视频",安斋
 https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
 #EXTINF:-1 group-title="成人视频",百永纱理奈
@@ -3077,7 +3098,7 @@ https://siwazywcdn2.com:5278//zhongwenzimu/TZb8hicm/index.m3u8
 https://siwazywcdn2.com:5278//zhongwenzimu/4idREMlz/index.m3u8
 #EXTINF:-1 group-title="一本道",一本00
 https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-#EXTINF:-1 group-title="成人频道",二本01
+#EXTINF:-1 group-title="一本道",二本01
 https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 #EXTINF:-1 group-title="一本道",一本道_1
 https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
