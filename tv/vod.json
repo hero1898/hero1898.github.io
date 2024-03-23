@@ -45,9 +45,9 @@
     {
       "group": "港澳台",
       "channels": [
-        { "name": "凤凰中文", "urls": ["https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8"] },
-        { "name": "凤凰资讯", "urls": ["https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8"] },
-        { "name": "凤凰香港", "urls": ["http://180.142.145.135:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0"] }
+        { "name": "凤凰中文", "urls": ["http://112.19.171.156:9999/udp/239.93.0.162:2192"] },
+        { "name": "凤凰资讯", "urls": ["http://112.19.171.156:9999/udp/239.93.0.118:2191"] },
+        { "name": "凤凰香港", "urls": ["http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv"] }
       ]
     },
     {
