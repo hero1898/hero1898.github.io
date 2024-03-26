@@ -39,33 +39,33 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="港澳台",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 https://iptv.hiper25.com/Pearl/video.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png" group-title="港澳台",无线新闻
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻台.png" group-title="港澳台",无线新闻
 http://137.175.30.127:9080/hls/inews.m3u8
-#EXTINF:-1,tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://epg.112114.xyz/logo/HOY77.png" group-title="港澳台",HOY 77
+#EXTINF:-1,tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://epg.112114.xyz/logo/HOY资讯.png" group-title="港澳台",HOY 77
 https://s2.pub/cctv-9
-#EXTINF:-1,tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="港澳台",HOY 78
+#EXTINF:-1,tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://epg.112114.xyz/logo/HOY资讯.png" group-title="港澳台",HOY 78
 https://s2.pub/cctv-10
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港澳台",无线财经体育
 https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2
 https://s2.pub/cctv-5
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",VIU TV6
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIU6.png" group-title="港澳台",VIU TV6
 https://s2.pub/cctv-8
-#EXTINF:-1 tvg-name="RTHK 31" tvg-logo="https://live.fanmingming.com/tv/RTHK 31.png" group-title="港澳台",RTHK 31
+#EXTINF:-1 tvg-name="RTHK 31" tvg-logo="https://epg.112114.xyz/logo/rthk31.png" group-title="港澳台",RTHK 31
 https://s2.pub/cctv-14
-#EXTINF:-1 tvg-name="RTHK 33" tvg-logo="https://live.fanmingming.com/tv/RTHK 33.png" group-title="港澳台",RTHK 33
+#EXTINF:-1 tvg-name="RTHK 33" tvg-logo="https://epg.112114.xyz/logo/rthk33.png" group-title="港澳台",RTHK 33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="面包台" tvg-logo="https://live.fanmingming.com/tv/面包台.png" group-title="港澳台",面包台
+#EXTINF:-1 tvg-name="面包台" tvg-logo="https://epg.112114.xyz/logo/香港面包台.png" group-title="港澳台",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港澳台",耀才财经
+#EXTINF:-1 tvg-name="耀才财经" tvg-logo="https://epg.112114.xyz/logo/耀才财经台.png" group-title="港澳台",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-#EXTINF:-1,tvg-id="澳门澳视" tvg-name="澳门澳视" tvg-logo="https://epg.112114.xyz/logo/澳门澳视.png" group-title="港澳台",澳门澳视
+#EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门台.png" group-title="港澳台",澳视澳门
 https://iptv.hiper25.com/TDM/video.m3u8
 #EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="港澳台",中天亚洲
 http://livetv.skycf.eu.org/live.m3u8?c=3
@@ -83,7 +83,7 @@ http://livetv.skycf.eu.org/live.m3u8?c=8
 http://livetv.skycf.eu.org/live.m3u8?c=9
 #EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="港澳台",镜新闻
 http://livetv.skycf.eu.org/live.m3u8?c=10
-#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" group-title="港澳台",民视新闻
 http://livetv.skycf.eu.org/live.m3u8?c=11
 #EXTINF:-1,tvg-id="三立LIVE" tvg-name="三立LIVE" tvg-logo="https://epg.112114.xyz/logo/三立LIVE.png" group-title="港澳台",三立LIVE
 http://livetv.skycf.eu.org/live.m3u8?c=12
@@ -91,7 +91,7 @@ http://livetv.skycf.eu.org/live.m3u8?c=12
 http://livetv.skycf.eu.org/live.m3u8?c=13
 #EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png" group-title="港澳台",东森财经
 http://livetv.skycf.eu.org/live.m3u8?c=14
-#EXTINF:-1 tvg-name="香港文旅" tvg-logo="https://live.fanmingming.com/tv/香港文旅.png" group-title="港澳台",香港文旅
+#EXTINF:-1 tvg-name="香港文旅" tvg-logo="https://epg.112114.xyz/logo/HKS.png" group-title="港澳台",香港文旅
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 #EXTINF:-1,tvg-id="GOODTV" tvg-name="GOODTV" tvg-logo="https://epg.112114.xyz/logo/GOODTV.png" group-title="港澳台",GOODTV好消息
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
