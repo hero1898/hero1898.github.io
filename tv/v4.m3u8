@@ -36,15 +36,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",TVB J2
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
 #EXTINF:-1,tvg-id="TVB 星河" tvg-name="TVB 星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="港澳台",TVB 星河
