@@ -48,9 +48,9 @@ https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
 http://137.175.30.127:9080/hls/inews.m3u8
 #EXTINF:-1,tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://epg.112114.xyz/logo/HOY资讯.png" group-title="港澳台",HOY 77
-https://s2.pub/cctv-9
+http://223.71.206.22:30080/HK/hoy77/hls.m3u8
 #EXTINF:-1,tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://epg.112114.xyz/logo/HOY资讯.png" group-title="港澳台",HOY 78
-https://s2.pub/cctv-10
+http://223.71.206.22:30080/HK/hoy78/hls.m3u8
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港澳台",无线财经体育
 https://s2.pub/cctv-11
 #EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2
