@@ -53,7 +53,7 @@ http://223.71.206.22:30080/HK/hoy77/hls.m3u8
 http://223.71.206.22:30080/HK/hoy78/hls.m3u8
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港澳台",无线财经体育
 http://live.cooltv.top/tv/tvb.php?id=3
-#EXTINF:-1,tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻.png" group-title="港澳台",娱乐新闻
+#EXTINF:-1,tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="港澳台",娱乐新闻
 http://223.71.206.22:30080/HK/ylxw/hls.m3u8
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIU6.png" group-title="港澳台",VIU TV6
 https://s2.pub/cctv-8
