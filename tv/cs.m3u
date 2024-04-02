@@ -46,7 +46,7 @@ https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
-http://137.175.30.127:9080/hls/inews.m3u8
+http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1,tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://epg.112114.xyz/logo/HOY资讯.png" group-title="港澳台",HOY 77
 http://223.71.206.22:30080/HK/hoy77/hls.m3u8
 #EXTINF:-1,tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://epg.112114.xyz/logo/HOY资讯.png" group-title="港澳台",HOY 78
