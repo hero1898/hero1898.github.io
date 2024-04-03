@@ -45,8 +45,8 @@
     {
       "group": "港澳台",
       "channels": [
-        { "name": "凤凰中文", "urls": ["http://112.19.171.156:9999/udp/239.93.0.162:2192"] },
-        { "name": "凤凰资讯", "urls": ["http://112.19.171.156:9999/udp/239.93.0.118:2191"] },
+        { "name": "凤凰中文", "urls": ["http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv"] },
+        { "name": "凤凰资讯", "urls": ["http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv"] },
         { "name": "凤凰香港", "urls": ["http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv"] }
       ]
     },
