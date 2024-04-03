@@ -65,7 +65,7 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPla
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-name="耀才财经" tvg-logo="https://epg.112114.xyz/logo/耀才财经台.png" group-title="港澳台",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/HKS.png" group-title="港澳台",香港卫视
+#EXTINF:-1 tvg-name="香港文旅" tvg-logo="https://epg.112114.xyz/logo/HKS.png" group-title="港澳台",香港文旅
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 #EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门台.png" group-title="港澳台",澳视澳门
 https://iptv.hiper25.com/TDM/video.m3u8
