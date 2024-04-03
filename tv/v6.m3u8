@@ -65,7 +65,7 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpe
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
 #EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="港澳台",天映频道
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
-#EXTINF:-1,tvg-id="香港文旅" tvg-name="香港台文旅" tvg-logo="https://epg.112114.xyz/logo/香港文旅.png" group-title="港澳台",香港文旅
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/HKS.png" group-title="港澳台",香港卫视
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
