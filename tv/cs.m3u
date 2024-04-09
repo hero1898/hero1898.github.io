@@ -41,16 +41,26 @@ http://mywlkj.ddns.net:754/tv/fhzw.m3u8
 http://mywlkj.ddns.net:754/tv/fhzx.m3u8
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
 http://mywlkj.ddns.net:754/tv/fhhk.m3u8
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="港澳台",TVB星河
-http://mywlkj.ddns.net:754/tv/hk.php?id=30
-#EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳台",RTHK32
-http://mywlkj.ddns.net:754/tv/rthk32.m3u8
-#EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://epg.112114.xyz/logo/点掌财经.png" group-title="港澳台",点掌财经
-http://mywlkj.ddns.net:754/tv/dl/dl668/hk.php?id=232
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://mywlkj.ddns.net:754/tv/hk.php?id=9
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台
+http://mywlkj.ddns.net:754/tv/hk.php?id=10
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻
+http://mywlkj.ddns.net:754/tv/hk.php?id=4
 #EXTINF:-1,tvg-id="TVB亚洲武侠" tvg-name="TVB亚洲武侠" tvg-logo="https://epg.112114.xyz/logo/TVB亚洲武侠.png" group-title="港澳台",TVB亚洲武侠
 http://mywlkj.ddns.net:754/tv/hk.php?id=29
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="港澳台",TVB星河
+http://mywlkj.ddns.net:754/tv/hk.php?id=30
+#EXTINF:-1,tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://epg.112114.xyz/logo/耀才财经.png" group-title="港澳台",耀才财经
+http://mywlkj.ddns.net:754/tv/hk.php?id=228
+#EXTINF:-1,tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="https://epg.112114.xyz/logo/点掌财经.png" group-title="港澳台",点掌财经
+http://mywlkj.ddns.net:754/tv/hk.php?id=232
+#EXTINF:-1,tvg-id="面包台" tvg-name="面包台" tvg-logo="https://epg.112114.xyz/logo/面包台.png" group-title="港澳台",面包台
+http://mywlkj.ddns.net:754/tv/hk.php?id=584
+#EXTINF:-1,tvg-id="GOODTV" tvg-name="GOODTV" tvg-logo="https://epg.112114.xyz/logo/GOODTV.png" group-title="港澳台",GOODTV消息台
+http://mywlkj.ddns.net:754/tv/hk.php?id=433
 #EXTINF:-1,tvg-id="香港文旅" tvg-name="香港文旅" tvg-logo="https://epg.112114.xyz/logo/香港文旅.png" group-title="港澳台",香港文旅
-http://mywlkj.ddns.net:754/tv/hkstv1.m3u8
+http://mywlkj.ddns.net:754/tv/hk.php?id=2
 #EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="港澳台",中天亚洲
 http://mywlkj.ddns.net:754/tv/youtube.php?id=35
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳台",中天新闻
