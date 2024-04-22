@@ -107,9 +107,9 @@ https://lnc-abc-news.tubi.video/index.m3u8
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="国际频道",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="港澳台",FOX News
+#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="国际频道",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="港澳台",Fox Weather
+#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="国际频道",Fox Weather
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 #EXTINF:-1,tvg-id="GB News" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GBNEWS.png" group-title="国际频道",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
@@ -119,9 +119,9 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://lnc-nbc-news-now.tubi.video/master.m3u8
 #EXTINF:-1,tvg-id="News 12 New York" tvg-name="News 12 New York" tvg-logo="https://epg.112114.xyz/logo/NEWS12NEWYORK.png" group-title="国际频道",News 12 New York
 https://lnc-news12.tubi.video/index.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="港澳台",NHK
+#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="国际频道",NHK
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="港澳台",Nippon TV NEWS 24
+#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="国际频道",Nippon TV NEWS 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1,tvg-id="NTD" tvg-name="NTD" tvg-logo="https://epg.112114.xyz/logo/NTD.png" group-title="国际频道",NTD
 https://ntd02.akamaized.net/NTDA/index.m3u8
@@ -139,7 +139,7 @@ https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1,tvg-id="Classic Arts Showcase" tvg-name="Classic Arts Showcase" tvg-logo="https://epg.112114.xyz/logo/CLASSICARTSSHOWCASE.png" group-title="国际频道",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="港澳台",HBO PLUS
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="国际频道",HBO PLUS
 http://170.254.18.106/HBO_PLUS/tracks-a1/mono.m3u8
 #EXTINF:-1,tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="国际频道",Love Nature
 https://lnc-love-nature.tubi.video/playlist.m3u8
