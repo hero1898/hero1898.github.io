@@ -46,7 +46,9 @@ https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="TVB无线新闻台" tvg-name="TVB无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",无线新闻
-http://live.cooltv.top/tv/tvb.php?id=2
+http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+#EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://raw.bgithub.xyz/wanglindl/TVlogo/main/img/now1.png" group-title="港澳台",Now 新闻台
+http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://live.fanmingming.com/tv/HOY资讯.png" group-title="港澳台",HOY 77
 http://223.71.206.22:30080/HK/hoy77/hls.m3u8
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://live.fanmingming.com/tv/HOY资讯.png" group-title="港澳台",HOY 78
