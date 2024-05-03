@@ -2,8 +2,13 @@
 {
 //"spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/PandaQ231205.jar?sign=HEawELyUvljhHCgfGefYOZ6DHvaGLMWouC0tIwMkd9E%3D%3A0;md5;02c40490ea14c433b66fcc0ce2f2ed94",
+"wallpaper": "https://api.lyiqk.cn/scenery",
+//"wallpaper": "https://bing.img.run/rand.php",
 //"spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg.jar;md5;74657742aa46c4e4464281a5e652af03",
-"wallpaper": "https://jianbian.chuqiuyu.tk",
+//"wallpaper": "https://picsum.photos/1920/1080",
+//"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+//"wallpaper": "https://api.likepoems.com/img/bing",
+//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "warningText": "潘兴祝你：观影愉快！",
 
 //电视直播
@@ -17,7 +22,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "PX影视 20240301 电视直播 港澳台 有重大更新",
+      "name": "PX影视 20240502 五一节快乐！",
       "type": 3,
       "api": "https://gitlab.com/hero1898/DSZB/-/raw/main/js/drpymin2.js",
       "searchable":0,
@@ -124,26 +129,26 @@
       ]
     },
     {
-      "key": "荐片",
-      "name": "🎬荐片影视🎬",
-      "api": "csp_Jianpian",
+      "key": "Xinsj",
+      "name": "🐨新视觉🐨",
       "type": 3,
-      "playerType": "2",
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":0,
-      "ext": "http://api2.rinhome.com",
-      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/PandaQ240127.jar;md5;B47FBF62C42967FAF3A0F7A8E0202D55"
-    },
-    {
-      "key": "一起看 ",
-      "name": "📺︎一起看📺︎",
-      "type": 3,
-      "api": "csp_YQKan",
+      "api": "csp_Xinsj", 
+      "timeout": 15, 
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/one.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"
+      "ext": "https://www.80yy3.com/",
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/hanXC.jar"
+    },
+    {
+      "key":"低端影视",
+      "name":"🐭低端影视🐭",
+      "type":3,
+      "api":"csp_Ddys",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/240502.jar;md5;ee25fa344922c0ac0b677b15ddbfa6d6"
     },
 //    {
 //      "key":"Czsapp",
@@ -155,26 +160,53 @@
 //      "filterable":1,
 //      "ext":"https://www.czzy22.com"
 //    },
-{"key":"量子","name":"🔊量子综合🔊","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 1,"filterable": 0,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
-{"key":"非凡","name":"🥏非凡综合🥏","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"filterable": 0,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
-//    {
-//      "key":"量子",
-//     "name":"💡量子影视💡",
-//      "type":1,
-//      "api": "https://cj.lziapi.com/api.php/provide/vod",
-//      "searchable":1,
-//      "changeable":1,
-//      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/fty0101.jar;md5;fd784008ab71d81a178564841059756d"
-//    },
     {
-        "key":"嘿嘿",
-        "name":"💡嘿嘿影视💡",
-        "type":3,
-        "api": "csp_AppMao",
-        "searchable":1,
-        "quickSearch":1,
-        "changeable":1,
-        "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
+      "key":"zy_红牛",
+      "name":"🐄红牛资源🐄",
+      "type":1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "categories":  [ "国产剧",  "综艺","大陆综艺", "动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "港澳剧", "台湾剧","日剧", "韩剧", "泰剧", "欧美剧", "欧美电影"],
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/hanXC.jar"
+    },
+    {
+      "key":"csp_xBPQ_量子",
+      "name":"️🦂量子影视🦂",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "ext":{"分类url":"http://quanji456.com/index.php/vod/show/area/{area}/by/time/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html;;lr","分类":"电影$1#连续剧$2#综艺$4#动漫$3"},
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/hanXC.jar"
+    },
+    {
+      "key": "鸟叔5号",
+      "name": "🚔麒麟视频🚔",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "categories": [
+      "动作片",
+      "喜剧片",
+      "爱情片",
+      "科幻片",
+      "恐怖片",
+      "剧情片",
+      "战争片",
+      "国产剧",
+      "欧美剧",
+      "韩剧",
+      "日剧",
+      "港剧",
+      "台剧",
+      "泰剧",
+      "海外剧"
+      ],
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "csp_XYQHiker_农民影视",
@@ -209,17 +241,6 @@
       "ext": "https://www.6vdy.org/",
       "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/candymuj.jar;md5;64690215b0987464819e01f94be0251c"
     },
-//    {
-//      "key": "荐片",
-//      "name": "🐮荐片🐮",
-//      "type": 3,
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 0,
-//      "api": "https://gitlab.com/hero1898/DSZB/-/raw/main/js/drpy2.min.js",
-//      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/js/JP.js",
-//      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
-//    },
     {
     "key": "短剧",
     "name": "🎨网络短剧🎨",
@@ -945,7 +966,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa",
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
       "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/HeChengChaXiu.jar"
     },
     {
@@ -956,7 +977,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa",
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
       "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/HeChengChaXiu.jar"
     },
     {
