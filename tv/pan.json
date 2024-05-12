@@ -20,15 +20,9 @@
 
     "lives": [
         {
-            "name": "PX电视 IPV4",
+            "name": "PX电视",
             "type": 0,
             "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/TV2.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "PX电视 IPV6",
-            "type": 0,
-            "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/TV5.m3u",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
@@ -67,7 +61,7 @@
       "changeable":0,
       "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/js/alibaba.jar"
     },
-    {
+//    {
 //      "key": "阿里夸克配置",
 //     "name": "㊙️配置中心㊙️",
 //      "type": 3,
