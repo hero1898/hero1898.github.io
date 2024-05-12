@@ -63,21 +63,21 @@
     },
 //    {
 //      "key": "阿里夸克配置",
-//     "name": "㊙️配置中心㊙️",
+//      "name": "㊙️配置中心㊙️",
 //      "type": 3,
 //      "api": "csp_Settings",
-//     "searchable": 0,
+//      "searchable": 0,
 //      "changeable": 0,
 //      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/Tong.jar"
 //    },
     {
-    	"key": "网盘配置",
-    	"name": "㊙️配置中心㊙️",
-    	"type": 3,
-    	"api": "csp_Config",
-    	"searchable": 0,
-    	"changeable": 0,
-    	"ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/tokenn.json",
+      "key": "网盘配置",
+      "name": "㊙️配置中心㊙️",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/tokenn.json",
       "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg.jar"
     },
     {
