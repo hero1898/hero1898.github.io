@@ -51,16 +51,16 @@
       "quickSearch":0,
       "filterable":1
     },    
-    {
-      "key":"csp_KungFu404",
-      "name":"🦊阿里设置🦊",
-      "type":3,
-      "api":"csp_KungFu404",
-      "searchable":0,
-      "filterable":0,
-      "changeable":0,
-      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/js/alibaba.jar"
-    },
+//    {
+//      "key":"csp_KungFu404",
+//      "name":"🦊阿里设置🦊",
+//      "type":3,
+//      "api":"csp_KungFu404",
+//      "searchable":0,
+//      "filterable":0,
+//      "changeable":0,
+//      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/js/alibaba.jar"
+//    },
 //    {
 //      "key": "阿里夸克配置",
 //      "name": "㊙️配置中心㊙️",
