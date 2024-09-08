@@ -25,14 +25,15 @@ jobs:
         # 频道
         rm -f iptv.txt && wget https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt -O iptv.txt
         rm -f iptv.m3u && wget https://raw.githubusercontent.com/pxiptv/live/main/iptv.m3u -O iptv.m3u
-    - name: Clean
+        
+    - name: Commit results
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git checkout --orphan latest_branch
-        git add -A
-        git commit -am "$DATE"
-        git branch -D main
-        git branch -m main
-    - name: Push
-      run: git push -f origin main
+        if [ -n "$(git status --porcelain)" ]; then
+        git add iptv.txt iptv.m3u
+        git commit -m "Automatic update"
+        git push
+        else
+          echo "No changes detected, skipping commit."
+        fi
