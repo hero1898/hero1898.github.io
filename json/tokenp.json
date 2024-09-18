@@ -1,7 +1,7 @@
 {
     "use_internal_storage":false,
-    "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-    "open_token":"https://gitlab.com/hero1898/DSZB/-/raw/main/tokem.txt",
+    "token":"https://hero1898.github.io/token.txt",
+    "open_token":"https://hero1898.github.io/json/tokem.txt",
     "open_api_url":"https://aliyundrive-oauth.messense.me/oauth/access_token",
     "oauth_client_id":"",
     "oauth_client_secret":"",
@@ -24,7 +24,7 @@
     "thunder_vip_thread_limit":2,
     "thunder_flags":"4k|4kz|auto",
     "aliproxy":"",
-    "aliproxy_url":"https://gitee.com/happylibaihao/pan/raw/main/lib/aliproxy.gz;md5;91e417bf6f771800fa82bb3061827d06",
+    "aliproxy_url":"https://hero1898.github.io/lib/aliproxy.gz;md5;91e417bf6f771800fa82bb3061827d06",
     "proxy":"",
     "danmu":true,
     "quark_danmu":true,
