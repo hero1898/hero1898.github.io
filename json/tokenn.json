@@ -1,5 +1,5 @@
 {
-"token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+"token":"https://hero1898.github.io/token.txt",
 "open_token":"",
 "thread_limit":8,
 "is_vip":true,
@@ -20,7 +20,7 @@
 "aliproxy":"",
 "aliproxy_url":"",
 "proxy":"",
-"open_api_url":"https://gitlab.com/hero1898/DSZB/-/raw/main/atoken.txt",
+"open_api_url":"https://hero1898.github.io/tokena.txt",
 "danmu":true,
 "quark_danmu":true,
 "quark_cookie":"",
