@@ -90,8 +90,8 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/tokenx.json",
-      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg3.jar",
+      "ext":"https://hero1898.github.io/json/tokenx.json",
+      "jar":"https://hero1898.github.io/jar/pg3.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -105,7 +105,7 @@
       "searchable": 0,
       "changeable": 0,
       "playerType": 2,
-      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/PandaQ240913.jar"
+      "jar": "https://hero1898.github.io/jar/PandaQ240913.jar"
     },
     {
       "key":"阿里云盘登录",
@@ -127,8 +127,8 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg3.jar",
-      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/tokenx.json$$$https://gitlab.com/hero1898/DSZB/-/raw/main/json/alishare.txt$$$db$$$1",
+      "jar": "https://hero1898.github.io/jar/pg3.jar",
+      "ext": "https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/alishare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -144,8 +144,8 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/tokenx.json$$$https://gitlab.com/hero1898/DSZB/-/raw/main/json/quarkshare.txt",
-      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg3.jar",
+      "ext": "https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/quarkshare.txt",
+      "jar":"https://hero1898.github.io/jar/pg3.jar",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -161,8 +161,8 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/tokenx.json$$$https://gitlab.com/hero1898/DSZB/-/raw/main/json/thundershare.txt",
-      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg3.jar",
+      "ext": "https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/thundershare.txt",
+      "jar":"https://hero1898.github.io/jar/pg3.jar",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -175,9 +175,9 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/fm商店.jar;md5;e19f98c566e2280e961ce054f9367808",
-//      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/store.json"
-      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/market.json"
+      "jar": "https://hero1898.github.io/jar/fm商店.jar;md5;e19f98c566e2280e961ce054f9367808",
+//    "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/store.json"
+      "ext": "https://hero1898.github.io/json/market.json"
     },
 {"key":"Funletu","name":"💖趣盘💖","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg5.jar", "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/tokenx.json", "style": {"type": "list","ratio": 1.1}},
 {"key":"盘友圈","name":"💖盘友圈💖","type":3,"api":"csp_Panyq","timeout":60, "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg5.jar", "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/tokenx.json$$$site$$$proxy"},
