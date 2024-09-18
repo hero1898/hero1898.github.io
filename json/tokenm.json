@@ -1,7 +1,7 @@
 {
 "token":"https://hero1898.github.io/token.txt",
 "open_token":"",
-"open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
+"open_api_url":"get|hero1898.github.io/tokena.txt",
 "oauth_client_id":"",
 "oauth_client_secret":"",
 "oauth_auth_url":"",
