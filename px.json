@@ -81,7 +81,7 @@
 //      "searchable": 0,
 //      "changeable": 0,
 //      "ext":"https://hero1898.github.io/json/tokenm.json",
-//      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg.jar"
+//      "jar":"https://hero1898.github.io/jar/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460"
 //    },
     {
       "key": "网盘配置",
@@ -91,7 +91,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext":"https://hero1898.github.io/json/tokenx.json",
-      "jar":"https://hero1898.github.io/jar/pg3.jar",
+      "jar":"https://hero1898.github.io/jar/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -127,7 +127,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://hero1898.github.io/jar/pg3.jar",
+      "jar":"https://hero1898.github.io/jar/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
       "ext": "https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/alishare.txt$$$db$$$1",
       "style": {
         "type": "list",
@@ -145,11 +145,29 @@
       "filterable": 0,
       "timeout": 60,
       "ext": "https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/quarkshare.txt",
-      "jar":"https://hero1898.github.io/jar/pg3.jar",
+      "jar":"https://hero1898.github.io/jar/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
       "style": {
         "type": "list",
         "ratio": 1.1
       }
+    },
+    {
+      "key":"UCShare",
+      "name":"⭕UC云盘分享⭕",
+      "type":3,
+      "api":"csp_UCShare",
+      "searchable":1,
+      "quickSearch":0, 
+      "changeable":0, 
+      "filterable":0, 
+      "timeout":60, 
+      "ext":"https://hero1898.github.io/json/tokenx.json",
+      "jar":"https://hero1898.github.io/jar/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
+      "style": 
+	{
+	  "type": "rect",
+	  "ratio": 1.5
+	}
     },
     {
       "key": "ThunderShare",
@@ -162,7 +180,7 @@
       "filterable": 0,
       "timeout": 60,
       "ext": "https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/thundershare.txt",
-      "jar":"https://hero1898.github.io/jar/pg3.jar",
+      "jar":"https://hero1898.github.io/jar/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
       "style": {
         "type": "list",
         "ratio": 1.1
