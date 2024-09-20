@@ -462,6 +462,7 @@
       "searchable":1,
       "filterable":0,
       "changeable":1,
+      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
