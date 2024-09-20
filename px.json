@@ -471,6 +471,24 @@
       }
     },
     {
+      "key":"阿里合集",
+      "name":"❤阿里合集❤",
+      "type":3,
+      "api":"csp_AliShare",
+      "searchable":1,
+      "changeable":0,
+      "filterable":0,
+      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
+      "ext":
+           {
+             "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+             "share":"https://hero1898.github.io/json/alishare.json"},
+             "style":
+                    {
+                      "type":"list"
+                    }
+    },
+    {
       "key":"低端影视",
       "name":"🐭低端影视🐭",
       "type":3,
