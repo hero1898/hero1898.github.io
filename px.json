@@ -378,8 +378,8 @@
       "ext":
            {
               "token":"https://hero1898.github.io/token.txt",
-              "cookie":"https://hero1898.github.io/quark_cookies.txt",
-              "uc_cookie":"https://hero1898.github.io/uc_cookies.txt",
+              "cookie":"https://hero1898.github.io/quark.txt",
+              "uc_cookie":"https://hero1898.github.io/uc.txt",
               "site":"https://woog.nxog.eu.org",
               "danmu": false
            }
