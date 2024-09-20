@@ -1,10 +1,10 @@
 //jar+壁纸
 {
 "spider": "https://hero1898.github.io/jar/du.jar;md5;59342d3fa71b245484e9a5129e63de22", 
-//"spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ncdjaj.jar;md5;e84e4a2ae2587a533584d2bb136745af", 
+//"spider": "https://hero1898.github.io/jar/ncdjaj.jar;md5;e84e4a2ae2587a533584d2bb136745af", 
 //"spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 //"spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg5.jar",
-//"spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106",
+//"spider": "https://hero1898.github.io/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106",
 "wallpaper": "http://tool.teyonds.com/api",
 //"wallpaper": "https://bing.img.run/rand.php",
 //"wallpaper": "https://picsum.photos/1920/1080",
@@ -105,7 +105,7 @@
       "searchable": 0,
       "changeable": 0,
       "playerType": 2,
-      "jar": "https://hero1898.github.io/jar/PandaQ240913.jar"
+      "jar": "https://hero1898.github.io/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106"
     },
     {
       "key":"csp_欧歌G",
@@ -203,15 +203,15 @@
 {"key":"DaPanSo","name":"💖大盘💖","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg5.jar", "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/tokenx.json$$$https://dapanso.com$$$proxy$$$1"},
 {"key":"YunPan","name":"💖云盘资源💖","type":3,"api":"csp_YunPan","timeout":60, "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg5.jar", "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/tokenx.json$$$null$$$proxy$$$1"},
 {"key":"采集之王","name":"🐲采王采集🐲","type":3,"api":"https://hero1898.github.io/lib/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://hero1898.github.io/drpy_js/采集之王.js?type=url&params=https://hero1898.github.io/json/采集静态.json"},
-{"key":"南瓜影视","name":"🍵南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"天天影视","name":"🍵天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"热播影视","name":"🍵热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"农民影视","name":"🍵农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
-{"key":"csp_mgtva","name":"🎃木瓜┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
-{"key":"csp_ipianba","name":"🎃片吧┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
-{"key": "夕云","name": "💡夕云┃影视","type": 3,"api": "csp_XBPQ","jar": "https://hero1898.github.io/jar/xbpq新版.jar?inline=false","ext": {"首页": "电视剧$21","分类":"电影$20#电视剧$39#动漫$46#综艺$47","分类url":"https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"}},
-{"key":"大师兄","name":"💡大师兄┃影视","type":3,"api":"csp_XBPQ","ext":{"简介":"+剧情介绍：&&</p >","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"},"jar": "https://hero1898.github.io/jar/xbpq新版.jar?inline=false"},
-{"key":"csp_XBPQ_VS短剧","name":"🐞影院┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}--hits------{catePg}---{year}.html","分类":"短剧$5"}},
+{"key":"南瓜影视","name":"🍵南瓜影视🍵","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"天天影视","name":"🍵天天影视🍵","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"热播影视","name":"🍵热播影视🍵","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"农民影视","name":"🍵农民影视🍵","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
+{"key":"csp_mgtva","name":"🎃木瓜影视🎃","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
+{"key":"csp_ipianba","name":"🎃片吧影视🎃","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
+{"key": "夕云","name": "💡夕云影视💡","type": 3,"api": "csp_XBPQ","jar": "https://hero1898.github.io/jar/xbpq新版.jar?inline=false","ext": {"首页": "电视剧$21","分类":"电影$20#电视剧$39#动漫$46#综艺$47","分类url":"https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"}},
+{"key":"大师兄","name":"💡师兄影视💡","type":3,"api":"csp_XBPQ","ext":{"简介":"+剧情介绍：&&</p >","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"},"jar": "https://hero1898.github.io/jar/xbpq新版.jar?inline=false"},
+{"key":"csp_XBPQ_VS短剧","name":"🐞影院短剧🐞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}--hits------{catePg}---{year}.html","分类":"短剧$5"}},
     {
       "key": "csp_XYQHikerAL_4KHDR",
       "name":"💖4KHDR💖",
@@ -233,7 +233,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"http://api2.rinhome.com",
-      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ncdjaj.jar"
+      "jar": "https://hero1898.github.io/jar/ncdjaj.jar;md5;e84e4a2ae2587a533584d2bb136745af"
     },
     {
       "key": "csp_xpath_yinfans", 
@@ -330,6 +330,82 @@
            }
     },
     {
+      "key":"玩弹幕1",
+      "name":"❤UC玩偶❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site": "http://mogg.top",
+              "danmu": false
+           }
+    },
+    {
+      "key":"玩弹幕2",
+      "name":"❤UC玩弟❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site": "https://mihdr.top",
+              "danmu": false
+           }
+    },
+    {
+      "key":"玩弹幕3",
+      "name":"❤UC姐姐❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site": "https://tv.yydsys.top",
+              "danmu": false
+           }
+    },
+    {
+      "key":"玩弹幕4",
+      "name":"❤UC玩欧❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site": "https://vip.omii.top",
+              "danmu": false
+           }
+    },
+    {
       "key":"低端影视",
       "name":"🐭低端影视🐭",
       "type":3,
@@ -385,7 +461,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://nctv.top/tv/sub/电影港.json",
-      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ncdjaj.jar;md5;694a5575722bb086b6fde7a23a68a1d8"
+      "jar":"https://hero1898.github.io/jar/ncdjaj.jar;md5;e84e4a2ae2587a533584d2bb136745af"
     },
     {
     "key": "短剧",
