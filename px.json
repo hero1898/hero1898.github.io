@@ -406,6 +406,70 @@
            }
     },
     {
+      "key":"玩弹幕5",
+      "name":"❤UC玩表❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site": "https://4k.4u4.cn",
+              "danmu": false
+           }
+    },
+    {
+      "key":"小纸条",
+      "name":"❤小纸条❤",
+      "type":3,
+      "api":"csp_XiaoZhiTiao",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "jar":"https://hero1898.github.io/jar/og.jar;md5;721e5e4f86009d523f6e1f017c157e19",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "danmu":false
+           }
+    },
+    {
+      "key":"搜索",
+      "name":"❤云盘搜索❤",
+      "type":3,
+      "api":"csp_PanSearch",
+      "searchable":1,
+      "filterable":1,
+      "changeable":0,
+      "jar":"https://hero1898.github.io/jar/og.jar;md5;721e5e4f86009d523f6e1f017c157e19",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "danmu":false
+           }
+    },
+    {
+      "key":"易搜",
+      "name":"❤阿里易搜❤",
+      "type":3,
+      "api":"csp_YiSo",
+      "searchable":1,
+      "filterable":0,
+      "changeable":1,
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "danmu":false,
+              "cookie":"satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
+      }
+    },
+    {
       "key":"低端影视",
       "name":"🐭低端影视🐭",
       "type":3,
