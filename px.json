@@ -156,7 +156,7 @@
       "name":"⭕UC云盘分享⭕",
       "type":3,
       "api":"csp_UCShare",
-      "searchable":1,
+      "searchable":0,
       "quickSearch":0, 
       "changeable":0, 
       "filterable":0, 
