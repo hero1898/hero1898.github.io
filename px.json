@@ -489,6 +489,20 @@
                     }
     },
     {
+      "key": "抠搜",
+      "name": "🍄抠搜云盘🍄",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "https://hero1898.github.io/jar/moyu.jar;md5;a2ffec83802be144bf64ba16ef853827",
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
       "key":"低端影视",
       "name":"🐭低端影视🐭",
       "type":3,
