@@ -246,21 +246,6 @@
       "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/音范丝.json",
       "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/0606.jar"
     }, 
-//    {
-//      "key": "csp_Duopan",
-//      "name": "🖍︎蜡笔影视🖍︎",
-//      "type": 3,
-//      "api": "csp_Duopan",
-//      "filterable": 1,
-//      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/PandaQ240913.jar",
-//      "ext": {
-//        "site_urls": [
-//          "https://duopan.fun",
-//          "http://labipan.com",
-//          "https://mihdr.top"
-//        ]
-//      }
-//    },
     {
       "key": "nangua",
       "name": "🎃南瓜影视🎃",
@@ -269,15 +254,6 @@
       "api": "http://js.xn--z7x900a.com/js/ng_open.js",
       "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/PandaQ240913.jar"
     },
-//    {
-//      "key": "csp_Netfixtv",
-//      "name": "💌至臻影视💌",
-//      "type": 3,
-//      "api": "csp_Netfixtv",
-//      "filterable": 1,
-//      "ext": "http://mpanso.com",
-//      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/PandaQ240913.jar"
-//    },
     {
       "key":"可可影视",
       "name":"🍵可可影视🍵",
@@ -285,8 +261,7 @@
       "api":"csp_Keke",
       "searchable":1,
       "quickSearch":1,
-      "filterable":1,
-      "jar": "https://hero1898.github.io/jar/du.jar"
+      "filterable":1
     },
     {
       "key":"机器人",
@@ -296,8 +271,7 @@
       "searchable":1,
       "quickSearch":1,
       "changeable":1,
-      "ext":"https://v.aikanbot.com",
-      "jar": "https://hero1898.github.io/jar/du.jar"
+      "ext":"https://v.aikanbot.com"
     },
     {
       "key":"奇优",
@@ -337,35 +311,6 @@
       "categories":["国产动漫","日本动漫","欧美动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","韩国剧","台湾剧","日本剧","泰国剧","纪录片","动画片","电影解说","其他片","其他剧","体育赛事","短剧"]
     },
     {
-      "key": "主力源",
-      "name": "🚄索尼影视🚄",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "categories": 
-      [
-        "科幻片",
-        "动作片",
-        "恐怖片",
-        "纪录片",
-        "爱情片",
-        "战争片",
-        "剧情片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧"
-      ]
-    },
-    {
       "key":"玩弹幕",
       "name":"❤UC玩哥❤",
       "type":3,
@@ -393,17 +338,6 @@
       "quickSearch":1,
       "filterable":1,
       "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/240502.jar;md5;ee25fa344922c0ac0b677b15ddbfa6d6"
-    },
-    {
-      "key":"zy_红牛",
-      "name":"🐄红牛资源🐄",
-      "type":1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "categories":  [ "国产剧",  "综艺","大陆综艺", "动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "港澳剧", "台湾剧","日剧", "韩剧", "泰剧", "欧美剧", "欧美电影"],
-      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/hanXC.jar"
     },
     {
       "key":"csp_xBPQ_量子",
@@ -441,40 +375,6 @@
       ],
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key":"drpy_js_电影港",
-      "name":"🌹电影港🦢",
-      "type":3,
-      "api":"http://nctv.top/tv/libs/drpy2.min.js",
-      "ext":"http://nctv.top/tv/js/电影港.js",
-      "playerType":"1", 
-      "searchable":1, 
-      "quickSearch":1,
-      "changeable":1, 
-      "timeout":30
-    },
-    {
-      "key": "csp_SixV",
-      "name": "🧲磁力🧲",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.6vdy.org/",
-      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/candymuj.jar;md5;64690215b0987464819e01f94be0251c"
-    },
-    {
-      "key": "csp_Xunlei8",
-      "name": "💾迅雷吧♉",
-      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ncdjaj.jar;md5;694a5575722bb086b6fde7a23a68a1d8",
-      "type":3,
-      "api": "csp_Xunlei8",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key":"csp_XYQHikerdyx",
