@@ -522,7 +522,7 @@
 
     {
       "key": "多多弹幕",
-      "name": "🍥多多弹幕"🍥",
+      "name": "🍥多多弹幕🍥",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
@@ -530,8 +530,8 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+        "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
         "site": "https://tv.yydsys.top/",
         "danmu": true
       },
