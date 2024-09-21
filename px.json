@@ -496,10 +496,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
+      "jar": "https://hero1898.github.io/jar/moyu.jar;md5;a2ffec83802be144bf64ba16ef853827",
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
+      }
+    },
+    {
+      "key": "至臻弹幕",
+      "name": "🏆️至臻云盘🏆️",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+        "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+        "uc_cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+        "site": "https://mihdr.top",
+        "danmu": true
       }
     },
     {
