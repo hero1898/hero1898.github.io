@@ -1,5 +1,6 @@
 ﻿ { 
-  "spider":"./lib1/pg.jar","logo":"./lib/虎.JPG",
+  "spider":"https://hero1898.github.io/jar/pg1.jar",
+  "logo":"https://hero1898.github.io/lib/虎.JPG",
   "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
   "sites": [
 {"key":"lf_js_search",
@@ -11,7 +12,7 @@
 	 "indexs": 1,
 	"quickSearch":0,
 	"filterable":1,
-	"api":"./lib/uukw.js"},
+	"api":"https://hero1898.github.io/drpy_js/uukw.js"},
 	{
             "key": "网盘配置",
             "name": "🔥网盘及彈幕配置🔥",
@@ -24,7 +25,7 @@
                "type": "rect",
 				"ratio": 1.5
             },
-            "ext": "./lib1/tokenm盒子1.json"
+            "ext": "https://hero1898.github.io/json/tokenm3.json"
         },
 		 {"key":"TGYunPan12",
   "name":"🔍TG服务器🔍",
@@ -32,7 +33,7 @@
   
   "api":"csp_TGYunPan",
   "timeout":60, 
-  "ext":"./lib1/tokenm盒子1.json$$$http://107.172.201.182:9999/$$$guaguale115,Mbox115,ysxb48,sbhdbdbbdbxbddb,hao115,alyp_Animation,XiangxiuNB,baicaoZY,SharePanBaidu,wenhua1428,ZYFX2022,wpzyhj$$$noproxy$$$1"},
+  "ext":"https://hero1898.github.io/json/tokenm3.json$$$http://107.172.201.182:9999/$$$guaguale115,Mbox115,ysxb48,sbhdbdbbdbxbddb,hao115,alyp_Animation,XiangxiuNB,baicaoZY,SharePanBaidu,wenhua1428,ZYFX2022,wpzyhj$$$noproxy$$$1"},
 		{
             "key": "Youtube全",
             "name": "🔥Youtube全🔥",
@@ -42,8 +43,8 @@
             "quickSearch": 0,
             "changeable": 0,
 			"timeout": 120,
-            "ext": {"json":"./lib/youtube.json",
-			"token":"./lib1/tokenm盒子1.json",
+            "ext": {"json":"https://hero1898.github.io/json/youtube.json",
+			"token":"https://hero1898.github.io/json/tokenm3.json",
 			"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
                 "type": "4k 动画片#4k 直播#4k 新闻#4k 剧集#4k 电影#4k 综艺#4k 纪录片#4k 音乐#4k 体育#4k 风景#4k 放松#课程#@ygkkk#CM喂饭#bbc documentary#national geographic documentary#Shorts#movie#documentary#Live nrws in English#News live",
                 "proxy": "proxy",
@@ -64,7 +65,7 @@
             "changeable": 1,
 			"timeout": 120,
             "ext": {
-			"token":"./lib1/tokenm电视.json",
+			"token":"https://hero1898.github.io/json/tokenmTV.json",
 			"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
             "type": "苏教版课程#人教版课程#沪教版课程#北师大版课程",
             "proxy": "proxy"
@@ -83,7 +84,7 @@
      "changeable":1, 
      "filterable":0, 
      "timeout":60, 
-     "ext":"./lib1/tokenm盒子1.json$$$./lib1/115share.txt$$$db$$$1",
+     "ext":"https://hero1898.github.io/json/tokenm3.json$$$https://hero1898.github.io/json/115share.txt$$$db$$$1",
      "style": {
      "type": "list",
      "ratio": 1.1
@@ -98,7 +99,7 @@
 	"changeable":0, 
 	"filterable":0,
 	"timeout":60,
-	"ext":"./lib1/tokenm盒子1.json$$$./lib1/uc.txt$$$db$$$1",
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://hero1898.github.io/json/ucshare2.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
@@ -131,23 +132,23 @@
             "key": "烧火影视",
             "name": "🔥骚火｜影视🔥",
             "type": 3,
-            "api": "./drpy_libs/drpy2.min.js",
+            "api": "https://hero1898.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./drpy_js/烧火影视[优].js"
+            "ext": "https://hero1898.github.io/drpy_js/烧火影视[优].js"
         },
         {
             "key": "尘落影视",
             "name": "🔥尘落｜影视🔥",
             "type": 3,
-            "api": "./drpy_libs/drpy2.min.js",
+            "api": "https://hero1898.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./drpy_js/尘落影视.js"
+            "ext": "https://hero1898.github.io/drpy_js/尘落影视.js"
         },
     {
       "key": "影酷",
@@ -187,17 +188,17 @@
             "key": "348ys",
             "name": "🔥348｜影视🔥",
             "type": 3,
-            "api": "./drpy_libs/drpy2.min.js",
+            "api": "https://hero1898.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./drpy_js/348电影网.js"
+            "ext": "https://hero1898.github.io/drpy_js/348电影网.js"
         },
 		{
     "key": "爱上电影",
     "name": "🔥爱上电影🔥",
     "type": 3,
-	"jar": "./lib1/XBPQ.jar",
+	"jar": "https://hero1898.github.io/jar/XBPQ.jar",
     "api": "csp_XBPQ",
     "searchable": 1,
     "quickSearch": 1,
@@ -225,18 +226,18 @@
             "key": "hipy_js_南瓜",
             "name": "🔥南瓜｜影视🔥",
             "type": 3,
-            "api": "./drpy_libs/drpy2.min.js",
+            "api": "https://hero1898.github.io/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./drpy_js/南瓜.js"
+            "ext": "https://hero1898.github.io/drpy_js/南瓜.js"
         },
         {
             "key": "py_jinpai",
             "name": "🔥金牌｜影视🔥",
             "type": 3,
-            "api": "./drpy_libs/金牌.py",
+            "api": "https://hero1898.github.io/drpy_libs/金牌.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -250,14 +251,14 @@
       "quickSearch": 1,
      
       "filterable": 1,      
-      "jar": "./lib1/XBPQ.jar",
-      "ext": "./lib1/海纳TV.json"
+      "jar": "https://hero1898.github.io/jar/XBPQ.jar",
+      "ext": "https://hero1898.github.io/json/海纳TV.json"
     },
 {"key":"csp_汪了个汪影视",
 "name":"🔥汪影视🔥",
 "type":3,
 "api":"csp_XBPQ",
-"jar": "./lib/XBPQ.jar",
+"jar": "https://hero1898.github.io/jar/XBPQ.jar",
 "searchable": 1,
 "quickSearch": 0,
 "filterable": 1,
@@ -270,12 +271,12 @@
 			"key": "瓜子影视",
 			"name": "🔥瓜子影视🔥",
 			"type": 3,
-			"api": "./lib1/drpy2.min.js",
+			"api": "https://hero1898.github.io/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./lib1/瓜子影视.js"
+			"ext": "https://hero1898.github.io/lib/drpy_js/瓜子影视.js"
 		},
  
  {
@@ -283,8 +284,8 @@
       "name": "🔥韩剧TV🔥",
       "type": 3,
 	  
-      "api": "./lib1/drpy2.min.js",
-      "ext": "./lib1/韩剧TV.js"
+      "api": "https://hero1898.github.io/lib/drpy2.min.js",
+      "ext": "https://hero1898.github.io/drpy_js/韩剧TV.js"
     },
 		{
             "key": "超级影视",
@@ -310,7 +311,7 @@
 			{"key":"csp_瓜子",
 "name":"🔥瓜子🔥",
 "api":"csp_Gz360",
- "jar": "./lib1/ouyang1.txt;md5;f0fe66c0299c3e68a450add5945adad1",
+ "jar": "https://hero1898.github.io/jar/ouyang1.txt;md5;f0fe66c0299c3e68a450add5945adad1",
 "type":3,
 "searchable":1,
  "quickSearch": 1,
@@ -375,7 +376,7 @@
             "name": "🔥PPTV66🔥",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
+            "jar": "https://hero1898.github.io/jar/XBPQ.jar",
             "ext": {
                 "线路标题": "data-dropdown-value=\"&&\"",
                 "分类url": "https://www.ppys01.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
@@ -387,7 +388,7 @@
             "name": "🔥美益达🔥",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
+            "jar": "https://hero1898.github.io/jar/XBPQ.jar",
             "ext": {
                 "线路标题": "data-dropdown-value=\"&&\"",
                 "分类url": "https://www.myd04.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
@@ -406,8 +407,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "./lib1/奈飞影视.json",
-			"jar": "./lib/XBPQ.jar"
+			"ext": "https://hero1898.github.io/json/奈飞影视.json",
+			"jar": "https://hero1898.github.io/jar/XBPQ.jar"
 		},
 		
 		  {
@@ -445,7 +446,7 @@
 "changeable":1,
 "filterable":1,
 "timeout":60,
-"ext":"./lib1/tokenm盒子1.json$$$http://mogg.top$$$proxy$$$1$$$./lib/wogg.json"
+"ext":"https://hero1898.github.io/json/tokenm3.json$$$http://mogg.top$$$proxy$$$1$$$https://hero1898.github.io/json/wogg.json"
 },
 
 		{
@@ -457,7 +458,7 @@
 "changeable":1,
 "filterable":1,
 "timeout":60,
-"ext":"./lib1/tokenm盒子1.json$$$https://vip.omii.top/$$$noproxy$$$1$$$./lib/wogg.json"
+"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://vip.omii.top/$$$noproxy$$$1$$$https://hero1898.github.io/json/wogg.json"
 },
 			{"key":"Wogg234567",
 		"name":"🔥玩偶|阿里🔥",
@@ -468,7 +469,7 @@
 		"changeable":1,
 		"filterable":1, 
 		"timeout":30, 
-		"ext":"./lib1/tokenm盒子1.json$$$https://www.wogg.net/$$$代理$$$1$$$./pg/lib/wogg.json$$$WOGG"},
+		"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://www.wogg.net/$$$代理$$$1$$$https://hero1898.github.io/json/wogg.json$$$WOGG"},
 		
      {
       "key": "中国高清网|网盘",
@@ -478,7 +479,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-      "commonConfig": "./lib1/tokenm盒子1.json",
+      "commonConfig": "https://hero1898.github.io/json/tokenm3.json",
         "siteUrl": "https://gaoqing.la/"
         
       }
@@ -496,7 +497,7 @@
             "filterable": 1,
 			
             "timeout": 60,
-            "ext": "./lib1/tokenm盒子1.json$$$https://www.hdhive.online/$$$noproxy$$$1"
+            "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://www.hdhive.online/$$$noproxy$$$1"
         },
 		
 		{
@@ -509,7 +510,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib1/tokenm盒子1.json$$$https://www.libvio.fun$$$null"
+      "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://www.libvio.fun$$$null"
     },
 
 	 
@@ -523,7 +524,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib1/tokenm盒子1.json$$$http://wobgg.run-us-west2.goorm.io/$$$noproxy$$$1$$$./pg/lib/wogg.json$$$WOBG"
+            "ext": "https://hero1898.github.io/json/tokenm3.json$$$http://wobgg.run-us-west2.goorm.io/$$$noproxy$$$1$$$https://hero1898.github.io/json/wogg.json$$$WOBG"
         },
     
 
@@ -538,7 +539,7 @@
             "filterable": 1,
             "timeout": 30,
 			
-            "ext":"./lib1/tokenm盒子1.json$$$https://xzyshd.com$$$proxy$$$1"},
+            "ext":"https://hero1898.github.io/json/tokenm3.json$$$https://xzyshd.com$$$proxy$$$1"},
         {
             "key":"团长资源",
             "name":"🔥团长资源|网盘🔥",
@@ -549,7 +550,7 @@
             "filterable": 1,
 			
             "timeout": 60,
-            "ext":"./lib1/tokenm盒子1.json$$$noproxy$$$1"
+            "ext":"https://hero1898.github.io/json/tokenm3.json$$$noproxy$$$1"
         },
 		
 	{
@@ -557,31 +558,31 @@
       "name": "♻️爱奇艺少儿频道",
       "type": 3,
       "playerType": 1,
-      "api": "./lib1/drpy2.min.js",
-      "ext": "./lib/异兽.js"
+      "api": "https://hero1898.github.io/lib/drpy2.min.js",
+      "ext": "https://hero1898.github.io/drpy_js/异兽.js"
     },
 	{
       "key": "腾讯1",
       "name": "♻️腾讯少儿频道",
       "type": 3,
-      "api": "./lib1/drpy2.min.js",
-      "ext": "./lib/腾讯.js"
+      "api": "https://hero1898.github.io/lib/drpy2.min.js",
+      "ext": "https://hero1898.github.io/drpy_js/腾讯.js"
     },
     {
       "key": "芒果1",
       "name": "♻️芒果少儿频道",
       "type": 3,
-      "api": "./lib1/drpy2.min.js",
+      "api": "https://hero1898.github.io/lib/drpy2.min.js",
        "playerType": 1,
-      "ext": "./lib/忙果.js"
+      "ext": "https://hero1898.github.io/drpy_js/忙果.js"
     },
    {
       "key": "优酷1",
       "name": "♻️优酷少儿频道",
       "type": 3,
       
-      "api": "./lib1/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "api": "https://hero1898.github.io/lib/drpy2.min.js",
+      "ext": "https://hero1898.github.io/drpy_js/优酷.js"
     },
 		{
             "key":"4KHDR",
@@ -594,7 +595,7 @@
 			
             "filterable": 1,
             "timeout": 60,
-            "ext":"./lib1/tokenm盒子1.json$$$./lib/4khdr.txt$$$1"
+            "ext":"https://hero1898.github.io/json/tokenm3.json$$$https://hero1898.github.io/json/4khdr.txt$$$1"
         },
 	 {
             "key": "夸克云星",
@@ -605,7 +606,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib1/tokenm盒子1.json$$$https://4k.4u4.cn$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://4k.4u4.cn$$$noproxy$$$1$$$https://hero1898.github.io/json/wogg.json"
         },
 
 	{"key":"六趣网盘",
@@ -616,7 +617,7 @@
 	"changeable":1, 
 	"filterable":1,
 	"timeout":60, 
-	"ext":"./lib1/tokenm盒子1.json$$$http://43.136.41.222:2333$$$noproxy$$$1$$$./lib/wogg.json"},
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$http://43.136.41.222:2333$$$noproxy$$$1$$$https://hero1898.github.io/json/wogg.json"},
 
    
    {"key":"Moli",
@@ -629,7 +630,7 @@
 		"changeable":1, 
 		"filterable":1,
 		"timeout":60, 
-		"ext":"./lib1/tokenm盒子1.json$$$https://www.hdmoli.pro/$$$noproxy$$$1$$$./lib/moli.json"},
+		"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://www.hdmoli.pro/$$$noproxy$$$1$$$https://hero1898.github.io/json/moli.json"},
 	 {"key":"Ppxzy",
 		"name":"🔥皮皮虾|网盘🔥",
 		"type":3,
@@ -638,7 +639,7 @@
 		"changeable":1,
 		"filterable":1, 
 		"timeout":60, 
-		"ext":"./lib1/tokenm盒子1.json$$$https://ppxzy.ink$$$null$$$1"},
+		"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://ppxzy.ink$$$null$$$1"},
 		{"key":"至臻视觉",
 		"name":"🔥至臻网盘🔥",
 		"type":3,
@@ -647,7 +648,7 @@
 		"changeable":1,
 		"filterable":1, 
 		"timeout":60,
-		"ext":"./lib1/tokenm盒子1.json$$$http://mpanso.com/$$$noproxy$$$1$$$./lib/wogg.json$$$Woss"},
+		"ext":"https://hero1898.github.io/json/tokenm3.json$$$http://mpanso.com/$$$noproxy$$$1$$$https://hero1898.github.io/json/wogg.json$$$Woss"},
 
 		{
             "key": "蜡笔网盘",
@@ -658,7 +659,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib1/tokenm盒子1.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
+            "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://duopan.fun/$$$noproxy$$$1$$$https://hero1898.github.io/json/wogg.json$$$LABI"
         },
 {"key":"Xinshijue",
 	"name":"🔥新视觉|网盘🔥",
@@ -668,7 +669,7 @@
 	"changeable":1,
 	"filterable":1,
 	"timeout":60,
-	"ext":"./lib1/tokenm盒子1.json$$$https://6080z.com/$$$noproxy$$$1$$$./lib/wogg.json"},
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://6080z.com/$$$noproxy$$$1$$$https://hero1898.github.io/json/wogg.json"},
 		
 	
 		{
@@ -681,7 +682,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib1/tokenm盒子1.json$$$https://tv.yydsys.top/$$$null$$$1$$$./pg/lib/wogg.json$$$WNLG"
+      "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://tv.yydsys.top/$$$null$$$1$$$./pg/lib/wogg.json$$$WNLG"
     },
 	{
       "key": "Wobg111",
@@ -693,7 +694,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib1/tokenm盒子1.json$$$https://yunpan.yunpay.cc/$$$null$$$1$$$./pg/lib/wogg.json$$$Woee"
+      "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://yunpan.yunpay.cc/$$$null$$$1$$$./pg/lib/wogg.json$$$Woee"
     },
 	{
 			"key": "新6V111",
@@ -705,7 +706,7 @@
 			"searchable": 1,
 			"changeable": 1,
 			"timeout": 60,
-			"ext": "./lib1/tokenm盒子1.json$$$https://www.66ss.org$$$null$$$1"
+			"ext": "https://hero1898.github.io/json/tokenm3.json$$$https://www.66ss.org$$$null$$$1"
 		},
 		{"key":"Yinfans",
 	"name":"🧲音范丝|磁力🧲",
@@ -715,13 +716,13 @@
 	"changeable":1,
 	"filterable":1, 
 	"timeout":60, 
-	"ext":"./lib1/tokenm盒子1.json$$$https://www.yinfans.me/$$$proxy$$$1"},
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://www.yinfans.me/$$$proxy$$$1"},
 		{
     "key": "BT影视1",
     "name": "🧲BT影视🧲",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "./lib/XBPQ.jar",
+    "jar": "https://hero1898.github.io/jar/XBPQ.jar",
     "ext": {
         "跳转数组": "<a&&</a[包含:tdown]",
         "跳转链接": "href=\"&&\"",
@@ -742,8 +743,8 @@
 	"changeable":1,
 	"filterable":1, 
 	"timeout":60, 
-	"ext":"./lib1/tokenm盒子1.json$$$https://gaoqing.la/$$$代理位置$$$1"},
-	{"key":"MP4us","name":"🧲MP4us🧲","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar",
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://gaoqing.la/$$$代理位置$$$1"},
+	{"key":"MP4us","name":"🧲MP4us🧲","type":3,"api":"csp_XBPQ","jar":"https://hero1898.github.io/jar/XBPQ.jar",
             "ext": {
         "标题":"<font*>&&</font>",
         "图片":"data-original=\"&&\"",
@@ -772,12 +773,12 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"timeout":60,
-			"ext": "./lib1/tokenm盒子1.json$$$https://www.yjys01.com/$$$proxy$$$1"
+			"ext": "https://hero1898.github.io/json/tokenm3.json$$$https://www.yjys01.com/$$$proxy$$$1"
 		},
 		{"key":"85",
 		"name":"🧲85电影网🧲",
 		"type":3,"api":"csp_XBPQ",
-		"jar":"./lib/XBPQ.jar",
+		"jar":"https://hero1898.github.io/jar/XBPQ.jar",
 		"ext":{"数组":"post-list clearfix mb15&&</li>",
 		"标题":"alt=*《&&》",
 		"副标题":"alt=*》&&\"",
@@ -793,7 +794,7 @@
     "name": "🧲狸云🧲",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "./lib/XBPQ.jar",
+    "jar": "https://hero1898.github.io/jar/XBPQ.jar",
     "ext": {
         "搜索url": "https://www.lysvc.cc/?cat=&s={wd}",
         "数组":"class=\"post-item&&class=\"entry-title&&</article>",
@@ -811,7 +812,7 @@
 			 "name":"🧲xunlei8🧲",
 			 "type":3,
 			 "api":"csp_XBPQ",
-			 "jar":"./lib/XBPQ.jar",
+			 "jar":"https://hero1898.github.io/jar/XBPQ.jar",
             "ext": {
                 "搜索url":"https://xunlei8.cc/s/{wd}.html",
                 "搜索数组":"bec4f196629d\">&&\"b9a905c",
@@ -832,8 +833,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "./lib/BT天堂 5.json",
-			"jar": "./lib/XBPQ.jar"
+			"ext": "https://hero1898.github.io/json/BT天堂 5.json",
+			"jar": "https://hero1898.github.io/jar/XBPQ.jar"
 		},
 		
 
@@ -847,7 +848,7 @@
 	"changeable":1,
 	"filterable":1, 
 	"timeout":60, 
-	"ext":"./lib1/tokenm盒子1.json$$$https://www.3bt0.com$$$noproxy$$$1"},
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://www.3bt0.com$$$noproxy$$$1"},
 	
 	 
 	
@@ -864,7 +865,7 @@
 	  {
             "key": "92kyy",
             "name": "🔥92kyy🔥",
-            "jar":"./lib1/XBPQ.jar",
+            "jar":"https://hero1898.github.io/jar/XBPQ.jar",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -888,7 +889,7 @@
             "key": "libhd",
             "name": "🔥️libhd┃外剧🔥️",
             "type": 3,
-            "jar":"./lib1/XBPQ.jar",
+            "jar":"https://hero1898.github.io/jar/XBPQ.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://www.libhd.com/",
@@ -910,7 +911,7 @@
 		"changeable":1, 
 		"filterable":1,
 		"timeout":60, 
-		"ext":"./lib1/tokenm盒子1.json$$$https://ddys.pro/$$$proxy$$$1$$$"},
+		"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://ddys.pro/$$$proxy$$$1$$$"},
 		{
       "key": "咖啡",
       "name": "🔥咖啡影视🔥",
@@ -920,8 +921,8 @@
       "quickSearch": 1,
      
       "filterable": 1,      
-      "jar": "./lib1/XBPQ.jar",
-      "ext": "./lib/咖啡追剧.json"
+      "jar": "https://hero1898.github.io/jar/XBPQ.jar",
+      "ext": "https://hero1898.github.io/json/咖啡追剧.json"
     },
 	
 	
@@ -971,7 +972,7 @@
 		"changeable":1,
 		"filterable":1, 
 		"timeout":120,
-		"ext":"./lib1/tokenm盒子1.json$$$https://www.meijumi.xyz/$$$proxy$$$1"},
+		"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://www.meijumi.xyz/$$$proxy$$$1"},
    
     
     
@@ -981,7 +982,7 @@
       "quickSearch": 1,
       "name": "🔥丫仙女🔥",
       "changeable": 0,
-      "jar": "./lib/小雅.jar",
+      "jar": "https://hero1898.github.io/jar/小雅.jar",
       "style": {
         "type": "rect"
       },
@@ -996,7 +997,7 @@
             "name": "🔥AList｜网盘🔥",
             "type": 3,
             "api": "csp_AList",
-			 "jar": "./lib/pg24.4.1.jar",
+			 "jar": "https://hero1898.github.io/jar/pg24.4.1.jar",
             "searchable": 1,
 			 "quickSearch": 1,
             "recordable": 0,
@@ -1068,7 +1069,7 @@
 			
             "changeable": 0,
             "timeout": 30,
-            "ext": "./lib1/tokenm盒子1.json"
+            "ext": "https://hero1898.github.io/json/tokenm3.json"
         },
 		
 		
@@ -1083,7 +1084,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "./lib1/tokenm盒子1.json$$$https://ali.gitcafe.ink/$$$null$$$1"
+            "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://ali.gitcafe.ink/$$$null$$$1"
         },
    
     
@@ -1102,7 +1103,7 @@
 			 
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib1/tokenm盒子1.json$$$https://pan666.net$$$null$$$1"
+            "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://pan666.net$$$null$$$1"
         },
     
     
@@ -1119,14 +1120,14 @@
 	"changeable":1, 
 	"filterable":1,
 	"timeout":60, 
-	"ext":"./lib1/tokenm盒子1.json$$$null$$$代理位置$$$1"},
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$null$$$代理位置$$$1"},
 	{"key":"YydsVip",
 	"name":"🔍YYDSVIP|网盘🔍",
 	"type":3,"jar": "./lib/pg24.10.26.jar",
 	"api":"csp_YydsVip",
 	"quickSearch":1, "changeable":1,
 	"filterable":1, "timeout":30,
-	"ext":"./lib1/tokenm盒子1.json$$$http://yydsvip.cn$$$null$$$1"
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$http://yydsvip.cn$$$null$$$1"
 	},
 	{"key":"秒搜",
 	"name":"🔍秒搜|网盘🔍",
@@ -1134,7 +1135,7 @@
 	
 	"api":"csp_MiaoSou",
 	"timeout":30, 
-	"ext":"./lib1/tokenm盒子1.json"},
+	"ext":"https://hero1898.github.io/json/tokenm3.json"},
 
 	{"key":"88Pan",
 	"name":"🔍88网盘|网盘🔍",
@@ -1142,18 +1143,18 @@
 	 
 	"api":"csp_EightEight",
 	"timeout":30, 
-	"ext":"./lib1/tokenm盒子1.json$$$https://662688.xyz"},
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://662688.xyz"},
 	 {
       "key": "csp_AiPanSou",
       "name": "🔍爱盘搜┃搜索🔍",
       "type": 3,
       "api": "csp_AiPanSou",
-	  "jar": "./lib/okpng.txt;md5;e4c8798b38e4f49fb859df1f66db0f74",
+	  "jar": "https://hero1898.github.io/jar/okpng.txt;md5;e4c8798b38e4f49fb859df1f66db0f74",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "cookie": "./lib1/quark_cookie.txt",
+        "cookie": "https://hero1898.github.io/lib/quark_cookie.txt",
         "danmu": true
       },
       "timeout": 15
@@ -1168,7 +1169,7 @@
 	"changeable":1, 
 	"filterable":1,
 	"timeout":60, 
-	"ext":"./lib1/tokenm盒子1.json$$$https://xpanpan.site$$$null$$$1"},
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://xpanpan.site$$$null$$$1"},
 	 {
             "key": "Funletu",
             "name": "🔍趣盘搜|夸克🔍",
@@ -1179,7 +1180,7 @@
             "filterable": 1,
             "timeout": 30,
 			 
-            "ext": "./lib1/tokenm盒子1.json"
+            "ext": "https://hero1898.github.io/json/tokenm3.json"
         },
 		{"key":"YunSo1122",
 		"name":"🔍小云搜索🔍",
@@ -1187,7 +1188,7 @@
 		"type":3,"api":"csp_YunSo",
 		"quickSearch":1, "changeable":1,
 		"filterable":1, "timeout":30,
-		"ext":"./lib1/tokenm盒子1.json$$$https://www.yunso.net$$$null$$$1"},
+		"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://www.yunso.net$$$null$$$1"},
 		{"key":"Dovx",
 		"name": "🔍阿里|Dovx🔍",
 		"type": 3, 
@@ -1197,7 +1198,7 @@
 		"quickSearch": 1, 
 		"filterable": 0,
 		"timeout":30, 
-		"ext":"./lib1/tokenm盒子1.json" },
+		"ext":"https://hero1898.github.io/json/tokenm3.json" },
 	  {"key":"Panta1",
 	  "name":"🔍移动|网盘🔍",
 	  "type":3,
@@ -1206,7 +1207,7 @@
 	  "changeable":1, 
 	  "filterable":1, 
 	  "timeout":60, 
-	  "ext":"./lib1/tokenm盒子1.json$$$https://www.91panta.cn/$$$null$$$1",
+	  "ext":"https://hero1898.github.io/json/tokenm3.json$$$https://www.91panta.cn/$$$null$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
@@ -1218,7 +1219,7 @@
 	   
 	   "api":"csp_YingSo",
 	   "timeout":60,
-	   "ext":"./lib1/tokenm盒子1.json"},
+	   "ext":"https://hero1898.github.io/json/tokenm3.json"},
 	  {
             "key": "Qianfan",
             "name": "🔍千帆|网盘🔍",
@@ -1229,7 +1230,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib1/tokenm盒子1.json$$$https://pan.qianfan.app$$$null$$$QianFanID=6fvy5y5p1872wxmvtzetm8asnxouurur; _ga_6Z94VT54DV=GS1.1.1711335860.7.1.1711335880.0.0.0$$$1"
+            "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://pan.qianfan.app$$$null$$$QianFanID=6fvy5y5p1872wxmvtzetm8asnxouurur; _ga_6Z94VT54DV=GS1.1.1711335860.7.1.1711335880.0.0.0$$$1"
         },
 		
 	 {
@@ -1242,7 +1243,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./lib1/tokenm盒子1.json$$$494909361@qq.com$$$305306csa"
+            "ext": "https://hero1898.github.io/json/tokenm3.json$$$494909361@qq.com$$$305306csa"
         },
       {"key":"混合盘",
 	  "name":"🔍混合盘|网盘🔍",
@@ -1250,14 +1251,14 @@
 	  "csp_HunHePan",
 	  
 	  "timeout":30,
-	  "ext":"./lib1/tokenm盒子1.json"},
+	  "ext":"https://hero1898.github.io/json/tokenm3.json"},
         {"key":"易搜",
 		"name":"🔍易搜|网盘🔍",
 		"type":3,
 		
 		"api":"csp_YiSo",
 		"timeout":60,
-		"ext":"./lib1/tokenm盒子1.json$$$./lib1/yiso.txt"},
+		"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://hero1898.github.io/lib/yiso.txt"},
       
         {
             "key": "QuarkPanso",
@@ -1269,7 +1270,7 @@
             "filterable": 1,
             "timeout": 30,
 			 
-            "ext": "./lib1/tokenm盒子1.json"
+            "ext": "https://hero1898.github.io/json/tokenm3.json"
         },
 		{"key":"YunPan2324",
 	"name":"🔍云盘资源|网盘🔍",
@@ -1280,13 +1281,13 @@
 	
 	"api":"csp_YunPan",
 	"timeout":60,
-	"ext":"./lib1/tokenm盒子1.json$$$null$$$代理位置$$$1"},
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$null$$$代理位置$$$1"},
 	 {"key":"盘友圈",
    "name":"🔍盘友圈🔍",
    "type":3,
    "api":"csp_Panyq",
    "timeout":60, 
-   "ext":"./lib1/tokenm盒子1.json$$$site$$$代理位置"},
+   "ext":"https://hero1898.github.io/json/tokenm3.json$$$site$$$代理位置"},
 		
 		
 		{"key":"PanSearch111",
@@ -1295,7 +1296,7 @@
 		"quickSearch":1, "changeable":1,
 		"filterable":1, "timeout":60,
 		
-		"ext":"./lib1/tokenm盒子1.json$$$null$$$proxy"
+		"ext":"https://hero1898.github.io/json/tokenm3.json$$$null$$$proxy"
 		},
         {
             "key": "DaPanSo",
@@ -1307,7 +1308,7 @@
 			 
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib1/tokenm盒子1.json$$$https://dapanso.com$$$null$$$1"
+            "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://dapanso.com$$$null$$$1"
         },
 
    
@@ -1330,7 +1331,7 @@
 			 
  "filterable": 1,
  "timeout": 60,
-	"ext":"./lib1/tokenm盒子1.json$$$null$$$1"
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$null$$$1"
   },
     {"key":"PikaSo",
 	"name":"🔍皮卡搜🔍",
@@ -1340,68 +1341,35 @@
 	"changeable":1,
 	"filterable":1,
 	"timeout":60, 
-	"ext":"./lib1/tokenm盒子1.json$$$https://www.pikaso.top/$$$proxy",
+	"ext":"https://hero1898.github.io/json/tokenm3.json$$$https://www.pikaso.top/$$$proxy",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		}],
-"lives":[
-			{
-				"name": "江阴",
-				"type": 0,
-				"playerType": 1,
-				"url": "./jybd.txt"
-			},
-			{
-				"name": "zhibo1",
-				"type": 0,
-				"playerType": 1,
-				"url": "https://www.mytvsuper.com.mp/Tvb_dussl.m3u"
-			},
-	{
-        "name": "IPV4直播自动更新",
-		"type": 0,
-				"playerType": 1,
-        "url": "https://github.moeyy.xyz/https://raw.bgithub.xyz/ssili126/tv/main/itvlist.txt"
+"lives": [
+    {
+      "name": "",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://hero1898.github.io/iptv.txt",
+      //"url": "https://gitlab.com/hero1898/DSZB/-/raw/main/TV2.m3u",
+      //"url": "https://raw.bgithub.xyz/pxiptv/live/main/iptv.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	{
-				"name": "唐三",
-				"type": 0,
-				"playerType": 1,
-				"url": "https://tang.serv00.net/zb/tv?type=169&token=40af8e24"
-			},
-	{"name":"🔴全球直播",
-	"url":"http://oy.oyxx-1.eu.org/p3p.php",
-	"epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-	"logo":"http://epg.112114.eu.org/logo/{name}.png"},
-	{"name":"🔞全球直播",
-	"url":"https://dpaste.org/sd3Mr/raw",
-	"epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-	"logo":"http://epg.112114.eu.org/logo/{name}.png"},
-	{"name":"🔞全球直播2",
-	"url":"http://oy.oyxx-1.eu.org/hhbb.php",
-	"epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-	"logo":"http://epg.112114.eu.org/logo/{name}.png"},
-			{
-				"name": "YTLive",
-				"type": 0,
-				"playerType": 1,
-				"url": "./lib1/yo21.txt"
-			},
-			
-			{
-				"group":"redirect",
-				"channels":[
-					{
-						"name":"redirect",
-						"urls":[
-							"proxy://do=live&type=live&proxy=&url="
-						]
-					}
-				]
-			}
-		],
+    {
+
+      "name": "电视",
+      "type": 0,
+      "playerType": 1,
+      //"url": "https://hero1898.github.io/iptv.txt",
+      //"url": "https://raw.bgithub.xyz/pxiptv/live/main/iptv.txt",
+      "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/TV2.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
 
   "parses": [
    {
