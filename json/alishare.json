@@ -42,5 +42,29 @@
     {
         "share_name": "4K影视",
         "share_id": "wHPKUENKFsS"
+    },
+    {
+        "share_name": "总集合",
+        "share_id": "5bY715YyVoZ"
+    },
+    {
+        "share_name": "电影",
+        "share_id": "EU7WK49L4Jy"
+    },
+    {
+        "share_name": "电视剧",
+        "share_id": "qjTt7fDrkT9"
+    },
+    {
+        "share_name": "综艺",
+        "share_id": "UuHi9PeYSVz"
+    },
+    {
+        "share_name": "动漫",
+        "share_id": "ancKrGAYuZ5"
+    },
+    {
+        "share_name": "综合",
+        "share_id": "v9To3HC6vhs"
     }
 ]
