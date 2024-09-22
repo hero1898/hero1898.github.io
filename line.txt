@@ -63,10 +63,17 @@
 
             "name": "🚀PG线路🚀"
 
-        },  
+        },
         {
 
             "url": "https://raw.bgithub.xyz/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+
+            "name": "🚀OK线路🚀"
+
+        },
+        {
+
+     "url"："http://ok321.top/tv",
 
             "name": "🚀香雅情🚀"
 
