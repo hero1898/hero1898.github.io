@@ -3,7 +3,15 @@
   "logo":"https://hero1898.github.io/lib/虎.JPG",
   "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-{"key":"lf_js_search",
+    {
+      "key":"豆瓣",
+      "name":"PX影视 20240915 电视频道己全面更新",
+      "type":3,
+      "api":"csp_Douban",
+      "searchable":0
+    }, 
+    {
+      "key":"lf_js_search",
 	"name":"🔥旺强影视🔥",
 	"type":3,
 	"style":{"type":"rect","ratio":1.485},
@@ -12,7 +20,8 @@
 	 "indexs": 1,
 	"quickSearch":0,
 	"filterable":1,
-	"api":"https://hero1898.github.io/drpy_js/uukw.js"},
+	"api":"https://hero1898.github.io/drpy_js/uukw.js    
+    },
 	{
             "key": "网盘配置",
             "name": "🔥网盘及彈幕配置🔥",
