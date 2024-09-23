@@ -91,11 +91,11 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext":"https://hero1898.github.io/tokenx.json",
-      "jar":"https://hero1898.github.io/jar/pg1.jar;md5;6228fe4f2e3fc647de06c0683cd22607",
+      "ext":"https://hero1898.github.io/tokenm.json",
+      "jar":“https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
       "style": {
         "type": "rect",
-        "ratio": 1.5
+        "ratio": 1.43
       }
     },
     {
