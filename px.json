@@ -129,7 +129,7 @@
       "filterable": 0,
       "timeout": 60,
       "jar":"https://hero1898.github.io/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
-      "ext": "https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/alishare.txt$$$db$$$1",
+      "ext": "https://hero1898.github.io/json/tokenm.json$$$https://hero1898.github.io/json/alishare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -145,7 +145,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/quarkshare.txt",
+      "ext": "https://hero1898.github.io/json/tokenm.json$$$https://hero1898.github.io/json/quarkshare.txt",
       "jar":"https://hero1898.github.io/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
       "style": {
         "type": "list",
@@ -180,7 +180,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/thundershare.txt",
+      "ext": "https://hero1898.github.io/json/tokenm.json$$$https://hero1898.github.io/json/thundershare.txt",
       "jar":"https://hero1898.github.io/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
       "style": {
         "type": "list",
