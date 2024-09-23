@@ -16,10 +16,10 @@
 "proxy":"",
 "danmu":true,
    
-"quark_thread_limit":32,
+"quark_thread_limit":10,
 "quark_is_vip":true,
 "quark_is_guest":false,
-"quark_vip_thread_limit":32,
+"quark_vip_thread_limit":10,
 "quark_flags":"4kz|auto",
 "quark_danmu":true,
 "quark_cookie":"ctoken=MVlDB7rYNKPVV552AWy_SnB2;__uid=AAQBg6ycCxAfucV6rBuEUkTp;__pus=09883a027f9643d1bafcde8b75e8ef9eAAQG/HGF81Zb+tyJDuBpJlYQUbZzbUG5qz1vQFphCscmbRl6C8A4A666fWDZ6a2bZne23xlzthkuQPE/RRaKfoY3;__kp=8c3be770-7952-11ef-bff2-f930f6b4d5d9;__kps=AAQBg6ycCxAfucV6rBuEUkTp;__ktd=7TYQ7a0zri/z4luERo4htA==",
