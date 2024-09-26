@@ -146,7 +146,7 @@
       "filterable": 0,
       "timeout": 60,
       "jar":"https://hero1898.github.io/jar/pg1.jar;md5;6228fe4f2e3fc647de06c0683cd22607",
-      "ext": "https://hero1898.github.io/json/tokenm3.json$$$https://hero1898.github.io/json/quarkshare.txt",
+      "ext": "https://hero1898.github.io/json/tokenm4.json$$$https://hero1898.github.io/json/quarkshare.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -163,7 +163,7 @@
       "filterable":0, 
       "timeout":60, 
       "jar":"https://hero1898.github.io/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
-      "ext":"https://hero1898.github.io/json/tokenmx.json$$$https://hero1898.github.io/json/ucshare.txt$$$db$$$1",
+      "ext":"https://hero1898.github.io/json/tokenm3.json$$$https://hero1898.github.io/json/ucshare.txt$$$db$$$1",
       "style": 
 	     {
 	       "type": "list",
