@@ -582,7 +582,7 @@
       "name": "🏆️至臻云盘🏆️",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -591,7 +591,7 @@
         "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
         "uc_cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
         "site": "https://mihdr.top",
-        "danmu": true
+        "danmu": false
       }
     },
 
@@ -608,7 +608,7 @@
         "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
         "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
         "site": "https://tv.yydsys.top/",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 25
     },
