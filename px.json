@@ -50,7 +50,7 @@
   "sites": [
     {
       "key":"豆瓣",
-      "name":"PX影视 20240923 影视频道己全面更新",
+      "name":"PX影视 20240928 影视频道己全面更新",
       "type":3,
       "api":"csp_Douban",
       "searchable":0
@@ -564,20 +564,6 @@
                     }
     },
     {
-      "key": "抠搜",
-      "name": "🍄抠搜云盘🍄",
-      "type": 3,
-      "api": "csp_KkSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "https://hero1898.github.io/jar/moyu.jar;md5;a2ffec83802be144bf64ba16ef853827",
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
       "key": "至臻弹幕",
       "name": "🏆️至臻云盘🏆️",
       "type": 3,
@@ -594,7 +580,6 @@
         "danmu": false
       }
     },
-
     {
       "key": "多多弹幕",
       "name": "🍥多多弹幕🍥",
@@ -612,7 +597,6 @@
       },
       "timeout": 25
     },
-
     {
       "key":"低端影视",
       "name":"🐭低端影视🐭",
