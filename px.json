@@ -91,7 +91,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext":"https://hero1898.github.io/tokenm.json",
+//      "ext":"https://hero1898.github.io/tokenm.json",
       "jar":"https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
       "style": {
         "type": "rect",
