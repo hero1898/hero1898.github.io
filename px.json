@@ -162,8 +162,7 @@
       "changeable":0, 
       "filterable":0, 
       "timeout":60, 
-      "jar":"https://hero1898.github.io/jar/og.jar;md5;721e5e4f86009d523f6e1f017c157e19",
-//      "jar": "https://hero1898.github.io/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
+      "jar":"https://hero1898.github.io/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
       "ext":"https://hero1898.github.io/json/tokenm.json$$$https://hero1898.github.io/json/ucshare.txt$$$db$$$1",
       "style": 
 	     {
