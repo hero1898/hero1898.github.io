@@ -398,7 +398,7 @@
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/quark.txt",
               "uc_cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/uc.txt",
               "site":"https://woog.nxog.eu.org",
               "danmu": false
@@ -417,7 +417,7 @@
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/quark.txt",
               "uc_cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/uc.txt",
               "site": "http://mogg.top",
               "danmu": false
@@ -436,7 +436,7 @@
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/quark.txt",
               "uc_cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/uc.txt",
               "site": "https://mihdr.top",
               "danmu": false
@@ -455,7 +455,7 @@
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/quark.txt",
               "uc_cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/uc.txt",
               "site": "https://tv.yydsys.top",
               "danmu": false
@@ -474,7 +474,7 @@
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/quark.txt",
               "uc_cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/uc.txt",
               "site": "https://vip.omii.top",
               "danmu": false
@@ -493,8 +493,8 @@
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
-              "uc_cookie":"https://hero1898.github.io/uc.txt",
+              "cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/quark.txt",
+              "uc_cookie":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/uc.txt",
               "site": "https://4k.4u4.cn",
               "danmu": false
            }
@@ -574,7 +574,7 @@
       "filterable": 1,
       "ext": {
         "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-        "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+        "cookie": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/quark.txt",
         "uc_cookie": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/uc.txt",
         "site": "https://mihdr.top",
         "danmu": false
@@ -591,7 +591,7 @@
       "filterable": 1,
       "ext": {
         "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-        "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+        "cookie": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/quark.txt",
         "site": "https://tv.yydsys.top/",
         "danmu": false
       },
