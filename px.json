@@ -130,14 +130,14 @@
       "key": "QuarkShare",
       "name": "⭕夸克云盘分享⭕",
       "type": 3,
-      "api": "csp_MyQuark",
+      "api": "csp_QuarkShare",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://hero1898.github.io/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
-      "ext":"https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/quarkshare.txt$$$db$$$1",
+      "ext": "https://hero1898.github.io/json/tokenx.json$$$https://gitlab.com/hero1898/DSZB/-/raw/main/json/quarkshare.txt",
+      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg3.jar",
       "style": {
         "type": "list",
         "ratio": 1.1
