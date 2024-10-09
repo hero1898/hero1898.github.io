@@ -74,16 +74,18 @@
 //      "changeable": 0,
 //      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/Tong.jar"
 //    },
-//    {
-//      "key": "网盘配置",
-//      "name": "㊙️配置中心㊙️",
-//      "type": 3,
-//      "api": "csp_Config",
-//      "searchable": 0,
-//      "changeable": 0,
-//      "ext":"https://hero1898.github.io/json/tokenm.json",
-//      "jar":"https://hero1898.github.io/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8"
-//    },
+    {
+      "key": "ConfigCenter",
+      "name": "㊙️网盘配置㊙️",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "jar":"https://hero1898.github.io/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
+      "ext": {
+        "commonConfig": "https://hero1898.github.io/peizhi.json"
+      }
+    },
     {
       "key": "网盘配置",
       "name": "㊙️配置中心㊙️",
