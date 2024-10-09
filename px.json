@@ -137,7 +137,7 @@
       "filterable": 0,
       "timeout": 60,
       "ext": "https://hero1898.github.io/json/tokenx.json$$$https://hero1898.github.io/json/quarkshare.txt",
-      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg3.jar",
+      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg5.jar;md5;f1859a79a60b4fd5bb16a0f826568c31",
       "style": {
         "type": "list",
         "ratio": 1.1
