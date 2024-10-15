@@ -137,7 +137,7 @@
       "filterable": 0,
       "timeout": 60,
       "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/quarkshare.txt",
-      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/pg5.jar;md5;f1859a79a60b4fd5bb16a0f826568c31",
+      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -318,7 +318,7 @@
       "type": 3,
       "playerType": "2",
       "api": "http://js.xn--z7x900a.com/js/ng_open.js",
-      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/PandaQ240913.jar"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/PandaQ240913.jar"
     },
     {
       "key":"可可影视",
@@ -388,9 +388,9 @@
       "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
       "ext":
            {
-              "token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
-              "cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
-              "uc_cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+              "uc_cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
               "site":"https://woog.nxog.eu.org",
               "danmu": false
            }
@@ -407,9 +407,9 @@
       "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
       "ext":
            {
-              "token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
-              "cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
-              "uc_cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+              "uc_cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
               "site": "http://mogg.top",
               "danmu": false
            }
@@ -426,9 +426,9 @@
       "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
       "ext":
            {
-              "token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
-              "cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
-              "uc_cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+              "uc_cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
               "site": "https://mihdr.top",
               "danmu": false
            }
@@ -445,9 +445,9 @@
       "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
       "ext":
            {
-              "token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
-              "cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
-              "uc_cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+              "uc_cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
               "site": "https://tv.yydsys.top",
               "danmu": false
            }
@@ -464,9 +464,9 @@
       "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
       "ext":
            {
-              "token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
-              "cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
-              "uc_cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+              "uc_cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
               "site": "https://vip.omii.top",
               "danmu": false
            }
@@ -483,9 +483,9 @@
       "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
       "ext":
            {
-              "token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
-              "cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
-              "uc_cookie":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+              "uc_cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
               "site": "https://4k.4u4.cn",
               "danmu": false
            }
@@ -501,7 +501,7 @@
       "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
       "ext":
            {
-              "token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
               "danmu":false
            }
     },
@@ -516,7 +516,7 @@
       "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
       "ext":
            {
-              "token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
               "danmu":false
            }
     },
@@ -531,7 +531,7 @@
       "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
       "ext":
            {
-              "token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
               "danmu":false,
               "cookie":"satoken=db2e2825-0716-4ec2-92da-e695574341af"
       }
@@ -547,7 +547,7 @@
       "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
       "ext":
            {
-             "token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+             "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
              "share":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/alishare.json"},
              "style":
                     {
@@ -564,9 +564,9 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
-        "cookie": "https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
-        "uc_cookie": "https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
+        "token": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+        "cookie": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+        "uc_cookie": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
         "site": "https://mihdr.top",
         "danmu": false
       }
@@ -581,8 +581,8 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
-        "cookie": "https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+        "token": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+        "cookie": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
         "site": "https://tv.yydsys.top/",
         "danmu": false
       },
