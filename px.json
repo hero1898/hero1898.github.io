@@ -533,9 +533,9 @@
       "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/dm.jar;md5;d2741230d5013288c2e7669c53db7780",
       "ext":
            {
-              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
-              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+              "uc_cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/uc.txt",
               "site": "http://mogg.top",
               "danmu": false
            }
