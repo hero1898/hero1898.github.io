@@ -530,7 +530,7 @@
       "quickSearch":1,
       "filterable":1,
       "changeable":1,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar;md5;b85ef5b7adadb054eeee553c54662610",
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/dm.jar",
       "ext":
            {
               "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
