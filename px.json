@@ -511,11 +511,11 @@
       "quickSearch":1,
       "filterable":1,
       "changeable":1,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
-              "token":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
-              "cookie":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
+              "cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
               "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
               "site": "http://mogg.top",
               "danmu": false
