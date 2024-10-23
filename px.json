@@ -1,11 +1,11 @@
 //jar+壁纸
 {
-"spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg8.jar;md5;0725009c6edbe0d9e43fa1653839e3bc", 
-//"spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg1.jar;md5;6228fe4f2e3fc647de06c0683cd22607",
-//"spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ncdjaj.jar;md5;e84e4a2ae2587a533584d2bb136745af", 
-//"spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
-//"spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg5.jar",
-//"spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106",
+"spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8", 
+//"spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg1.jar;md5;6228fe4f2e3fc647de06c0683cd22607",
+//"spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ncdjaj.jar;md5;e84e4a2ae2587a533584d2bb136745af", 
+//"spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+//"spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg5.jar",
+//"spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106",
 "wallpaper": "http://tool.teyonds.com/api",
 //"wallpaper": "https://bing.img.run/rand.php",
 //"wallpaper": "https://picsum.photos/1920/1080",
@@ -23,8 +23,8 @@
       "name": "",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/iptv.txt",
-      //"url": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/TV2.m3u",
+      "url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/iptv.txt",
+      //"url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/TV2.m3u",
       //"url": "https://raw.bgithub.xyz/pxiptv/live/main/iptv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -34,9 +34,9 @@
       "name": "电视",
       "type": 0,
       "playerType": 1,
-      //"url": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/iptv.txt",
+      //"url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/iptv.txt",
       //"url": "https://raw.bgithub.xyz/pxiptv/live/main/iptv.txt",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/TV2.m3u",
+      "url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/TV2.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
@@ -63,7 +63,7 @@
 //      "searchable":0,
 //      "filterable":0,
 //      "changeable":0,
-//      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/alibaba.jar"
+//      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/alibaba.jar"
 //    },
 //    {
 //      "key": "阿里夸克配置",
@@ -72,7 +72,7 @@
 //      "api": "csp_Settings",
 //      "searchable": 0,
 //      "changeable": 0,
-//      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/Tong.jar"
+//      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/Tong.jar"
 //    },
 //    {
 //      "key": "网盘配置",
@@ -81,8 +81,8 @@
 //      "api": "csp_Config",
 //      "searchable": 0,
 //      "changeable": 0,
-//      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenm.json",
-//     "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
+//      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/tokenm.json",
+//     "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
 //      "style": {
 //        "type": "rect",
 //        "ratio": 1.43
@@ -95,10 +95,10 @@
       "api": "csp_ConfigCenter",
       "searchable": 0,
       "changeable": 0,
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "ext": 
       {
-        "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/pz.json"
+        "commonConfig": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/pz.json"
       }
     },
     {
@@ -109,7 +109,7 @@
       "searchable": 0,
       "changeable": 0,
       "playerType": 2,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106"
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106"
     },
     {
       "key":"csp_欧歌G",
@@ -119,7 +119,7 @@
       "searchable":0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/og.jar;md5;721e5e4f86009d523f6e1f017c157e19"
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/og.jar;md5;721e5e4f86009d523f6e1f017c157e19"
     },
     {
       "key": "AliShare",
@@ -131,8 +131,8 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
-      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/alishare.txt$$$db$$$1",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
+      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/alishare.txt$$$db$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -148,8 +148,8 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/quarkshare.txt",
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/quarkshare.txt",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -165,8 +165,8 @@
       "changeable":0, 
       "filterable":0, 
       "timeout":60, 
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
-      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/ucshare.txt$$$db$$$1",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
+      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/ucshare.txt$$$db$$$1",
       "style": 
 	     {
 	       "type": "list",
@@ -183,8 +183,8 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/thundershare.txt",
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
+      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/thundershare.txt",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -197,9 +197,9 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/fm商店.jar;md5;e19f98c566e2280e961ce054f9367808",
-//    "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/store.json"
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/market.json"
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/fm商店.jar;md5;e19f98c566e2280e961ce054f9367808",
+//    "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/store.json"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/market.json"
     },
     {
       "key": "玩偶gg",
@@ -208,11 +208,11 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "ext": {
-        "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/pz.json",
+        "commonConfig": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/pz.json",
         "siteUrl": "https://www.wogg.bf/",
-        "filter": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/wogg.json"
+        "filter": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/wogg.json"
       }
     },
     {
@@ -222,11 +222,11 @@
       "api": "csp_kongbai",
       "searchable": 1,
       "changeable": 0,
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "ext": {
-        "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/pz.json",
+        "commonConfig": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/pz.json",
         "siteUrl": "https://tv.yydsys.cc/",
-        "filter": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/wogg.json"
+        "filter": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/wogg.json"
       }
     },
     {
@@ -237,10 +237,10 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "ext": {
-        "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/pz.json",
-        "share": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/网盘集合.json"
+        "commonConfig": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/pz.json",
+        "share": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/网盘集合.json"
       }
     },
     {
@@ -251,9 +251,9 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "ext": {
-        "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/pz.json"
+        "commonConfig": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/pz.json"
       }
     },
     {
@@ -263,9 +263,9 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg6.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "ext": {
-        "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/pz.json"
+        "commonConfig": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/pz.json"
       }
     },
     {
@@ -276,8 +276,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/奇侠.json",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/奇侠.json",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
     },
     {
       "key": "csp_XBPQ_茶杯狐",
@@ -287,8 +287,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/茶杯.json",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/茶杯.json",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
     },
     {
       "key": "csp_奇优",
@@ -298,8 +298,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/奇优影院.json",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/奇优影院.json",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
     },
     {
       "key": "量子资源",
@@ -332,7 +332,7 @@
       "name":"🔥汪影视🔥",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/XBPQ.jar",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -346,7 +346,7 @@
       "name": "🔥克隆合集🔥",
       "type": 4,
       "api": "https://api.paoyun.eu.org/klhj.php",
-      "spider":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
+      "spider":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg3.jar;md5;7c03297c89aa832f88092d4567664ad8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -359,15 +359,15 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/BT天堂 5.json",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/XBPQ.jar"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/BT天堂 5.json",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/XBPQ.jar"
     },
     {
       "key":"xunlei8",
       "name":"🧲迅雷吧🧲",
       "type":3,
       "api":"csp_XBPQ",
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/XBPQ.jar",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/XBPQ.jar",
       "ext": {
               "搜索url":"https://xunlei8.cc/s/{wd}.html",
               "搜索数组":"bec4f196629d\">&&\"b9a905c",
@@ -384,7 +384,7 @@
       "name":"🧲MP4us🧲",
       "type":3,
       "api":"csp_XBPQ",
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/XBPQ.jar",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/XBPQ.jar",
       "ext": {
                "标题":"<font*>&&</font>",
                "图片":"data-original=\"&&\"",
@@ -401,19 +401,19 @@
                "分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"
              }
         },	  
-{"key":"Funletu","name":"💖趣盘💖","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg5.jar", "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenx.json", "style": {"type": "list","ratio": 1.1}},
-{"key":"盘友圈","name":"💖盘友圈💖","type":3,"api":"csp_Panyq","timeout":60, "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg5.jar", "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$site$$$proxy"},
-//{"key":"PanSearch","name":"💖盘搜💖","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg5.jar", "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$null$$$proxy"},
-{"key":"DaPanSo","name":"💖大盘💖","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg5.jar", "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://dapanso.com$$$proxy$$$1"},
-{"key":"YunPan","name":"💖云盘资源💖","type":3,"api":"csp_YunPan","timeout":60, "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg5.jar", "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$null$$$proxy$$$1"},
-{"key":"采集之王","name":"🐲采王采集🐲","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/lib/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/drpy_js/采集之王.js?type=url&params=https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/采集静态.json"},
+{"key":"Funletu","name":"💖趣盘💖","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg5.jar", "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/tokenx.json", "style": {"type": "list","ratio": 1.1}},
+{"key":"盘友圈","name":"💖盘友圈💖","type":3,"api":"csp_Panyq","timeout":60, "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg5.jar", "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$site$$$proxy"},
+//{"key":"PanSearch","name":"💖盘搜💖","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg5.jar", "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$null$$$proxy"},
+{"key":"DaPanSo","name":"💖大盘💖","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg5.jar", "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$https://dapanso.com$$$proxy$$$1"},
+{"key":"YunPan","name":"💖云盘资源💖","type":3,"api":"csp_YunPan","timeout":60, "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg5.jar", "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/tokenx.json$$$null$$$proxy$$$1"},
+{"key":"采集之王","name":"🐲采王采集🐲","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/lib/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/drpy_js/采集之王.js?type=url&params=https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/采集静态.json"},
 {"key":"南瓜影视","name":"🍵南瓜影视🍵","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"天天影视","name":"🍵天天影视🍵","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"热播影视","name":"🍵热播影视🍵","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民影视","name":"🍵农民影视🍵","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
 {"key":"csp_mgtva","name":"🎃木瓜影视🎃","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
-{"key": "夕云","name": "💡夕云影视💡","type": 3,"api": "csp_XBPQ","jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/xbpq新版.jar?inline=false","ext": {"首页": "电视剧$21","分类":"电影$20#电视剧$39#动漫$46#综艺$47","分类url":"https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"}},
-{"key":"大师兄","name":"💡师兄影视💡","type":3,"api":"csp_XBPQ","ext":{"简介":"+剧情介绍：&&</p >","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"},"jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/xbpq新版.jar?inline=false"},
+{"key": "夕云","name": "💡夕云影视💡","type": 3,"api": "csp_XBPQ","jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/xbpq新版.jar?inline=false","ext": {"首页": "电视剧$21","分类":"电影$20#电视剧$39#动漫$46#综艺$47","分类url":"https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"}},
+{"key":"大师兄","name":"💡师兄影视💡","type":3,"api":"csp_XBPQ","ext":{"简介":"+剧情介绍：&&</p >","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"},"jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/xbpq新版.jar?inline=false"},
 {"key":"csp_XBPQ_VS短剧","name":"🐞影院短剧🐞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}--hits------{catePg}---{year}.html","分类":"短剧$5"}},
     {
       "key": "csp_XYQHikerAL_4KHDR",
@@ -424,8 +424,8 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/4KHDR.json",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/83.jar"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/4KHDR.json",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/83.jar"
     },
     {
       "key":"csp_Jianpian",
@@ -436,7 +436,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"http://api2.rinhome.com",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ncdjaj.jar;md5;e84e4a2ae2587a533584d2bb136745af"
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ncdjaj.jar;md5;e84e4a2ae2587a533584d2bb136745af"
     },
     {
       "key": "nangua",
@@ -444,7 +444,7 @@
       "type": 3,
       "playerType": "2",
       "api": "http://js.xn--z7x900a.com/js/ng_open.js",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/PandaQ240913.jar"
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/PandaQ240913.jar"
     },
     {
       "key":"可可影视",
@@ -473,7 +473,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/奇优影院.json"
+      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/奇优影院.json"
     },
     {
       "key":"天空资源",
@@ -511,11 +511,11 @@
       "quickSearch":1,
       "filterable":1,
       "changeable":1,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
-              "token":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt",
-              "cookie":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/quark.txt",
+              "token":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/token.txt",
+              "cookie":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/quark.txt",
               "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
               "site": "http://mogg.top",
               "danmu": false
@@ -530,7 +530,7 @@
       "quickSearch":1,
       "filterable":1,
       "changeable":1,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
@@ -549,7 +549,7 @@
       "quickSearch":1,
       "filterable":1,
       "changeable":1,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
@@ -568,7 +568,7 @@
       "quickSearch":1,
       "filterable":1,
       "changeable":1,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
@@ -587,7 +587,7 @@
       "quickSearch":1,
       "filterable":1,
       "changeable":1,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
@@ -606,7 +606,7 @@
       "quickSearch":1,
       "filterable":1,
       "changeable":1,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
@@ -624,7 +624,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":0,
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
@@ -639,7 +639,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":0,
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
@@ -654,7 +654,7 @@
       "searchable":1,
       "filterable":0,
       "changeable":1,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
               "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
@@ -670,11 +670,11 @@
       "searchable":1,
       "changeable":0,
       "filterable":0,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
       "ext":
            {
              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-             "share":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/alishare.json"},
+             "share":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/alishare.json"},
              "style":
                     {
                       "type":"list"
@@ -722,7 +722,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/240502.jar;md5;ee25fa344922c0ac0b677b15ddbfa6d6"
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/240502.jar;md5;ee25fa344922c0ac0b677b15ddbfa6d6"
     },
     {
       "key": "鸟叔5号",
@@ -758,7 +758,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://nctv.top/tv/sub/电影港.json",
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ncdjaj.jar;md5;e84e4a2ae2587a533584d2bb136745af"
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ncdjaj.jar;md5;e84e4a2ae2587a533584d2bb136745af"
     },
     {
     "key": "短剧",
@@ -768,7 +768,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/fm1214.jar;md5;430c09fd9d279d1b5d1fdebbae7e1d67"
+    "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/fm1214.jar;md5;430c09fd9d279d1b5d1fdebbae7e1d67"
     },
     {
       "key": "新闻时事",
@@ -778,8 +778,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E6%97%B6%E4%BA%8B%E6%96%B0%E9%97%BB.json?sign=AkRYax82jb9Bb2zmsQtjBG1T6-kL5_K7k3zBWkfl-NI%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E6%97%B6%E4%BA%8B%E6%96%B0%E9%97%BB.json?sign=AkRYax82jb9Bb2zmsQtjBG1T6-kL5_K7k3zBWkfl-NI%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },   
     {
       "key": "美食",
@@ -789,8 +789,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E7%BE%8E%E9%A3%9F.json",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0;md5;226db2fc833312b73b0bf57c7dd41484"    
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E7%BE%8E%E9%A3%9F.json",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0;md5;226db2fc833312b73b0bf57c7dd41484"    
     },
     {
       "key": "解说",
@@ -800,8 +800,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%BD%B1%E8%A7%86%E8%A7%A3%E8%AF%B4.json?sign=ZgoiPxJXGAXlWnLNErDJweGcfKoXnVdlm0hIlJvCTac%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%BD%B1%E8%A7%86%E8%A7%A3%E8%AF%B4.json?sign=ZgoiPxJXGAXlWnLNErDJweGcfKoXnVdlm0hIlJvCTac%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key":"软件教程",
@@ -810,8 +810,8 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/软件教程.json",
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/yydf.jar"
+      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/软件教程.json",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/yydf.jar"
     },
     {
       "key":"游戏",
@@ -820,8 +820,8 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/游戏.json",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/游戏.json",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key":"旅游",
@@ -830,8 +830,8 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":0,
-      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/旅游.json",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/旅游.json",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "体育",
@@ -841,8 +841,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E4%BD%93%E8%82%B2.m3u?sign=-GBwQ-3ksdyk3lX7c7JOuLvMaBRX95zIL9PUjPPImsM%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E4%BD%93%E8%82%B2.m3u?sign=-GBwQ-3ksdyk3lX7c7JOuLvMaBRX95zIL9PUjPPImsM%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "NBA",
@@ -852,8 +852,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/nba.json?sign=AkRYax82jb9Bb2zmsQtjBG1T6-kL5_K7k3zBWkfl-NI%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/nba.json?sign=AkRYax82jb9Bb2zmsQtjBG1T6-kL5_K7k3zBWkfl-NI%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     }, 
     {
       "key": "足球",
@@ -863,8 +863,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E7%90%83%E6%98%9F-%E5%93%94%E5%93%A90721.json?sign=VMaEC4RO2aBcskY1fgOuhEtfG88uQpiwN1DyjYZGPiE%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E7%90%83%E6%98%9F-%E5%93%94%E5%93%A90721.json?sign=VMaEC4RO2aBcskY1fgOuhEtfG88uQpiwN1DyjYZGPiE%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "球类",
@@ -874,8 +874,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E4%BD%93%E8%82%B20811.m3u?sign=7_RiK9ou54Do_u6kRgkj3f2VN76-Cd2Zq9865eNXI2Q%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E4%BD%93%E8%82%B20811.m3u?sign=7_RiK9ou54Do_u6kRgkj3f2VN76-Cd2Zq9865eNXI2Q%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
 
     {
@@ -887,8 +887,8 @@
       "quickSearch": 0,
       "filterable": 1,
       "pwd": "50905d7b2216bfeccb5b41016357176b",
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E6%A3%8B%E7%89%8C0806.m3u?sign=O6sXUxVC6QET_CvmtKwy18VlNi9GTyHWVNo91buKMbc%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E6%A3%8B%E7%89%8C0806.m3u?sign=O6sXUxVC6QET_CvmtKwy18VlNi9GTyHWVNo91buKMbc%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "舞蹈",
@@ -898,8 +898,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E8%88%9E%E8%B9%88.json?sign=E9PR-_2s_wEokfhY9mh8NMGPnf7iwyItONSu421JwpM%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E8%88%9E%E8%B9%88.json?sign=E9PR-_2s_wEokfhY9mh8NMGPnf7iwyItONSu421JwpM%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "歌舞",
@@ -909,8 +909,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%8D%B0%E5%BA%A6%E6%AD%8C%E8%88%9E.json?sign=objRswLsG5JDNbAai3-2iJ8lf4yb0CjV3aqE1fD9_5g%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%8D%B0%E5%BA%A6%E6%AD%8C%E8%88%9E.json?sign=objRswLsG5JDNbAai3-2iJ8lf4yb0CjV3aqE1fD9_5g%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "乐器",
@@ -920,8 +920,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E4%B9%90%E5%99%A8.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E4%B9%90%E5%99%A8.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "演唱会自定义",
@@ -931,8 +931,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "csp_XYQHiker_酷奇MV",
@@ -942,8 +942,8 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":1,
-      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/酷奇MV.json",
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/t1_spider.jar;md5;316660b0adb299c1dc63587579a3522e"
+      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/酷奇MV.json",
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/t1_spider.jar;md5;316660b0adb299c1dc63587579a3522e"
     },
     {
       "key": "MV",
@@ -953,8 +953,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/MTV-%E5%93%94%E5%93%A90723.json?sign=MssMqfKTRURsrikq-zkJpo5eDMCplQp6nH7JbFESra8%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/MTV-%E5%93%94%E5%93%A90723.json?sign=MssMqfKTRURsrikq-zkJpo5eDMCplQp6nH7JbFESra8%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "Iktv",
@@ -963,7 +963,7 @@
       "api": "csp_Iktv",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/pg.jar"
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/pg.jar"
     },
     {
       "key": "MV_vod",
@@ -978,11 +978,11 @@
       "key": "MTV转点播",
       "name":"🆎海量MV🆎",
       "type":3,
-      "api":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/live2cms.js",
+      "api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/live2cms.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/16万首MV.json"
+      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/16万首MV.json"
     },
     {
       "key":"Music_spider",
@@ -993,7 +993,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext":"",
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/fix12210.jar"
+      "jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/fix12210.jar"
     },
     {
       "key": "搭讪",
@@ -1003,8 +1003,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E6%90%AD%E8%AE%AA.json?sign=gip9Kawqr484bHHBk7lptxFssHFT6EZyyFiDQ3KzHt8%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E6%90%AD%E8%AE%AA.json?sign=gip9Kawqr484bHHBk7lptxFssHFT6EZyyFiDQ3KzHt8%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "户外",
@@ -1014,8 +1014,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E6%88%B7%E5%A4%96.json?sign=AkRYax82jb9Bb2zmsQtjBG1T6-kL5_K7k3zBWkfl-NI%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E6%88%B7%E5%A4%96.json?sign=AkRYax82jb9Bb2zmsQtjBG1T6-kL5_K7k3zBWkfl-NI%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "搭配",
@@ -1025,8 +1025,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E6%90%AD%E9%85%8D.json?sign=JOkB1eN1Hho8MwGLZjaTqNUPrLDhCBvgv6yNiUqaRdQ%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E6%90%AD%E9%85%8D.json?sign=JOkB1eN1Hho8MwGLZjaTqNUPrLDhCBvgv6yNiUqaRdQ%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "Bili",
@@ -1036,8 +1036,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%93%94%E5%93%A90723.json?sign=EPgtYYzwyHhOatiqgldi8BLu4sO8V85-FlmJl99KfcM%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%93%94%E5%93%A90723.json?sign=EPgtYYzwyHhOatiqgldi8BLu4sO8V85-FlmJl99KfcM%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "UP主",
@@ -1047,8 +1047,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1UP%E4%B8%BB%E5%90%88%E9%9B%86.json?sign=DeQdPrG46oni5nhoRk_RENrU0Mp6jGaD6jMUFh_ung4%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1UP%E4%B8%BB%E5%90%88%E9%9B%86.json?sign=DeQdPrG46oni5nhoRk_RENrU0Mp6jGaD6jMUFh_ung4%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "戏曲自定义",
@@ -1058,8 +1058,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E6%88%8F%E6%9B%B20723.json?sign=ngeZFFyT8EO0PacgodQnJmLlFv1K9VIKt6e9jP1TLpo%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E6%88%8F%E6%9B%B20723.json?sign=ngeZFFyT8EO0PacgodQnJmLlFv1K9VIKt6e9jP1TLpo%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "Aid",
@@ -1081,8 +1081,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E6%98%A5%E8%8A%82.json",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E6%98%A5%E8%8A%82.json",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "EXCEL",
@@ -1092,8 +1092,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/Excel%E6%95%99%E7%A8%8B.json?sign=3a_WkAa1xg59fzB5H2lsanfqcZuUjDsXGGMQZV7nTtw%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/Excel%E6%95%99%E7%A8%8B.json?sign=3a_WkAa1xg59fzB5H2lsanfqcZuUjDsXGGMQZV7nTtw%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "PS",
@@ -1103,8 +1103,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1PS.json?sign=D0w9SL-S30iOiTDUeRxAT8wPAuFA-XHUcqkwjWqTipA%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1PS.json?sign=D0w9SL-S30iOiTDUeRxAT8wPAuFA-XHUcqkwjWqTipA%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "外语",
@@ -1114,8 +1114,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E5%A4%96%E8%AF%AD.json?sign=_YbE-avvgf2pfwBJaT7bSJwdJCz9LSN7W0Q9qRjumMQ%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E5%A4%96%E8%AF%AD.json?sign=_YbE-avvgf2pfwBJaT7bSJwdJCz9LSN7W0Q9qRjumMQ%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "新哔哩",
@@ -1125,8 +1125,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E6%96%B0%E5%93%94%E5%93%A9.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E6%96%B0%E5%93%94%E5%93%A9.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "csp_XYQHiker_播视童趣",
@@ -1136,8 +1136,8 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/播视童趣.json",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/xyq_spider.jar"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/播视童趣.json",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/xyq_spider.jar"
     },
     {
       "key": "学堂",
@@ -1147,8 +1147,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%820804.m3u?sign=m0FU-h5ZHcb8m0mrj8K1jolIeMUfxttQL3bjLTrIQJg%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%820804.m3u?sign=m0FU-h5ZHcb8m0mrj8K1jolIeMUfxttQL3bjLTrIQJg%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "吾爱学堂小学",
@@ -1158,8 +1158,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%AD%A6.json?sign=ottDC63hhG794F1nESHvdE-qqBb3mz7vO6ZqzRCUk6g%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%AD%A6.json?sign=ottDC63hhG794F1nESHvdE-qqBb3mz7vO6ZqzRCUk6g%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "吾爱学堂初中",
@@ -1169,8 +1169,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%88%9D%E4%B8%AD.json?sign=R1JCtzNPS0aiXYcFwih52kjPzgUcrQWq30s1mMg4ig0%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%88%9D%E4%B8%AD.json?sign=R1JCtzNPS0aiXYcFwih52kjPzgUcrQWq30s1mMg4ig0%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "吾爱学堂高中",
@@ -1180,8 +1180,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E4%B8%AD.json?sign=L-dziBVI37SAtdNfUR547dylvCxhuwkmi1J1qA4EFxI%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E4%B8%AD.json?sign=L-dziBVI37SAtdNfUR547dylvCxhuwkmi1J1qA4EFxI%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
       "key": "吾爱学堂高考",
@@ -1191,19 +1191,19 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E8%80%83.json?sign=lD2DA8pGV9tw7DKYRqaQh9sy6aQnDcsR69ooAeCfpHc%3D%3A0",
-      "spider": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E8%80%83.json?sign=lD2DA8pGV9tw7DKYRqaQh9sy6aQnDcsR69ooAeCfpHc%3D%3A0",
+      "spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
-{"key":"drpy_js_A8音乐","name":"🎻A8音乐🎻","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/A8音乐.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"drpy_js_音悦网","name":"🎻音悦网🎻","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/音悦网.js","searchable":0,"quickSearch":0,"filterable":0},
-//{"key":"drpy_js_DJ音乐","name":"🎸音乐DJ🎸","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/DJ音乐.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0},
-{"key": "csp_XYQHiker_DJ呦呦音乐网","name":"🎸呦呦DJ🎸","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/DJ呦呦音乐网.json","jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/t1_spider.jar;md5;316660b0adb299c1dc63587579a3522e"},
-{"key":"drpy_js_啦啦DJ","name":"🎸啦啦DJ🎸","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/苹果DJ.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0},
-{"key": "drpy_清风Dj","name": "🎧清风DJ🎧","type": 3,"playerType": 2,"searchable":0,"quickSearch":0,"filterable":0,"api": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/清风DJ.js"},
-{"key":"drpy_js_相声随身听","name":"🙋相声大全💁","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/相声随身听.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"drpy_js_喜马拉雅","name":"🏔喜马拉雅🏔","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/喜马拉雅.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0},
-{"key": "drpy_js_蜻蜓FM","name": "🍀蜻蜓FM🍀","type": 3,"api" :"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/蜻蜓FM.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key": "csp_XYQHiker_有声小说吧","name":"📻有声小说吧📻","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/有声小说吧.json","jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/t1_spider.jar;md5;316660b0adb299c1dc63587579a3522e","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"drpy_js_A8音乐","name":"🎻A8音乐🎻","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/A8音乐.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"drpy_js_音悦网","name":"🎻音悦网🎻","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/音悦网.js","searchable":0,"quickSearch":0,"filterable":0},
+//{"key":"drpy_js_DJ音乐","name":"🎸音乐DJ🎸","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/DJ音乐.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0},
+{"key": "csp_XYQHiker_DJ呦呦音乐网","name":"🎸呦呦DJ🎸","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/DJ呦呦音乐网.json","jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/t1_spider.jar;md5;316660b0adb299c1dc63587579a3522e"},
+{"key":"drpy_js_啦啦DJ","name":"🎸啦啦DJ🎸","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/苹果DJ.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0},
+{"key": "drpy_清风Dj","name": "🎧清风DJ🎧","type": 3,"playerType": 2,"searchable":0,"quickSearch":0,"filterable":0,"api": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/清风DJ.js"},
+{"key":"drpy_js_相声随身听","name":"🙋相声大全💁","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/相声随身听.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"drpy_js_喜马拉雅","name":"🏔喜马拉雅🏔","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/喜马拉雅.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0},
+{"key": "drpy_js_蜻蜓FM","name": "🍀蜻蜓FM🍀","type": 3,"api" :"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/蜻蜓FM.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key": "csp_XYQHiker_有声小说吧","name":"📻有声小说吧📻","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/有声小说吧.json","jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/t1_spider.jar;md5;316660b0adb299c1dc63587579a3522e","searchable":0,"quickSearch":0,"filterable":0},
     {
       "key": "drpy_js_博看听书",
       "name": "👩🏻‍🎓博看听书👩🏻‍🎓",
@@ -1211,8 +1211,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/xs.min_2.js",
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/博看听书.js"
+      "api": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/xs.min_2.js",
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/博看听书.js"
     },
     {
       "key": "drpy_js_i275听书",
@@ -1221,8 +1221,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/xs.min_2.js",
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/i275听书.js"
+      "api": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/xs.min_2.js",
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/i275听书.js"
     },
     {
       "key": "drpy_js_爱上你听书网",
@@ -1231,11 +1231,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/xs.min_2.js",
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/爱上你听书网.js"
+      "api": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/xs.min_2.js",
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/爱上你听书网.js"
     },
-{"key":"drpy_js_广播迷FM","name":"🎙广播迷FM🎙","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/广播迷FM.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key": "csp_Yj1211","name": "📢JustLive📡","type": 3,"api": "csp_Yj1211","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/t1_spider.jar;md5;316660b0adb299c1dc63587579a3522e"},
+{"key":"drpy_js_广播迷FM","name":"🎙广播迷FM🎙","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/广播迷FM.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key": "csp_Yj1211","name": "📢JustLive📡","type": 3,"api": "csp_Yj1211","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/t1_spider.jar;md5;316660b0adb299c1dc63587579a3522e"},
     {
       "key" : "py_cctv",
       "name" : "☯央视综合☯",
@@ -1244,7 +1244,7 @@
       "searchable" : 0,
       "quickSearch" : 0,
       "filterable" : 1,
-      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/py/py_cctv.py"
+      "ext" : "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/py/py_cctv.py"
     },
     {
       "key" : "py_cctvxw",
@@ -1254,7 +1254,7 @@
       "searchable" : 0,
       "quickSearch" : 0,
       "filterable" : 1,
-      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/py/py_cctvxw.py"
+      "ext" : "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/py/py_cctvxw.py"
     },
     {
       "key" : "py_cctvjs",
@@ -1264,7 +1264,7 @@
       "searchable" : 0,
       "quickSearch" : 0,
       "filterable" : 1,
-      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/py/py_cctvjs.py"
+      "ext" : "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/py/py_cctvjs.py"
     },
     {
       "key" : "py_cctvty",
@@ -1274,7 +1274,7 @@
       "searchable" : 0,
       "quickSearch" : 0,
       "filterable" : 1,
-      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/py/py_cctvty.py"
+      "ext" : "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/py/py_cctvty.py"
     },
     {
       "key" : "py_cctvkj",
@@ -1284,7 +1284,7 @@
       "searchable" : 0,
       "quickSearch" : 0,
       "filterable" : 1,
-      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/py/py_cctvkj.py"
+      "ext" : "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/py/py_cctvkj.py"
     },
     {
       "key" : "py_cctvse",
@@ -1294,7 +1294,7 @@
       "searchable" : 0,
       "quickSearch" : 0,
       "filterable" : 1,
-      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/py/py_cctvse.py"
+      "ext" : "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/py/py_cctvse.py"
     },
     {
       "key":"88js",
@@ -1305,7 +1305,7 @@
       "searchable":0,
       "quickSearch":0,
       "changeable":0,
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/lmm.jar;md5;c84c36278bd8bc95a63449a128074be0"
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/lmm.jar;md5;c84c36278bd8bc95a63449a128074be0"
     },
 //    {
 //      "key":"一起看直播",
@@ -1315,14 +1315,14 @@
 //      "searchable":0,
 //      "quickSearch":0,
 //      "filterable":0,
-//      "ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/一起看直播.json"
+//      "ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/一起看直播.json"
 //    },
     {
       "key": "csp_qiumi",
       "name": "🏓JRKAN直播🏓",
       "type": 3,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/FTY.drpy2.min.js",
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/jrk.js",
+      "api": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/FTY.drpy2.min.js",
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/jrk.js",
       "style": {
       "type": "rect",
       "ratio": 1
@@ -1335,11 +1335,11 @@
       "key": "310直播",
       "name": "⚽310看球🏀",
       "type": 3,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/drpy2.min.js",
+      "api": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/310直播.js"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/310直播.js"
     },
 	  {
       "key": "py_qie",
@@ -1349,7 +1349,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/py/qie.py"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/py/qie.py"
     },
     {
       "key":"武享吧",
@@ -1358,8 +1358,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/drpy.min.js",
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/js/武享吧.js"
+      "api": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy.min.js",
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/武享吧.js"
     },
     {
       "key": "csp_XYQHiker_虎牙直播",
@@ -1369,8 +1369,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/虎牙直播.json",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/xyq_spider.jar"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/虎牙直播.json",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/xyq_spider.jar"
     },
     {
       "key": "csp_XYQHiker_斗鱼直播",
@@ -1380,29 +1380,29 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/斗鱼直播.json",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/xyq_spider.jar"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/斗鱼直播.json",
+      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/xyq_spider.jar"
     },
-//{"key":"搜索弹幕","name":"❤搜索❤","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","danmu":true}},
-//{"key":"云搜弹幕","name":"❤云搜❤","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","danmu":true}},
-//{"key":"云云弹幕","name":"❤云云❤","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","danmu":true}},
-//{"key":"盘搜弹幕","name":"❤盘搜❤","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","danmu":true}},
-//{"key":"玩弹幕1","name":"❤玩哥❤","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","site":"https://wog.nxog.eu.org","danmu":true}},
-//{"key":"小纸条弹幕","name":"❤纸条❤","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","danmu":true}},
-//{"key":"️玩偶哥","name":"❤️玩偶哥❤","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;72882de184eefbff3f3ae24e062e01d9","ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/wog.json"},
-//{"key":"️玩偶弟","name":"❤️玩偶弟❤","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;72882de184eefbff3f3ae24e062e01d9","ext":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/wod.json"},
-//{"key":"阿里合集","name":"❤阿里合集❤","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","share":""},"style":{"type":"list"}},
-//{"key": "csp_XYQHikerAL_云盘资源","name":"📀 网搜📀","type":3,"api": "csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/云盘资源.json","jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/xyq_spider.jar"},
+//{"key":"搜索弹幕","name":"❤搜索❤","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","danmu":true}},
+//{"key":"云搜弹幕","name":"❤云搜❤","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","danmu":true}},
+//{"key":"云云弹幕","name":"❤云云❤","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","danmu":true}},
+//{"key":"盘搜弹幕","name":"❤盘搜❤","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","danmu":true}},
+//{"key":"玩弹幕1","name":"❤玩哥❤","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","site":"https://wog.nxog.eu.org","danmu":true}},
+//{"key":"小纸条弹幕","name":"❤纸条❤","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","danmu":true}},
+//{"key":"️玩偶哥","name":"❤️玩偶哥❤","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;72882de184eefbff3f3ae24e062e01d9","ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/wog.json"},
+//{"key":"️玩偶弟","name":"❤️玩偶弟❤","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;72882de184eefbff3f3ae24e062e01d9","ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/wod.json"},
+//{"key":"阿里合集","name":"❤阿里合集❤","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ouge.jar;md5;244027cbc4b3cd016d8335d175688367","ext":{"token":"https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/token.txt","share":""},"style":{"type":"list"}},
+//{"key": "csp_XYQHikerAL_云盘资源","name":"📀 网搜📀","type":3,"api": "csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/云盘资源.json","jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/xyq_spider.jar"},
 //    {
 //      "key":"玩偶哥哥",
 //      "name":"🤡玩偶🤡",
 //      "type":3,
 //      "api": "csp_XYQHikerAL",
-//      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;59a98ed1869e26027a3ff8d6070003f8",
+//      "jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/ou.jar;md5;59a98ed1869e26027a3ff8d6070003f8",
 //      "searchable":1,
 //      "quickSearch":1,
 //      "filterable":0,
-//      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/gg.json"
+//      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/gg.json"
 //    },
     {
       "key": "csp_search_alist",
@@ -1412,7 +1412,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/alist.json?sign=klTSIgCkIgmU3bBJ5aLesnbQ5dqyxNvWpfl7LMRLtn0%3D%3A0"
+      "ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/alist.json?sign=klTSIgCkIgmU3bBJ5aLesnbQ5dqyxNvWpfl7LMRLtn0%3D%3A0"
     }
   ],
 
