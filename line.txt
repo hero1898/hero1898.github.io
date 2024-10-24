@@ -2,7 +2,7 @@
     "urls": [
         {
 
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/px.json",
+            "url": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/px.json",
 
             "name": "🐹PX云盘🐹"
 
@@ -73,7 +73,7 @@
         },
         {
 
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "url": "https://ghp.ci/https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json",
 
             "name": "🐹南风线路🐹"
 
@@ -122,7 +122,7 @@
         },
         {
 
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/duhe.json",
+            "url": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/duhe.json",
 
             "name": "💎独盒影视💎"
 
