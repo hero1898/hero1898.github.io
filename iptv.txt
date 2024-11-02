@@ -5617,39 +5617,27 @@ CCTV17,http://60.189.165.36:5555/rtp/233.50.201.35:5140
 湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.245.118:1234
 湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8
 🇭🇰港澳台🇭🇰,#genre#
-凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文,http://1.70.35.224:8083/udp/239.1.1.126:8126
-凤凰资讯,http://1.70.35.224:8083/udp/239.1.1.127:8127
-凤凰资讯,http://1.70.35.224:8083/udp/239.1.1.128:8127
-凤凰中文,http://175.9.193.128:4502/rtp/239.76.253.135:9000
-凤凰资讯,http://175.9.193.128:4502/rtp/239.76.253.134:9000
-凤凰资讯,http://175.9.193.128:4502/rtp/239.76.253.136:9000
-凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192
-凤凰资讯,http://42.92.117.243:8888/rtp/239.255.30.70:8231
-凤凰资讯,http://125.71.159.29:6666/rtp/239.93.1.4:2191
-凤凰资讯,http://itms.xznet.org:41097/rtp/239.254.201.3:5227
-凤凰香港,http://60.164.128.167:8029/rtp/239.255.30.123:8231
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
-翡翠台,http://124.244.149.194:65530/bysid/1
-明珠台,http://124.244.149.194:65531/bysid/2
-TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8HOY78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+星河台,http://aktv.top/AKTV/live/aktv/tvb/AKTV.m3u8
 功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,https://v3.mediacast.hk/webcat/bshdlive-pc/playlist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
-中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
-TVBS HD,http://litv.zapi.us.kg/?id=4gtv-4gtv073
-TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+中视新闻,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+TVBS HD,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
@@ -5727,6 +5715,8 @@ ABC News,https://lnc-abc-news.tubi.video/index.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+日本全天新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
