@@ -135,6 +135,7 @@
 {"name":"PX 电视频道","type":0,"playerType":2,"url":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/tv.txt"},
 {"name":"PX 自动采集","type":0,"playerType":2,"url":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/iptv.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"雷蒙影视","type":0,"playerType":2,"url":"https://raw.bgithub.xyz/lem85930/LiteTV/main/litelive.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"小橙子","type":0,"playerType":2,"url":"https://raw.bgithub.xyz/wzxxcz/wzx/main/bbxx.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"vbskycn","type":0,"playerType":2,"url":"https://raw.bgithub.xyz/vbskycn/iptv/master/tv/iptv4.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"linux-jin","type":0,"playerType":2,"url":"https://raw.bgithub.xyz/linux-jin/TvBox/main/live.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"AlexYUY","type":0,"playerType":2,"url":"https://raw.bgithub.xyz/AlexYUY/TV/master/output/ipv4/result.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
