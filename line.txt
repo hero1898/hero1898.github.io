@@ -17,23 +17,23 @@
         },
         {
 
-    	    "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/ncdjaj.json",
+            "url": "http://肥猫.com",
 
-    	    "name": "⛄大杂烩⛄"
-
-        },
-        {
-
-    	    "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/Tongyong.json",
-
-    	    "name": "🐼鸟叔🐼"
+            "name": "🚀肥猫🚀"
 
         },
         {
 
-            "url": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/hanXC.json",
+            "url": "http://www.饭太硬.com/tv",
 
-            "name": "💎胜寒线路💎"
+            "name": "🚀饭太硬🚀"
+
+        },
+        {
+
+            "url": "http://tvbox.王二小放牛娃.top",
+
+            "name": "🐹王二小放牛娃🐹"
 
         },
         {
@@ -48,13 +48,6 @@
             "url": "http://我不是.摸鱼儿.top",
 
             "name": "🚀摸鱼儿4K🚀"
-
-        },
-        {
-
-            "url": "http://肥猫.com",
-
-            "name": "🚀肥猫🚀"
 
         },  
         {
@@ -73,58 +66,9 @@
         },
         {
 
-            "url": "https://ghp.ci/https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json",
+            "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
 
-            "name": "🐹南风线路🐹"
-
-        },
-        {
-
-            "url": "https://raw.bgithub.xyz/tangchunwei/iptv-list/32d02a1800381ccea856c933dc9b8a38d9e2f9d1/vbox%E9%85%8D%E7%BD%AE/%F0%9F%90%B9%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF.json",
-
-            "name": "🐹潇洒线路🐹"
-
-        },
-        {
-
-            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
-
-            "name": "📢欧歌家庭线路📢"
-
-        },
-        {
-
-            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
-
-            "name": "💚阿里4k-token线路💚"
-
-        },
-        {
-
-            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-
-            "name": "💖魔改影视仓💖"
-
-        },
-        {
-
-            "url": "http://tvbox.王二小放牛娃.xyz",
-
-            "name": "🐹王二小放牛娃🐹"
-
-        },              
-        {
-
-            "url": "https://api.hgyx.vip/hgyx.json",
-
-            "name": "😈HG线路😈"
-
-        },
-        {
-
-            "url": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/duhe.json",
-
-            "name": "💎独盒影视💎"
+            "name": "📢欧歌线路📢"
 
         }
     ]
