@@ -125,7 +125,7 @@
 
 "lives":[
 
-{"name":"PX 电视频道","type":0,"playerType":2,"url":"https://d.kstore.dev/download/4429/tv.txt"},
+{"name":"PX 电视频道","type":0,"playerType":2,"url":"https://hero1898.github.io/main/tv.txt"},
 {"name":"PX 自动采集","type":0,"playerType":2,"url":"https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/iptv.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"DIYP","type":0,"playerType":2,"url":"http://iptv.diyp.site/diyp.php"},
 {"name":"咪咕直播","type":0,"playerType":2,"url":"https://www.freetv.top/migu.m3u","logo": "https://live.fanmingming.com/tv/{name}.png"},
@@ -157,7 +157,7 @@
 {"name":"Quad9","url":"https:dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 
 "rules":[
-{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
+{"name":"proxy","hosts":["raw.bgithub.xyz","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
 {"name":"海外看","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
