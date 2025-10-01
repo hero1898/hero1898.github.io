@@ -157,6 +157,9 @@ CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 
+NOW新闻,http://bxtv.3a.ink/api.php?id=now
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+
 中天新闻,https://live.iill.top/youtube/vr3XyVCR4T0
 中天新闻2,https://live.iill.top/youtube/DM_PEM8GrIg
 中视新闻,https://live.iill.top/youtube/TCnaIE_SAtM   
