@@ -27,7 +27,11 @@
 {"key": "荐片","name": "🎬荐片影视🎬","api": "csp_Jianpian","type": 3,"playerType": "2","ext": "http://api2.rinhome.com","jar":"https://6296.kstore.vip/PandaQ250930.png;md5;861ba32e93444515f82d581a2975e61c"},
 {"key": "csp_Wwys","name": "🌾️农民影视🌾️","type": 3,"api": "csp_Wwys","ext": "https://www.wwgz.cn","jar":"https://6296.kstore.vip/PandaQ250930.png;md5;861ba32e93444515f82d581a2975e61c"},
 {"key": "csp_Jpys","name": "🥇️金牌影视🥇️","type": 3,"api": "csp_Jpys","jar":"https://6296.kstore.vip/PandaQ250930.png;md5;861ba32e93444515f82d581a2975e61c"},
+{"key":"csp_LiteApple","name":"🍎苹果影视🍎","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://6296.kstore.vip/PandaQ250930.png;md5;861ba32e93444515f82d581a2975e61c"},
+{"key": "csp_KmeiJu","name": "🍐鸭梨影视🍐","type": 3,"api": "csp_KmeiJu","jar":"https://6296.kstore.vip/PandaQ250930.png;md5;861ba32e93444515f82d581a2975e61c"},
 {"key":"csp_Netfixtv","name":"💌至臻影视💌","type":3,"api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://xiaomi666.fun","https://xiaomiai.site","https://mihdr.top","https://www.mihdr.top","http://www.miqk.cc","https://www.zhizhenpan.fun"],"url_key":"Netfixtv2","threadinfo":{"chunksize":512,"threads":16}},"jar":"https://6296.kstore.vip/PandaQ250930.png;md5;861ba32e93444515f82d581a2975e61c"},
+{"key":"csp_Panda_玩偶哥哥","name":"👲玩偶影视👲","api":"csp_Wogg","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"https://www.wogg.one/","jar":"https://6296.kstore.vip/PandaQ250930.png;md5;861ba32e93444515f82d581a2975e61c"},
+{"key":"蔬菜","name":"🫛蔬菜APP🫛","type":3,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","dataKey":"huohushipingetap","siteApi":"get","version":"140"},"jar":"https://6296.kstore.vip/PandaQ250930.png;md5;861ba32e93444515f82d581a2975e61c"},
   
 //饭太硬  http://www.饭太硬.com/tv
 //{"key":"玩偶","name":"👽玩偶哥哥👽","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"https://coss.yupoo.com/upchat/2025-09-29/1759155532428.jpg;md5;74b0b420eee69168fed20da6a5c4d507"},
