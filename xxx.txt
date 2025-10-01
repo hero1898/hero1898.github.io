@@ -1,0 +1,12 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "🐶PX优选仓",
+      "sourceUrl": "https://hero1898.github.io/line.txt"
+    },
+    {
+      "sourceName": "🦉稀夏的仓",
+      "sourceUrl": "https://hero1898.github.io/xxd.txt"
+    }
+  ]
+}
