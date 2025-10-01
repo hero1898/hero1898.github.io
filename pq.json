@@ -13,7 +13,7 @@
 "logo":"http://ceshi.xn--z7x900a.com/panda/0262.png",
 
 "sites":[
-{"key": "Douban","name": "PX影视 20251001更新 电视剧首选荐片、农民、瓜子、金牌观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://coss.yupoo.com/upchat/2025-09-29/1759155532428.jpg;md5;74b0b420eee69168fed20da6a5c4d507"},
+{"key": "豆","name": "PX影视 20251001更新 电视剧首选荐片、农民、瓜子、金牌观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://coss.yupoo.com/upchat/2025-09-29/1759155532428.jpg;md5;74b0b420eee69168fed20da6a5c4d507"},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"searchable": 0,"changeable": 0,"indexs": 0,"jar":"https://6296.kstore.vip/PandaQ250930.png;md5;861ba32e93444515f82d581a2975e61c"},
 //{"key": "Wexconfig","name": "㊙️通用配置中心㊙️","type": 3,"api": "csp_WexconfigGuard","searchable": 0,"changeable": 0,"indexs": 0,"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/51354B2_773_wex_20251001025150819newMediaImage.png;md5;63edca97deb202864b7e9078d26296f1"},
 //{"key": "Wexokconfig","name": "🐮影视配置中心🐮","type": 3,"api": "csp_WexokconfigGuard","searchable": 0,"changeable": 0,"indexs": 0,"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/51354B2_773_wex_20251001025150819newMediaImage.png;md5;63edca97deb202864b7e9078d26296f1"},
