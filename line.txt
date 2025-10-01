@@ -2,7 +2,7 @@
     "urls": [
         {
 
-            "url": "https://hero1898.github.io/pq.json",
+            "url": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/refs/heads/main/pq.json",
 
             "name": "🐹PX影视🐹"
 
@@ -10,7 +10,7 @@
         {
 
 
-            "url": "https://hero1898.github.io/pan.json",
+            "url": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/refs/heads/main/pan.json",
 
             "name": "🐹PX旧版影视🐹"
 
