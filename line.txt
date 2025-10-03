@@ -2,7 +2,7 @@
     "urls": [
         {
 
-            "url": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/pp.json",
+            "url": "https://cdn.jsdelivr.net/gh/hero1898/hero1898.github.io/px.json",
 
             "name": "🐹PX影视🐹"
 
