@@ -96,7 +96,7 @@
 {"key":"文采","name":"💮文采秒播💮","type":3,"api":"csp_JpysGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长秒播📔","type":3,"api":"csp_NewCzGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"糯米","name":"🍓糯米秒播🍓","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-//{"key":"比特","name":"🍄比特秒播🍄","type":3,"api":"csp_BttwooGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"比特","name":"🍄比特秒播🍄","type":3,"api":"csp_BttwooGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"立播","name":"🌟立播秒播🌟","type":3,"api":"csp_LibvioGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 //{"key":"鲸鱼","name":"👀鲸鱼秒播👀","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"},
 {"key":"原创","name":"☀原创不卡☀","type":3,"api":"csp_YCyzGuard","timeout":30,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
