@@ -1,0 +1,60 @@
+[
+    {
+        "name": "魅力人直播",
+        "url": "http://gitlab.com/meoliren/tv/-/raw/main/zhibo.txt?ref_type=heads",
+        "group": 1
+    },  
+ {
+        "name": "范明明ipv6",
+        "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+        "group": 1
+    },   
+    {
+        "name": "大葱Gather",
+        "url": "https://tv.iill.top/m3u/Gather"
+    },
+    {
+        "name": "大葱Live",
+        "url": "https://tv.iill.top/m3u/Live"
+    },
+    {
+        "name": "大葱Sport",
+        "url": "https://tv.iill.top/m3u/Sport"
+    },
+    {
+        "name": "YanG",
+        "url": "https://tv.iill.top/m3u/Gather"
+    },
+    {
+        "name": "YanG体育",
+        "url": "https://tv.iill.top/m3u/Sport"
+    },
+    {
+        "name": "摸鱼",
+        "url": "http://110.40.61.139:2189/live.php"
+    },
+    {
+        "name": "讴歌",
+        "url": "https://xn--pggp-rp5imh.v.nxog.top/m//tv/"
+    },
+    {
+        "name": "蓝色",
+        "url": "https://gitea.moe/Fathers/EkfkgH/raw/branch/main/yyfug.txt"
+    },
+    {
+        "name": "天微",
+        "url": "https://11256.kstore.space/TWYS/lib/龍tv.txt"
+    },
+    {
+        "name": "恒星",
+        "url": "http://yuhuavip1.top/育华学堂/lib/dsj66.txt"
+    },
+    {
+        "name": "开心",
+        "url": "http://kxrj.site:55/lib/kx2024.txt"
+    },
+    {
+        "name": "日后",
+        "url": "http://rihou.cc:567/gggg.nzk"
+    }
+]

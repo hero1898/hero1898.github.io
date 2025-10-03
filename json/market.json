@@ -1,0 +1,470 @@
+[
+{
+    "name": "推荐",
+    "list": [
+      {
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/img/zsm.jpg",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/zsm.jpg"
+      }
+            ]
+},
+  
+{"name":"老潘软件站","list":[
+{"name":"影视仓 适用低版","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/影视仓V3_3.0.36.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/影视仓.png","version": "3.0.36"},
+{"name":"影视仓 功能版","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/影视仓5.0.10_1.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/影视仓.png","version": "5.0.10_1"},
+{"name":"影视仓 最新版","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/影视仓.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/影视仓.png","version": "6.0.3"},
+{"name":"可视TV 最新版","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/可视TV.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/可视TV.png","version": "2.0.8"}},
+{"name":"欧歌影视 适用低版","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/欧歌影视仓3.0.36.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/欧歌影视.png","version": "3.0.36"},
+{"name":"TiviMate_2.8.0","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/TiviMate_2.8.0_Premium.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/TiviMate.png","version": "2.8.0"},
+{"name":"Televizo_1.9.3.21","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/Televizo_1.9.3.21.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/Televizo.png","version": "1.9.3.21"},
+{"name":"PXTV","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/PXTV.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/PXTV.png"},
+{"name":"PX电视","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/PX电视.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/PX电视.jpg"},
+{"name":"PX电视直播","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/PX电视直播.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/PX电视直播.png"},
+{"name":"我的电视","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/mytv.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/mytv.png"},
+{"name":"LMUltimate","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/LMUltimate_v1.01.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/LMUItimate.png"},
+{"name":"当贝市场","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/当贝市场.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/当贝市场.png"},
+{"name":"当贝投屏","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/当贝投屏.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/当贝投屏.png"},
+{"name":"当贝桌面TV版_去广告_去更新_精简优化版","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/当贝桌面TV版_4_22_去广告_去更新_精简优化.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/dangbei.png"},
+{"name":"Emotn_UI_精简版","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/Emotn_UI_1.0.9.0_精简版.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/Emotn_UI.png"},
+{"name":"Via浏览器","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/Via浏览器.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/Via.png"},
+{"name":"小盒精灵","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/小盒精灵_1.4.1.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/小盒精灵.png"},
+{"name":"cx文件管理器","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/cx文件管理器.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/cx文件管理器.png"},
+{"name":"IKTV 卡拉OK 破解版","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/IKTV.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/IKTV.png"},
+{"name":"贝乐虎儿歌","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/贝乐虎儿歌.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/贝乐虎.png"},
+{"name":"洛雪音乐","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/LX_Music.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/LX_Music.png"},
+{"name":"洛雪音乐-六音音源文件","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/六音音乐源_v1.10.js","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/LX_Music.png"},
+{"name":"MusicFree","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/musicfree_v0.1.2.apk","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/musicfree.png"},
+{"name":"MusicFree插件地址","url":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/musicfree插件地址.txt","icon":"https://git.acwing.com/pxiptv/tv/-/raw/main/apk/musicfree.png"}
+]},
+
+{
+        "name": "电视工具助手",
+        "list": [
+            {
+                "name": "野草助手",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/野草助手.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "欢视助手",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/huanshi.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "当贝桌面",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/dangbei_4.1.7.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "clash-meta",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/clash-meta.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "clash-meta-v8",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/clash-meta-v8.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0.1"
+            },
+            {
+                "name": "SmartTube-tv",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/SmartTube-tv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "抓包工具",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/HttpCanary.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "K歌-IKTV",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/iktv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v2.0"
+            },
+            {
+                "name": "哔哩哔哩-TV",
+                "url": "https://gitee.com/huaitingpeng/movies/raw/main/app/bilibilitv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v9.0"
+            },
+            {
+                "name": "哔哩哔哩-最新",
+                "url": "https://raw.githubusercontent.com/qidian55/bilibilitv1.6.6-repair/main/mybv.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "v10.0"
+            }
+        ]
+    },
+
+  {
+    "name": "手机应用商店",
+    "list": [
+		
+ {
+        "name": "影迷手机版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影迷.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/250.png",
+        "version": "v2.3.5"
+      },
+ {
+        "name": "EasyBox手机版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/EasyBox.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/251.png",
+        "version": "v1.3.0"
+      },
+ {
+        "name": "MBox手机版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/MBox.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/235.png",
+        "version": "v1.0.0"
+      },		
+ {
+        "name": "影音壳子手机版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影音壳子.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/252.png",
+        "version": "v1.6.8"
+      },
+ {
+        "name": "影视手机版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视手机.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
+        "version": "v9.9.9_64位java"
+      },
+
+{
+        "name": "海阔视界手机版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/海阔视界.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/248.png",
+        "version": "v8.11"
+      },
+ {
+        "name": "M浏览器手机版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/M浏览器.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/237.png",
+        "version": "v3.0.4"
+      },	
+ {
+        "name": "AdGuard去广告",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/AdGuard.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/238.png",
+        "version": "v4.3.68"
+      },
+ {
+        "name": "LocalSend文件传输",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/LocalSend.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/239.png",
+        "version": "v1.10.0"
+      },
+ {
+        "name": "TVBOX助手",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/TVBOX助手.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/240.png",
+        "version": "v1.3.0"
+      },
+ {
+        "name": "调试助手",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/调试助手.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/241.png",
+        "version": "v3.0.2"
+      },
+ {
+        "name": "APK.1安装器",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/APK.1安装器.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/255.png",
+        "version": "v1.9.0"
+      },		
+ {
+        "name": "一个木函 ",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/一个木函.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/253.png",
+        "version": "v7.17.0"
+      },		
+
+ {
+        "name": "MT管理器",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/MT管理器.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/243.png",
+        "version": "v2.14.1"
+      },
+ {
+        "name": "NP管理器",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/NP管理器.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/245.png",
+        "version": "v3.0.76"
+      },
+ {
+        "name": "云注入",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/云注入203.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/259.png",
+        "version": "v2.0.3"
+      },
+ {
+        "name": "apktoolm反编译",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/apktoolm.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/257.png",
+        "version": "v2.4.0"
+      },
+		
+ {
+        "name": "阅读",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/阅读.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/254.png",
+        "version": "v3.23.110211最后一个版本"
+      },
+      {
+        "name": "甲壳虫adb助手",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/甲壳虫adb助手.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/229.png",
+        "version": "v1.30"
+      },
+		
+     {
+        "name": "fastnat内网穿透",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/fastnat.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/227.png",
+        "version": "v1.0.0"
+      }		
+    ]
+  },
+
+  {
+    "name": "电视应用商店",
+    "list": [
+ {
+        "name": "OneTV电视版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/OneTV.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/249.png",
+        "version": "v2.3.1"
+      },
+ {
+        "name": "影视TV内置版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视207.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
+        "version": "v2.0.7_32位java"
+      },		
+ {
+        "name": "萱萱影视TV版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/萱萱影视5010.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/258.png",
+        "version": "v5.0.10"
+      },				
+ {
+        "name": "TVBox黑盒电视版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/TVBox黑盒.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/256.png",
+        "version": "v20231101-0006_takagen99"
+      },			
+ {
+        "name": "电视家去广告VIP版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/电视家.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/246.png",
+        "version": "v3.10.25"
+      },
+ {
+        "name": "秒看直播去广告",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/秒看直播.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/247.png",
+        "version": "v7.9.5"
+      },
+     {
+        "name": "小盒精灵",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/小盒精灵.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/230.png",
+        "version": "v1.4.1"
+      },
+
+ {
+        "name": "ES文件浏览器_电视优化版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/ES文件浏览器.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/233.png",
+        "version": "v4.2.3.31"
+      },	
+
+ {
+        "name": "小白文件管理器TV版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/小白文件管理器.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/234.png",
+        "version": "v1.0"
+      }				
+	    ]
+  },
+
+ {
+    "name": "特殊版本应用",
+    "list": [
+ {
+        "name": "NP管理器去广告",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/NP管理器3062.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/245.png",
+        "version": "v3.0.62安装后立即禁网"
+      },
+	 {
+        "name": "影视仓4.0.34版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视仓4034.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/236.png",
+        "version": "v4.0.34"
+      },
+ {
+        "name": "影视仓5.0.6版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视仓506.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/236.png",
+        "version": "v5.0.6"
+      },		
+ {
+        "name": "影视电视版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视电视.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
+        "version": "v9.9.9_32位java"
+      },
+ {
+        "name": "影视电视安卓4版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视安卓4.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
+        "version": "v9.9.9_32位java"
+      },		
+ {
+        "name": "影视TV内置版",
+        "url": "https://download.kstore.space/download/4645/Tvbox/myks/apk/影视207.apk",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/242.png",
+        "version": "v2.0.7_32位java"
+      }
+
+	]
+ },
+{
+    "name": "正式版",
+    "list": [
+      {
+        "name": "电视-java",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "电视-java",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "电视-py",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "电视-py",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手机-java",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手机-java",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手机-py",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手机-py",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      }
+    ]
+  },
+  {
+    "name": "内测版",
+    "list": [
+      {
+        "name": "电视-java",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "电视-java",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "电视-py",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      },
+      {
+        "name": "电视-py",
+        "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手机-java",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手机-java",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      },
+      {
+        "name": "手机-py",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v7a"
+      },
+      {
+        "name": "手机-py",
+        "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
+        "version": "v8a"
+      }
+    ]
+  },
+  {
+    "name": "4.x版",
+    "list": [
+      {
+        "name": "电视",
+        "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+        "version": "v7a"
+      }
+    ]
+  },
+	
+	{
+    "name": "本地包（默认在Download文件夹内）",
+    "list": [
+      {
+        "name": "老潘 猫影视PC版",
+        "url": "https://git.acwing.com/pxiptv/tv/-/raw/main/%E7%8C%AB%E5%BD%B1%E8%A7%86.rar",
+        "icon": "https://download.kstore.space/download/4645/Tvbox/myks/img/231.png",
+				"version": "v20231104解压使用"
+      } 
+    ]
+  }
+]

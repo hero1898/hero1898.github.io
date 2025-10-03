@@ -1,0 +1,80 @@
+{
+  "desc": "0.2.0",
+  "plugins": [
+    {
+      "name": "小秋音乐",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaoqiu.js",
+      "version": "0.0.2"
+    },
+    {
+      "name": "小蜜音乐",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaomi.js",
+      "version": "0.0.2"
+    },
+    {
+      "name": "小芸音乐",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaoyun.js",
+      "version": "0.0.2"
+    },
+    {
+      "name": "小蜗音乐",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaowo.js",
+      "version": "0.0.2"
+    },
+    {
+      "name": "元力QQ",
+      "url": "http://music.haitangw.net/cqapi/qq.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "元力酷我",
+      "url": "http://music.haitangw.net/cqapi/kw.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "元力酷狗",
+      "url": "http://music.haitangw.net/cqapi/kg.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "元力小米",
+      "url": "http://music.haitangw.net/cqapi/xiaomi.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
+      "version": "0.2.2"
+    },
+    {
+      "name": "5sing",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/5sing.js",
+      "version": "0.0.3"
+    },
+    {
+      "name": "猫耳FM",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/maoerfm/index.js",
+      "version": "0.1.4"
+    },
+    {
+      "name": "歌曲宝",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/gequbao.js",
+      "version": "0.0.5"
+    },
+    {
+      "name": "爱听",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/at.js",
+      "version": "0.0.6"
+    },
+    {
+      "name": "种子",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/zz.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "WebDAV",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/webdav/index.js",
+      "version": "0.0.2"
+    }
+  ]
+}
