@@ -112,7 +112,16 @@
 //{"key":"Dm84","name":"🚌巴士动漫🚌","type":3,"api":"csp_Dm84Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"Ysj","name":"🎀异界动漫🎀","type":3,"api":"csp_YsjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"Anime1","name":"🐾日本动漫🐾","type":3,"api":"csp_Anime1Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-	
+
+##摸鱼儿系列
+{"key":"醉挽清风","name":"♨️醉挽清风♨️","type":4,"api":"http://我不是.摸鱼儿.top/api/yuyutx.php","searchable":1,"quickSearch":1,"changeable":0,"jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c"},
+{"key":"驿站","name":"🌀驿站超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c","ext":{
+"url":"","site":"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt","dataKey":"dyyztvapiappyyds","dataIv":"dyyztvapiappyyds","deviceId":"","version":"","ua":""}},
+{"key":"五八","name":"🌀五八超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c","ext":{
+"url":"https://dy.58ys.vip","site":"","dataKey":"JEWibY1AgWF0V1xx","dataIv":"JEWibY1AgWF0V1xx","deviceId":"","version":"","ua":""}},
+{"key":"旗星","name":"🌀旗星超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c","ext":{
+"url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"}},
+
 ##搜索系列
 //{"key":"抠搜","name":"🛢️抠抠搜搜🛢️","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 //{"key":"UC","name":"🌈优汐搜搜🌈","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
