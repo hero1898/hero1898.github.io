@@ -18,7 +18,7 @@
 {"key":"原创","name":"🧧修罗影视🧧","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"白白","name":"🐟素白秒播🐟","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key": "iKanbot","name": "🥽iKanbot秒播🥽","type": 3,"api": "csp_Ikanbot","jar": "./jar/iKanbot.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://v.aikanbot.com"},
-{"key": "至臻","name": "💌️至臻影视💌️","type": 3,"api": "csp_Wobg","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN","jar":"./pg.jar;md5;eebd540f3a683eb8c5b4f5a61288053d"},	
+//{"key": "至臻","name": "💌️至臻影视💌️","type": 3,"api": "csp_Wobg","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$ZHIZHEN","jar":"./pg.jar;md5;eebd540f3a683eb8c5b4f5a61288053d"},	
 //{"key":"Mogg","name":"🗼木偶网盘🗼","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://123.666291.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG","jar":"./pg.jar;md5;eebd540f3a683eb8c5b4f5a61288053d"},
 //{"key":"FourKFox","name":"🌶️极狐影视4K🌶️","type":3,"api":"csp_FourKFox","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://4kfox.com/$$$noproxy$$$1$$$./lib/4kfox.txt$$$4KFOX","jar":"./pg.jar;md5;eebd540f3a683eb8c5b4f5a61288053d"},
 
@@ -33,14 +33,14 @@
 //{"key":"农民","name":"🖍️农民极速🖍️","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.wwgz.cn","jar":"https://13826.kstore.vip/logo.png"},
 
 ##月佬影视
-{"key":"月佬瓜子影视","name":"🦆月佬瓜子影视🦆","type":4,"api":"https://tvbot.ggff.net/guazi"},
+//{"key":"月佬瓜子影视","name":"🦆月佬瓜子影视🦆","type":4,"api":"https://tvbot.ggff.net/guazi"},
 //{"key":"Qile优视频","name":"🦆Qile优视频🦆","type":4,"api":"https://tvbot.ggff.net/uvod"},
 {"key":"电影天堂","name":"🦆电影天堂🦆","type":4,"api":"https://tvbot.ggff.net/dytt"},
 {"key":"嗷呜小苹果","name":"🦆嗷呜小苹果🦆","type":4,"api":"https://tvbot.ggff.net/pingguo"},
 //{"key":"嗷呜爱瓜TV","name":"🦆嗷呜爱瓜TV🦆","type":4,"api":"https://tvbot.ggff.net/aigua"},
 //{"key":"嗷呜金牌影院","name":"🦆嗷呜金牌影院🦆","type":3,"api":"https://tvbot.dpdns.org/py_jinpai.py"},
 //{"key":"欧乐影院","name":"🦆欧乐影院🦆","type":4,"api":"https://tvbot.ggff.net/oule"},
-{"key":"荐片","name":"🦆荐片🦆","type":3,"api":"https://tvbot.dpdns.org/py_jianpian.py"},
+//{"key":"荐片","name":"🦆荐片🦆","type":3,"api":"https://tvbot.dpdns.org/py_jianpian.py"},
 {"key":"独播库","name":"🦆独播库🦆","type":4,"api":"https://tvbot.ggff.net/duboku"},
 //{"key":"嗷呜剧爸爸","name":"🦆嗷呜剧爸爸🦆","type":3,"api":"https://tvbot.dpdns.org/py_jubaba.py"},
 	
@@ -76,7 +76,7 @@
 //{"key": "爱","name": "🌲️奇珍异兽🌲️","type": 3,"api": "./py/py_爱.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
 //{"key": "优","name": "▶️优优影视▶️","type": 3,"api": "./py/优.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},	
 //{"key": "盘友","name": "⛷️盘友圈⛷️","type": 3,"api": "./py/盘友圈.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},		
-{"key": "荐片","name": "🚁荐片影视🚁","type": 3,"api": "./py/py_jianpian.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
+//{"key": "荐片","name": "🚁荐片影视🚁","type": 3,"api": "./py/py_jianpian.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
 //{"key": "光速","name": "💡光速影视💡","type": 3,"api": "./py/py_光速.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
 //{"key": "mp","name": "🥌MP影视🥌","type": 3,"api": "./py/py_mp.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
 //{"key": "cntv央视","name": "🦆CNTV央视🦆","type": 3,"api": "./py/py_cntv央视.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},	
@@ -89,6 +89,7 @@
 //{"key":"界界影视","name":"🐌界界影视🐌","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","ext": {"主页url": "https://www.hkybqufgh.com/","简介": "</label>&&</div>","影片类型": "tags\">&&director\">","影片状态": "bottom\">&&</div>","二次截取": "videoList\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "https+://ywxohs.com+obs.gduamoe.com&&\",","标题": "vodName\":\"&&\"","副标题": "vodRemarks\":\"&&\"","链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,","导演": "导演:</div>&&主演","主演": "主演:</div>&&别名","线路标题": "寶寳","播放数组": "listitem\">&&info\">","播放列表": "<a&&</a>","倒序": "否","搜索url": "https://www.hkybqufgh.com/vod/search/{wd}","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
 	
 ##饭太硬系列
+{"key":"荐片","name":"🐭荐片P2P🐭","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"直播转点播","name": "🥉️电视直播🥉️","type": 3,"searchable": 0,"api": "./lib/live2vod.js","ext": "./live/feimaolive.json","jar":"./pg.jar;md5;eebd540f3a683eb8c5b4f5a61288053d"},
 //{"key":"直播频道","name":"🍐老张直播🍐","type":4,"api":"http://zhangqun66.com/zh/2241-2.php","searchable":1,"changeable":0,"ext":"1,2,3","ext":"","jar":"https://tvbot.dpdns.org/spider.jar"},
 {"key":"天堂影视","name":"🍃天堂影视🍃","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/spider.jar"},
@@ -107,7 +108,6 @@
 //{"key":"红豆","name":"🍊红豆多线🍊","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZ183jzSI6L432F1wEM1kc4mV87fQxIbwNi40y4T/RKJAUnj9z8A=="},
 {"key":"下饭","name":"🍙下饭多线🍙","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="},
 //{"key":"奥特","name":"🏝奥特多线🏝","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
-{"key":"荐片","name":"🐭荐片P2P🐭","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"新6V","name":"🧲新6V磁力🧲","type":3,"api":"csp_SixVGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
 //{"key":"Dm84","name":"🚌巴士动漫🚌","type":3,"api":"csp_Dm84Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"Ysj","name":"🎀异界动漫🎀","type":3,"api":"csp_YsjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
