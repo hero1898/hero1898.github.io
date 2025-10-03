@@ -2,7 +2,7 @@
     "urls": [
         {
 
-            "url": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/refs/heads/main/px.json",
+            "url": "https://cdn.jsdelivr.net/gh/hero1898/hero1898.github.io/px.json",
 
             "name": "🐹PX影视🐹"
 
@@ -10,7 +10,7 @@
         {
 
 
-            "url": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/refs/heads/main/og.json",
+            "url": "https://cdn.jsdelivr.net/gh/hero1898/hero1898.github.io/og.json",
 
             "name": "🐹PX旧版影视🐹"
 
@@ -38,14 +38,14 @@
         },
         {
 
-            "url": "https://raw.bgithub.xyz/alantang1977/X/main/X.json",
+            "url": "https://cdn.jsdelivr.net/gh/alantang1977/X/X.json",
 
             "name": "😻汤影视❶😻"
 
         },
         {
 
-            "url": "https://raw.bgithub.xyz/alantang1977/X/main/aTV.json",
+            "url": "https://cdn.jsdelivr.net/gh/alantang1977/X/aTV.json",
 
             "name": "😻汤影视❷😻"
 
@@ -73,21 +73,14 @@
         },
         {
 
-            "url": "https://raw.bgithub.xyz/alantang1977/X/8bd76280e4388fc9ff41740830a10d294fd8a6cb/X.json",
-
-            "name": "🚀PG线路🚀"
-
-        },
-        {
-
-            "url": "https://raw.bgithub.xyz/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule/XYQTVBox.json",
 
             "name": "🚀香雅情🚀"
 
         },
         {
 
-            "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+            "url": "https://3ec.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=3ec",
 
             "name": "📢欧歌线路📢"
 
