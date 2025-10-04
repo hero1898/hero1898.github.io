@@ -2,7 +2,7 @@
     "urls": [
         {
 
-            "url": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/px.json",
+            "url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/px.json",
 
             "name": "🐹PX影视🐹"
 
@@ -10,7 +10,7 @@
         {
 
 
-            "url": "https://raw.bgithub.xyz/hero1898/hero1898.github.io/main/og.json",
+            "url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/og.json",
 
             "name": "🐹PX旧版影视🐹"
 
@@ -38,14 +38,14 @@
         },
         {
 
-            "url": "https://raw.bgithub.xyz/alantang1977/X/main/X.json",
+            "url": "https://raw.kkgithub.com/alantang1977/X/main/X.json",
 
             "name": "😻汤影视❶😻"
 
         },
         {
 
-            "url": "https://raw.bgithub.xyz/alantang1977/X/main/aTV.json",
+            "url": "https://raw.kkgithub.com/alantang1977/X/main/aTV.json",
 
             "name": "😻汤影视❷😻"
 
@@ -80,7 +80,14 @@
         },
         {
 
-            "url": "https://raw.bgithub.xyz/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://raw.kkgithub.com/hl128k/tvbox/main/tv/1/franksun1211_0706.json",
+
+            "name": "🚀franksun🚀"
+
+        },
+        {
+
+            "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
 
             "name": "🚀香雅情🚀"
 
