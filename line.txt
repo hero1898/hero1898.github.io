@@ -63,7 +63,14 @@
 
             "name": "🚀摸鱼儿4K🚀"
 
-        },  
+        },
+        {
+
+            "url": "http://xhztv.top/4k.json",
+
+            "name": "📦小盒子4K📦"
+
+        },
         {
 
             "url": "http://cdn.qiaoji8.com/tvbox.json",
