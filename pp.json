@@ -29,12 +29,12 @@
 {"key":"天堂影视","name":"🍃天堂影视🍃","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/spider.jar"},
 //{"key":"seed","name":"💡聚剧剧三盘💡","type":3,"api":"csp_SeedhubGuard","changeable":0,"ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":1,"quickSearch":1,"indexs":0,"style":{"type":"list"}},
 {"key":"文采","name":"💮文采秒播💮","type":3,"api":"csp_JpysGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"厂长","name":"📔厂长秒播📔","type":3,"api":"csp_NewCzGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"厂长","name":"📔厂长秒播📔","type":3,"api":"csp_NewCzGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"糯米","name":"🍓糯米秒播🍓","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"比特","name":"🍄比特秒播🍄","type":3,"api":"csp_BttwooGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"立播","name":"🌟立播秒播🌟","type":3,"api":"csp_LibvioGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 //{"key":"鲸鱼","name":"👀鲸鱼秒播👀","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"},
-{"key":"原创","name":"☀原创不卡☀","type":3,"api":"csp_YCyzGuard","timeout":30,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"原创","name":"☀原创不卡☀","type":3,"api":"csp_YCyzGuard","timeout":30,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"苹果","name":"🍎苹果不卡🍎","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"低端","name":"⏮️低端外剧⏮️","type":3,"api":"csp_DdrkGuard","timeout":15,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"欢视","name":"👓欢视多线👓","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
@@ -219,7 +219,7 @@
 //{"key":"儿童英语","name":"🧒儿童英语🧒","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/我的哔哩.js?type=url&params=https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/儿童英语.json"},
 //{"key":"儿童硬笔","name":"🧒儿童硬笔🧒","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/我的哔哩.js?type=url&params=https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/儿童硬笔.json"},
 //{"key":"儿童编程","name":"🧒儿童编程🧒","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/我的哔哩.js?type=url&params=https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/儿童编程.json"},
-//{"key":"儿童武术","name":"🧒儿童武术🧒","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/我的哔哩.js?type=url&params=https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/儿童武术.json"},
+{"key":"儿童武术","name":"🧒儿童武术🧒","type":3,"api":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/我的哔哩.js?type=url&params=https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/儿童武术.json"},
 {"key": "直播转点播","name": "📺︎操作教程📺︎","type": 3,"api": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/zbzdb2.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/txt/om.json","jar": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0"}],
 
 "lives": [
