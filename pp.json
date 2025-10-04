@@ -72,6 +72,16 @@
 {"key":"旗星","name":"🌀旗星超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c","ext":{
 "url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"}},
 
+##FrankSun系列
+{"key":"热播影视","name":"🐆热播APP🐆","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"},"jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
+{"key":"狂人","name":"🐆狂人APP🐆","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.zjkrmv.vip","site":"","dataKey":"vXeyuJFqTKqWUtWU","dataIv":"vXeyuJFqTKqWUtWU","deviceId":"","version":"","ua":""},"jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
+{"key":"蔬菜","name":"🐆蔬菜APP🐆","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","site":"","dataKey":"huohushipingetap","dataIv":"huohushipingetap","deviceId":"","version":"140","ua":""},"jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
+{"key":"灵虎","name":"🐆灵虎APP🐆","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://bind.315999.xyz/89.txt","dataKey":"#getapp@TMD@2025","dataIv":"#getapp@TMD@2025","deviceId":"","version":"120"},"jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
+{"key":"豆丁","name":"🐆豆丁4K🐆","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://45.66.157.77:9427","site":"","dataKey":"Xasdasd!123123dd","dataIv":"Xasdasd!123123dd","deviceId":"","version":"","ua":""},"jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
+{"key":"骚火影视","name":"🐆骚火影视🐆","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us","jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
+{"key":"永乐影视","name":"🐆永乐影视🐆","type":3,"api":"csp_XBPQ","ext":"https://raw.kkgithub.com/qist/tvbox/master/xiaosa/XBPQ/永乐影视.json","jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
+{"key":"短剧网","name":"🐆短剧视频🐆","type":3,"api":"csp_XBPQ","ext":"https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/XBPQ/短剧网.json","jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
+
 ##小米系列
 //{"key":"仓鼠2","name":"🐨仓鼠小米🐨","quickSearch":0,"searchable":1,"type":3,"api":"csp_AppQi","ext":"lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A","jar":"https://13826.kstore.vip/logo.png"},
 //{"key":"猪猪","name":"🐷小猪影视🐷","quickSearch":0,"searchable":1,"type":3,"api":"csp_AppGet","ext":"I7L3u12iTGax7pIKDBrd0Czr1qZntIntytqeFyDzetDIICoeNSd3afmMXMhm296uAkb3qZ7kxihetfT8V6h4kw==","jar":"https://13826.kstore.vip/logo.png"},
