@@ -73,11 +73,11 @@
 "url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"}},
 
 ##巧技系列
-{"key":"天天","name":"天天App","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
-{"key":"剧评","name":"剧评App","type":3,"api":"csp_Jpys","playerType":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
-{"key":"lanyingys","name":"橘子APP","type":3,"api":"csp_Muou","playerType":2,"ext":"7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
-{"key":"客星","name":"客星App","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
-{"key":"柠檬","name":"柠檬App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
+{"key":"天天","name":"🍋天天App🍋","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
+{"key":"剧评","name":"🍋剧评App🍋","type":3,"api":"csp_Jpys","playerType":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
+{"key":"lanyingys","name":"🍊橘子APP🍊","type":3,"api":"csp_Muou","playerType":2,"ext":"7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
+{"key":"客星","name":"🍋客星App🍋","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
+{"key":"柠檬","name":"🍋柠檬App🍋","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
 
 ##FrankSun系列
 {"key":"热播影视","name":"🐆热播APP🐆","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"},"jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
