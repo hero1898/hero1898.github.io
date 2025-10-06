@@ -64,12 +64,12 @@
 {"key":"csp_LiteApple","name":"🍎苹果影视🍎","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://hello.xn--z7x900a.com/PandaQ251006.png;md5;be9654326035e9a2c43563d3591c2daf"},
 
 ##摸鱼儿系列
-{"key":"醉挽清风","name":"♨️醉挽清风♨️","type":4,"api":"http://我不是.摸鱼儿.top/api/yuyutx.php","searchable":1,"quickSearch":1,"changeable":0,"jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;d05682253e19d1702763b4009002a872"},
-{"key":"驿站","name":"🌀驿站超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;d05682253e19d1702763b4009002a872","ext":{
+{"key":"醉挽清风","name":"♨️醉挽清风♨️","type":4,"api":"http://我不是.摸鱼儿.top/api/yuyutx.php","searchable":1,"quickSearch":1,"changeable":0,"jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c"},
+{"key":"驿站","name":"🌀驿站超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c","ext":{
 "url":"","site":"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt","dataKey":"dyyztvapiappyyds","dataIv":"dyyztvapiappyyds","deviceId":"","version":"","ua":""}},
-{"key":"五八","name":"🌀五八超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;d05682253e19d1702763b4009002a872","ext":{
+{"key":"五八","name":"🌀五八超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c","ext":{
 "url":"https://dy.58ys.vip","site":"","dataKey":"JEWibY1AgWF0V1xx","dataIv":"JEWibY1AgWF0V1xx","deviceId":"","version":"","ua":""}},
-{"key":"旗星","name":"🌀旗星超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;d05682253e19d1702763b4009002a872","ext":{
+{"key":"旗星","name":"🌀旗星超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c","ext":{
 "url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"}},
 
 ##FrankSun系列
