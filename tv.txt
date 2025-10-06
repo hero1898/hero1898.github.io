@@ -122,13 +122,8 @@ CCTV15,http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&a
 
 CCTV4欧洲,https://migu.188766.xyz/?migutoken=e148a460cbf688795dfb4aa4973759eb&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
 CCTV4美洲,https://migu.188766.xyz/?migutoken=9b0e78a13f20050115a8ace78f5f2899&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
-北京卫视4K,https://migu.188766.xyz/?migutoken=4de3a99b22fd347ac2c3019df7c6454b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
-深圳卫视4K,https://migu.188766.xyz/?migutoken=3100906f039cd53c8274bdf515d565e3&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-北京卫视4K,https://migu.188766.xyz/?migutoken=3db112733dbbd9d9081b733f24d7aaa4&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
-深圳卫视4K,https://migu.188766.xyz/?migutoken=6dbfdaaddc42715e00238b7ddf205493&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 北京卫视4K,https://migu.188766.xyz/?migutoken=3ba98b3dc82a99de48a77ccf8f563262&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 深圳卫视4K,https://migu.188766.xyz/?migutoken=9f76a736c3a26876eb6cede8a1b18413&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-广东卫视4K,https://migu.188766.xyz/?migutoken=778ab242151e75cc916ece523e4828e0&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K&pp=1
 
 🛰️卫视频道🛰️,#genre#
 湖南卫视,http://59.173.120.39:4022/rtp/239.254.96.139:8908
