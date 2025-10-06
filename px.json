@@ -64,13 +64,20 @@
 {"key":"csp_LiteApple","name":"🍎苹果影视🍎","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://hello.xn--z7x900a.com/PandaQ251006.png;md5;be9654326035e9a2c43563d3591c2daf"},
 
 ##摸鱼儿系列
-{"key":"醉挽清风","name":"♨️醉挽清风♨️","type":4,"api":"http://我不是.摸鱼儿.top/api/yuyutx.php","searchable":1,"quickSearch":1,"changeable":0,"jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;d05682253e19d1702763b4009002a872"},
-{"key":"驿站","name":"🌀驿站超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;d05682253e19d1702763b4009002a872","ext":{
+{"key":"醉挽清风","name":"♨️醉挽清风♨️","type":4,"api":"http://我不是.摸鱼儿.top/api/yuyutx.php","searchable":1,"quickSearch":1,"changeable":0,"jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c"},
+{"key":"驿站","name":"🌀驿站超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c","ext":{
 "url":"","site":"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt","dataKey":"dyyztvapiappyyds","dataIv":"dyyztvapiappyyds","deviceId":"","version":"","ua":""}},
-{"key":"五八","name":"🌀五八超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;d05682253e19d1702763b4009002a872","ext":{
+{"key":"五八","name":"🌀五八超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c","ext":{
 "url":"https://dy.58ys.vip","site":"","dataKey":"JEWibY1AgWF0V1xx","dataIv":"JEWibY1AgWF0V1xx","deviceId":"","version":"","ua":""}},
-{"key":"旗星","name":"🌀旗星超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;d05682253e19d1702763b4009002a872","ext":{
+{"key":"旗星","name":"🌀旗星超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c","ext":{
 "url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"}},
+
+##巧技系列
+{"key":"天天","name":"🍋天天App🍋","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
+{"key":"剧评","name":"🍋剧评App🍋","type":3,"api":"csp_Jpys","playerType":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
+{"key":"lanyingys","name":"🍊橘子APP🍊","type":3,"api":"csp_Muou","playerType":2,"ext":"7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
+{"key":"客星","name":"🍋客星App🍋","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
+{"key":"柠檬","name":"🍋柠檬App🍋","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
 
 ##FrankSun系列
 {"key":"热播影视","name":"🐆热播APP🐆","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"},"jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
