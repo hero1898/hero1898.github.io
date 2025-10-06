@@ -23,7 +23,7 @@
 //{"key":"FourKFox","name":"🌶️极狐影视4K🌶️","type":3,"api":"csp_FourKFox","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://4kfox.com/$$$noproxy$$$1$$$./lib/4kfox.txt$$$4KFOX","jar":"./pg.jar;md5;eebd540f3a683eb8c5b4f5a61288053d"},
 
 ##饭太硬系列
-{"key":"荐片","name":"🐭荐片P2P🐭","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
+//{"key":"荐片","name":"🐭荐片P2P🐭","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 //{"key":"直播转点播","name": "🥉️电视直播🥉️","type": 3,"searchable": 0,"api": "./lib/live2vod.js","ext": "./live/feimaolive.json","jar":"./pg.jar;md5;eebd540f3a683eb8c5b4f5a61288053d"},
 //{"key":"直播频道","name":"🍐老张直播🍐","type":4,"api":"http://zhangqun66.com/zh/2241-2.php","searchable":1,"changeable":0,"ext":"1,2,3","ext":"","jar":"https://tvbot.dpdns.org/spider.jar"},
 //{"key":"天堂影视","name":"🍃天堂影视🍃","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"./jar/spider.jar"},
@@ -48,7 +48,7 @@
 //{"key":"Anime1","name":"🐾日本动漫🐾","type":3,"api":"csp_Anime1Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 
 ##肥猫系列
-//{"key": "荐片","name": "🎬荐片影视🎬","api": "csp_Jianpian","type": 3,"playerType": "2","jar":"http://hello.xn--z7x900a.com/PandaQ251006.png;md5;be9654326035e9a2c43563d3591c2daf"},
+{"key":"荐片","name":"🎬荐片影视🎬","api":"csp_Jianpian","type":3,"playerType":"2","ext":"https://ev2089.zxbwv.com","jar":"http://hello.xn--z7x900a.com/PandaQ251006.png;md5;be9654326035e9a2c43563d3591c2daf"},
 {"key": "csp_Jpys","name": "🥇️金牌影视🥇️","type": 3,"api": "csp_Jpys","jar":"http://hello.xn--z7x900a.com/PandaQ251006.png;md5;be9654326035e9a2c43563d3591c2daf"},
 {"key":"csp_KmeiJu","name":"🍐鸭梨影视🍐","type":3,"api":"csp_KmeiJu","jar":"http://hello.xn--z7x900a.com/PandaQ251006.png;md5;be9654326035e9a2c43563d3591c2daf"},
 {"key":"蔬菜","name":"🌿蔬菜影视🌿","type":3,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","dataKey":"huohushipingetap","siteApi":"get","version":"140"},"jar":"http://hello.xn--z7x900a.com/PandaQ251006.png;md5;be9654326035e9a2c43563d3591c2daf"},
