@@ -252,7 +252,8 @@
 {"name":"lhf0554","type":0,"playerType":2,"url": "https://raw.kkgithub.com/lhf0554/jx/master/output/result.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"wwb521","type":0,"playerType":2,"url": "https://raw.kkgithub.com/wwb521/live/main/tv.m3u","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"Moo930","type":0,"playerType":2,"url": "https://raw.kkgithub.com/Moo930/iptv-api/master/output/motv.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"Cx4x","type":0,"playerType":2,"url": "https://raw.kkgithub.com/Cx4x/xd/master/output/user_result.txt","logo": "https://live.fanmingming.com/tv/{name}.png"}],
+{"name":"Cx4x","type":0,"playerType":2,"url": "https://raw.kkgithub.com/Cx4x/xd/master/output/user_result.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"测试","type":0,"playerType":2,"url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/cs.txt","logo": "https://live.fanmingming.com/tv/{name}.png"}],
 
 "hosts": [
 	"cache.ott.ystenlive.itv.cmvideo.cn=itv.dns.xuran1983.cn",
