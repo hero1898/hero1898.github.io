@@ -84,6 +84,10 @@
 {"key":"客星","name":"🍋客星App🍋","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
 {"key":"柠檬","name":"🍋柠檬App🍋","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
 
+##OK杰克  https://raw.kkgithub.com/zx419d2o0/TasIkE/main/tv/vod/2.json
+{"key":"立播版","name":"🐰立播4K🐰","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30,"jar":""https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
+{"key":"热播","name":"📺热播App📺","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},"timeout":10,"jar":""https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
+
 ##FrankSun系列  https://raw.kkgithub.com/hl128k/tvbox/main/tv/1/franksun1211_0706.json
 //{"key":"热播影视","name":"🐆热播APP🐆","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"},"jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
 //{"key":"狂人","name":"🐆狂人APP🐆","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.zjkrmv.vip","site":"","dataKey":"vXeyuJFqTKqWUtWU","dataIv":"vXeyuJFqTKqWUtWU","deviceId":"","version":"","ua":""},"jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
