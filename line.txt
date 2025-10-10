@@ -87,6 +87,13 @@
         },
         {
 
+            "url": "http://fmys.top/fmys.json",
+
+           "name": "🌞附马影视🌞"
+
+        },
+        {
+
             "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
 
             "name": "🍀香雅情🍀"
