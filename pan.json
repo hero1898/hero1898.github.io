@@ -64,7 +64,7 @@
         },
         {
             "key": "小猪",
-            "name": "小猪丨APP",
+            "name": "小猪APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -80,7 +80,7 @@
         },
         {
             "key": "九零",
-            "name": "九零丨APP",
+            "name": "九零APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -96,7 +96,7 @@
         },
         {
             "key": "豆丁",
-            "name": "豆丁丨APP",
+            "name": "豆丁APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -112,7 +112,7 @@
         },
         {
             "key": "狂人",
-            "name": "狂人丨APP",
+            "name": "狂人APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -128,7 +128,7 @@
         },
         {
             "key": "驿站",
-            "name": "驿站丨APP",
+            "name": "驿站APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -144,7 +144,7 @@
         },
         {
             "key": "火狐",
-            "name": "火狐丨APP",
+            "name": "火狐APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
