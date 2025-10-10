@@ -82,14 +82,21 @@
 
             "url": "https://raw.kkgithub.com/zx419d2o0/TasIkE/main/tv/vod/2.json",
 
-           "name": "🌞OK杰克🌞"
+           "name": "🆗OK杰克🆗"
 
         },
         {
 
             "url": "http://fmys.top/fmys.json",
 
-           "name": "🌞附马影视🌞"
+           "name": "🐎附马影视🐎"
+
+        },
+        {
+
+            "url": "http://影视仓.com/",
+
+           "name": "🛖影视仓🛖"
 
         },
         {
