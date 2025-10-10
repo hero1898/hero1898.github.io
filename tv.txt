@@ -291,16 +291,6 @@ CCTV15,http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&a
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 
-凤凰中文,https://migu.188766.xyz/?migutoken=0cfbdda222baf7abfe425752a437d715&id=fhzw&pp=1
-凤凰资讯,https://migu.188766.xyz/?migutoken=d5e4584627feadc173775be6c31cee5b&id=fhzx&pp=1
-凤凰香港,https://migu.188766.xyz/?migutoken=03e27ada3ac88cf00475b243144d102a&id=fhhk&pp=1
-翡翠台,https://migu.188766.xyz/?migutoken=6df0fd7d4eedf168a960d740cc6248f8&id=jade_twn&type=dy
-翡翠台,https://migu.188766.xyz/?migutoken=89d5733ba0fa1473d69573b8f974e24d&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
-TVB明珠,https://migu.188766.xyz/?migutoken=c094137fd2841a098b80d60b2845fcc6&id=pearl_twn&type=dy
-TVB明珠,https://migu.188766.xyz/?migutoken=7587aa81b1dcc4ed3adff2166ecdaf82&id=pearl_twn&type=dy
-TVB星河,https://migu.188766.xyz/?migutoken=652e2244156cc732f985d9acf7d54724&id=Xinhe&type=dy
-TVB无线新闻,https://migu.188766.xyz/?migutoken=3dd77e0cb60522b50c0a671a59a0f3ef&id=inews_twn&type=dy
-
 NOW新闻,http://bxtv.3a.ink/api.php?id=now
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 
@@ -501,12 +491,6 @@ NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.
 
 🏆体育频道🏅,#genre#
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-掼蛋精英赛,https://migu.188766.xyz/?migutoken=78d830a20d0cbfda6397bb7f4d527149&id=%E6%8E%BC%E8%9B%8B%E7%B2%BE%E8%8B%B1%E8%B5%9B&type=yy
-24小时城市联赛轮播,https://migu.188766.xyz/?migutoken=54789ae7d8fdc708a497347bf564ea7d&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
-广东体育,http://bxtv.3a.ink/api.php?id=gdty
-五星体育,https://migu.188766.xyz/?migutoken=eb0eb828d5a28480f831b116694be480&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-五星体育,https://migu.188766.xyz/?migutoken=71ffa78ec0f711ac9ea667fb3b8b2c9c&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-北京体育休闲,https://migu.188766.xyz/?migutoken=e686305517d11d2a948b8d170a13aa58&id=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2&type=yy
 
 天元围棋,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/tywq_2000.m3u8
 快乐垂钓,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
@@ -605,19 +589,6 @@ CHC影迷电影,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live
 嘉佳卡通,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/jjkt_2000.m3u8
 动漫秀场,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
 金鹰纪实,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/jyjsHDH265_4000.m3u8
-
-CHC家庭影院,https://migu.188766.xyz/?migutoken=27c2c34c5229c57620068433b3ff639b&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
-CHC动作电影,https://migu.188766.xyz/?migutoken=8ab3de66740862918be4d457f8e1d7dc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
-CHC影迷电影,https://migu.188766.xyz/?migutoken=ae2a6c368d1b8b3e725d94af16131f78&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
-卡酷少儿,https://migu.188766.xyz/?migutoken=391498e802f5ea538ecb60c800be861a&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
-卡酷少儿,https://migu.188766.xyz/?migutoken=1023983db6b5249e61d4950c1654cd84&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
-优漫卡通,https://migu.188766.xyz/?migutoken=0407c4224f2cb636262e84e27021c9ff&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&type=yy
-嘉佳卡通,https://migu.188766.xyz/?migutoken=c4b4dd77da90bb8838fba56ed944d17c&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
-优漫卡通,https://migu.188766.xyz/?migutoken=0407c4224f2cb636262e84e27021c9ff&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&type=yy
-东方影视,https://migu.188766.xyz/?migutoken=6c5b70858d0091ce20ea7fe815cabafe&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
-上海都市,https://migu.188766.xyz/?migutoken=2f874035df0c1212db90a024f4670dce&id=ds&type=sz
-第一财经,https://migu.188766.xyz/?migutoken=4eeed88e86451880eab5645063fe966a&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&type=yy
-第一财经,https://migu.188766.xyz/?migutoken=b8d7dbd0bc89492df1c76fe83baa3f8d&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&type=yy
 
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHD高清电影,http://eastscreen.tv/ooooo.php?id=chchd
