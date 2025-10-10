@@ -69,13 +69,10 @@
 {"key":"WexkuihuatvGuard","name":"🌻葵花影视🌻","type":3,"api":"csp_WexkuihuatvGuard","searchable":1,"changeable":1,"jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"},
 
 ##摸鱼儿系列  http://我不是.摸鱼儿.top
-//{"key":"醉挽清风","name":"♨️醉挽清风♨️","type":4,"api":"http://我不是.摸鱼儿.top/api/yuyutx.php","searchable":1,"quickSearch":1,"changeable":0,"jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76"},
-//{"key":"驿站","name":"🌀驿站超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76","ext":{
-"url":"","site":"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt","dataKey":"dyyztvapiappyyds","dataIv":"dyyztvapiappyyds","deviceId":"","version":"","ua":""}},
-//{"key":"五八","name":"🌀五八超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76","ext":{
-"url":"https://dy.58ys.vip","site":"","dataKey":"JEWibY1AgWF0V1xx","dataIv":"JEWibY1AgWF0V1xx","deviceId":"","version":"","ua":""}},
-//{"key":"旗星","name":"🌀旗星超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76","ext":{
-"url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"}},
+{"key":"醉挽清风","name":"♨️醉挽清风♨️","type":4,"api":"http://我不是.摸鱼儿.top/api/yuyutx.php","searchable":1,"quickSearch":1,"changeable":0,"jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76"},
+{"key":"驿站","name":"🌀驿站超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt","dataKey":"dyyztvapiappyyds","dataIv":"dyyztvapiappyyds","deviceId":"","version":"","ua":""},"jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76"},
+{"key":"五八","name":"🌀五八超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://dy.58ys.vip","site":"","dataKey":"JEWibY1AgWF0V1xx","dataIv":"JEWibY1AgWF0V1xx","deviceId":"","version":"","ua":""},"jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76"},
+{"key":"旗星","name":"🌀旗星超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"},"jar":"http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76"},
 
 ##巧技系列  http://cdn.qiaoji8.com/tvbox.json
 {"key":"天天","name":"🍋天天App🍋","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
