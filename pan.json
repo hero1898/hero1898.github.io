@@ -365,63 +365,6 @@
             }
         },
         {
-            "key": "星芽短剧",
-            "name": "星芽短剧",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/py/星芽短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "甜圈短剧",
-            "name": "甜圈短剧",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/py/甜圈短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "锦鲤短剧",
-            "name": "锦鲤短剧",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/py/锦鲤短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "剧王短剧",
-            "name": "剧王短剧",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/py/剧王短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "番茄短剧",
-            "name": "番茄短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/XBPQ/番茄短剧.json"
-        },
-        {
-            "key": "剧屋短剧",
-            "name": "剧屋短剧",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/短剧屋.json"
-        },
-        {
             "key": "金牌影视",
             "name": "金牌影视",
             "type": 3,
