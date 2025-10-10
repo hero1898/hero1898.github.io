@@ -78,13 +78,13 @@
             "name": "🛶巧技线路🛶"
 
         },
-//        {
+        {
 
-//            "url": "https://raw.kkgithub.com/hl128k/tvbox/main/tv/1/franksun1211_0706.json",
+            "url": "https://raw.kkgithub.com/zx419d2o0/TasIkE/main/tv/vod/2.json",
 
-//           "name": "🌞franksun🌞"
+           "name": "🌞OK杰克🌞"
 
-//        },
+        },
         {
 
             "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
