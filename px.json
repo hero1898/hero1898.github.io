@@ -24,10 +24,10 @@
 
 ##饭太硬系列  http://www.饭太硬.com/tv
 {"key":"比特","name":"🍄比特秒播🍄","type":3,"api":"csp_BttwooGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"下饭","name":"🍙下饭多线🍙","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="},
 {"key":"苹果","name":"🍎苹果不卡🍎","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创不卡☀","type":3,"api":"csp_YCyzGuard","timeout":30,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"欢视","name":"👓欢视多线👓","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
+//{"key":"下饭","name":"🍙下饭多线🍙","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="},
 //{"key":"文采","name":"💮文采秒播💮","type":3,"api":"csp_JpysGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"糯米","name":"🍓糯米秒播🍓","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"荐片","name":"🐭荐片P2P🐭","type":3,"api":"csp_JPJGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
