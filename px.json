@@ -85,10 +85,10 @@
 {"key":"柠檬","name":"🍋柠檬App🍋","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1","jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"},
 
 ##OK杰克  https://raw.kkgithub.com/zx419d2o0/TasIkE/main/tv/vod/2.json
-{"key":"立播版","name":"🐰立播4K🐰","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30,"jar":""https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
-{"key":"热播","name":"📺热播App📺","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},"timeout":10,"jar":""https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
-{"key":"文才","name":"🌺文才在线🌺","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"jar":""https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
-{"key":"糯米","name":"🍓糯米秒播🍓","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"jar":""https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
+{"key":"立播版","name":"🐰立播4K🐰","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30,"jar":"https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
+{"key":"热播","name":"📺热播App📺","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},"timeout":10,"jar":"https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
+{"key":"文才","name":"🌺文才在线🌺","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"jar":"https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
+{"key":"糯米","name":"🍓糯米秒播🍓","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"jar":"https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
 
 ##FrankSun系列  https://raw.kkgithub.com/hl128k/tvbox/main/tv/1/franksun1211_0706.json
 //{"key":"热播影视","name":"🐆热播APP🐆","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"},"jar": "https://raw.kkgithub.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
