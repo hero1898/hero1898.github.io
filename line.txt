@@ -101,6 +101,20 @@
         },
         {
 
+            "url": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/api.json",
+
+            "name": "🍄潇洒影视🍄"
+
+        },
+        {
+
+            "url": "https://raw.kkgithub.com/qist/tvbox/master/jsm.json",
+
+            "name": "☂️JSM☂️"
+
+        },
+        {
+
             "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
 
             "name": "🍀香雅情🍀"
