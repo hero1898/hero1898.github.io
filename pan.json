@@ -78,6 +78,22 @@
                 "ua": "okhttp/3.10.0"
             }
         },
+		{
+            "key": "八天",
+            "name": "八天APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dy.8ttv.cn",
+                "site": "",
+                "dataKey": "1111111111111111",
+                "dataIv": "1111111111111111",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
         {
             "key": "九零",
             "name": "九零APP",
@@ -108,6 +124,37 @@
                 "deviceId": "",
                 "version": "",
                 "ua": ""
+            }
+        },
+        {
+            "key": "五八",
+            "name": "五八APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dy.58ys.vip",
+                "site": "",
+                "dataKey": "JEWibY1AgWF0V1xx",
+                "dataIv": "JEWibY1AgWF0V1xx",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "灵虎",
+            "name": "灵虎APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "https://bind.315999.xyz/89.txt",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025",
+                "deviceId": "",
+                "version": "120"
             }
         },
         {
@@ -172,12 +219,6 @@
                 "deviceId": "",
                 "version": "120"
             }
-        },
-        {
-            "key": "三六零",
-            "name": "三六零视频",
-            "type": 3,
-            "api": "csp_SP360"
         },
         {
             "key": "玩偶哥哥",
@@ -380,12 +421,28 @@
             "quickSearch": 1,
             "filterable": 1
         },
+		{
+            "key": "奇优影视",
+            "name": "奇优影视",
+            "type": 3,
+            "api": "csp_Qiyou"
+        },
         {
             "key": "瓜子影视",
             "name": "瓜子影视",
             "type": 3,
             "api": "csp_Gz360",
             "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "猎手影视",
+            "name": "猎手影视",
+            "type": 3,
+            "api": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/py/猎手影视.py",
+            "searchable": 1,
+            "changeable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
