@@ -6,7 +6,7 @@
 
 "sites":[
 ##常用系列
-{"key": "豆","name": "PX影视 20251010更新 电视剧首选荐片P2P、瓜子、苹果秒播观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"},
+{"key": "豆","name": "PX影视 20251012更新 电视剧首选荐片P2P、瓜子、苹果秒播观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"jar":"https://img2.gelonghui.com/library/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png;md5;2eb9327119d339cd10302d8df7872d46"},
 {"key":"苹果","name":"🍎苹果秒播🍎","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"🧧修罗影视🧧","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
@@ -201,7 +201,7 @@
 {"key":"Wextangdou","name":"💃跳舞教学💃","type":3,"api":"csp_WextangdouGuard","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"},
 
 {"key":"超全","name":"⚽超全看球⚽","type":3,"api":"csp_ZbzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
-{"key":"88看球","name":"🏀88看球🏀","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"gridview":3,"style":{"type":"list"}},
+{"key":"88看球","name":"🏀88看球🏀","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"gridview":3,"style":{"type":"list"},"jar": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/spider.jar"},
 {"key":"88","name":"⚾️89看球⚾️","type":3,"api":"csp_Sir88Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"看球","name":"🏈手机看球🏈","type":3,"api":"csp_KanqiuGuard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"虎牙直播js","name":"🐯虎牙直播🐯","type":3,"api":"https://raw.kkgithub.com/fantaiying7/EXT/main/drpy2.js","ext":"https://raw.kkgithub.com/fantaiying7/EXT/main/huya2.js","style":{"type":"rect","ratio":1.755},"timeout":15,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
