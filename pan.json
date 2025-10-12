@@ -662,6 +662,17 @@
                 "type": "list"
             }
         },
+		{
+			"key":"88",
+			"name":"⚾️89看球⚾️",
+			"type":3,
+			"api":"csp_Sir88Guard",
+			"timeout":15,
+			"searchable":0,
+			"changeable":0,
+			"style":{"type":"list"},
+			"jar": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
+		},
         {
             "key": "网络直播",
             "name": "网络直播",
