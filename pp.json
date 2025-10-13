@@ -63,7 +63,6 @@
     {"key": "drpy_js_菜狗","name": "官源搜狗[js]","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/qist/tvbox/master/js/菜狗.js"},
     {"key": "drpy_js_优酷","name": "官源优酷[js]","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/qist/tvbox/master/js/优酷.js"},
     {"key": "drpy_js_播客","name": "聚合播客[js]","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/qist/tvbox/master/js/播客.js"},
-    {"key": "drpy_js_短视频","name": "聚合短视频[js]","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","changeable": 0,"ext": "https://raw.kkgithub.com/qist/tvbox/master/js/短视频.js"},
     {"key": "drpy_js_酷6网","name": "聚合酷6网[js]","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","changeable": 0,"ext": "https://raw.kkgithub.com/qist/tvbox/master/js/酷6网.js"},
     {"key": "drpy_js_网易公版影像","name": "聚合网易公版[js]","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": "https://raw.kkgithub.com/qist/tvbox/master/js/网易公版影像.js"},
     {"key": "Dm84","name": "🚌巴士动漫","type": 3,"api": "csp_Dm84Guard","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
