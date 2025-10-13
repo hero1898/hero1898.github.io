@@ -1,5 +1,8 @@
 {
   "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67",
+  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
+  "logo": "http://hello.xn--z7x900a.com/fm.gif",
+  "warningText":"潘兴祝你：观影愉快！",
   "lives": [
     {"name":"PX 电视频道","type":0,"playerType":1,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/tv.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
     {"name":"PX 自动采集","type":0,"playerType":1,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/iptv.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
@@ -20,8 +23,6 @@
     {"name":"Supprise0901","type":0,"playerType":1,"url": "https://raw.kkgithub.com/Supprise0901/TVBox_live/main/live.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
     {"name":"Cx4x","type":0,"playerType":1,"url": "https://raw.kkgithub.com/Cx4x/xd/master/output/user_result.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
     {"name":"测试","type":0,"playerType":1,"url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/cs.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"}],
-  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
-  "warningText":"潘兴祝你：观影愉快！",
   "sites": [
     {"key": "drpy_js_豆瓣","name": "PX影视 20251013更新 电视剧首选荐片P2P、瓜子、苹果秒播观看","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/qist/tvbox/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key":"本地","name":"本地｜视频","type":3,"api":"csp_LocalFile","jar": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/spider.jar;md5;adf4e148fe0c189b30502f73ffe2a8eb"},
