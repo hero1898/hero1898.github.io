@@ -6,7 +6,7 @@
 
 "sites":[
 ##常用系列
-{"key": "豆","name": "PX影视 20251012更新 电视剧首选荐片P2P、瓜子、苹果秒播观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"},
+{"key": "豆","name": "PX影视 20251014更新 电视剧首选荐片P2P、瓜子、苹果秒播观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0,"jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"jar":"https://img2.gelonghui.com/library/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png;md5;2eb9327119d339cd10302d8df7872d46"},
 {"key":"苹果","name":"🍎苹果秒播🍎","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"🧧修罗影视🧧","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
