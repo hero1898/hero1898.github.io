@@ -678,6 +678,10 @@
 			"style":{"type":"list"},
 			"jar": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
 		},
+{"key":"超全","name":"⚽超全看球⚽","type":3,"api":"csp_ZbzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
+{"key":"看球","name":"🏈手机看球🏈","type":3,"api":"csp_KanqiuGuard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
+{"key":"虎牙直播js","name":"🐯虎牙直播🐯","type":3,"api":"https://raw.kkgithub.com/fantaiying7/EXT/main/drpy2.js","ext":"https://raw.kkgithub.com/fantaiying7/EXT/main/huya2.js","style":{"type":"rect","ratio":1.755},"timeout":15,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"斗鱼js","name":"🐟斗鱼直播🐟","type":3,"api":"https://raw.kkgithub.com/fantaiying7/EXT/main/drpy2.min.js","ext":"https://raw.kkgithub.com/fantaiying7/EXT/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":15,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
         {
             "key": "网络直播",
             "name": "网络直播",
