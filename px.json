@@ -92,12 +92,12 @@
 {"key":"湾湾频道","name":"🌀湾湾频道🌀","type":3,"api":"csp_Ptt","searchable":1,"quickSearch":1,"changeable":1,"jar":"http://fmys.top/lib/fm.jar;md5;542ed744b07121213f70323b9bcbecca"},
 
 ##影视仓系列  http://影视仓.com/
-{"key":"至尊","name":"💖4K免扫①至尊","type":3,"api":"csp_AppZzun","ext":"http://154.219.113.13:12121/json/app.txt","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
-{"key":"紫萱","name":"💖4K免扫②紫萱","type":3,"api":"csp_AppZzun","ext":"http://154.219.113.13:12121/json/app2.txt","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
-{"key":"竹生","name":"💖4K免扫③竹生","type":3,"api":"csp_HBT4","ext":"YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qVTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
-{"key":"归安","name":"💖4K免扫④归安","type":3,"api":"csp_HBT4","ext":"YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
-{"key":"薄心","name":"💖4K免扫⑤薄心","type":3,"api":"csp_HBT4","ext":"YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMWxjbmhwWVc4akl5TmxjbmhwWVc4PQ==","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
-{"key":"甜橙","name":"💖4K免扫⑥甜橙","type":3,"api":"csp_HBT4","ext":"YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
+//{"key":"至尊","name":"💖4K免扫①至尊","type":3,"api":"csp_AppZzun","ext":"http://154.219.113.13:12121/json/app.txt","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
+//{"key":"紫萱","name":"💖4K免扫②紫萱","type":3,"api":"csp_AppZzun","ext":"http://154.219.113.13:12121/json/app2.txt","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
+//{"key":"竹生","name":"💖4K免扫③竹生","type":3,"api":"csp_HBT4","ext":"YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qVTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
+//{"key":"归安","name":"💖4K免扫④归安","type":3,"api":"csp_HBT4","ext":"YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
+//{"key":"薄心","name":"💖4K免扫⑤薄心","type":3,"api":"csp_HBT4","ext":"YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMWxjbmhwWVc4akl5TmxjbmhwWVc4PQ==","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
+//{"key":"甜橙","name":"💖4K免扫⑥甜橙","type":3,"api":"csp_HBT4","ext":"YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
 {"key":"骚火影视","name":"🔥骚火影视🔥","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us","jar":"http://47.120.41.246:8025/vip/jar/ouge.php"},
 //{"key":"豆丁","name":"👀豆丁APP👀","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://45.66.157.77:9427","site":"","dataKey":"Xasdasd!123123dd","dataIv":"Xasdasd!123123dd","deviceId":"","version":"","ua":""},"jar":"http://47.120.41.246:8025/vip/jar/ouge.php"},
 
