@@ -1,7 +1,7 @@
 {
     "spider": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/jar/xyq202503缝合.jar",    //"spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/E8plus.jar",
     "sites": [
-        {"key": "直播转点播","name": "💕英雄本色💞","type": 3,"api": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/js/zbzdb2.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/json/c.json","jar":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0"},
+        {"key": "直播转点播","name": "💕英雄本色💞","type": 3,"api": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/江湖/lib/lf_live_min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/%E6%B1%9F%E6%B9%96/live/live.txt"},
         { "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "(18+)速度资源", "name": "(18+)速度资源", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "芒果18+", "name": "芒果18+(动漫)", "type": 1, "api": "https://mgzyz1.com/api.php/provide/vod/?ac=list", "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=", "searchable": 0, "quickSearch": 1, "filterable": 0 },
