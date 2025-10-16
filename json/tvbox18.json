@@ -18,33 +18,6 @@
     ],
     "sites": [
         {
-            "key": "csp_LocalFile",
-            "name": "💾本地视频",
-            "type": 3,
-            "api": "csp_LocalFile",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "csp_XYQHiker_樱花动漫",
-            "name": "樱花动漫(XYQHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/tv/XYQHiker/樱花动漫.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
             "key": "csp_XYQHiker_stripchat直播",
             "name": "🔞StripChat直播(XYQHiker)",
             "type": 3,
@@ -84,17 +57,6 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.6
-            }
-        },
-        {
-            "key": "drpy_js_ss直播",
-            "name": "直播大全[js]",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/tv/js/lib/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/tv/js/ss直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.8
             }
         },
         {
@@ -651,48 +613,6 @@
             }
         },
         {
-            "key": "csp_XYQHiker_xtoons",
-            "name": "🔞Xtoons动漫(XYQHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/tv/XYQHiker/xtoons.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "csp_XYQHiker_动漫PRO",
-            "name": "🔞动漫PRO(XYQHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/tv/XYQHiker/动漫pro.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "csp_XYQHiker_ACG漫画网",
-            "name": "🔞ACG漫画网(XYQHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/tv/XYQHiker/acg漫画网.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            }
-        },
-        {
             "key": "csp_XYQHiker_avbebe",
             "name": "🔞AVbebe(XYQHiker)",
             "type": 3,
@@ -788,17 +708,6 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.6
-            }
-        },
-        {
-            "key": "drpy_js_ebay直播",
-            "name": "ebay直播[js]",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/tv/js/lib/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/tv/js/e直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.8
             }
         },
         {
@@ -2030,199 +1939,6 @@
             }
         },
         {
-            "key": "黑木耳资源🌈",
-            "name": "黑木耳资源🌈💯",
-            "type": 1,
-            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [],
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "最大资源",
-            "name": "最大🌈",
-            "type": 1,
-            "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": []
-        },
-        {
-            "key": "360资源",
-            "name": "360🌈",
-            "type": 1,
-            "api": "https://360zy.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": []
-        },
-        {
-            "key": "暴风资源",
-            "name": "暴风🌈",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": []
-        },
-        {
-            "key": "旺旺资源",
-            "name": "旺旺[短剧]🌈",
-            "type": 1,
-            "api": "https://wwzy.tv/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": []
-        },
-        {
-            "key": "花旗资源",
-            "name": "花旗资源🌈",
-            "type": 1,
-            "api": "https://www.seacms.org/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [],
-            "style": {
-                "type": "rect",
-                "ratio": 0.7
-            }
-        },
-        {
-            "key": "免费短视频资源",
-            "name": "免费短视频🌈",
-            "type": 1,
-            "api": "https://api.zeqaht.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": []
-        },
-        {
-            "key": "量子",
-            "name": "🈲 成人频道[量子]🌈",
-            "type": 0,
-            "api": "http://lzizy8.com/api.php/provide/vod/from/lzm3u8/at/xml/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": []
-        },
-        {
-            "key": "非凡",
-            "name": "🈲 成人频道[非凡]🌈",
-            "type": 1,
-            "api": "http://ffzy3.tv/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "短剧",
-                "伦理片"
-            ]
-        },
-        {
-            "key": "无尽",
-            "name": "🈲 成人频道[无尽]🌈",
-            "type": 1,
-            "api": "https://api.wujinapi.me/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-        {
-            "key": "ikun",
-            "name": "🈲 成人频道[ikun]🌈",
-            "type": 1,
-            "api": "https://ikunzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-        {
-            "key": "速播",
-            "name": "🈲 成人频道[速播]🌈",
-            "type": 1,
-            "api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-        {
-            "key": "sd",
-            "name": "🈲 成人频道[闪电]🌈",
-            "type": 1,
-            "api": "https://sdzyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理",
-                "港台三级",
-                "韩国伦理"
-            ]
-        },
-        {
-            "key": "百度",
-            "name": "🈲 成人频道[百度]🌈",
-            "type": 1,
-            "api": "https://bdzy2.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-        {
-            "key": "光速",
-            "name": "🈲 成人频道[光速]🌈",
-            "type": 1,
-            "api": "https://api.guangsuapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-        {
-            "key": "金鹰",
-            "name": "🈲 成人频道[金鹰]🌈",
-            "type": 1,
-            "api": "https://jyzyapi.com/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-        {
-            "key": "卧龙",
-            "name": "🈲 成人频道[卧龙]🌈",
-            "type": 1,
-            "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-        {
-            "key": "豪华",
-            "name": "🈲 成人频道[豪华]🌈",
-            "type": 1,
-            "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8?ac=list",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "伦理片"
-            ]
-        },
-        {
             "key": "xxavs",
             "name": "🔞xxavs湿乐园🌈",
             "type": 1,
@@ -2710,7 +2426,7 @@
                 {
                     "name": "redirect",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=./tv/做爱大全.txt"
+                        "proxy://do=live&type=txt&ext=https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/tv/做爱大全.txt"
                     ]
                 }
             ]
