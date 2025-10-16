@@ -1,0 +1,12 @@
+格式说明：
+#订阅名
+地址(支持m3u订阅、tvbox配置文件中live选项的直播地址订阅)
+
+相对路径说明
+以./开头，相对位置是本订阅文件
+以/开头，存储卡的根目录
+
+#英雄本色1
+https://raw.kkgithub.com/hero1898/hero1898.github.io/main/txt/1.txt
+
+//https://raw.bgithub.xyz/YanG-1989/m3u/main/Adult.m3u
