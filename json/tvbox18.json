@@ -18,6 +18,14 @@
     ],
     "sites": [
         {
+            "key": "*乐播资源",
+            "name": "🌈乐播资源",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "csp_XYQHiker_airav",
             "name": "🔞AirAV(XYQHiker)",
             "type": 3,
@@ -230,14 +238,6 @@
             "name": "🌈大地资源",
             "type": 0,
             "api": "http://ddkbo.com/api.php",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "*乐播资源",
-            "name": "🌈乐播资源",
-            "type": 1,
-            "api": "https://lbapi9.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
