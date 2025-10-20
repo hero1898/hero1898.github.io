@@ -123,20 +123,6 @@
             }
         },
         {
-            "key": "csp_xbpq_avple",
-            "name": "🔞Avple(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/yinshiyuan/tv/XYQHiker/avple.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.8
-            }
-        },
-        {
             "key": "csp_XYQHiker_lxxlxx",
             "name": "🔞LxxLxx(XYQHiker)",
             "type": 3,
