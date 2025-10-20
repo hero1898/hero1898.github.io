@@ -676,7 +676,7 @@
 			"searchable":0,
 			"changeable":0,
 			"style":{"type":"list"},
-			"jar": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
+			"jar": "https://oss4liview.moji.com/thd_file/2025/10/20/5f719641963482656d8d2ecefcd6c6b2.jpg;md5;9ea2dd2677c24cb6407606818e1eb253"
 		},
 {"key":"超全","name":"⚽超全看球⚽","type":3,"api":"csp_ZbzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
 {"key":"看球","name":"🏈手机看球🏈","type":3,"api":"csp_KanqiuGuard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
@@ -814,10 +814,10 @@
 {"key":"drpy_js_童趣","name":"🧑🏻童趣学堂🧑🏻","type":3,"api":"https://raw.kkgithub.com/ouhaibo1980/tvbox/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/童趣.js"},
 {"key":"drpy_js_有声绘本网","name":"📓有声绘本📓","type":3,"api":"https://raw.kkgithub.com/ouhaibo1980/tvbox/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://raw.kkgithub.com/gaotianliuyun/gao/master/js/有声绘本网.js"},
 {"key":"dr_兔小贝","name":"🐰兔小贝🐰","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"https://raw.kkgithub.com/fantaiying7/EXT/main/drpy2.min.js","ext":"https://raw.kkgithub.com/fantaiying7/EXT/main/兔小贝.js","style":{"type":"rect","ratio":1.597}},
-{"key":"Wexergeduoduo","name":"👼多多儿歌👼","type":3,"api":"csp_WexergeduoduoGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"},
-{"key":"Wexbaobaobashi","name":"👼宝宝儿歌👼","type":3,"api":"csp_WexbaobaobashiGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"},
-{"key":"Wexbeiwa","name":"👼贝贝儿歌👼","type":3,"api":"csp_WexbeiwaGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"},
-{"key":"Wextuxiaobei","name":"👼兔兔儿歌👼","type":3,"api":"csp_WextuxiaobeiGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"},
+{"key":"Wexergeduoduo","name":"👼多多儿歌👼","type":3,"api":"csp_WexergeduoduoGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/1D1EB3E_773_wex_20251020171635509newMediaImage.png;md5;38751633273a4f03eae8d15ad2292ae3"},
+{"key":"Wexbaobaobashi","name":"👼宝宝儿歌👼","type":3,"api":"csp_WexbaobaobashiGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/1D1EB3E_773_wex_20251020171635509newMediaImage.png;md5;38751633273a4f03eae8d15ad2292ae3"},
+{"key":"Wexbeiwa","name":"👼贝贝儿歌👼","type":3,"api":"csp_WexbeiwaGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/1D1EB3E_773_wex_20251020171635509newMediaImage.png;md5;38751633273a4f03eae8d15ad2292ae3"},
+{"key":"Wextuxiaobei","name":"👼兔兔儿歌👼","type":3,"api":"csp_WextuxiaobeiGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/1D1EB3E_773_wex_20251020171635509newMediaImage.png;md5;38751633273a4f03eae8d15ad2292ae3"},
         {
             "key": "少儿教育",
             "name": "少儿教育",
