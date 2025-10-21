@@ -26,6 +26,188 @@
             "quickSearch": 1
         },
         {
+            "key": "✨果冻破解版✨",
+            "name": "✨果冻✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/json/果冻.json",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar"
+        },
+        {
+            "key": "✨百草香✨\n",
+            "name": "✨百草✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/json/百草.json",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar"
+        },
+        {
+            "key": "✨风流视频✨\n",
+            "name": "✨风流✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/json/风流.json",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar"
+        },
+        {
+            "key": "py_AiDou",
+            "name": "AiDou",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=AiDou",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "五马抖音",
+            "name": "🏆五马抖音",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar",
+            "ext": {
+                "作者": "",
+                "站名": "",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "图片代理": "0",
+                "主页url": "https://douyin.wmdy34.fun/douyin/",
+                "首页": "120",
+                "起始页": "1",
+                "分类url": "https://douyin.wmdy34.fun/douyin/vodtype/{cateId}-{catePg}.html;;mrcd0",
+                "分类": "国产精品$13#网曝吃瓜$6#自拍偷拍$7#传媒出品$8#网红主播$9#大神探花$10#抖阴视频$11#国产其它$12#日韩精品$14#日韩无码$15#日韩有码$16#中文字幕$20#萝莉少女$21#人妻熟妇$22#韩国主播$23#日韩其它$24#欧美精品$5#欧美无码$25#欧美另类$26#欧美其它$27#AI换脸$28#AV解说$29#三级伦理$30#成人动漫$31#国产视频$1#无码中文$2#3$3#4$4",
+                "二次截取": "",
+                "数组": "lazyload\"&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "+text-right\">&&<",
+                "链接": "href=\"&&\"",
+                "导演": "导演：&&</p >",
+                "主演": "主演：&&</p >",
+                "简介": "",
+                "线路二次截取": "tab-top play-tab&&</ul",
+                "线路数组": "<li>&&</li>",
+                "线路标题": "+>&&</a>",
+                "播放二次截取": "",
+                "播放数组": "<ul class=\"stui-play__list&&</ul",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<[不包含:收藏]",
+                "播放链接": "href=\"&&\"",
+                "直接播放": "0",
+                "播放请求头": "",
+                "嗅探词": ".mp4#.m3u8",
+                "过滤词": "",
+                "跳转播放链接": "var player_*url\":\"&&\"",
+                "跳转解析": "",
+                "搜索请求头": "手机",
+                "搜索url": "https://douyin.wmdy34.fun/douyin/vodsearch/{wd}-------------{pg}.html",
+                "搜索模式": "1",
+                "搜索后缀": "",
+                "搜索二次截取": "",
+                "搜索数组": "lazyload\"&&</a>",
+                "搜索标题": "title=\"&&\"",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索副标题": "text-right\">&&<",
+                "搜索链接": "href=\"&&\"",
+                "剧情": ""
+            }
+        },
+        {
+            "key": "XMVideo",
+            "name": "熊猫视频",
+            "type": 3,
+            "api": "csp_XMVideo",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://raw.kkgithub.com/guot55/yg/main/jar/182.jar"
+        },
+        {
+            "key": "撸铁汉",
+            "name": "㊙️金陵撸铁汉",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/lib/金陵撸铁汉.json"
+        },
+        {
+            "key": "91速播",
+            "name": "㊙️91速播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/lib/91速播.json"
+        },
+        {
+            "key": "辣味视频",
+            "name": "🍁辣味视频🍁",
+            "type": 3,
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/X_XBPQ.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://xsese.com/;;!",
+                "简介": "description\" content=\"&&\""
+            }
+        },
+        {
+            "key": "csp_XYQHiker_杏吧视频",
+            "name": "🔞杏吧视频",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://raw.kkgithub.com/xwyjc/lwang/main/XYQHike/杏吧视频.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "比卡",
+            "name": "比卡",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/lib/比卡.json"
+        },
+        {
             "key": "csp_XYQHiker_airav",
             "name": "🔞AirAV(XYQHiker)",
             "type": 3,
