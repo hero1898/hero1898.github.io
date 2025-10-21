@@ -255,6 +255,7 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 青海卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/qhwsH264_2000.m3u8
 黑龙江卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/hljwsH265_4000.m3u8
 
+🌎地方卫视🌎,#genre#
 湖南都市,http://183.215.134.239:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://183.215.134.239:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
