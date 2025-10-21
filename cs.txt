@@ -109,6 +109,16 @@ CCTV8,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1
 深圳龙岗频道,http://rustdesk.szsun.xyz:8088/rtp/239.77.1.223:5146
 深圳东部频道,http://rustdesk.szsun.xyz:8088/udp/239.77.1.224:5146
 
+深圳国际,http://114.105.187.147:9901/tsfile/live/1051_1.m3u8
+深圳宝安,http://163.177.122.71:9901/tsfile/live/1012_1.m3u8
+深圳宝安,http://163.177.122.122:9901/tsfile/live/1012_1.m3u8
+深圳电视剧,http://163.177.122.122:9901/tsfile/live/1092_1.m3u8
+深圳电视剧,http://163.177.122.71:9901/tsfile/live/1092_1.m3u8
+深圳都市,http://163.177.122.122:9901/tsfile/live/1094_1.m3u8
+深圳都市,http://163.177.122.71:9901/tsfile/live/1094_1.m3u8
+深圳龙岗,http://163.177.122.71:9901/tsfile/live/1085_1.m3u8
+深圳龙岗,http://163.177.122.122:9901/tsfile/live/1085_1.m3u8
+
 港澳台,#genre#
 今日新闻,http://xn--elt51t.azip.dpdns.org:5008/nnews-zh/index.m3u8?proxy=true
 今日天气,http://xn--elt51t.azip.dpdns.org:5008/nnews-wf/index.m3u8?proxy=true
