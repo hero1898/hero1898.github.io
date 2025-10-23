@@ -6,7 +6,7 @@
 
 "sites":[
 ##常用系列
-{"key": "豆","name": "PX影视 20251024更新 电视剧首选荐片P2P、瓜子、苹果秒播观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
+{"key": "豆","name": "PX影视 20251024更新 电视剧首选荐片影视、瓜子、苹果秒播观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"jar":"https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a"},
 {"key":"苹果","name":"🍎苹果秒播🍎","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"🧧修罗影视🧧","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
