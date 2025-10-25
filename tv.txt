@@ -27,6 +27,25 @@ CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 
+CCTV1,http://dms.yryyj.site:8188/udp/239.76.253.151:9000
+CCTV2,http://dms.yryyj.site:8188/udp/239.76.253.152:9000
+CCTV3,http://dms.yryyj.site:8188/udp/239.76.253.153:9000
+CCTV4,http://dms.yryyj.site:8188/udp/239.76.253.154:9000
+CCTV5,http://dms.yryyj.site:8188/udp/239.76.253.155:9000
+CCTV5+,http://dms.yryyj.site:8188/udp/239.76.253.168:9000
+CCTV6,http://dms.yryyj.site:8188/udp/239.76.253.156:9000
+CCTV7,http://dms.yryyj.site:8188/udp/239.76.253.157:9000
+CCTV8,http://dms.yryyj.site:8188/udp/239.76.253.158:9000
+CCTV9,http://dms.yryyj.site:8188/udp/239.76.253.159:9000
+CCTV10,http://dms.yryyj.site:8188/udp/239.76.253.160:9000
+CCTV11,http://dms.yryyj.site:8188/udp/239.76.245.251:1234
+CCTV12,http://dms.yryyj.site:8188/udp/239.76.253.162:9000
+CCTV13,http://dms.yryyj.site:8188/udp/239.76.253.93:9000
+CCTV14,http://dms.yryyj.site:8188/udp/239.76.253.164:9000
+CCTV15,http://dms.yryyj.site:8188/udp/239.76.245.252:1234
+CCTV16,http://dms.yryyj.site:8188/udp/239.76.253.98:9000
+CCTV17,http://dms.yryyj.site:8188/udp/239.76.245.238:1234
+
 CCTV1,https://hyf.serv00.net/飞哥.php?id=1
 CCTV2,https://hyf.serv00.net/飞哥.php?id=2
 CCTV3,https://hyf.serv00.net/飞哥.php?id=3
@@ -127,6 +146,32 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
+
+湖南卫视,http://dms.yryyj.site:8188/udp/239.76.253.101:9000
+湖南卫视,http://dms.yryyj.site:8188/udp/239.76.246.100:1234
+湖南卫视,http://dms.yryyj.site:8188/udp/239.76.252.115:9000
+广东卫视,http://dms.yryyj.site:8188/udp/239.76.252.189:9000
+东南卫视,http://dms.yryyj.site:8188/udp/239.76.252.190:9000
+安徽卫视,http://dms.yryyj.site:8188/udp/239.76.252.196:9000
+辽宁卫视,http://dms.yryyj.site:8188/udp/239.76.252.197:9000
+河北卫视,http://dms.yryyj.site:8188/udp/239.76.252.199:9000
+贵州卫视,http://dms.yryyj.site:8188/udp/239.76.252.198:9000
+江苏卫视,http://dms.yryyj.site:8188/udp/239.76.253.181:9000
+浙江卫视,http://dms.yryyj.site:8188/udp/239.76.253.182:9000
+北京卫视,http://dms.yryyj.site:8188/udp/239.76.253.184:9000
+深圳卫视,http://dms.yryyj.site:8188/udp/239.76.253.188:9000
+湖北卫视,http://dms.yryyj.site:8188/udp/239.76.253.193:9000
+山东卫视,http://dms.yryyj.site:8188/udp/239.76.253.195:9000
+黑龙江卫视,http://dms.yryyj.site:8188/udp/239.76.253.200:9000
+吉林卫视,http://dms.yryyj.site:8188/udp/239.76.253.201:9000
+河南卫视,http://dms.yryyj.site:8188/udp/239.76.253.202:9000
+海南卫视,http://dms.yryyj.site:8188/udp/239.76.253.203:9000
+四川卫视,http://dms.yryyj.site:8188/udp/239.76.253.91:9000
+甘肃卫视,http://dms.yryyj.site:8188/udp/239.76.253.94:9000
+广西卫视,http://dms.yryyj.site:8188/udp/239.76.254.54:9000
+陕西卫视,http://dms.yryyj.site:8188/udp/239.76.254.76:9000
+云南卫视,http://dms.yryyj.site:8188/udp/239.76.254.60:9000
+青海卫视,http://dms.yryyj.site:8188/udp/239.76.254.132:9000
 
 湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -256,6 +301,21 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 黑龙江卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/hljwsH265_4000.m3u8
 
 🌎地方卫视🌎,#genre#
+湖南都市,http://dms.yryyj.site:8188/udp/239.76.245.117:1234
+湖南都市,http://dms.yryyj.site:8188/udp/239.76.252.117:9000
+湖南经视,http://dms.yryyj.site:8188/udp/239.76.245.116:1234
+湖南经视,http://dms.yryyj.site:8188/udp/239.76.252.116:9000
+湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.245.118:1234
+湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.252.118:9000
+湖南电影,http://dms.yryyj.site:8188/udp/239.76.245.119:1234
+湖南电影,http://dms.yryyj.site:8188/udp/239.76.252.119:9000
+湖南娱乐,http://dms.yryyj.site:8188/udp/239.76.245.121:1234
+湖南娱乐,http://dms.yryyj.site:8188/udp/239.76.252.121:9000
+湖南国际,http://dms.yryyj.site:8188/udp/239.76.245.124:1234
+湖南国际,http://dms.yryyj.site:8188/udp/239.76.252.124:9000
+湖南公共,http://dms.yryyj.site:8188/udp/239.76.245.123:1234
+湖南公共,http://dms.yryyj.site:8188/udp/239.76.252.123:9000
+
 湖南都市,http://183.215.134.239:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://183.215.134.239:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -286,6 +346,9 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+
+凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
+凤凰中文,http://dms.yryyj.site:8188/udp/239.76.253.135:9000
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -652,6 +715,10 @@ ONE Golf「高尔夫」,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m
 咪咕直播𝟛𝟠,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
 🥝精品频道🥝,#genre#
+CHC动作电影,http://dms.yryyj.site:8188/udp/239.76.245.243:1234
+CHC高清电影,http://dms.yryyj.site:8188/udp/239.76.245.242:1234
+CHC家庭影院,http://dms.yryyj.site:8188/udp/239.76.245.241:1234
+
 CHC家庭影院,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC动作电影,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
 CHC影迷电影,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
