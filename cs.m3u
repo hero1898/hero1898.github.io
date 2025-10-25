@@ -2,8 +2,6 @@
 凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
 凤凰中文,http://dms.yryyj.site:8188/udp/239.76.253.135:9000
 
-
-
 CCTV1,http://dms.yryyj.site:8188/udp/239.76.253.151:9000
 CCTV2,http://dms.yryyj.site:8188/udp/239.76.253.152:9000
 CCTV3,http://dms.yryyj.site:8188/udp/239.76.253.153:9000
@@ -15,18 +13,25 @@ CCTV7,http://dms.yryyj.site:8188/udp/239.76.253.157:9000
 CCTV8,http://dms.yryyj.site:8188/udp/239.76.253.158:9000
 CCTV9,http://dms.yryyj.site:8188/udp/239.76.253.159:9000
 CCTV10,http://dms.yryyj.site:8188/udp/239.76.253.160:9000
-CCTV11,http://dms.yryyj.site:8188/udp/239.76.245.251:1234
+CCTV11,http://dms.yryyj.site:8188/udp/239.76.253.161:9000
 CCTV12,http://dms.yryyj.site:8188/udp/239.76.253.162:9000
-CCTV13,http://dms.yryyj.site:8188/udp/239.76.253.93:9000
+CCTV13,http://dms.yryyj.site:8188/udp/239.76.253.163:9000
 CCTV14,http://dms.yryyj.site:8188/udp/239.76.253.164:9000
-CCTV15,http://dms.yryyj.site:8188/udp/239.76.245.252:1234
-CCTV16,http://dms.yryyj.site:8188/udp/239.76.253.98:9000
-CCTV17,http://dms.yryyj.site:8188/udp/239.76.245.238:1234
+CCTV15,http://dms.yryyj.site:8188/udp/239.76.253.165:9000
+CCTV16,http://dms.yryyj.site:8188/udp/239.76.253.166:9000
+CCTV17,http://dms.yryyj.site:8188/udp/239.76.253.167:9000
+
 CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.253.224:9000
 CCTV16 4k,http://dms.yryyj.site:8188/udp/239.76.246.224:1234
 CCTV16 4k,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 CCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.253.230:9000
 
+CCTV13,http://dms.yryyj.site:8188/udp/239.76.253.93:9000
+CCTV16,http://dms.yryyj.site:8188/udp/239.76.253.98:9000
+
+CCTV11,http://dms.yryyj.site:8188/udp/239.76.245.251:1234
+CCTV15,http://dms.yryyj.site:8188/udp/239.76.245.252:1234
+CCTV17,http://dms.yryyj.site:8188/udp/239.76.245.238:1234
 
 湖南经视,http://dms.yryyj.site:8188/udp/239.76.245.116:1234
 湖南经视,http://dms.yryyj.site:8188/udp/239.76.252.116:9000
