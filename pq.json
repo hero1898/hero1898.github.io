@@ -1,5 +1,8 @@
 {
   "spider": "https://raw.kkgithub.com/qist/tvbox/master/jar/fan.txt;md5;1acb683fd1fb4f2c0492747745f6229a",
+//"spider":"https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
+//"spider":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/330FC0F_773_wex_20251024172028260newMediaImage.png;md5;e8d96bd7bc4e580289c3b8d97d05a52a",
+//"spider":"http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
   "lives": [
     {"name":"PX 电视频道","type":0,"playerType":1,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/tv.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
     {"name":"PX 自动采集","type":0,"playerType":1,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/iptv.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
@@ -24,7 +27,7 @@
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   "warningText":"潘兴祝你：观影愉快！",
   "sites": [
-    {"key": "drpy_js_豆瓣","name": "PX影视 2025102701 电视剧首选荐片影视、瓜子、苹果秒播观看","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/qist/tvbox/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
+    {"key": "drpy_js_豆瓣","name": "PX影视 20251027更新 电视剧首选荐片影视、瓜子、苹果秒播观看","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/qist/tvbox/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key": "MyDrive","name": "🗂云盘配置🗂","type": 3,"api": "csp_MyDriveGuard","changeable": 0,"indexs": 0,"searchable": 0,"style": {"type": "oval"},"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key":"至尊","name":"💖4K免扫①至尊","type":3,"api":"csp_AppZzun","ext":"http://154.219.113.13:12121/json/app.txt","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
     {"key":"紫萱","name":"💖4K免扫②紫萱","type":3,"api":"csp_AppZzun","ext":"http://154.219.113.13:12121/json/app2.txt","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
@@ -92,8 +95,9 @@
     {"key": "drpy_js_博看听书","name": "博看听书","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext": "https://raw.kkgithub.com/qist/tvbox/master/js/博看听书.js"},
     {"key": "有声小说","name": "🎧有声小说🎧","type": 3,"api": "csp_Tingshu275Guard","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "超全","name": "⚽超全看球⚽","type": 3,"api": "csp_ZbzGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"},"ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
-    {"key": "88","name": "⚽88看球⚽","type": 3,"api": "csp_Sir88Guard","timeout": 15,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
-    {"key": "看球","name": "⚽手机看球⚽","type": 3,"api": "csp_KanqiuGuard","timeout": 15,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
+    {"key":"88看球","name":"🏀88看球🏀","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"gridview":3,"style":{"type":"list"},"jar": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/spider.jar"},
+    {"key":"88","name":"⚾️89看球⚾️","type":3,"api":"csp_Sir88Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
+    {"key": "看球","name": "🏈手机看球🏈","type": 3,"api": "csp_KanqiuGuard","timeout": 15,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "MTV1","name": "🎙️易听音乐🎙️","type": 3,"api": "csp_MusicGuard","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key":"酷狗","name":"🐾酷狗音乐🐾","type":3,"api":"csp_Kugou","playerType":2,"searchable":0,"changeable":0,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]},"jar":"https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a"},
     {"key": "MTV","name": "🎶明星MV🎶","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
