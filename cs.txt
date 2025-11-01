@@ -177,8 +177,41 @@ CCTV11,http://124.88.238.50:82/hls/10/index.m3u8
 河南卫视,http://124.88.238.50:82/hls/20/index.m3u8
 
 地方卫视,#genre#
-湖南都市,http://183.215.134.239:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://183.215.134.239:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+北京卫视,https://iptv.catvod.com/catvod.php?id=bjws
+东方卫视,https://iptv.catvod.com/catvod.php?id=dfws
+天津卫视,https://iptv.catvod.com/catvod.php?id=tjws
+重庆卫视,https://iptv.catvod.com/catvod.php?id=cqws
+黑龙江卫视,https://iptv.catvod.com/catvod.php?id=hljws
+吉林卫视,https://iptv.catvod.com/catvod.php?id=jlws
+辽宁卫视,https://iptv.catvod.com/catvod.php?id=lnws
+内蒙古卫视,https://iptv.catvod.com/catvod.php?id=nmws
+宁夏卫视,https://iptv.catvod.com/catvod.php?id=nxws
+甘肃卫视,https://iptv.catvod.com/catvod.php?id=gsws
+青海卫视,https://iptv.catvod.com/catvod.php?id=qhws
+陕西卫视,https://iptv.catvod.com/catvod.php?id=sxws
+河北卫视,https://iptv.catvod.com/catvod.php?id=hbws
+山西卫视,https://iptv.catvod.com/catvod.php?id=sxiws
+山东卫视,https://iptv.catvod.com/catvod.php?id=sdws
+安徽卫视,https://iptv.catvod.com/catvod.php?id=ahws
+河南卫视,https://iptv.catvod.com/catvod.php?id=hnws
+湖北卫视,https://iptv.catvod.com/catvod.php?id=hubws
+湖南卫视,https://iptv.catvod.com/catvod.php?id=hunws
+江西卫视,https://iptv.catvod.com/catvod.php?id=jxws
+浙江卫视,https://iptv.catvod.com/catvod.php?id=zjws
+东南卫视,https://iptv.catvod.com/catvod.php?id=dnws
+厦门卫视,https://iptv.catvod.com/catvod.php?id=xmws
+广东卫视,https://iptv.catvod.com/catvod.php?id=gdws
+深圳卫视,https://iptv.catvod.com/catvod.php?id=szws
+广西卫视,https://iptv.catvod.com/catvod.php?id=gxws
+云南卫视,https://iptv.catvod.com/catvod.php?id=ynws
+贵州卫视,https://iptv.catvod.com/catvod.php?id=gzws
+四川卫视,https://iptv.catvod.com/catvod.php?id=scws
+新疆卫视,https://iptv.catvod.com/catvod.php?id=xjws
+兵团卫视,https://iptv.catvod.com/catvod.php?id=btws
+西藏卫视,https://iptv.catvod.com/catvod.php?id=xzws
+海南卫视,https://iptv.catvod.com/catvod.php?id=hinws
+三沙卫视,https://iptv.catvod.com/catvod.php?id=ssws
 
 
 
