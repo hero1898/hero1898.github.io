@@ -177,9 +177,24 @@ CCTV11,http://124.88.238.50:82/hls/10/index.m3u8
 河南卫视,http://124.88.238.50:82/hls/20/index.m3u8
 
 地方卫视,#genre#
-
-
-
+CCTV1,https://iptv.catvod.com/live.php?id=CCTV1%E7%BB%BC%E5%90%88
+CCTV2,https://iptv.catvod.com/live.php?id=CCTV2%E8%B4%A2%E7%BB%8F
+CCTV3,https://iptv.catvod.com/live.php?id=CCTV3综艺
+CCTV4,https://iptv.catvod.com/live.php?id=CCTV4%E6%AC%A7%E6%B4%B2
+CCTV4,https://iptv.catvod.com/live.php?id=CCTV4%E7%BE%8E%E6%B4%B2
+CCTV5,https://iptv.catvod.com/live.php?id=CCTV5%E4%BD%93%E8%82%B2
+CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B
+CCTV6,https://iptv.catvod.com/live.php?id=CCTV6电影
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B
+CCTV8,https://iptv.catvod.com/live.php?id=CCTV8%E7%94%B5%E8%A7%86%E5%89%A7
+CCTV9,https://iptv.catvod.com/live.php?id=CCTV9%E7%BA%AA%E5%BD%95
+CCTV10,https://iptv.catvod.com/live.php?id=CCTV10科教
+CCTV11,https://iptv.catvod.com/live.php?id=CCTV11%E6%88%8F%E6%9B%B2
+CCTV12,https://iptv.catvod.com/live.php?id=CCTV12社会与法
+CCTV13,https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB
+CCTV14,https://iptv.catvod.com/live.php?id=CCTV14少儿
+CCTV15,https://iptv.catvod.com/live.php?id=CCTV15音乐
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
 
 港澳台,#genre#
 今日新闻,http://xn--elt51t.azip.dpdns.org:5008/nnews-zh/index.m3u8?proxy=true
