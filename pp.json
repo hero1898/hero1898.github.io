@@ -24,7 +24,7 @@
     {"name":"Cx4x","type":0,"playerType":1,"url": "https://raw.kkgithub.com/Cx4x/xd/master/output/user_result.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
     {"name":"测试","type":0,"playerType":1,"url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/cs.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"}],
   "sites": [
-    {"key": "drpy_js_豆瓣","name": "PX影视 20251025更新 电视剧首选荐片P2P、瓜子、苹果秒播观看","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/qist/tvbox/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
+    {"key": "drpy_js_豆瓣","name": "PX影视 20251101更新 电视剧首选荐片P2P、瓜子、苹果秒播观看","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/qist/tvbox/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key":"本地","name":"本地｜视频","type":3,"api":"csp_LocalFile","jar": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/spider.jar;md5;adf4e148fe0c189b30502f73ffe2a8eb"},
     {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"jar":"https://img2.gelonghui.com/library/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png;md5;2eb9327119d339cd10302d8df7872d46"},
     {"key": "抠搜","name": "🍄抠抠搜搜","type": 3,"api": "csp_KkSsGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
