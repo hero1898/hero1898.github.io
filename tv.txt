@@ -176,40 +176,6 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 
-湖南卫视,http://dms.yryyj.site:8188/udp/239.76.253.101:9000
-湖南卫视,http://dms.yryyj.site:8188/udp/239.76.246.100:1234
-湖南卫视,http://dms.yryyj.site:8188/udp/239.76.252.115:9000
-广东卫视,http://dms.yryyj.site:8188/udp/239.76.252.189:9000
-东南卫视,http://dms.yryyj.site:8188/udp/239.76.252.190:9000
-安徽卫视,http://dms.yryyj.site:8188/udp/239.76.252.196:9000
-辽宁卫视,http://dms.yryyj.site:8188/udp/239.76.252.197:9000
-河北卫视,http://dms.yryyj.site:8188/udp/239.76.252.199:9000
-贵州卫视,http://dms.yryyj.site:8188/udp/239.76.252.198:9000
-江苏卫视,http://dms.yryyj.site:8188/udp/239.76.253.181:9000
-浙江卫视,http://dms.yryyj.site:8188/udp/239.76.253.182:9000
-北京卫视,http://dms.yryyj.site:8188/udp/239.76.253.184:9000
-深圳卫视,http://dms.yryyj.site:8188/udp/239.76.253.188:9000
-湖北卫视,http://dms.yryyj.site:8188/udp/239.76.253.193:9000
-山东卫视,http://dms.yryyj.site:8188/udp/239.76.253.195:9000
-黑龙江卫视,http://dms.yryyj.site:8188/udp/239.76.253.200:9000
-吉林卫视,http://dms.yryyj.site:8188/udp/239.76.253.201:9000
-河南卫视,http://dms.yryyj.site:8188/udp/239.76.253.202:9000
-海南卫视,http://dms.yryyj.site:8188/udp/239.76.253.203:9000
-四川卫视,http://dms.yryyj.site:8188/udp/239.76.253.91:9000
-甘肃卫视,http://dms.yryyj.site:8188/udp/239.76.253.94:9000
-广西卫视,http://dms.yryyj.site:8188/udp/239.76.254.54:9000
-陕西卫视,http://dms.yryyj.site:8188/udp/239.76.254.76:9000
-云南卫视,http://dms.yryyj.site:8188/udp/239.76.254.60:9000
-青海卫视,http://dms.yryyj.site:8188/udp/239.76.254.132:9000
-
-湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-
 湖南卫视,http://59.173.120.39:4022/rtp/239.254.96.139:8908
 浙江卫视,http://59.173.120.39:4022/rtp/239.254.96.143:8932
 东方卫视,http://59.173.120.39:4022/rtp/239.254.96.142:8926
@@ -296,38 +262,11 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 
-东方卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/dfwsH265_4000.m3u8
-浙江卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/zjwsH265_4000.m3u8
-湖南卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/hnwsH265_4000.m3u8
-江苏卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/jswsH265_4000.m3u8
-安徽卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/ahwsH265_4000.m3u8
-东南卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/dnwsfjwsH265_4000.m3u8
-云南卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/ynws_4000.m3u8
-内蒙古卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/nmgws_4000.m3u8
-北京卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/bjwsH265_4000.m3u8
-吉林卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/jlwsH265_4000.m3u8
-四川卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/scwsH265_4000.m3u8
-天津卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/tjwsH265_4000.m3u8
-山东卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/sdwsH265_4000.m3u8
-山东教育卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/sdjy_4000.m3u8
-山西卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/sxws42_4000.m3u8
-广东卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/gdwsH265_4000.m3u8
-广西卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/gxws_4000.m3u8
-康巴卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/kbwsH264_2000.m3u8
-新疆卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/xjws_4000.m3u8
-江西卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/jxwsH265_4000.m3u8
-河南卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/hnws35_4000.m3u8
-海南卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/hnws_4000.m3u8
-深圳卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/szwsH265_4000.m3u8
-湖北卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/hbwsH265_4000.m3u8
-甘肃卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/gsws_4000.m3u8
-西藏卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/xzwsH264_2000.m3u8
-贵州卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/gzwsH265_4000.m3u8
-辽宁卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/lnwsHDH264_4000.m3u8
-重庆卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/cqwsH265_4000.m3u8
-陕西卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/sxws_4000.m3u8
-青海卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/qhwsH264_2000.m3u8
-黑龙江卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/hljwsH265_4000.m3u8
+湖南卫视,https://migu.188766.xyz/?migutoken=101184895804da8bb0a8ff3cf52a4315&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视,https://migu.188766.xyz/?migutoken=110c58064c6a15f9b641980ece24b554&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+北京卫视,https://migu.188766.xyz/?migutoken=6fb2416d0b642722bbe9555b627a9f8a&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+广东卫视,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+深圳卫视,https://migu.188766.xyz/?migutoken=84bb5a374d07b341e76888dbab747fc9&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
 🌎地方卫视🌎,#genre#
 湖南都市,http://dms.yryyj.site:8188/udp/239.76.245.117:1234
@@ -770,10 +709,57 @@ ONE Golf「高尔夫」,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m
 咪咕直播 38,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 咪咕直播 4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 咪咕直播 4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
-晴彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-晴彩篮球,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-晴彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-晴彩少年,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=BingCha
+睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha
+睛彩青少,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha
+咪视界4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
+咪视界4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=BingCha
+
+咪咕直播 1,https://msj.188766.xyz/play?id=3000000001000005308&token=f454fe73f454fe73f454fe73f454fe73
+咪咕直播 2,https://msj.188766.xyz/play?id=3000000001000005969&token=f45515b4f45515b4f45515b4f45515b4
+咪咕直播 3,https://msj.188766.xyz/play?id=3000000001000007218&token=f455e38ff455e38ff455e38ff455e38f
+咪咕直播 4,https://msj.188766.xyz/play?id=3000000001000008001&token=f4565046f4565046f4565046f4565046
+咪咕直播 5,https://msj.188766.xyz/play?id=3000000001000008176&token=f45654e5f45654e5f45654e5f45654e5
+咪咕直播 6,https://msj.188766.xyz/play?id=3000000001000008379&token=f4565c6af4565c6af4565c6af4565c6a
+咪咕直播 7,https://msj.188766.xyz/play?id=3000000001000010129&token=f460c8d6f460c8d6f460c8d6f460c8d6
+咪咕直播 8,https://msj.188766.xyz/play?id=3000000001000010948&token=f460e71bf460e71bf460e71bf460e71b
+咪咕直播 9,https://msj.188766.xyz/play?id=3000000001000028638&token=f4729632f4729632f4729632f4729632
+咪咕直播 10,https://msj.188766.xyz/play?id=3000000001000031494&token=f47d784ef47d784ef47d784ef47d784e
+咪咕直播 11,https://msj.188766.xyz/play?id=3000000010000000097&token=94edf00d94edf00d94edf00d94edf00d
+咪咕直播 12,https://msj.188766.xyz/play?id=3000000010000002019&token=94eed7d594eed7d594eed7d594eed7d5
+咪咕直播 13,https://msj.188766.xyz/play?id=3000000010000002809&token=94eef5be94eef5be94eef5be94eef5be
+咪咕直播 14,https://msj.188766.xyz/play?id=3000000010000003915&token=94ef6df994ef6df994ef6df994ef6df9
+咪咕直播 15,https://msj.188766.xyz/play?id=3000000010000004193&token=94efc54694efc54694efc54694efc546
+咪咕直播 16,https://msj.188766.xyz/play?id=3000000010000005837&token=94f0533694f0533694f0533694f05336
+咪咕直播 17,https://msj.188766.xyz/play?id=3000000010000006077&token=94f0aa0994f0aa0994f0aa0994f0aa09
+咪咕直播 18,https://msj.188766.xyz/play?id=3000000010000006658&token=94f0c05294f0c05294f0c05294f0c052
+咪咕直播 19,https://msj.188766.xyz/play?id=3000000010000009788&token=94f2218d94f2218d94f2218d94f2218d
+咪咕直播 20,https://msj.188766.xyz/play?id=3000000010000010833&token=94fc24d894fc24d894fc24d894fc24d8
+咪咕直播 21,https://msj.188766.xyz/play?id=3000000010000011297&token=94fc836f94fc836f94fc836f94fc836f
+咪咕直播 22,https://msj.188766.xyz/play?id=3000000010000011518&token=94fc8dbb94fc8dbb94fc8dbb94fc8dbb
+咪咕直播 23,https://msj.188766.xyz/play?id=3000000010000012558&token=94fd029694fd029694fd029694fd0296
+咪咕直播 24,https://msj.188766.xyz/play?id=3000000010000012616&token=94fd05d994fd05d994fd05d994fd05d9
+咪咕直播 25,https://msj.188766.xyz/play?id=3000000010000015470&token=94fe5c2894fe5c2894fe5c2894fe5c28
+咪咕直播 26,https://msj.188766.xyz/play?id=3000000010000015560&token=94fe5fca94fe5fca94fe5fca94fe5fca
+咪咕直播 27,https://msj.188766.xyz/play?id=3000000010000017678&token=94ff4c7094ff4c7094ff4c7094ff4c70
+咪咕直播 28,https://msj.188766.xyz/play?id=3000000010000019839&token=95003c3595003c3595003c3595003c35
+咪咕直播 29,https://msj.188766.xyz/play?id=3000000010000021904&token=950ab41d950ab41d950ab41d950ab41d
+咪咕直播 30,https://msj.188766.xyz/play?id=3000000010000023434&token=950b8a73950b8a73950b8a73950b8a73
+咪咕直播 31,https://msj.188766.xyz/play?id=3000000010000025380&token=950c7007950c7007950c7007950c7007
+咪咕直播 32,https://msj.188766.xyz/play?id=3000000010000027691&token=950d6428950d6428950d6428950d6428
+咪咕直播 33,https://msj.188766.xyz/play?id=3000000010000031669&token=9518c11a9518c11a9518c11a9518c11a
+咪咕直播 34,https://msj.188766.xyz/play?id=3000000020000011518&token=29e1407c29e1407c29e1407c29e1407c
+咪咕直播 35,https://msj.188766.xyz/play?id=3000000020000011519&token=29e1407d29e1407d29e1407d29e1407d
+咪咕直播 36,https://msj.188766.xyz/play?id=3000000020000011520&token=29e1409329e1409329e1409329e14093
+咪咕直播 37,https://msj.188766.xyz/play?id=3000000020000011521&token=29e1409429e1409429e1409429e14094
+咪咕直播 38,https://msj.188766.xyz/play?id=3000000020000011522&token=29e1409529e1409529e1409529e14095
+睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=29e1409b29e1409b29e1409b29e1409b
+睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=29e1409c29e1409c29e1409c29e1409c
+睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=29e1409829e1409829e1409829e14098
+睛彩广场舞,https://msj.188766.xyz/play?id=3000000020000011523&token=29e1409629e1409629e1409629e14096
+咪视界4K-1,https://msj.188766.xyz/play?id=3000000010000005180&token=94f0398394f0398394f0398394f03983
+咪视界4K-2,https://msj.188766.xyz/play?id=3000000010000015686&token=94fe63cf94fe63cf94fe63cf94fe63cf
 
 🥝精品频道🥝,#genre#
 CHC家庭影院,https://migu.188766.xyz/?migutoken=aaaeaaaa8a32cf7096a9939a1ec082bd&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
