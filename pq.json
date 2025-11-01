@@ -27,7 +27,7 @@
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   "warningText":"潘兴祝你：观影愉快！",
   "sites": [
-    {"key": "drpy_js_豆瓣","name": "PX影视 20251027更新 电视剧首选荐片影视、瓜子、苹果秒播观看","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/qist/tvbox/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
+    {"key": "drpy_js_豆瓣","name": "PX影视 20251101更新 电视剧首选荐片影视、瓜子、苹果秒播观看","type": 3,"api": "https://raw.kkgithub.com/qist/tvbox/master/lib/drpy2.min.js","ext": "https://raw.kkgithub.com/qist/tvbox/master/js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key": "MyDrive","name": "🗂云盘配置🗂","type": 3,"api": "csp_MyDriveGuard","changeable": 0,"indexs": 0,"searchable": 0,"style": {"type": "oval"},"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key":"至尊","name":"💖4K免扫①至尊","type":3,"api":"csp_AppZzun","ext":"http://154.219.113.13:12121/json/app.txt","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
     {"key":"紫萱","name":"💖4K免扫②紫萱","type":3,"api":"csp_AppZzun","ext":"http://154.219.113.13:12121/json/app2.txt","jar":"http://47.120.41.246:8025/vip/jar/banhu.php"},
