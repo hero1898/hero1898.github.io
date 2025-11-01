@@ -31,6 +31,24 @@ CCTV15,https://migu.188766.xyz/?migutoken=c7d5b0b597e804a07e36fd3d8e83195b&id=CC
 CCTV15,https://migu.188766.xyz/?migutoken=ea3f9215fffad6a0d438b0121f64276c&id=CCTV15&type=yy
 CCTV17,https://migu.188766.xyz/?migutoken=c23272bba61e6654d94b19b21ef75e51&id=CCTV17&type=yy
 
+CCTV1,https://iptv.catvod.com/catvod.php?id=cctv1
+CCTV2,https://iptv.catvod.com/catvod.php?id=cctv2
+CCTV3,https://iptv.catvod.com/catvod.php?id=cctv3
+CCTV4,https://iptv.catvod.com/catvod.php?id=cctv4
+CCTV5,https://iptv.catvod.com/catvod.php?id=cctv5
+CCTV5+,https://iptv.catvod.com/catvod.php?id=cctv5p
+CCTV6,https://iptv.catvod.com/catvod.php?id=cctv6
+CCTV7,https://iptv.catvod.com/catvod.php?id=cctv7
+CCTV8,https://iptv.catvod.com/catvod.php?id=cctv8
+CCTV9,https://iptv.catvod.com/catvod.php?id=cctv9
+CCTV10,https://iptv.catvod.com/catvod.php?id=cctv10
+CCTV11,https://iptv.catvod.com/catvod.php?id=cctv11
+CCTV12,https://iptv.catvod.com/catvod.php?id=cctv12
+CCTV13,https://iptv.catvod.com/catvod.php?id=cctv13
+CCTV14,https://iptv.catvod.com/catvod.php?id=cctv14
+CCTV15,https://iptv.catvod.com/catvod.php?id=cctv15
+CCTV17,https://iptv.catvod.com/catvod.php?id=cctv17
+
 CCTV1,https://hyf.serv00.net/飞哥.php?id=1
 CCTV2,https://hyf.serv00.net/飞哥.php?id=2
 CCTV3,https://hyf.serv00.net/飞哥.php?id=3
@@ -425,6 +443,11 @@ TVBS台剧,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live088/index.m3u8?proxy=t
 龙华戏剧,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn18/index.m3u8?proxy=true
 龙华经典,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn21/index.m3u8?proxy=true
 
+翡翠台,https://migu.188766.xyz/?migutoken=6ff40ca6e9a458a448fdb09a33919405&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+翡翠台,https://migu.188766.xyz/?migutoken=af18bef2634b43fa854485eefdd5a91d&id=jade_twn&type=dy
+无线新闻,https://migu.188766.xyz/?migutoken=38eea02778765b91accfcc9b762c37a5&id=inews_twn&type=dy
+明珠台,https://migu.188766.xyz/?migutoken=2cd4c549faf4bb0b9d50f4547a25aa13&id=pearl_twn&type=dy
+
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -706,9 +729,11 @@ ONE Golf「高尔夫」,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m
 晴彩少年,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 
 🥝精品频道🥝,#genre#
-CHC动作电影,http://dms.yryyj.site:8188/udp/239.76.245.243:1234
-CHC高清电影,http://dms.yryyj.site:8188/udp/239.76.245.242:1234
-CHC家庭影院,http://dms.yryyj.site:8188/udp/239.76.245.241:1234
+CHC家庭影院,https://migu.188766.xyz/?migutoken=aaaeaaaa8a32cf7096a9939a1ec082bd&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+CHC家庭影院,https://migu.188766.xyz/?migutoken=164f75cd15e992b23d5cd367d9f25614&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+CHC家庭影院,https://migu.188766.xyz/?migutoken=010cdc34d4f20f74658692b67f270872&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+CHC动作电影,https://migu.188766.xyz/?migutoken=0c840191aad491fc8acd31e8aa1229e4&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
+CHC动作电影,https://migu.188766.xyz/?migutoken=716e4b0aee6eb214b5cf522422229f13&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 
 CHC家庭影院,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC动作电影,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
