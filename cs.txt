@@ -3,32 +3,6 @@ B1,#genre#
 湖南经视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 
-湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://111.23.33.88:8089/rtp/239.1.0.181:1025?ChannelFECPort=1024
-湖南经视,http://111.23.33.88:8089/rtp/239.1.0.2:1025
-湖南都市,http://111.23.33.88:8089/rtp/239.1.0.110:1025?ChannelFECPort=1024
-湖南都市,http://111.23.33.88:8089/rtp/239.1.0.15:1025
-湖南电影,http://111.23.33.88:8089/rtp/239.1.0.107:1025
-湖南经视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs$LR•IPV4『线路1』
-湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路2』
-湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8$LR•IPV4『线路3』
-湖南经视,http://www.yao87.com:4022/udp/239.76.253.103:9000?$LR•IPV4『线路4』
-湖南经视,http://124.228.160.197:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路5』
-湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv$LR•IPV4『线路6』
-湖南经视,http://42.48.17.188:9901/tsfile/live/37217_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路7』
-湖南经视,http://223.159.8.12:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4『线路8』
-湖南经视,https://stream1.freetv.fun/575e87b211102a1660928de0e333fe5a2a6fec7dbec3c3e51cfdec99f0092b1d.ctv$LR•IPV4『线路9』
-湖南经视,https://stream1.freetv.fun/7f0a03127bfd43c23499390b65ebf1abd40b85c284b13995dcb87f4028840bab.ctv$LR•IPV4『线路10』
-
-湖南娱乐,http://iptvcyp.top:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://iptvcyp.top:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://iptvcyp.top:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://iptvcyp.top:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://iptvcyp.top:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南教育,http://iptvcyp.top:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南国际,http://iptvcyp.top:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 
 iptv.huuc.edu.cn,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
