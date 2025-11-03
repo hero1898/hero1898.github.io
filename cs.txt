@@ -13,6 +13,17 @@ B1,#genre#
 湖南爱晚,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPWIxMzI3MzlmZDZiMDEwZWZkMTQxNzE4YzI2ZTg5MDNhJnVpZD0mdXVpZD1iYjYxODBhZDMwNDljOWRiZDk4N2U4NThkODNhZmQ1ZS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQwNDA4OTMw/HNGGMPP360.m3u8
 湖南电影,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8$订阅源
 
+湖南经视,http://175.9.193.128:4502/udp/239.76.245.116:1234
+湖南经视,http://175.9.193.128:4502/udp/239.76.246.103:1234
+湖南经视,http://175.9.193.128:4502/udp/239.76.251.86:9000
+湖南经视,http://175.9.193.128:4502/udp/239.76.253.103:9000
+湖南经视,http://175.9.193.128:4502/udp/239.76.252.116:9000
+湖南经视,http://175.9.194.24:4502/udp/239.76.245.116:1234
+湖南经视,http://175.9.194.24:4502/udp/239.76.246.103:1234
+湖南经视,http://175.9.194.24:4502/udp/239.76.251.86:9000
+湖南经视,http://175.9.194.24:4502/udp/239.76.253.103:9000
+湖南经视,http://175.9.194.24:4502/udp/239.76.252.116:9000
+
 iptv.huuc.edu.cn,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
