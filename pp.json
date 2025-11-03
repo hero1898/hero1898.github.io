@@ -4,9 +4,11 @@
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   "warningText":"潘兴祝你：观影愉快！",
   "lives": [
-    {"name":"PX 电视频道","type":0,"playerType":1,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/tv.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"PX 电视频道","type":0,"playerType":1,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/tv.txt","ua": "okhttp/3.8.1","timeout": 20,"epg":"https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}","logo": "https://live.mxdyeah.top/logo/{name}.png"},
     {"name":"PX 自动采集","type":0,"playerType":1,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/iptv.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
     {"name":"冰茶","type":0,"playerType":1,"url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"湖南电信组播","type":0,"playerType":1,"url": "https://raw.kkgithub.com/luoye20230624/hndxzb/main/湖南_电信_组播.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"广东电信组播","type":0,"playerType":1,"url": "https://raw.kkgithub.com/luoye20230624/hndxzb/main/广东_电信_组播.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
     {"name":"雷蒙影视","type":0,"playerType":1,"url": "https://raw.kkgithub.com/lem85930/LiteTV/main/litelive.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
     {"name":"小橙子","type":0,"playerType":1,"url": "https://raw.kkgithub.com/wzxxcz/wzx/main/bbxx.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
     {"name":"爱米","type":0,"playerType":1,"url": "http://210.245.166.84:1299/live/live.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
