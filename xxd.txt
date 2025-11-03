@@ -21,6 +21,30 @@
       "name": "🔞飞机🔞"
     },
     {
+      "url": "https://raw.kkgithub.com/xwyjc/yuanwango/main/LGme.json",
+      "name": "🔞LGme🔞"
+    },
+    {
+      "url": "https://raw.kkgithub.com/zhangfdzr/se/main/ase.json",
+      "name": "🔞se🔞"
+    },
+    {
+      "url": "https://raw.kkgithub.com/xwyjc/aliluya/main/me.json",
+      "name": "🔞me🔞"
+    },
+    {
+      "url": "https://raw.kkgithub.com/qingtingjjjjjjj/config-tv/main/video.json",
+      "name": "🔞qingting🔞"
+    },
+    {
+      "url": "https://raw.kkgithub.com/cluntop/tvbox/main/fun.json",
+      "name": "🔞cluntop🔞"
+    },
+    {
+      "url": "https://raw.kkgithub.com/xwyjc/yuanwango/main/18caiji.json",
+      "name": "🔞yuanwango🔞"
+    },
+    {
       "url": "https://raw.kkgithub.com/testnmb/pgfh/main/18.json",
       "name": "💝pgfh💝"
     }
