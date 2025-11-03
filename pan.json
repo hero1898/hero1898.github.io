@@ -1,6 +1,29 @@
 {
     "spider": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/spider.jar",
-    "wallpaper":"https://深色壁纸.xxooo.cf/",
+	"lives": [
+    {"name":"PX 电视频道","type":0,"playerType":1,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/tv.txt","ua": "okhttp/3.8.1","timeout": 20,"epg":"https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}","logo": "https://live.mxdyeah.top/logo/{name}.png"},
+    {"name":"PX 自动采集","type":0,"playerType":1,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/iptv.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"冰茶","type":0,"playerType":1,"url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"湖南电信组播","type":0,"playerType":1,"url": "https://raw.kkgithub.com/luoye20230624/hndxzb/main/湖南_电信_组播.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"广东电信组播","type":0,"playerType":1,"url": "https://raw.kkgithub.com/luoye20230624/hndxzb/main/广东_电信_组播.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"雷蒙影视","type":0,"playerType":1,"url": "https://raw.kkgithub.com/lem85930/LiteTV/main/litelive.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"小橙子","type":0,"playerType":1,"url": "https://raw.kkgithub.com/wzxxcz/wzx/main/bbxx.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"爱米","type":0,"playerType":1,"url": "http://210.245.166.84:1299/live/live.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"墨韵","type":0,"playerType":1,"url": "https://raw.kkgithub.com/leiyou-li/moyuntv3/main/live.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"kakaxi","type":0,"playerType":1,"url": "https://raw.kkgithub.com/kakaxi-1/IPTV/main/ipv4.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"fuxinyi0505","type":0,"playerType":1,"url": "https://raw.kkgithub.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"vbskycn","type":0,"playerType":1,"url": "https://raw.kkgithub.com/vbskycn/iptv/master/tv/iptv4.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"linux-jin","type":0,"playerType":1,"url": "https://raw.kkgithub.com/linux-jin/TvBox/main/live.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"AlexYUY","type":0,"playerType":1,"url": "https://raw.kkgithub.com/AlexYUY/TV/master/output/ipv4/result.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"tmxk2020","type":0,"playerType":1,"url": "https://raw.kkgithub.com/tmxk2020/iptv-api/master/output/user_result.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"PSLTV","type":0,"playerType":1,"url": "https://raw.kkgithub.com/newssr17/PSLTV/master/output/user_result.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"lhf0554","type":0,"playerType":1,"url": "https://raw.kkgithub.com/lhf0554/jx/master/output/result.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"wwb521","type":0,"playerType":1,"url": "https://raw.kkgithub.com/wwb521/live/main/tv.m3u","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"Moo930","type":0,"playerType":1,"url": "https://raw.kkgithub.com/Moo930/iptv-api/master/output/motv.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"Supprise0901","type":0,"playerType":1,"url": "https://raw.kkgithub.com/Supprise0901/TVBox_live/main/live.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"Cx4x","type":0,"playerType":1,"url": "https://raw.kkgithub.com/Cx4x/xd/master/output/user_result.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+    {"name":"测试","type":0,"playerType":1,"url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/cs.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"}],
+	"wallpaper":"https://深色壁纸.xxooo.cf/",
     "warningText":"潘兴祝你：观影愉快！",
 	
     "sites": [
@@ -934,26 +957,6 @@
             "changeable": 0
         }
     ],
-	"lives": [
-{"name":"PX 电视频道","type":0,"playerType":2,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/tv.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"PX 自动采集","type":0,"playerType":2,"url":"https://raw.kkgithub.com/hero1898/hero1898.github.io/main/iptv.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"雷蒙影视","type":0,"playerType":2,"url": "https://raw.kkgithub.com/lem85930/LiteTV/main/litelive.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"小橙子","type":0,"playerType":2,"url": "https://raw.kkgithub.com/wzxxcz/wzx/main/bbxx.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"爱米","type":0,"playerType":2,"url": "http://210.245.166.84:1299/live/live.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"kakaxi","type":0,"playerType":2,"url": "https://raw.kkgithub.com/kakaxi-1/IPTV/main/ipv4.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"fuxinyi0505","type":0,"playerType":2,"url": "https://raw.kkgithub.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"vbskycn","type":0,"playerType":2,"url": "https://raw.kkgithub.com/vbskycn/iptv/master/tv/iptv4.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"linux-jin","type":0,"playerType":2,"url": "https://raw.kkgithub.com/linux-jin/TvBox/main/live.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"AlexYUY","type":0,"playerType":2,"url": "https://raw.kkgithub.com/AlexYUY/TV/master/output/ipv4/result.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"tmxk2020","type":0,"playerType":2,"url": "https://raw.kkgithub.com/tmxk2020/iptv-api/master/output/user_result.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"PSLTV","type":0,"playerType":2,"url": "https://raw.kkgithub.com/newssr17/PSLTV/master/output/user_result.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"leiyou-li","type":0,"playerType":2,"url": "https://raw.kkgithub.com/leiyou-li/moyuntv3/main/live.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"lhf0554","type":0,"playerType":2,"url": "https://raw.kkgithub.com/lhf0554/jx/master/output/result.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"wwb521","type":0,"playerType":2,"url": "https://raw.kkgithub.com/wwb521/live/main/tv.m3u","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"Moo930","type":0,"playerType":2,"url": "https://raw.kkgithub.com/Moo930/iptv-api/master/output/motv.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"Supprise0901","type":0,"playerType":2,"url": "https://raw.kkgithub.com/Supprise0901/TVBox_live/main/live.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"Cx4x","type":0,"playerType":2,"url": "https://raw.kkgithub.com/Cx4x/xd/master/output/user_result.txt","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"测试","type":0,"playerType":2,"url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/cs.txt","logo": "https://live.fanmingming.com/tv/{name}.png"}],
     "parses": [
         {
             "name": "无上",
