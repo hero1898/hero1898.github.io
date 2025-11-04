@@ -362,21 +362,6 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 深圳卫视4K,https://migu.188766.xyz/?migutoken=4566b54c7a25dd7ae3bba24529224a2a&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
 🌎地方卫视🌎,#genre#
-湖南都市,http://dms.yryyj.site:8188/udp/239.76.245.117:1234
-湖南都市,http://dms.yryyj.site:8188/udp/239.76.252.117:9000
-湖南经视,http://dms.yryyj.site:8188/udp/239.76.245.116:1234
-湖南经视,http://dms.yryyj.site:8188/udp/239.76.252.116:9000
-湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.245.118:1234
-湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.252.118:9000
-湖南电影,http://dms.yryyj.site:8188/udp/239.76.245.119:1234
-湖南电影,http://dms.yryyj.site:8188/udp/239.76.252.119:9000
-湖南娱乐,http://dms.yryyj.site:8188/udp/239.76.245.121:1234
-湖南娱乐,http://dms.yryyj.site:8188/udp/239.76.252.121:9000
-湖南国际,http://dms.yryyj.site:8188/udp/239.76.245.124:1234
-湖南国际,http://dms.yryyj.site:8188/udp/239.76.252.124:9000
-湖南公共,http://dms.yryyj.site:8188/udp/239.76.245.123:1234
-湖南公共,http://dms.yryyj.site:8188/udp/239.76.252.123:9000
-
 湖南都市,http://183.215.134.239:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://183.215.134.239:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -398,10 +383,6 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-1.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-8.m3u8
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-13.m3u8
-
-长沙政法,http://dms.yryyj.site:8188/udp/239.76.253.122:9000
-长沙新闻,http://dms.yryyj.site:8188/udp/239.76.253.121:9000
-湖南教育,http://dms.yryyj.site:8188/udp/239.76.252.233:9000
 
 🇭🇰港澳台🇭🇰,#genre#
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
@@ -428,9 +409,6 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
-
-凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
-凤凰中文,http://dms.yryyj.site:8188/udp/239.76.253.135:9000
 
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
