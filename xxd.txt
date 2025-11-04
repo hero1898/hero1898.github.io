@@ -17,10 +17,6 @@
       "name": "💢江湖💢"
     },
     {
-      "url": "https://raw.kkgithub.com/zeee-u/lzh06/main/video.json",
-      "name": "🔞飞机🔞"
-    },
-    {
       "url": "https://raw.kkgithub.com/xwyjc/yuanwango/main/LGme.json",
       "name": "🔞LGme🔞"
     },
@@ -31,10 +27,6 @@
     {
       "url": "https://raw.kkgithub.com/xwyjc/aliluya/main/me.json",
       "name": "🔞me🔞"
-    },
-    {
-      "url": "https://raw.kkgithub.com/qingtingjjjjjjj/config-tv/main/video.json",
-      "name": "🔞qingting🔞"
     },
     {
       "url": "https://raw.kkgithub.com/cluntop/tvbox/main/fun.json",
