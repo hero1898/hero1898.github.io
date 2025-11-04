@@ -25,6 +25,15 @@
             "searchable": 1,
             "quickSearch": 1
         },
+{"key":"黑猫AV","name":"🔞黑猫AV","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kkgithub.com/testnmb/pgfh/main/json/黑猫AV.json"},
+{"key":"爱色吧","name":"🔞爱色吧","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/xbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kkgithub.com/testnmb/pgfh/main/json/爱色吧.json"},
+{"key":"FC2官网","name":"🔞FC2官网","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kkgithub.com/testnmb/pgfh/main/json/FC2官网.json"},
+{"key":"超级精品","name":"🔞超级精品","type":3,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/xyqxbpq.jar","searchable":1,"style":{"ratio":1.43},"quickSearch":1,"filterable":1,"ext":"https://raw.kkgithub.com/testnmb/pgfh/main/json/超级精品.json"},
+{"key":"咪咪女孩","name":"🔞咪咪女孩","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/xyqxbpq.jar","ext":"https://raw.kkgithub.com/testnmb/pgfh/main/json/咪咪女孩.json"},
+{"key":"js_madou","name":"🔞麻豆(js)","type":3,"api":"https://raw.kkgithub.com/testnmb/pgfh/main/js/麻豆.min.js","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":{}},
+{"key":"py_madou","name":"🔞麻豆(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=MaDou","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
+{"key":"py_Miss","name":"🔞MissAV(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=Miss","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
+{"key":"1AV","name":"🔞1AV","type":3,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://www.1av.shop/label/new.html","跳转播放链接":"varplayer_aaaa*url\":\"&&\"","链接":"href=\"&&\"","标题":"alt=\"&&\"","直接播放":"1","分类url":"https://www.1av.shop/vodtype/{cateId}-{catePg}.html","分类数组":"<a&&</a>","分类标题":">&&<","分类ID":"/vodtype/&&.html"}},
         {
             "key": "✨果冻破解版✨",
             "name": "✨果冻✨",
