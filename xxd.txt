@@ -17,14 +17,6 @@
       "name": "💢江湖💢"
     },
     {
-      "url": "https://raw.kkgithub.com/xwyjc/yuanwango/main/LGme.json",
-      "name": "🔞LGme🔞"
-    },
-    {
-      "url": "https://raw.kkgithub.com/zhangfdzr/se/main/ase.json",
-      "name": "🔞se🔞"
-    },
-    {
       "url": "https://raw.kkgithub.com/xwyjc/aliluya/main/me.json",
       "name": "🔞me🔞"
     },
@@ -37,8 +29,20 @@
       "name": "🔞yuanwango🔞"
     },
     {
+      "url": "https://raw.kkgithub.com/su147456888444/tvbox/main/18.txt",
+      "name": "🔞苏18🔞"
+    },
+    {
       "url": "https://raw.kkgithub.com/testnmb/pgfh/main/18.json",
       "name": "💝pgfh💝"
+    },
+    {
+      "url": "https://raw.kkgithub.com/xwyjc/yuanwango/main/LGme.json",
+      "name": "🔞LGme🔞"
+    },
+    {
+      "url": "https://raw.kkgithub.com/zhangfdzr/se/main/ase.json",
+      "name": "🔞se🔞"
     }
   ]
 }
