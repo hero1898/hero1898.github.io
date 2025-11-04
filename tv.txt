@@ -29,6 +29,26 @@ CCTV13,https://migu.188766.xyz/?migutoken=18533d4d908fc58c106315210042a966&id=CC
 CCTV14,https://migu.188766.xyz/?migutoken=feb129122007256f7d5c543638f3c2bb&id=CCTV14&type=yy
 CCTV17,https://migu.188766.xyz/?migutoken=2d1bdb0dad80b47e7c90052c3df56b35&id=CCTV17&type=yy
 
+CCTV1,http://xtvantsc.xyz/Smart.php?id=cctv1
+CCTV2,http://xtvantsc.xyz/Smart.php?id=cctv2
+CCTV3,http://xtvantsc.xyz/Smart.php?id=cctv3
+CCTV4,http://xtvantsc.xyz/Smart.php?id=cctv4
+CCTV4,http://xtvantsc.xyz/Smart.php?id=Cctv4
+CCTV5,http://xtvantsc.xyz/Smart.php?id=cctv5
+CCTV5+,http://xtvantsc.xyz/Smart.php?id=cctv5plus
+CCTV6,http://xtvantsc.xyz/Smart.php?id=cctv6
+CCTV7,http://xtvantsc.xyz/Smart.php?id=cctv7
+CCTV8,http://xtvantsc.xyz/Smart.php?id=cctv8hd
+CCTV9,http://xtvantsc.xyz/Smart.php?id=cctv9hd
+CCTV10,http://xtvantsc.xyz/Smart.php?id=cctv10hd
+CCTV11,http://xtvantsc.xyz/Smart.php?id=cctv11
+CCTV12,http://xtvantsc.xyz/Smart.php?id=cctv12
+CCTV13,http://xtvantsc.xyz/Smart.php?id=cctv13
+CCTV14,http://xtvantsc.xyz/Smart.php?id=cctv14
+CCTV15,http://xtvantsc.xyz/Smart.php?id=cctv15
+CCTV16,http://xtvantsc.xyz/Smart.php?id=cctv16
+CCTV17,http://xtvantsc.xyz/Smart.php?id=cctv17
+
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
