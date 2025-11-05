@@ -368,33 +368,21 @@ CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/3202309221102084846200
 凤凰资讯,https://migu.188766.xyz/?migutoken=fa587206d568d6e057a4fd0da6a34425&id=hk_fhzx&type=dy
 凤凰香港,https://mgev.188766.xyz/?migutoken=cd2b427f2af969dc2ab9a53b59ec5d09&id=fhhk&pp=1
 凤凰香港,https://migu.188766.xyz/?migutoken=4ca177ea21873a753b83cc625f39c6a1&id=hk_fhhk&type=dy
-凤凰中文,https://migu.188766.xyz/?migutoken=dafea9a89f8759bcd04edfafc63b435d&id=fhzw&pp=1
-凤凰中文,https://migu.188766.xyz/?migutoken=bf161ac290d85d4778ebc36e83daeb42&id=phoenixtv_hd&type=dy
-凤凰资讯,https://migu.188766.xyz/?migutoken=9b308c31f6f659e7ee7bc6bb4b3cfff9&id=fhzx&pp=1
-凤凰资讯,https://migu.188766.xyz/?migutoken=5a850debc67f6090a63d625e8a4b9764&id=phoenixinfo_hd&type=dy
-凤凰香港,https://migu.188766.xyz/?migutoken=407dc0f7365332e4297cc4be4e80ab8b&id=fhhk&pp=1
-凤凰香港,https://migu.188766.xyz/?migutoken=8ea86101844c05d6675be46a790325aa&id=hkphoenix_twn&type=dy
-凤凰中文,https://mgev.188766.xyz/?migutoken=3267cd6151f58a4919b93c0e63f69337&id=fhzw&pp=1
-凤凰中文,https://migu.188766.xyz/?migutoken=866341f35ab82e48dea654d12b6e5881&id=hk_fhzw&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=85fccb710060e734ed36c45940532bff&id=fhzx&pp=1
-凤凰资讯,https://migu.188766.xyz/?migutoken=902dd46104f7da4e91108d392b281213&id=hk_fhzx&type=dy
-凤凰香港,https://mgev.188766.xyz/?migutoken=0c151f885334200f0142117a9e167f8c&id=fhhk&pp=1
-凤凰香港,https://migu.188766.xyz/?migutoken=d88da94088e229852fad7e3b27e37c04&id=hk_fhhk&type=dy
 
-凤凰中文,https://smt.858.qzz.io/Smart.php?id=phoenixtv_hd
-凤凰资讯,https://smt.858.qzz.io/Smart.php?id=phoenixinfo_hd
-凤凰香港,https://smt.858.qzz.io/Smart.php?id=hkphoenix_twn
+凤凰中文,https://mgev.188766.xyz/?migutoken=3267cd6151f58a4919b93c0e63f69337&id=fhzw&pp=1
+凤凰资讯,https://mgev.188766.xyz/?migutoken=85fccb710060e734ed36c45940532bff&id=fhzx&pp=1
+凤凰香港,https://mgev.188766.xyz/?migutoken=0c151f885334200f0142117a9e167f8c&id=fhhk&pp=1
 
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$cdn6101
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx$cdn6101
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk$cdn6101
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw$cdn6163189
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$cdn6163189
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk$cdn6163189
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 
 凤凰中文,http://222.212.84.190:54123/udp/239.93.1.9:2192
 凤凰资讯,http://222.212.84.190:54123/udp/239.93.1.4:2191
