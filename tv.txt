@@ -307,12 +307,6 @@ CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/3202309221102084846200
 吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 
-湖南卫视,https://migu.188766.xyz/?migutoken=101184895804da8bb0a8ff3cf52a4315&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-浙江卫视,https://migu.188766.xyz/?migutoken=110c58064c6a15f9b641980ece24b554&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-北京卫视,https://migu.188766.xyz/?migutoken=6fb2416d0b642722bbe9555b627a9f8a&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-广东卫视,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-深圳卫视,https://migu.188766.xyz/?migutoken=84bb5a374d07b341e76888dbab747fc9&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-
 湖南卫视4K,https://migu.188766.xyz/?migutoken=1bea3ed65700e8f1748e5f4e2a2f4e6a&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视4K,https://migu.188766.xyz/?migutoken=3e62b59d01b2ae2d7be920ce3999036c&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 北京卫视4K,https://migu.188766.xyz/?migutoken=dfa5b229ad35006d54dc108cf155882b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
