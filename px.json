@@ -182,7 +182,7 @@
 {"key":"Wextangdou","name":"💃跳舞教学💃","type":3,"api":"csp_WextangdouGuard","searchable":0,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3D9B941_773_wex_20251030154004765newMediaImage.png;md5;17951645b1a4d8f0ca41309caccdd6f3"},
 
 {"key":"超全","name":"⚽超全看球⚽","type":3,"api":"csp_ZbzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
-{"key":"88看球","name":"🏀88看球🏀","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"gridview":3,"style":{"type":"list"},"jar": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/spider.jar"},
+{"key":"88看球","name":"🏀88看球🏀","type":3,"api":"csp_Kanqiu","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"jar": "https://zthaa.top/th/ztha.jar;md5;F4AC77BFB87AE8D586CC99D6E15F6282"},
 {"key":"88","name":"⚾️89看球⚾️","type":3,"api":"csp_Sir88Guard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"看球","name":"🏈手机看球🏈","type":3,"api":"csp_KanqiuGuard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"虎牙直播js","name":"🐯虎牙直播🐯","type":3,"api":"https://raw.kkgithub.com/fantaiying7/EXT/main/drpy2.js","ext":"https://raw.kkgithub.com/fantaiying7/EXT/main/huya2.js","style":{"type":"rect","ratio":1.755},"timeout":15,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
