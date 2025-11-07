@@ -57,6 +57,20 @@
            "name": "🛖影视仓🛖"
 
         },
+        { 
+
+            "url": "https://zthaa.top/th/api.json", 
+
+            "name": "👍挺好👍"
+
+        },
+        { 
+
+            "url": "https://tv.菜妮丝.top/", 
+
+            "name": "🥗菜妮丝🫕"
+
+        },
         {
 
             "url": "https://raw.kkgithub.com/alantang1977/X/main/X.json",
@@ -96,7 +110,7 @@
 
             "url": "https://raw.kkgithub.com/zx419d2o0/TasIkE/main/tv/vod/2.json",
 
-           "name": "🆗OK杰克🆗"
+           "name": "👌OK杰克👌"
 
         },
         {
