@@ -35,6 +35,24 @@ CCTV14,https://migu.188766.xyz/?migutoken=df154a7e6a2d1eeac9c1f5e89ec31e62&id=CC
 CCTV15,https://migu.188766.xyz/?migutoken=92285932c4bb56a455755903a57bc385&id=CCTV15&type=yy
 CCTV17,https://migu.188766.xyz/?migutoken=a28c7e73f55404511b9f2e39d604d995&id=CCTV17&type=yy
 
+CCTV1,http://shyd.695847.xyz/cms001/ch00000090990000001022/index.m3u8?IAS
+CCTV2,http://shyd.695847.xyz/cms001/ch00000090990000001220/index.m3u8?IAS
+CCTV3,http://shyd.695847.xyz/cms001/ch00000090990000001186/index.m3u8?IAS
+CCTV4,http://shyd.695847.xyz/cms001/ch00000090990000001221/index.m3u8?IAS
+CCTV5,http://shyd.695847.xyz/cms001/ch00000090990000001187/index.m3u8?IAS
+CCTV6,http://shyd.695847.xyz/cms001/ch00000090990000001188/index.m3u8?IAS
+CCTV7,http://shyd.695847.xyz/cms001/ch00000090990000001236/index.m3u8?IAS
+CCTV8,http://shyd.695847.xyz/cms001/ch00000090990000001189/index.m3u8?IAS
+CCTV9,http://shyd.695847.xyz/cms001/ch00000090990000001237/index.m3u8?IAS
+CCTV10,http://shyd.695847.xyz/cms001/ch00000090990000001238/index.m3u8?IAS
+CCTV11,http://shyd.695847.xyz/cms001/ch00000090990000001309/index.m3u8?IAS
+CCTV12,http://shyd.695847.xyz/cms001/ch00000090990000001239/index.m3u8?IAS
+CCTV13,http://shyd.695847.xyz/cms001/ch00000090990000001328/index.m3u8?IAS
+CCTV14,http://shyd.695847.xyz/cms001/ch00000090990000001240/index.m3u8?IAS
+CCTV15,http://shyd.695847.xyz/cms001/ch00000090990000001338/index.m3u8?IAS
+CCTV16,http://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IAS
+CCTV17,http://shyd.695847.xyz/cms001/ch00000090990000001241/index.m3u8?IAS
+
 CCTV1,https://60.191.56.186:8888/hls/1/index.m3u8
 CCTV2,https://60.191.56.186:8888/hls/2/index.m3u8
 CCTV3,https://60.191.56.186:8888/hls/3/index.m3u8
@@ -66,6 +84,8 @@ CCTV12,http://222.135.142.75:3283/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&
 CCTV13,http://222.135.142.75:3283/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://222.135.142.75:3283/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+CCTV16 4K,http://shyd.695847.xyz/cms001/ch00000090990000001258/index.m3u8?IAS
 
 🛰️卫视频道🛰️,#genre#
 湖南卫视,https://migu.188766.xyz/?migutoken=f59f1f4109adf86def201b6374ee9744&id=hnws&type=sz
@@ -140,6 +160,32 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 陕西卫视,https://migu.188766.xyz/?migutoken=348346c58b70eb6b07e01732b72d7213&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 内蒙古卫视,https://migu.188766.xyz/?migutoken=b5858e0646147a6473f2d100c4c3eb88&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 大湾区卫视,https://migu.188766.xyz/?migutoken=81d06edbda25811f07fc2923a024fddf&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+
+黑龙江卫视,http://shyd.695847.xyz/cms001/ch00000090990000001031/index.m3u8?IAS
+吉林卫视,http://shyd.695847.xyz/cms001/ch00000090990000001225/index.m3u8?IAS
+辽宁卫视,http://shyd.695847.xyz/cms001/ch00000090990000001035/index.m3u8?IAS
+甘肃卫视,http://shyd.695847.xyz/cms001/ch00000090990000001298/index.m3u8?IAS
+北京卫视,http://shyd.695847.xyz/cms001/ch00000090990000001029/index.m3u8?IAS
+天津卫视,http://shyd.695847.xyz/cms001/ch00000090990000001036/index.m3u8?IAS
+河北卫视,http://shyd.695847.xyz/cms001/ch00000090990000001229/index.m3u8?IAS
+河南卫视,http://shyd.695847.xyz/cms001/ch00000090990000001222/index.m3u8?IAS
+山东卫视,http://shyd.695847.xyz/cms001/ch00000090990000001028/index.m3u8?IAS
+江苏卫视,http://shyd.695847.xyz/cms001/ch00000090990000001033/index.m3u8?IAS
+东方卫视,http://shyd.695847.xyz/cms001/ch00000090990000001013/index.m3u8?IAS
+安徽卫视,http://shyd.695847.xyz/cms001/ch00000090990000001037/index.m3u8?IAS
+湖北卫视,http://shyd.695847.xyz/cms001/ch00000090990000001027/index.m3u8?IAS
+湖南卫视,http://shyd.695847.xyz/cms001/ch00000090990000001026/index.m3u8?IAS
+浙江卫视,http://shyd.695847.xyz/cms001/ch00000090990000001023/index.m3u8?IAS
+江西卫视,http://shyd.695847.xyz/cms001/ch00000090990000001034/index.m3u8?IAS
+东南卫视,http://shyd.695847.xyz/cms001/ch00000090990000001201/index.m3u8?IAS
+四川卫视,http://shyd.695847.xyz/cms001/ch00000090990000001130/index.m3u8?IAS
+重庆卫视,http://shyd.695847.xyz/cms001/ch00000090990000001129/index.m3u8?IAS
+贵州卫视,http://shyd.695847.xyz/cms001/ch00000090990000001184/index.m3u8?IAS
+云南卫视,http://shyd.695847.xyz/cms001/ch00000090990000001223/index.m3u8?IAS
+广东卫视,http://shyd.695847.xyz/cms001/ch00000090990000001032/index.m3u8?IAS
+深圳卫视,http://shyd.695847.xyz/cms001/ch00000090990000001030/index.m3u8?IAS
+广西卫视,http://shyd.695847.xyz/cms001/ch00000090990000001224/index.m3u8?IAS
+海南卫视,http://shyd.695847.xyz/cms001/ch00000090990000001183/index.m3u8?IAS
 
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
@@ -224,11 +270,6 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 
-湖南卫视4K,https://migu.188766.xyz/?migutoken=1bea3ed65700e8f1748e5f4e2a2f4e6a&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-浙江卫视4K,https://migu.188766.xyz/?migutoken=3e62b59d01b2ae2d7be920ce3999036c&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-北京卫视4K,https://migu.188766.xyz/?migutoken=dfa5b229ad35006d54dc108cf155882b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-深圳卫视4K,https://migu.188766.xyz/?migutoken=4566b54c7a25dd7ae3bba24529224a2a&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-
 湖南卫视4K,https://migu.188766.xyz/?migutoken=dc2dc5353a25dec2658a58e352dd2597&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视4K,https://migu.188766.xyz/?migutoken=4c5b33d19e3130496cb42914fdf3531d&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 北京卫视4K,https://migu.188766.xyz/?migutoken=2580517de49153b95b5c28d31487ae9c&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
@@ -241,6 +282,19 @@ CCTV15,http://222.135.142.75:3283/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 深圳卫视4K,https://migu.188766.xyz/?migutoken=713471ee1a79264ad73382e7ed66836f&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+
+北京卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?IAS
+北京卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?IAS
+湖南卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IAS
+东方卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?IAS
+四川卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS
+山东卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IAS
+广东卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001540/index.m3u8?IAS
+广东卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS
+江苏卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?IAS
+浙江卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IAS
+深圳卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS
+深圳卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?IAS
 
 🌎地方卫视🌎,#genre#
 湖南都市,http://118.248.196.137:7088/udp/239.76.253.104:9000
@@ -560,6 +614,8 @@ NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 
+快乐垂钓,http://shyd.695847.xyz/cms001/ch00000090990000001235/index.m3u8?IAS
+
 五星体育,https://migu.188766.xyz/?migutoken=2f81cc0bee954f2105181e4eea749935&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
 五星体育,https://migu.188766.xyz/?migutoken=f044e1c97db7c6da6135c112a2f5b2e3&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
 广东体育,https://mgev.188766.xyz/?migutoken=adc89b1e857930955cba95be68079f7d&id=gd_gdty&type=sz
@@ -720,6 +776,11 @@ NewTV精品综合,http://gslbserv.itv.cmvideo.cn/1000000004000019008/1.m3u8?chan
 NewTV魅力潇湘,http://gslbserv.itv.cmvideo.cn/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
 NewTV炫舞未来,http://gslbserv.itv.cmvideo.cn/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
 NewTV怡伴健康,http://gslbserv.itv.cmvideo.cn/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3
+
+金鹰纪实,http://shyd.695847.xyz/cms001/ch00000090990000001230/index.m3u8?IAS
+茶频道,http://shyd.695847.xyz/cms001/ch00000090990000001234/index.m3u8?IAS
+纪实科教,http://shyd.695847.xyz/cms001/ch00000090990000001231/index.m3u8?IAS
+卡酷少儿,http://shyd.695847.xyz/cms001/ch00000090990000001245/index.m3u8?IAS
 
 CETV1,http://113.104.186.217:7088/udp/239.77.1.222:5146
 CETV1,http://113.104.186.217:7088/udp/239.77.0.200:5146
