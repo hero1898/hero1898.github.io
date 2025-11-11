@@ -264,22 +264,38 @@ CCTV16 4K,http://shyd.695847.xyz/cms001/ch00000090990000001258/index.m3u8?IAS
 深圳卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?IAS
 
 🌎地方卫视🌎,#genre#
-湖南都市,http://118.248.196.137:7088/udp/239.76.252.117:9000
-湖南都市,http://118.248.196.137:7088/udp/239.76.253.104:9000
-湖南经视,http://118.248.196.137:7088/udp/239.76.253.103:9000
-湖南经视,http://118.248.196.137:7088/udp/239.76.252.116:9000
-湖南国际,http://118.248.196.137:7088/udp/239.76.252.240:9000
-湖南国际,http://118.248.196.137:7088/udp/239.76.253.102:9000
-湖南国际,http://118.248.196.137:7088/udp/239.76.252.124:9000
-湖南娱乐,http://118.248.196.137:7088/udp/239.76.253.105:9000
-湖南娱乐,http://118.248.196.137:7088/udp/239.76.252.121:9000
-湖南教育台,http://118.248.196.137:7088/udp/239.76.252.233:9000
-湖南爱晚,http://118.248.196.137:7088/udp/239.76.252.123:9000
-湖南爱晚,http://118.248.196.137:7088/udp/239.76.253.109:9000
-湖南电影,http://118.248.196.137:7088/udp/239.76.252.119:9000
-湖南电影,http://118.248.196.137:7088/udp/239.76.253.106:9000
-湖南电视剧,http://118.248.196.137:7088/udp/239.76.253.108:9000
-湖南电视剧,http://118.248.196.137:7088/udp/239.76.252.118:9000
+湖南都市,http://118.248.203.110:7088/udp/239.76.252.117:9000
+湖南都市,http://118.248.203.110:7088/udp/239.76.253.104:9000
+湖南经视,http://118.248.203.110:7088/udp/239.76.253.103:9000
+湖南经视,http://118.248.203.110:7088/udp/239.76.252.116:9000
+湖南国际,http://118.248.203.110:7088/udp/239.76.252.124:9000
+湖南国际,http://118.248.203.110:7088/udp/239.76.253.102:9000
+湖南国际,http://118.248.203.110:7088/udp/239.76.252.240:9000
+湖南娱乐,http://118.248.203.110:7088/udp/239.76.252.121:9000
+湖南娱乐,http://118.248.203.110:7088/udp/239.76.253.105:9000
+湖南教育台,http://118.248.203.110:7088/udp/239.76.252.233:9000
+湖南爱晚,http://118.248.203.110:7088/udp/239.76.253.109:9000
+湖南爱晚,http://118.248.203.110:7088/udp/239.76.252.123:9000
+湖南电影,http://118.248.203.110:7088/udp/239.76.252.119:9000
+湖南电影,http://118.248.203.110:7088/udp/239.76.253.106:9000
+湖南电视剧,http://118.248.203.110:7088/udp/239.76.252.118:9000
+湖南电视剧,http://118.248.203.110:7088/udp/239.76.253.108:9000
+
+深圳都市,http://113.100.30.68:4022/udp/239.77.1.176:5146
+深圳都市,http://113.104.184.138:7088/udp/239.77.1.176:5146
+深圳都市,http://113.111.108.224:4022/udp/239.77.1.176:5146
+深圳体育健康,http://113.111.108.224:4022/udp/239.77.1.128:5146
+深圳体育健康,http://113.111.108.224:4022/udp/239.77.1.140:5146
+深圳体育健康,http://113.104.184.138:7088/udp/239.77.1.128:5146
+深圳体育健康,http://113.104.184.138:7088/udp/239.77.1.140:5146
+深圳体育健康,http://113.100.30.68:4022/udp/239.77.1.128:5146
+深圳体育健康,http://113.100.30.68:4022/udp/239.77.1.140:5146
+深圳电视剧,http://113.104.184.138:7088/udp/239.77.1.125:5146
+深圳电视剧,http://113.100.30.68:4022/udp/239.77.1.125:5146
+深圳电视剧,http://113.111.108.224:4022/udp/239.77.1.125:5146
+深圳财经生活,http://113.104.184.138:7088/udp/239.77.1.242:5146
+深圳财经生活,http://113.100.30.68:4022/udp/239.77.1.242:5146
+深圳财经生活,http://113.111.108.224:4022/udp/239.77.1.242:5146
 
 深圳都市,http://113.119.26.215:58888/udp/239.77.1.176:5146
 深圳娱乐,http://113.119.26.215:58888/udp/239.77.1.243:5146
@@ -406,68 +422,6 @@ CH5,https://migu.188766.xyz/?migutoken=e6ced8bfcd36602dde18af22ca5d7ec1&id=hk_ch
 CH8,https://migu.188766.xyz/?migutoken=77f6435417c118ee301e60e8c964efba&id=hk_ch8&type=dy
 澳视澳门,https://migu.188766.xyz/?migutoken=702cd360d0e28d42ecceb7c4a521bd4f&id=hk_asam&type=dy
 HOY77,https://migu.188766.xyz/?migutoken=3d3c92395c2fc15d821daf3f2284a2ef&id=hk_hoy&type=dy
-
-中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
-中视新闻,https://smt.858.qzz.io/Smart.php?id=zhongshinews_twn
-东森新闻,https://smt.858.qzz.io/Smart.php?id=ettvnews
-三立综合,https://smt.858.qzz.io/Smart.php?id=sanlizhonghe
-台视新闻,https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
-民视新闻,https://smt.858.qzz.io/Smart.php?id=ftvnew_taiwan
-寰宇新闻,https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
-非凡新闻,https://smt.858.qzz.io/Smart.php?id=feifannews_twn
-年代新闻,https://smt.858.qzz.io/Smart.php?id=niandainews_twn
-TVBS新闻,https://smt.858.qzz.io/Smart.php?id=tvbs_n
-中天亚洲,https://smt.858.qzz.io/Smart.php?id=ctiasia_twn
-
-AXN电影,https://smt.858.qzz.io/Smart.php?id=axn_twn
-AstroMTV,https://smt.858.qzz.io/Smart.php?id=AstroMTV
-EYE-旅游,https://smt.858.qzz.io/Smart.php?id=eyetvtravel_twn
-EYE-戏剧,https://smt.858.qzz.io/Smart.php?id=eyetvxiju_twn
-HitsMovie,https://smt.858.qzz.io/Smart.php?id=Hitsmovie
-StarMovies,https://smt.858.qzz.io/Smart.php?id=starmovies_raj
-StarmaaMovies,https://smt.858.qzz.io/Smart.php?id=starmaamovies_raj
-TVBAsia,https://smt.858.qzz.io/Smart.php?id=Tvbasia
-八大第一,https://smt.858.qzz.io/Smart.php?id=badafirst
-八大戏剧,https://smt.858.qzz.io/Smart.php?id=badadrama
-八大娱乐,https://smt.858.qzz.io/Smart.php?id=badaentertain
-八大综合,https://smt.858.qzz.io/Smart.php?id=badazhonghe
-大爱贰台,https://smt.858.qzz.io/Smart.php?id=daai2_twn
-大爱壹台,https://smt.858.qzz.io/Smart.php?id=daai_twn
-东森财经,https://smt.858.qzz.io/Smart.php?id=ettvcaijing_twn
-东森电影,https://smt.858.qzz.io/Smart.php?id=ettvmovie
-东森戏剧,https://smt.858.qzz.io/Smart.php?id=ettvdrama
-东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
-东森幼幼,https://smt.858.qzz.io/Smart.php?id=yoyo_twn
-东森综合,https://smt.858.qzz.io/Smart.php?id=ettvzhonghe
-公视台语,https://smt.858.qzz.io/Smart.php?id=ctv2_twn
-华视闽南,https://smt.858.qzz.io/Smart.php?id=ctshd_twn
-寰宇财经,https://smt.858.qzz.io/Smart.php?id=huanyutaiwan_twn
-龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
-美亚电影,https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
-民视第一,https://smt.858.qzz.io/Smart.php?id=lunghuajingdian_twn
-民视闽南,https://smt.858.qzz.io/Smart.php?id=ftvhd_taiwan
-三立闽南,https://smt.858.qzz.io/Smart.php?id=sanlitaiwan
-三立戏剧,https://smt.858.qzz.io/Smart.php?id=sanlixiju_twn
-三立综合,https://smt.858.qzz.io/Smart.php?id=sanlizhonghe
-探索亚洲,https://smt.858.qzz.io/Smart.php?id=discoverytwn_twn
-天映国特,https://smt.858.qzz.io/Smart.php?id=Celestial
-天映经典,https://smt.858.qzz.io/Smart.php?id=Celestial2
-天映闽特,https://smt.858.qzz.io/Smart.php?id=Celestialindo
-天映粤特,https://smt.858.qzz.io/Smart.php?id=ctv18_twn
-tvNMovie,https://smt.858.qzz.io/Smart.php?id=Tvnmovie
-纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
-纬来日本,https://smt.858.qzz.io/Smart.php?id=videolandjapan
-纬来体育,https://smt.858.qzz.io/Smart.php?id=videolandsport
-纬来综合,https://smt.858.qzz.io/Smart.php?id=videolandzonghe
-无线翡翠,https://smt.858.qzz.io/Smart.php?id=Tvbjade
-无线翡翠,https://smt.858.qzz.io/Smart.php?id=jade_twn
-无线娱乐,https://smt.858.qzz.io/Smart.php?id=Tvbentertainment
-亚洲旅游,https://smt.858.qzz.io/Smart.php?id=asiatravel_twn
-有线新闻,https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
-中视经典,https://smt.858.qzz.io/Smart.php?id=zhongshi_twn
-中视闽南,https://smt.858.qzz.io/Smart.php?id=zhongshihd_twn
-中天娱乐,https://smt.858.qzz.io/Smart.php?id=ctient
-中天综合,https://smt.858.qzz.io/Smart.php?id=ctizhonghe
 
 中天新闻,http://xtvantsc.xyz/Smart.php?id=ctinews
 中视新闻,http://xtvantsc.xyz/Smart.php?id=zhongshinews_twn
