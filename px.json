@@ -126,6 +126,11 @@
 {"key":"文才","name":"🌺文才在线🌺","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"jar":"https://pan.qingyuji.cn/f/AMDdiy/kk.png;md5;9f301f953b2d7e35c48b0ed257c12aff"},
 {"key":"糯米","name":"🍓糯米秒播🍓","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"jar":"https://pan.qingyuji.cn/f/AMDdiy/kk.png;md5;9f301f953b2d7e35c48b0ed257c12aff"},
 
+##柒豪4K  http://38.165.20.168/柒豪4K.json
+{"key":"夸克盘搜","name":"🌿夸克搜索🌿","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"quark"},"jar":"http://38.165.20.168/jar/柒豪.jar;md5;35ea8d743d6c6cd743c03e6badb7f1de"},
+{"key":"UC盘搜","name":"🍀UC搜索🍀","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"uc"},"jar":"http://38.165.20.168/jar/柒豪.jar;md5;35ea8d743d6c6cd743c03e6badb7f1de"},
+{"key":"天翼盘搜","name":"🍁天翼搜索🍁","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cloudDrives":"tianyi"},"jar":"http://38.165.20.168/jar/柒豪.jar;md5;35ea8d743d6c6cd743c03e6badb7f1de"},
+    
 ##附马影视系列 http://fmys.top/fmys.json
 //{"key":"热播","name":"🔥热播影视🔥","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.rbotv.cn","jar":"http://fmys.top/lib/fm.jar;md5;542ed744b07121213f70323b9bcbecca"},
 //{"key":"湾湾频道","name":"🌀湾湾频道🌀","type":3,"api":"csp_Ptt","searchable":1,"quickSearch":1,"changeable":1,"jar":"http://fmys.top/lib/fm.jar;md5;542ed744b07121213f70323b9bcbecca"},
