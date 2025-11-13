@@ -112,7 +112,7 @@
 
 ##OK杰克系列  https://raw.kkgithub.com/zx419d2o0/TasIkE/main/tv/vod/2.json  http://ok321.top/ok
 {"key":"二小","name":"🦢二小4K🦢","type":3,"api":"csp_ErXiaoGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"https://pan.qingyuji.cn/f/AMDdiy/kk.png;md5;9f301f953b2d7e35c48b0ed257c12aff"},
-{"key":"双星","name":"🤩双星4K🤩","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0,"style":{"type":"list","jar":"https://pan.qingyuji.cn/f/AMDdiy/kk.png;md5;9f301f953b2d7e35c48b0ed257c12aff"},"timeout":25,"jar":"https://pan.qingyuji.cn/f/AMDdiy/kk.png;md5;9f301f953b2d7e35c48b0ed257c12aff"},
+{"key":"双星","name":"🤩双星4K🤩","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0,"timeout":25,"style":{"type":"list","jar":"https://pan.qingyuji.cn/f/AMDdiy/kk.png;md5;9f301f953b2d7e35c48b0ed257c12aff"}},
 {"key":"玩偶","name":"👽玩偶4K👽","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30,"jar":"https://pan.qingyuji.cn/f/AMDdiy/kk.png;md5;9f301f953b2d7e35c48b0ed257c12aff"},
 {"key":"立播版","name":"🌟立播4K🌟","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30,"jar":"https://pan.qingyuji.cn/f/AMDdiy/kk.png;md5;9f301f953b2d7e35c48b0ed257c12aff"},
 {"key":"蜡笔","name":"👠蜡笔4K👠","type":3,"api":"csp_LabiGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"https://pan.qingyuji.cn/f/AMDdiy/kk.png;md5;9f301f953b2d7e35c48b0ed257c12aff"},
