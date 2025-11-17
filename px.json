@@ -42,7 +42,7 @@
 
 "sites":[
 ##常用系列
-{"key": "豆","name": "PX影视 20251118更新 电视剧首选聚搜影视、荐片影视、奇迹影视观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
+{"key": "豆","name": "PX影视 20251118更新 电视剧首选聚搜影视、奇迹秒播、🎈影视**🎈观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"jar":"https://img2.gelonghui.com/library/cc5ae-cad9c019-a704-4ae0-b1ab-d71b2f90eff9.png;md5;cc5ae3a5f652c14398978c1e3c73cba0"},
 
 ##饭太硬系列  http://www.饭太硬.com/tv
