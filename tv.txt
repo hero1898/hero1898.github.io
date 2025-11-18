@@ -1,22 +1,22 @@
 🇨🇳央视频道🇨🇳,#genre#
-CCTV1,http://36.135.118.195:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV2,http://36.135.118.195:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV3,http://36.135.118.195:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV4,http://36.135.118.195:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV5,http://36.135.118.195:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV5+,http://36.135.118.195:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV6,http://36.135.118.195:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV7,http://36.135.118.195:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV8,http://36.135.118.195:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV9,http://36.135.118.195:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV10,http://36.135.118.195:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV11,http://36.135.118.195:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV12,http://36.135.118.195:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV13,http://36.135.118.195:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV14,http://36.135.118.195:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV15,http://36.135.118.195:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV16,http://36.135.118.195:85/tsfile/live/0016_2.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV17,http://36.135.118.195:85/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225654/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV2,http://gxyd.484947.xyz/PLTV/77777777/224/3221225657/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV3,http://gxyd.484947.xyz/PLTV/77777777/224/3221225713/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV4,http://gxyd.484947.xyz/PLTV/77777777/224/3221225761/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV5,http://gxyd.484947.xyz/PLTV/77777777/224/3221225660/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV5+,http://gxyd.484947.xyz/PLTV/77777777/224/3221225712/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV6,http://gxyd.484947.xyz/PLTV/77777777/224/3221225715/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV7,http://gxyd.484947.xyz/PLTV/77777777/224/3221225700/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV8,http://gxyd.484947.xyz/PLTV/77777777/224/3221225716/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV9,http://gxyd.484947.xyz/PLTV/77777777/224/3221225663/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV10,http://gxyd.484947.xyz/PLTV/77777777/224/3221225704/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV11,http://gxyd.484947.xyz/PLTV/77777777/224/3221225739/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV12,http://gxyd.484947.xyz/PLTV/77777777/224/3221225645/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV13,http://gxyd.484947.xyz/PLTV/77777777/224/3221225742/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV14,http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV15,http://gxyd.484947.xyz/PLTV/77777777/224/3221225693/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV16,http://gxyd.484947.xyz/PLTV/77777777/224/3221225956/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV17,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
 
 CCTV1,https://60.191.56.186:8888/hls/1/index.m3u8
 CCTV2,https://60.191.56.186:8888/hls/2/index.m3u8
@@ -50,24 +50,24 @@ CCTV13,http://223.75.148.190:9910/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&
 CCTV14,http://223.75.148.190:9910/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北移动
 CCTV15,http://223.75.148.190:9910/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北移动
 
-CCTV1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225654/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV2,http://gxyd.484947.xyz/PLTV/77777777/224/3221225657/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV3,http://gxyd.484947.xyz/PLTV/77777777/224/3221225713/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV4,http://gxyd.484947.xyz/PLTV/77777777/224/3221225761/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV5,http://gxyd.484947.xyz/PLTV/77777777/224/3221225660/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV5+,http://gxyd.484947.xyz/PLTV/77777777/224/3221225712/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV6,http://gxyd.484947.xyz/PLTV/77777777/224/3221225715/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV7,http://gxyd.484947.xyz/PLTV/77777777/224/3221225700/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV8,http://gxyd.484947.xyz/PLTV/77777777/224/3221225716/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV9,http://gxyd.484947.xyz/PLTV/77777777/224/3221225663/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV10,http://gxyd.484947.xyz/PLTV/77777777/224/3221225704/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV11,http://gxyd.484947.xyz/PLTV/77777777/224/3221225739/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV12,http://gxyd.484947.xyz/PLTV/77777777/224/3221225645/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV13,http://gxyd.484947.xyz/PLTV/77777777/224/3221225742/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV14,http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV15,http://gxyd.484947.xyz/PLTV/77777777/224/3221225693/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV16,http://gxyd.484947.xyz/PLTV/77777777/224/3221225956/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
-CCTV17,http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetype=3&IASHttpSessionId=OTT$广西移动
+CCTV1,http://36.135.118.195:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV2,http://36.135.118.195:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV3,http://36.135.118.195:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV4,http://36.135.118.195:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV5,http://36.135.118.195:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV5+,http://36.135.118.195:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV6,http://36.135.118.195:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV7,http://36.135.118.195:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV8,http://36.135.118.195:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV9,http://36.135.118.195:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV10,http://36.135.118.195:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV11,http://36.135.118.195:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV12,http://36.135.118.195:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV13,http://36.135.118.195:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV14,http://36.135.118.195:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV15,http://36.135.118.195:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV16,http://36.135.118.195:85/tsfile/live/0016_2.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
+CCTV17,http://36.135.118.195:85/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
 
 CCTV1,http://171.83.98.13:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$武汉电信
 CCTV2,http://171.83.98.13:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$武汉电信
@@ -193,17 +193,12 @@ CCTV5+,http://116.77.33.196:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&
 CCTV 4K,http://58.32.32.87:4022/udp/233.18.204.204:5140
 CCTV 4K,http://58.32.32.87:4022/udp/239.45.0.55:5140
 CCTV 4K,http://58.32.32.87:4022/udp/233.18.204.188:5140
-CCTV 4K,http://113.104.185.203:7088/udp/239.77.0.194:5146
-CCTV 4K,http://113.104.185.203:7088/udp/239.77.1.180:5146
 CCTV 4K,http://113.111.111.71:4022/udp/239.77.0.194:5146
 CCTV 4K,http://113.111.111.71:4022/udp/239.77.1.180:5146
 CCTV 4K,http://180.109.94.130:4022/udp/239.49.0.82:8000
 CCTV 4K,http://118.248.207.82:7088/udp/239.76.254.64:9000
-CCTV 4K,http://118.248.207.82:7088/udp/239.76.254.101:9000
 CCTV16 4K,http://118.248.207.82:7088/udp/239.76.253.230:9000
 CCTV16 4K,http://118.248.207.82:7088/udp/239.76.254.200:9000
-
-CCTV 4K,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.91:5540$上海联通
 
 🛰️卫视频道🛰️,#genre#
 湖南卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTcvaW5kZXgubTN1OA==
@@ -529,9 +524,15 @@ CCTV 4K,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.91:5540$上海联通
 吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 
+湖南卫视 4K,https://migu.188766.xyz/?migutoken=63160b171feda2bd7e9994b063ba6954&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视 4K,https://migu.188766.xyz/?migutoken=aea3b9936765e13ad7b954719c965005&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+广东卫视 4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+深圳卫视 4K,https://migu.188766.xyz/?migutoken=74a028fe0db88a5eb64cfa37937dc2cd&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+苏州 4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北 4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+
 湖南卫视 4K,http://58.32.32.87:4022/udp/233.18.204.227:5140
 湖南卫视 4K,http://118.248.207.82:7088/udp/239.76.253.100:9000
-湖南卫视 4K,http://118.248.207.82:7088/udp/239.76.253.214:9000
 湖南卫视 4K,http://118.248.207.82:7088/udp/239.76.253.62:9000
 湖南卫视 4K,http://118.248.207.82:7088/udp/239.76.254.136:9000
 浙江卫视 4K,http://118.248.207.82:7088/udp/239.76.254.220:9000
@@ -573,13 +574,6 @@ CCTV 4K,http://pitajvsa.asuscomm.com:51728/udp/238.200.200.91:5540$上海联通
 山东卫视 4K,http://113.111.111.71:4022/udp/239.77.0.61:5146
 山东卫视 4K,http://58.32.32.87:4022/udp/233.18.204.228:5140
 山东卫视 4K,http://58.32.32.87:4022/udp/239.45.3.180:5140
-
-湖南卫视 4K,https://migu.188766.xyz/?migutoken=63160b171feda2bd7e9994b063ba6954&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-浙江卫视 4K,https://migu.188766.xyz/?migutoken=aea3b9936765e13ad7b954719c965005&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-广东卫视 4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-深圳卫视 4K,https://migu.188766.xyz/?migutoken=74a028fe0db88a5eb64cfa37937dc2cd&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-苏州 4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北 4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 
 🌎地方卫视🌎,#genre#
 湖南都市,http://118.248.207.82:7088/udp/239.76.252.117:9000
