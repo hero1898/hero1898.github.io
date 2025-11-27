@@ -656,25 +656,6 @@ CCTV16 4K,http://118.248.207.82:7088/udp/239.76.254.200:9000
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-13.m3u8
 
 🇭🇰港澳台🇭🇰,#genre#
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-无线新闻,https://cdn6.101.qzz.io/163189/wxxw
-翡翠台,https://cdn6.101.qzz.io/163189/fct
-翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-
-凤凰中文,http://222.212.84.190:54123/udp/239.93.1.9:2192
-凤凰资讯,http://222.212.84.190:54123/udp/239.93.1.4:2191
-凤凰中文,http://nas.uclive.site:8000/udp/239.93.1.9:2192
-凤凰资讯,http://nas.uclive.site:8000/rtp/239.93.1.4:2191
-
-凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
-凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
-
 凤凰中文,https://migu.188766.xyz/?migutoken=8ed4d4269ec840f7043146f6306b5724&id=fhzw&pp=1
 凤凰中文,https://migu.188766.xyz/?migutoken=8ea4d61c78f29a867e310a9bacfef1a8&id=hk_fhzw&type=dy
 凤凰资讯,https://migu.188766.xyz/?migutoken=c97e9d65f93545e5fd85e3b8be092759&id=fhzx&pp=1
@@ -695,6 +676,25 @@ CH5,https://migu.188766.xyz/?migutoken=0a92a49848bee66d07734bb39972974d&id=hk_ch
 CH8,https://migu.188766.xyz/?migutoken=f9c8f0b18079774269d8aaeb811824ce&id=hk_ch8&type=dy
 澳视澳门,https://migu.188766.xyz/?migutoken=18a8233f88e822bd9781f3cb08d4fce1&id=hk_asam&type=dy
 HOY77,https://migu.188766.xyz/?migutoken=8d998eb1349c78cfb44e149c0729c7a5&id=hk_hoy&type=dy
+
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+无线新闻,https://cdn6.101.qzz.io/163189/wxxw
+翡翠台,https://cdn6.101.qzz.io/163189/fct
+翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
+
+凤凰中文,http://222.212.84.190:54123/udp/239.93.1.9:2192
+凤凰资讯,http://222.212.84.190:54123/udp/239.93.1.4:2191
+凤凰中文,http://nas.uclive.site:8000/udp/239.93.1.9:2192
+凤凰资讯,http://nas.uclive.site:8000/rtp/239.93.1.4:2191
+
+凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
+凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
