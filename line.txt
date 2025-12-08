@@ -150,6 +150,13 @@
         },
         {
 
+            "url": "https://raw.kkgithub.com/bluefriendCN/set/main/mx.json",
+
+            "name": "📦MX影视📦"
+
+        },
+        {
+
             "url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/pq.json",
 
             "name": "🐹测试线路🐹"
