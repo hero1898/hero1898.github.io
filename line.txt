@@ -2,7 +2,7 @@
     "urls": [
         {
 
-            "url": "https://ghproxy.net/raw.githubusercontent.com/hero1898/hero1898.github.io/main/px.json",
+            "url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/px.json",
 
             "name": "🐶PX影视🐶"
 
@@ -10,7 +10,7 @@
         {
 
 
-            "url": "https://ghproxy.net/raw.githubusercontent.com/hero1898/hero1898.github.io/main/pp.json",
+            "url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/pp.json",
 
             "name": "🐶PQ影视🐶"
 
@@ -38,14 +38,14 @@
         },
         {
 
-            "url": "https://ghproxy.net/raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
+            "url": "https://raw.kkgithub.com/qist/tvbox/master/xiaosa/api.json",
 
             "name": "🍄潇洒影视🍄"
 
         },
         {
 
-            "url": "https://ghproxy.net/raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "url": "https://raw.kkgithub.com/qist/tvbox/master/jsm.json",
 
             "name": "☂️JSM☂️"
 
@@ -73,14 +73,14 @@
         },
         {
 
-            "url": "https://ghproxy.net/raw.githubusercontent.com/alantang1977/X/main/X.json",
+            "url": "https://raw.kkgithub.com/alantang1977/X/main/X.json",
 
             "name": "😻汤影视❶😻"
 
         },
         {
 
-            "url": "https://ghproxy.net/raw.githubusercontent.com/alantang1977/X/main/aTV.json",
+            "url": "https://raw.kkgithub.com/alantang1977/X/main/aTV.json",
 
             "name": "😻汤影视❷😻"
 
@@ -108,7 +108,7 @@
         },
         {
 
-            "url": "http://ok321.top/ok",        //"https://ghproxy.net/raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/2.json",
+            "url": "http://ok321.top/ok",        //"https://raw.kkgithub.com/zx419d2o0/TasIkE/main/tv/vod/2.json",
 
            "name": "👌OK杰克👌"
 
@@ -129,7 +129,7 @@
         },
         {
 
-            "url": "https://ghproxy.net/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
 
             "name": "🍀香雅情🍀"
 
@@ -150,14 +150,14 @@
         },
         {
 
-            "url": "https://ghproxy.net/raw.githubusercontent.com/bluefriendCN/set/main/mx.json",
+            "url": "https://raw.kkgithub.com/bluefriendCN/set/main/mx.json",
 
             "name": "📦MX影视📦"
 
         },
         {
 
-            "url": "https://ghproxy.net/raw.githubusercontent.com/hero1898/hero1898.github.io/main/pq.json",
+            "url": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/pq.json",
 
             "name": "🐹测试线路🐹"
 
