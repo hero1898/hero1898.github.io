@@ -1,8 +1,8 @@
 {
     "wallpaper": "https://picsum.photos/1080/",
-  //"spider": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/jar/xyq.jar",
-  //"spider": "https://ghproxy.net/raw.githubusercontent.com/hero1898/hero1898.github.io/main/jar/xyq.jar",
-    "spider": "https://ghproxy.net/raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
+  //"spider": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/jar/xyq.jar",
+  //"spider": "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/jar/xyq.jar",
+    "spider": "https://raw.kkgithub.com/xwyjc/aliluya/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
     "logo": "http://hello.xn--z7x900a.com/fm.gif",
     "headers": [
         {
@@ -27,15 +27,15 @@
             "searchable": 1,
             "quickSearch": 1
         },
-{"key":"黑猫AV","name":"🔞黑猫AV","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/json/黑猫AV.json"},
-{"key":"爱色吧","name":"🔞爱色吧","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/jar/xbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/json/爱色吧.json"},
-{"key":"FC2官网","name":"🔞FC2官网","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/json/FC2官网.json"},
-{"key":"超级精品","name":"🔞超级精品","type":3,"api":"csp_XBPQ","jar":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/jar/xyqxbpq.jar","searchable":1,"style":{"ratio":1.43},"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/json/超级精品.json"},
-{"key":"咪咪女孩","name":"🔞咪咪女孩","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"csp_XBPQ","jar":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/jar/xyqxbpq.jar","ext":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/json/咪咪女孩.json"},
-{"key":"js_madou","name":"🔞麻豆(js)","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/js/麻豆.min.js","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":{}},
+{"key":"黑猫AV","name":"🔞黑猫AV","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kkgithub.com/testnmb/pgfh/main/json/黑猫AV.json"},
+{"key":"爱色吧","name":"🔞爱色吧","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/xbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kkgithub.com/testnmb/pgfh/main/json/爱色吧.json"},
+{"key":"FC2官网","name":"🔞FC2官网","type":3,"playerType":2,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kkgithub.com/testnmb/pgfh/main/json/FC2官网.json"},
+{"key":"超级精品","name":"🔞超级精品","type":3,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/xyqxbpq.jar","searchable":1,"style":{"ratio":1.43},"quickSearch":1,"filterable":1,"ext":"https://raw.kkgithub.com/testnmb/pgfh/main/json/超级精品.json"},
+{"key":"咪咪女孩","name":"🔞咪咪女孩","type":3,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/xyqxbpq.jar","ext":"https://raw.kkgithub.com/testnmb/pgfh/main/json/咪咪女孩.json"},
+{"key":"js_madou","name":"🔞麻豆(js)","type":3,"api":"https://raw.kkgithub.com/testnmb/pgfh/main/js/麻豆.min.js","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":{}},
 {"key":"py_madou","name":"🔞麻豆(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=MaDou","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
 {"key":"py_Miss","name":"🔞MissAV(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=Miss","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
-{"key":"1AV","name":"🔞1AV","type":3,"api":"csp_XBPQ","jar":"https://ghproxy.net/raw.githubusercontent.com/testnmb/pgfh/main/jar/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://www.1av.shop/label/new.html","跳转播放链接":"varplayer_aaaa*url\":\"&&\"","链接":"href=\"&&\"","标题":"alt=\"&&\"","直接播放":"1","分类url":"https://www.1av.shop/vodtype/{cateId}-{catePg}.html","分类数组":"<a&&</a>","分类标题":">&&<","分类ID":"/vodtype/&&.html"}},
+{"key":"1AV","name":"🔞1AV","type":3,"api":"csp_XBPQ","jar":"https://raw.kkgithub.com/testnmb/pgfh/main/jar/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://www.1av.shop/label/new.html","跳转播放链接":"varplayer_aaaa*url\":\"&&\"","链接":"href=\"&&\"","标题":"alt=\"&&\"","直接播放":"1","分类url":"https://www.1av.shop/vodtype/{cateId}-{catePg}.html","分类数组":"<a&&</a>","分类标题":">&&<","分类ID":"/vodtype/&&.html"}},
         {
             "key": "✨果冻破解版✨",
             "name": "✨果冻✨",
@@ -44,8 +44,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/json/果冻.json",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar"
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/json/果冻.json",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar"
         },
         {
             "key": "✨百草香✨\n",
@@ -55,8 +55,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/json/百草.json",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar"
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/json/百草.json",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar"
         },
         {
             "key": "✨风流视频✨\n",
@@ -66,15 +66,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/json/风流.json",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar"
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/json/风流.json",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar"
         },
         {
             "key": "py_AiDou",
             "name": "AiDou",
             "type": 4,
             "api": "https://py.doube.eu.org/spider?site=AiDou",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -93,7 +93,7 @@
             "filterable": 1,
             "changeable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar",
             "ext": {
                 "作者": "",
                 "站名": "",
@@ -148,41 +148,41 @@
             "api": "csp_XMVideo",
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+            "jar": "https://raw.kkgithub.com/guot55/yg/main/jar/182.jar"
         },
         {
             "key": "撸铁汉",
             "name": "㊙️金陵撸铁汉",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/lib/金陵撸铁汉.json"
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/lib/金陵撸铁汉.json"
         },
         {
             "key": "91速播",
             "name": "㊙️91速播",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/lib/91速播.json"
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/lib/91速播.json"
         },
         {
             "key": "辣味视频",
             "name": "🍁辣味视频🍁",
             "type": 3,
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/X_XBPQ.jar",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/X_XBPQ.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://xsese.com/;;!",
@@ -194,11 +194,11 @@
             "name": "🔞杏吧视频",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/杏吧视频.json",
+            "ext": "https://raw.kkgithub.com/xwyjc/lwang/main/XYQHike/杏吧视频.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -209,14 +209,14 @@
             "name": "比卡",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/xyqxbpq.jar",
+            "jar": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/jar/xyqxbpq.jar",
             "searchable": 1,
             "style": {
                 "ratio": 1.43
             },
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/lib/比卡.json"
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/tvbox/纯福利/lib/比卡.json"
         },
         {
             "key": "csp_XYQHiker_airav",
@@ -226,7 +226,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/airav.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/airav.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -240,7 +240,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/小丑撸.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/小丑撸.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -254,7 +254,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/爱上av.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/爱上av.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -268,7 +268,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/色最色.json"
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/色最色.json"
         },
         {
             "key": "csp_XYQHiker_ixxxj",
@@ -278,7 +278,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/ixxxj.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/ixxxj.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -292,7 +292,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/91吃瓜网.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/91吃瓜网.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.8
@@ -306,7 +306,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/17吃瓜.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/17吃瓜.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -316,8 +316,8 @@
             "key": "drpy_js_SOAV[密]",
             "name": "SOAV[密][js]",
             "type": 3,
-            "api": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/js/lib/drpy2.min.js",
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/js/SOAV[密].js",
+            "api": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/js/lib/drpy2.min.js",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/js/SOAV[密].js",
             "style": {
                 "type": "rect",
                 "ratio": 1.8
@@ -331,7 +331,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/lxxlxx.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/lxxlxx.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.8
@@ -345,7 +345,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/boboporn.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/boboporn.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.8
@@ -359,7 +359,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/444咖啡.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/444咖啡.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -373,7 +373,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/杏吧视频.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/杏吧视频.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -387,7 +387,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/taiav.json",
+            "ext": "https://raw.kkgithub.com/yuanwangokk-1/TV-BOX/main/纯福利/tv/XYQHiker/taiav.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
@@ -450,7 +450,7 @@
                 {
                     "name": "redirect",
                     "urls": [
-                        "https://ghproxy.net/raw.githubusercontent.com/hero1898/hero1898.github.io/main/tv.txt"
+                        "https://raw.kkgithub.com/hero1898/hero1898.github.io/main/tv.txt"
                     ]
                 }
             ]
