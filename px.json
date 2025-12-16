@@ -44,7 +44,7 @@
 
 "sites":[
 ##常用系列
-{"key": "豆","name": "PX影视 20251225更新 电视剧首选天天、潮流、骚火影视观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
+{"key": "豆","name": "PX影视 20251216更新 电视剧首选天天、潮流、骚火影视观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"jar":"https://img2.gelonghui.com/library/e7cfb-348c5e58-f21d-4f6e-8a92-65ec14dcdacc.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9"},
 
 ##饭太硬系列  http://www.饭太硬.com/tv
