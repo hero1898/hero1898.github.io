@@ -1,0 +1,88 @@
+[
+  {
+    "guid": "038d37a2-7a1e-4c01-9b6d-aa215d29ab4c",
+    "name": "Jellyfin.MeiamSub.Shooter",
+    "description": "Download subtitles from Shooter\n",
+    "overview": "",
+    "owner": "MeiamSubtitles",
+    "category": "Metadata",
+    "imageUrl": "https://raw.bgithub.xyz/91270/MeiamSubtitles.Release/main/Plugin/images/Jellyfin.MeiamSub.Shooter.png",
+    "versions": [
+      {
+        "version": "1.0.12.0",
+        "changelog": "### 修复射手字幕连接问题  ###\n",
+        "targetAbi": "10.10.3.0",
+        "sourceUrl": "https://raw.bgithub.xyz/91270/MeiamSubtitles.Release/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.12.0.zip",
+        "checksum": "CDDA24D637F50464CC8417A7E5D18872",
+        "timestamp": "2025-09-29T09:51:43Z"
+      },
+      {
+        "version": "1.0.11.0",
+        "changelog": "### 优化BUG , 迅雷使用新接口获取字幕  ###\n",
+        "targetAbi": "10.10.3.0",
+        "sourceUrl": "https://raw.bgithub.xyz/91270/MeiamSubtitles.Release/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.11.0.zip",
+        "checksum": "B6562B37BCB0A7D673ADCC9C170B84E3",
+        "timestamp": "2025-01-14T17:40:43Z"
+      },
+      {
+        "version": "1.0.10.0",
+        "changelog": "### 适配新版 Jellyfin ###\n",
+        "targetAbi": "10.9.2.0",
+        "sourceUrl": "https://raw.bgithub.xyz/91270/MeiamSubtitles.Release/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.10.0.zip",
+        "checksum": "C9893AF4F37AF67D977FD0E8B53F1225",
+        "timestamp": "2024-06-06T14:43:43Z"
+      },
+      {
+        "version": "1.0.9.0",
+        "changelog": "### 修复无法查询无字幕问题 ###\n",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://raw.bgithub.xyz/91270/MeiamSubtitles.Release/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.9.0.zip",
+        "checksum": "94B74817E8EAE6ADBD121CA72305A0FB",
+        "timestamp": "2023-02-09T12:43:43Z"
+      }
+    ]
+  },
+  {
+    "guid": "e4ce9da9-ef00-417c-96f2-861c512d45eb",
+    "name": "Jellyfin.MeiamSub.Thunder",
+    "description": "Download subtitles from Thunder XMP\n",
+    "overview": "",
+    "owner": "MeiamSubtitles",
+    "category": "Metadata",
+    "imageUrl": "https://raw.bgithub.xyz/91270/MeiamSubtitles.Release/main/Plugin/images/Jellyfin.MeiamSub.Thunder.png",
+    "versions": [
+      {
+        "version": "1.0.12.0",
+        "changelog": "### 修复射手字幕连接问题 ###\n",
+        "targetAbi": "10.10.3.0",
+        "sourceUrl": "https://raw.bgithub.xyz/91270/MeiamSubtitles.Release/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.12.0.zip",
+        "checksum": "38D94C6085B187B658C34C138C83789B",
+        "timestamp": "2025-09-29T09:51:43Z"
+      },
+      {
+        "version": "1.0.11.0",
+        "changelog": "### 优化BUG , 迅雷使用新接口获取字幕 ###\n",
+        "targetAbi": "10.10.3.0",
+        "sourceUrl": "https://raw.bgithub.xyz/91270/MeiamSubtitles.Release/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.11.0.zip",
+        "checksum": "848DF477C15A009BFA56630CD4753F2C",
+        "timestamp": "2025-01-14T17:40:43Z"
+      },
+      {
+        "version": "1.0.10.0",
+        "changelog": "### 适配新版 Jellyfin ###\n",
+        "targetAbi": "10.9.2.0",
+        "sourceUrl": "https://raw.bgithub.xyz/91270/MeiamSubtitles.Release/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.10.0.zip",
+        "checksum": "CEE120A1953334FBE0519DAF2706D31D",
+        "timestamp": "2024-06-06T14:43:43Z"
+      },
+      {
+        "version": "1.0.9.0",
+        "changelog": "### 修复无法查询无字幕问题 ###\n",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://raw.bgithub.xyz/91270/MeiamSubtitles.Release/main/Plugin/Jellyfin.MeiamSub.Thunder_1.0.9.0.zip",
+        "checksum": "FF5890F1FDEA2B6F8D7AE0B2FDCE4241",
+        "timestamp": "2023-02-09T12:43:43Z"
+      }
+    ]
+  }
+]
