@@ -1,8 +1,8 @@
 {
-"spider":"https://ghfast.top/https://raw.githubusercontent.com/bluefriendCN/bin/main/fan.txt;md5;4685db8d54e6ab9d04d635e3666f230e",  //  饭太硬 https://oss4liview.moji.com/thd_file/2025/12/04/e0071812c2b8de802243d64cd08579c2.jpg;md5;9c5ab7ce8e0591e57e1f883b88dd199c
+"spider":"https://ghfast.top/https://raw.githubusercontent.com/bluefriendCN/bin/main/fan.txt;md5;4685db8d54e6ab9d04d635e3666f230e",  //  饭太硬 https://oss4liview.moji.com/thd_file/2025/12/21/8b312080f190b1128abf9159f3a41965.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17
 //"spider":"https://img2.gelonghui.com/library/caa22-82cdc278-148a-46bf-9aaf-c6aee2b5d124.png;md5;caa22b5d283ec2bdc63f65b9310ea232",  //  肥猫
 //"spider":"https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1765824347239XW9m5i.txt;md5;ca6d7be5c03091001488cbf33969f75d",    //  王小二放牛娃
-//"spider":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf",  //  OK杰克
+//"spider":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f",  //  OK杰克
 //"spider":"http://我不是.摸鱼儿.top/d/moyu.php;md5;588615758b58becade1485bde0600132",  //  摸鱼儿
 //"spider":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036",  //  巧技
 //"spider": "http://47.120.41.246:8025/vip/jar/ouge.php",  //  影视仓
@@ -36,7 +36,7 @@
 
 "sites":[
 ##常用系列
-{"key": "豆","name": "PX影视 20251218更新 电视剧首选天天、潮流、骚火影视观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
+{"key": "豆","name": "PX影视 20251223更新 电视剧首选天天、潮流、骚火影视观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"jar":"https://img2.gelonghui.com/library/caa22-82cdc278-148a-46bf-9aaf-c6aee2b5d124.png;md5;caa22b5d283ec2bdc63f65b9310ea232"},
 
 ##饭太硬系列  http://www.饭太硬.com/tv
@@ -112,20 +112,20 @@
 //{"key":"lanyingys","name":"🍊橘子APP🍊","type":3,"api":"csp_Muou","playerType":2,"ext":"7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8","jar":"http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036"},
 
 ##OK杰克系列  https://ghfast.top/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/2.json  http://ok321.top/ok
-//{"key":"二小","name":"🦢二小4K🦢","type":3,"api":"csp_ErXiaoGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"双星","name":"🤩双星4K🤩","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0,"timeout":25,"style":{"type":"list","jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"}},
-//{"key":"玩偶","name":"👽玩偶4K👽","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"立播版","name":"🌟立播4K🌟","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"蜡笔","name":"👠蜡笔4K👠","type":3,"api":"csp_LabiGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"木偶","name":"🪵木偶4K🪵","type":3,"api":"csp_MuouGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"多多","name":"🪅多多4K🪅","type":3,"api":"csp_DuoDuoGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"小飒","name":"💒小飒4K💒","type":3,"api":"csp_XsayangGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"至臻","name":"💌至臻4K💌","type":3,"api":"csp_ZhiZhenGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"虎斑","name":"🐯虎斑4K🐯","type":3,"api":"csp_HuBanGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"123分享","name":"🌂123 4K🌂","type":3,"api":"csp_Time123Guard","searchable":1,"quickSearch":0,"changeable":0,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"热播","name":"📺热播App📺","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},"timeout":10,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"文才","name":"🌺文才在线🌺","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
-//{"key":"糯米","name":"🍓糯米秒播🍓","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"jar":"http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf"},
+//{"key":"二小","name":"🦢二小4K🦢","type":3,"api":"csp_ErXiaoGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"双星","name":"🤩双星4K🤩","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0,"timeout":25,"style":{"type":"list","jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"}},
+//{"key":"玩偶","name":"👽玩偶4K👽","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"立播版","name":"🌟立播4K🌟","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"蜡笔","name":"👠蜡笔4K👠","type":3,"api":"csp_LabiGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"木偶","name":"🪵木偶4K🪵","type":3,"api":"csp_MuouGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"多多","name":"🪅多多4K🪅","type":3,"api":"csp_DuoDuoGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"小飒","name":"💒小飒4K💒","type":3,"api":"csp_XsayangGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"至臻","name":"💌至臻4K💌","type":3,"api":"csp_ZhiZhenGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"虎斑","name":"🐯虎斑4K🐯","type":3,"api":"csp_HuBanGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"123分享","name":"🌂123 4K🌂","type":3,"api":"csp_Time123Guard","searchable":1,"quickSearch":0,"changeable":0,"filterable":1,"timeout":25,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"热播","name":"📺热播App📺","type":3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":0},"timeout":10,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"文才","name":"🌺文才在线🌺","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
+//{"key":"糯米","name":"🍓糯米秒播🍓","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10,"jar":"http://oss4liview.moji.com/thd_file/2025/12/21/09723629ca796890dbb6b2a0bfcaa78d.jpg;md5;5bd52ccfa5af38c6049178b8ed82729f"},
 
 ##挺好系列  https://zthaa.top/th/api.json
 //{"key":"敲击二","name":"🚃奇迹秒播🚃","type":3,"api":"csp_qiao2","playerType":2,"jar":"https://zthaa.top/th/lib/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
