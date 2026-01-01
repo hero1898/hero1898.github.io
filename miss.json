@@ -23,7 +23,6 @@
   {"name":"♌4GTV","type":0,"url":"https://od.lk/s/NjFfMTE2ODUzNDU1Xw/4GTVaa.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong","logo":"https://epg.112114.xyz/logo/{name}.png"},
   {"name":"🔕歐華167🔓🔓VPN","type":0,"url":"https://files.catbox.moe/cmvqbt.txt","playerType":2,"epg":"https://epg.946985.xyz/t.xml.gz","logo":"https://epg.112114.xyz/logo/{name}.png"},
   {"name":"🐅短剧大全-永久","type":0,"url":"https://qu.ax/yfFxv.txt"},
-  {"name":"🐅短视频-永久","type":0,#"url":"https://qu.ax/QGsvL.txt"大文件"url":"https://qu.ax/UlPqb.txt"},
   {"name":"🌌永久免费","type":0,"url":"https://php.946985.filegear-sg.me/jackTV.m3u","ua":"okhttp/3.15","playerType":2},
   {"name":"🌌18229319","type":0,"url":"http://bxtv.3a.ink/live.txt","ua":"okhttp/3.15","playerType":2},
   {"name":"🐅云播TV","type":0,"url":"https://2099.tv12.xyz/list.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.hackserver.net/epg.php","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -364,23 +363,19 @@
       "name": "自定",
       "type": 1,
       "url": "http://111.92.242.214/jx.php?url="
-
     },
     {
       "name": "自定1",
       "type": 1,
       "url": "http://zhuimi.xn--v4q818bf34b.com/moyu/zhuimi?token=z2QM4c2c&url="
     },
-
-      {
+    {
       "name": "自定2",
       "type": 1,
       "url": "http://154.219.113.13:5866/jie.php?url="
-
     }
-
+           ],
   
-  ],
   "flags": [
     "youku",
     "qq",
@@ -397,7 +392,8 @@
     "m1905",
     "seven",
     "m78"
-  ],
+           ],
+  
   "rules": [
     {
       "name": "暴风",
@@ -405,10 +401,10 @@
         "bfzy",
         "bfbfvip",
         "bfengbf"
-      ],
+               ],
       "regex": [
         "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
-      ]
+               ]
     },
     {
       "name": "量子",
@@ -416,12 +412,12 @@
         "vip.lz",
         "hd.lz",
         ".cdnlz"
-      ],
+               ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "17.19"
-      ]
+              ]
     },
     {
       "name": "非凡",
@@ -429,7 +425,7 @@
         "vip.ffzy",
         "hd.ffzy",
         "super.ffzy"
-      ],
+               ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -438,47 +434,47 @@
         "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
         "17.99",
         "14.45"
-      ]
+              ]
     },
     {
       "name": "索尼",
       "hosts": [
         "suonizy"
-      ],
+               ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
         "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
-      ]
+               ]
     },
     {
       "name": "快看",
       "hosts": [
         "kuaikan"
-      ],
+               ],
       "regex": [
         "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
+               ]
     },
     {
       "name": "一起看广告",
       "hosts": [
         "yqk88"
-      ],
+               ],
       "regex": [
         "18.4",
         "15.1666",
         "16.5333",
         "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
-      ]
+              ]
     },
     {
       "name": "磁力广告",
       "hosts": [
         "magnet"
-      ],
+               ],
       "regex": [
         "更多",
         "请访问",
@@ -498,36 +494,37 @@
         "裸聊",
         "新片首发",
         "UUE29"
-      ]
+               ]
     },
     {
       "name": "火山嗅探",
       "hosts": [
         "huoshan.com"
-      ],
+               ],
       "regex": [
         "item_id="
-      ]
+               ]
     },
     {
       "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
-      ],
+               ],
       "regex": [
         "is_play_url="
-      ]
+               ]
     },
     {
       "name": "农民嗅探",
       "hosts": [
         "toutiaovod.com"
-      ],
+               ],
       "regex": [
         "video/tos/cn"
-      ]
+               ]
     }
   ],
+  
   "doh": [
     {
       "name": "Google",
@@ -535,7 +532,7 @@
       "ips": [
         "8.8.4.4",
         "8.8.8.8"
-      ]
+             ]
     },
     {
       "name": "Cloudflare",
@@ -545,7 +542,7 @@
         "1.0.0.1",
         "2606:4700:4700::1111",
         "2606:4700:4700::1001"
-      ]
+             ]
     },
     {
       "name": "AdGuard",
@@ -553,7 +550,7 @@
       "ips": [
         "94.140.14.140",
         "94.140.14.141"
-      ]
+             ]
     },
     {
       "name": "DNSWatch",
@@ -561,7 +558,7 @@
       "ips": [
         "84.200.69.80",
         "84.200.70.40"
-      ]
+             ]
     },
     {
       "name": "Quad9",
@@ -569,9 +566,10 @@
       "ips": [
         "9.9.9.9",
         "149.112.112.112"
-      ]
+             ]
     }
   ],
+  
   "ijk": [
     {
       "group": "软解码",
@@ -738,5 +736,5 @@
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com"
-  ]
+         ]
 }
