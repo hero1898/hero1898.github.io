@@ -7,7 +7,6 @@
   "lives": [
   {"name":"🐅风云","type":0,"playerType":1,"url":"http://iptv.4666888.xyz/FYTV.m3u","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
   {"name":"♌4GTV","type":0,"url":"https://od.lk/s/NjFfMTE2ODUzNDU1Xw/4GTVaa.txt","playerType":1,"ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-  {"name":"🐅易发TV","type":0,"playerType":1,"url":"http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt","playerType":1,"ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
   {"name":"🐅猫TV","type":0,"playerType":1,"url":"http://rihou.cc:555/gggg.nzk","playerType":1,"ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
   {"name":"🐅冰茶","type":0,"playerType":1,"url":"https://bc.188766.xyz/?ip=211.101.246.236&mima=mianfeibuhuaqian","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
