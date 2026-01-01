@@ -69,7 +69,7 @@
     },
     {
       "key": "木偶",
-      "name": "🪵木偶┃4K",
+      "name": "🎠木偶┃4K",
       "type": 3,
       "api": "csp_MuouGuard",
       "searchable": 1,
@@ -149,7 +149,7 @@
     },
     {
       "key": "多多弹幕",
-      "name": "💖多多┃4K弹幕",
+      "name": "💖多多┃4K",
       "type": 3,
       "api": "csp_DuoDuoGuard",
       "searchable": 1,
