@@ -44,6 +44,19 @@
       "api": "csp_HBconfig"
     },
     {
+      "key":"csp_SeedhubGuard",
+      "name":"📀SeedHub┃4K",
+      "type":3,
+      "api":"csp_SeedhubGuard",
+      "changeable":0,
+      "ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":0,
+      "indexs":0,
+      "style":{"type":"list"}
+    },
+    {
       "key": "双星",
       "name": "🤩双星┃4K",
       "type": 3,
