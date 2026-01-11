@@ -609,23 +609,38 @@ CCTV16-4K,http://223.144.223.178:3000/udp/239.76.254.200:9000
 吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 
-江苏卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=2025123118030987d5b051f32840e38736d4f492beb84c&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20251231180309&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=218.28.233.106&SecurityKey=20251231180309&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4a2537276b74a4bd20e3749c4e4b67cd&sv=10004&ct=android
-东方卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=2025123118030913fea080bad84f2eaa6ece0826dffa7a&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20251231180309&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=218.28.233.106&SecurityKey=20251231180309&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9a5299185a8598be4e7cccecd586ae9a&sv=10004&ct=android
-北京卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/50/20251127/index.m3u8?msisdn=20251231200310eb02b672fd514e7392ad7526dbe283d6&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20251231200310&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=218.28.233.106&SecurityKey=20251231200310&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=51673023b141d293850eaf9e657103af&sv=10004&ct=android
-广东卫视,http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20251231180310ef100190cbf6469fb9ca9e50ce53b91b&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251231180310&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20251231180310&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d3dea568072d145d0f5a4e24aedc4fc8&sv=10004&ct=android
-东南卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongnanws/50/20230724/index.m3u8?msisdn=2025123120031818f29d3a25fe4d4686c2fb82c623cefa&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20251231200318&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=218.28.233.106&SecurityKey=20251231200318&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=26d1d4d52dbe4c82a51e09d36308b61f&sv=10004&ct=android
-海南卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/SD/lvyou/711/index.m3u8?msisdn=202512312003181937d057b038416c8e007f4e270f526c&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251231200318&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=218.28.233.106&SecurityKey=20251231200318&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=30367642a1dbd78008f0f117a5e900d8&sv=10004&ct=android
-河南卫视,http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=20251231200312e3efc131431c4e58bf946000fbdb0557&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251231200312&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=218.28.233.106&SecurityKey=20251231200312&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=df973e09c7061873f7f9016b6a6df990&sv=10004&ct=android
-湖北卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=20251231200315bc73f227584a48648c5ebc8a593de724&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251231200315&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=218.28.233.106&SecurityKey=20251231200315&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6e0d8b909408720471d069f5ced2a8aa&sv=10004&ct=android
-江西卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/50/20190820/index.m3u8?msisdn=2025123118031131de4e52e42a4d67a7817506afb922d0&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251231180311&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=218.28.233.106&SecurityKey=20251231180311&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a355ee0875bc450a32cd4ee51e53567b&sv=10004&ct=android
-重庆卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=202512312003232274bb5220654ef684b6e5c1d0128d6b&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20251231200323&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20251231200323&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=365b71426537fac5e23da72b95432923&sv=10004&ct=android
-辽宁卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?msisdn=202512312003104fb4bdd9d24241b3937b50909729c1c2&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251231200310&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=218.28.233.106&SecurityKey=20251231200310&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6e2641fb061d3e9c2e196005f3284bd5&sv=10004&ct=android
-吉林卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=202512312003167460ecafc3b34510a3ae581742e93bd9&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251231200316&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=218.28.233.106&SecurityKey=20251231200316&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=04de310b4e1d7708cc7b332d5e2a8cf3&sv=10004&ct=android
-宁夏卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=202512311803139e086931028f4306a960223323d77fc2&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20251231180313&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=218.28.233.106&SecurityKey=20251231180313&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3099bcd05637a9fc38d99dedfcc004e5&sv=10004&ct=android
-陕西卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/shan3xiws/50/20220809/index.m3u8?msisdn=20251231180311827352bdeaec4ded9fa3b5df521b345a&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20251231180311&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=218.28.233.106&SecurityKey=20251231180311&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=72ca8bac663640520f63dabed6c98e0b&sv=10004&ct=android
-青海卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=2025123120031721707c863bfb471da1fddc1da2d143f0&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251231200317&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=218.28.233.106&SecurityKey=20251231200317&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=60743281562a07959b24ff2dfad0ae5e&sv=10004&ct=android
-三沙卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20251231200323b2e3566b47424ffcb1d55669e3940296&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20251231200323&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20251231200323&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c29627d3c5ec689db554696220756d50&sv=10004&ct=android
-兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=202512312003229fc48c87a3ce4861987095fdb9aca708&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20251231200322&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=218.28.233.106&SecurityKey=20251231200322&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=68dc08fa8354137ab7f4ce3507202c8c&sv=10004&ct=android
+湖南卫视,http://223.144.223.178:3000/udp/239.76.252.115:9000
+湖南卫视,http://223.144.223.178:3000/udp/239.76.253.101:9000
+东方卫视,http://223.144.223.178:3000/udp/239.76.253.186:9000
+东南卫视,http://223.144.223.178:3000/udp/239.76.252.190:9000
+甘肃卫视,http://223.144.223.178:3000/udp/239.76.253.94:9000
+广东卫视,http://223.144.223.178:3000/udp/239.76.252.189:9000
+广西卫视,http://223.144.223.178:3000/udp/239.76.254.54:9000
+贵州卫视,http://223.144.223.178:3000/udp/239.76.252.198:9000
+海南卫视,http://223.144.223.178:3000/udp/239.76.253.203:9000
+河北卫视,http://223.144.223.178:3000/udp/239.76.252.199:9000
+河南卫视,http://223.144.223.178:3000/udp/239.76.253.202:9000
+黑龙江卫视,http://223.144.223.178:3000/udp/239.76.251.96:9000
+黑龙江卫视,http://223.144.223.178:3000/udp/239.76.253.200:9000
+湖北卫视,http://223.144.223.178:3000/udp/239.76.253.193:9000
+吉林卫视,http://223.144.223.178:3000/udp/239.76.253.201:9000
+辽宁卫视,http://223.144.223.178:3000/udp/239.76.252.197:9000
+宁夏卫视,http://223.144.223.178:3000/udp/239.76.251.65:9000
+青海卫视,http://223.144.223.178:3000/udp/239.76.254.132:9000
+山东卫视,http://223.144.223.178:3000/udp/239.76.253.195:9000
+陕西卫视,http://223.144.223.178:3000/udp/239.76.254.76:9000
+深圳卫视,http://223.144.223.178:3000/udp/239.76.251.94:9000
+深圳卫视,http://223.144.223.178:3000/udp/239.76.253.188:9000
+四川卫视,http://223.144.223.178:3000/udp/239.76.253.91:9000
+天津卫视,http://223.144.223.178:3000/udp/239.76.251.92:9000
+西藏卫视,http://223.144.223.178:3000/udp/239.76.251.66:9000
+西藏卫视,http://223.144.223.178:3000/udp/239.76.252.108:9000
+新疆卫视,http://223.144.223.178:3000/udp/239.76.251.67:9000
+新疆卫视,http://223.144.223.178:3000/udp/239.76.252.109:9000
+云南卫视,http://223.144.223.178:3000/udp/239.76.254.60:9000
+重庆卫视,http://223.144.223.178:3000/udp/239.76.253.92:9000
+安徽卫视,http://223.144.223.178:3000/udp/239.76.252.196:9000
+兵团卫视,http://223.144.223.178:3000/udp/239.76.252.232:9000
 
 湖南卫视 4K,https://migu.188766.xyz/?migutoken=47f9489d049fdc20037add3b367bc766&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视 4K,https://migu.188766.xyz/?migutoken=0f4ec2a69475712454f1b0006e226b0c&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
@@ -634,49 +649,22 @@ CCTV16-4K,http://223.144.223.178:3000/udp/239.76.254.200:9000
 苏州 4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北 4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 
-湖南卫视 4K,http://58.32.32.87:4022/udp/233.18.204.227:5140
-湖南卫视 4K,http://118.248.207.82:7088/udp/239.76.253.100:9000
-湖南卫视 4K,http://118.248.207.82:7088/udp/239.76.253.62:9000
-湖南卫视 4K,http://118.248.207.82:7088/udp/239.76.254.136:9000
-浙江卫视 4K,http://118.248.207.82:7088/udp/239.76.254.220:9000
-浙江卫视 4K,http://118.248.207.82:7088/udp/239.76.254.222:9000
-浙江卫视 4K,http://113.104.185.23:7088/udp/239.77.0.58:5146
-浙江卫视 4K,http://113.111.111.71:4022/udp/239.77.0.58:5146
-浙江卫视 4K,http://58.32.32.87:4022/udp/233.18.204.229:5140
-江苏卫视 4K,http://118.248.207.82:7088/udp/239.76.254.216:9000
-江苏卫视 4K,http://118.248.207.82:7088/udp/239.76.254.218:9000
-江苏卫视 4K,http://58.32.32.87:4022/udp/233.18.204.226:5140
-东方卫视 4K,http://118.248.207.82:7088/udp/239.76.254.224:9000
-东方卫视 4K,http://118.248.207.82:7088/udp/239.76.254.226:9000
-东方卫视 4K,http://113.104.185.23:7088/udp/239.77.0.59:5146
-东方卫视 4K,http://113.111.111.71:4022/udp/239.77.0.59:5146
-东方卫视 4K,http://58.32.32.87:4022/udp/233.18.204.224:5140
-北京卫视 4K,http://118.248.207.82:7088/udp/239.76.253.150:9000
-北京卫视 4K,http://58.32.32.87:4022/udp/233.18.204.209:5140
-北京卫视 4K,http://58.32.32.87:4022/udp/239.45.3.123:5140
-北京卫视 4K,http://113.104.185.23:7088/udp/239.77.0.2:5146
-北京卫视 4K,http://113.104.185.23:7088/udp/239.77.0.233:5146
-北京卫视 4K,http://113.104.185.23:7088/udp/239.77.0.153:5146
-北京卫视 4K,http://113.111.111.71:4022/udp/239.77.0.2:5146
-北京卫视 4K,http://113.111.111.71:4022/udp/239.77.0.233:5146
-北京卫视 4K,http://113.111.111.71:4022/udp/239.77.0.153:5146
-广东卫视 4K,http://118.248.207.82:7088/udp/239.76.254.138:9000
-广东卫视 4K,http://118.248.207.82:7088/udp/239.76.254.139:9000
-广东卫视 4K,http://113.104.185.23:7088/udp/239.77.0.65:5146
-广东卫视 4K,http://113.111.111.71:4022/udp/239.77.0.65:5146
-广东卫视 4K,http://58.32.32.87:4022/udp/233.18.204.218:5140
-深圳卫视 4K,http://118.248.207.82:7088/udp/239.76.254.137:9000
-深圳卫视 4K,http://58.32.32.87:4022/udp/233.18.204.219:5140
-四川卫视 4K,http://118.248.207.82:7088/udp/239.76.254.232:9000
-四川卫视 4K,http://113.104.185.23:7088/udp/239.77.0.60:5146
-四川卫视 4K,http://113.111.111.71:4022/udp/239.77.0.60:5146
-四川卫视 4K,http://58.32.32.87:4022/udp/233.18.204.225:5140
-四川卫视 4K,http://58.32.32.87:4022/udp/239.45.3.48:5140
-山东卫视 4K,http://118.248.207.82:7088/udp/239.76.254.228:9000
-山东卫视 4K,http://113.104.185.23:7088/udp/239.77.0.61:5146
-山东卫视 4K,http://113.111.111.71:4022/udp/239.77.0.61:5146
-山东卫视 4K,http://58.32.32.87:4022/udp/233.18.204.228:5140
-山东卫视 4K,http://58.32.32.87:4022/udp/239.45.3.180:5140
+北京卫视 4K,http://223.144.223.178:3000/udp/239.76.253.150:9000
+广东卫视 4K,http://223.144.223.178:3000/udp/239.76.254.138:9000
+广东卫视 4K,http://223.144.223.178:3000/udp/239.76.254.139:9000
+湖南卫视 4K,http://223.144.223.178:3000/udp/239.76.253.100:9000
+湖南卫视 4K,http://223.144.223.178:3000/udp/239.76.253.214:9000
+湖南卫视 4K,http://223.144.223.178:3000/udp/239.76.253.62:9000
+湖南卫视 4K,http://223.144.223.178:3000/udp/239.76.254.136:9000
+东方卫视 4K,http://223.144.223.178:3000/udp/239.76.254.224:9000
+东方卫视 4K,http://223.144.223.178:3000/udp/239.76.254.226:9000
+江苏卫视 4K,http://223.144.223.178:3000/udp/239.76.254.216:9000
+江苏卫视 4K,http://223.144.223.178:3000/udp/239.76.254.218:9000
+山东卫视 4K,http://223.144.223.178:3000/udp/239.76.254.228:9000
+深圳卫视 4K,http://223.144.223.178:3000/udp/239.76.254.137:9000
+四川卫视 4K,http://223.144.223.178:3000/udp/239.76.254.232:9000
+浙江卫视 4K,http://223.144.223.178:3000/udp/239.76.254.220:9000
+浙江卫视 4K,http://223.144.223.178:3000/udp/239.76.254.222:9000
 
 🌎地方卫视🌎,#genre#
 湖南经视,http://223.144.223.178:3000/udp/239.76.253.103:9000
@@ -943,8 +931,11 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 咪咕直播4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
 
 🥝精品频道🥝,#genre#
-CHC影迷电影,https://migu.188766.xyz/?migutoken=8d7856cc4f49b34a98a411573cffd2e6&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+CHC动作电影,http://223.144.223.178:3000/udp/239.76.252.243:9000
+CHC家庭影院,http://223.144.223.178:3000/udp/239.76.252.241:9000
+CHC影迷电影,http://223.144.223.178:3000/udp/239.76.252.242:9000
 
+CHC影迷电影,https://migu.188766.xyz/?migutoken=8d7856cc4f49b34a98a411573cffd2e6&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 上视东方影视,https://migu.188766.xyz/?migutoken=c89c1ef82e29c1d466d7c68c5d0cc61b&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
 新片放映厅,https://migu.188766.xyz/?migutoken=014538dd57a985d3d7783417b48f294c&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
 经典香港电影,https://migu.188766.xyz/?migutoken=f2aa214165da14a04748420d654cbd7c&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&type=yy
