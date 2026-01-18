@@ -36,7 +36,7 @@
 
 "sites":[
 ##常用系列  //  ,"jar":"https://ghfast.top/https://raw.githubusercontent.com/N3RD/J/lem1230.jar;md5;748407F75DB16C42CB4978D143049683"
-{"key": "豆","name": "PX影视 20260115 更新 电视剧首选天天、潮流、骚火影视观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
+{"key": "豆","name": "PX影视 20260118 更新 电视剧首选天天、潮流、骚火影视观看","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"},
 {"key":"csp_SeedhubGuard","name":"📀SeedHub📀","type":3,"api":"csp_SeedhubGuard","changeable":0,"ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":1,"quickSearch":1,"changeable":0, "indexs":0,"style":{"type":"list"}},
     
