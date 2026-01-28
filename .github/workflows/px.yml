@@ -23,8 +23,9 @@ jobs:
     - name: Update
       run: |
         # 频道
-        rm -f iptv.txt && wget https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt -O iptv.txt
-        rm -f iptv.m3u && wget https://raw.githubusercontent.com/pxiptv/live/main/iptv.m3u -O iptv.m3u
+        rm -f iptv.txt && wget https://gh.llkk.cc/https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt -O iptv.txt
+        rm -f iptv.m3u && wget https://gh.llkk.cc/https://raw.githubusercontent.com/pxiptv/live/main/iptv.m3u -O iptv.m3u
+        rm -f fan.txt && wget https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt -O fan.txt
         
     - name: Commit results
       run: |
