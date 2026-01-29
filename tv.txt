@@ -413,27 +413,6 @@ CCTV16 4K,http://223.144.221.33:3000/udp/239.76.254.200:9000
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 
-凤凰中文,https://mgev.188766.xyz/?migutoken=b1d04c494f4804f95fce2b1a3d5a2de8&id=fhzw&pp=1
-凤凰中文,https://mgev.188766.xyz/?migutoken=d9b9062522f22d91c55daae2abb5f97d&id=hk_fhzw&type=dy
-凤凰资讯,https://mgev.188766.xyz/?migutoken=f8eb96b822bb8030db5e8ead4c8b20b3&id=fhzx&pp=1
-凤凰资讯,https://mgev.188766.xyz/?migutoken=45c61a404175501e24aabde7575fca7c&id=hk_fhzx&type=dy
-凤凰香港,https://mgev.188766.xyz/?migutoken=416bc86d1f5a2b9aba0bdc47be93e1aa&id=fhhk&pp=1
-凤凰香港,https://mgev.188766.xyz/?migutoken=366f77fc90a20663fbabdd9c5f71a774&id=hk_fhhk&type=dy
-翡翠台,https://mgev.188766.xyz/?migutoken=cbf7c5534d2cf341d8a9049b3a698c4b&id=hk_fct&type=dy
-翡翠台 4K,https://mgev.188766.xyz/?migutoken=7997cf5accb10ba49e6e28a17509441e&id=hk_fct4k&type=dy
-无线新闻,https://mgev.188766.xyz/?migutoken=686c6ec30da893f37b32c99c0fd94c61&id=hk_wxxw&type=dy
-Now新闻台,https://mgev.188766.xyz/?migutoken=8f9c1237688a5bd84095d5d3e9cbcdf8&id=hk_now&type=dy
-TVB Plus,https://mgev.188766.xyz/?migutoken=1f89a707230b6fa13ad33e607452dc10&id=hk_tvbp&type=dy
-明珠台,https://mgev.188766.xyz/?migutoken=a68f6d7fbbcd7285da299758a8995a8b&id=hk_mzt&type=dy
-TVB星河,https://mgev.188766.xyz/?migutoken=62ec94cde67aabe3d591ef34db1f1047&id=hk_tvbxh&type=dy
-TVB功夫,https://mgev.188766.xyz/?migutoken=8662f4f7bd0c046db615466a855bc192&id=hk_yzwx&type=dy
-八度空间,https://mgev.188766.xyz/?migutoken=20a46ca05471bf346caa5eb3576a0167&id=hk_8tv&type=dy
-CHU,https://mgev.188766.xyz/?migutoken=968453167616d100769ded14b9719f3f&id=hk_chu&type=dy
-CH5,https://mgev.188766.xyz/?migutoken=cb260d6cbb3f7beb47d49364a237aa45&id=hk_ch5&type=dy
-CH8,https://mgev.188766.xyz/?migutoken=37cd1eff35554fbf6b8006f94296461c&id=hk_ch8&type=dy
-澳视澳门,https://mgev.188766.xyz/?migutoken=4585663e4e47540f5fe68dfb07462662&id=hk_asam&type=dy
-HOY77,https://mgev.188766.xyz/?migutoken=698cc720d00d4cf578d3aae4885232fa&id=hk_hoy&type=dy
-
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
