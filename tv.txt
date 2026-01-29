@@ -371,9 +371,6 @@ CCTV16 4K,http://223.144.221.33:3000/udp/239.76.254.200:9000
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-13.m3u8
 
 🇭🇰港澳台🇭🇰,#genre#
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
@@ -403,6 +400,9 @@ CH8,https://mgev.188766.xyz/?migutoken=37cd1eff35554fbf6b8006f94296461c&id=hk_ch
 澳视澳门,https://mgev.188766.xyz/?migutoken=4585663e4e47540f5fe68dfb07462662&id=hk_asam&type=dy
 HOY77,https://mgev.188766.xyz/?migutoken=698cc720d00d4cf578d3aae4885232fa&id=hk_hoy&type=dy
 
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$福建网吧
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$福建网吧
 
