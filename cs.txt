@@ -287,6 +287,15 @@ CCTV10,http://23.237.228.134/live5/CCTV10.m3u8
 CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
 CCTV17,http://23.237.228.134/live3/CCTV17.m3u8
+
+CCTV4,http://23.237.228.134/live5/CCTV4.m3u8
+CCTV6,http://23.237.228.134/live5/CCTV6.m3u8
+CCTV8,http://23.237.228.134/live5/CCTV8.m3u8
+CCTV11,http://23.237.228.134/live5/CCTV11.m3u8
+CCTV13,http://23.237.228.134/live5/CCTV13.m3u8
+CCTV15,http://23.237.228.134/live5/CCTV15.m3u8
+CCTV16,http://23.237.228.134/live5/CCTV16.m3u8
+
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
