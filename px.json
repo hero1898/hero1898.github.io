@@ -13,7 +13,7 @@
 
 "lives": [
 {"name":"PX 电视频道","type":0,"playerType":1,"url":"https://tv.heropx.dpdns.org/files/tv.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"PX 自动采集","type":0,"playerType":1,"url":"https://ghfast.top/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/iptv.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"PX 自动采集","type":0,"playerType":1,"url":"https://ghfast.top/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/tv.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"青龙电视","type":0,"playerType":1,"url": "https://d.kstore.dev/download/15366/6988.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"冰茶1","type":0,"playerType":1,"url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"冰茶2","type":0,"playerType":1,"url": "https://fy.iptv1.ggff.net/?url=http://www.douzhicloud.site:35455","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
