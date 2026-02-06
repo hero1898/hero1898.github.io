@@ -372,6 +372,7 @@ HOY77,https://mgev.188766.xyz/?migutoken=60f1995ba0c2e95c9e3e0ca006a09bb4&id=hk_
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -399,6 +400,7 @@ ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 香港C＋,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 翡翠台4K,http://cdn3.1678520.xyz/live/?id=fct4k
 TVB plus,http://cdn3.1678520.xyz/live/?id=tvbp
+中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻,https://live.catvod.com/live.php?id=ctinews
 中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
@@ -450,12 +452,16 @@ JJ斗地主,http://106.53.99.30/tv/api.php?id=jj
 四海钓鱼,https://migu.188766.xyz/?migutoken=ad3ca33d6deeaeb1e0c5fdedd9a6196e&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy$冰茶
 体坛名栏汇,https://migu.188766.xyz/?migutoken=83ff294b927a7cb47094df32720293f6&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy$冰茶
 24小时城市联赛轮播台,https://migu.188766.xyz/?migutoken=f4fc046d675892b7ceab20d7488f041f&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy$冰茶
+广东体育,http://r.jdshipin.com/LiYdg
+广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$深圳天威
 广东体育,https://migu.188766.xyz/?migutoken=d995f8c67446096cda913207fc98afcb&id=hk_gdty&type=dy$冰茶
 广东体育,https://hk.188766.xyz/?migutoken=221c6750bc73df72522eb6da2f38ae01&id=gd_gdty&type=sz $冰茶
 快乐垂钓,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2026020616023432660d07baf84d46804e9b8d9ba7f125&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260206160234&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260206160234&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=573a895757a532a47b7257f311e15dad $咪咕视频
 四海钓鱼,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=202602061602336c87e6a640c149d7a7097322044a35db&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260206160233&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=218.28.233.106&SecurityKey=20260206160233&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8ddc8cd4d23f844fbe64bb63157eaf1e $咪咕视频
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-红牛体育,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 🏆咪咕体育🏆,#genre#
 咪咕直播 1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=BingCha
