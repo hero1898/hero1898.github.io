@@ -34,39 +34,39 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msi
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=2026020720002006fbbcedfe0b4c14a260855bce1b2733&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260207200020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=43.139.160.244&SecurityKey=20260207200020&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6fc893eabd64522cd351c414a5b08c02&ddCalcu=260fecc0883090b35eaa4b1d46c4155232dc $咪咕
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV1
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202602071602024e49abf66dc44672af5a6af1e6c6a393&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260207160202&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=218.28.233.106&SecurityKey=20260207160202&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e24da438e4f3340d8dd07a84a5fbfeec$仅供娱乐 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20260207200205a8e9425042254a3fadf04ff30c602ac1&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260207200205&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=218.28.233.106&SecurityKey=20260207200205&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=35e212d4bf7636a64bc6aa076de9615a $咪咕视频
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=20260207160203c0dee1ede61748f19aeb707e33a32c0a&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260207160203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=218.28.233.106&SecurityKey=20260207160203&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=601a14a7038993bb9abd79183b0454f1 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=2026020720020533700fbe8d934c00baea908a7f9d6954&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260207200205&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=218.28.233.106&SecurityKey=20260207200205&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1b746fa12fe7f4e96e80a29b3e04e25d $咪咕视频
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=20260207160203fdc0c0fb93c04927b8e23036fdbb3963&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260207160203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=218.28.233.106&SecurityKey=20260207160203&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=54f03dd34faf7d2caf6aa3123e1bd8e3 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=20260207200206a4353e79f6294041aae14aff0b697f4d&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260207200206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=218.28.233.106&SecurityKey=20260207200206&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ff2eb9dfcd5ac41d6b3161ef503e2e9d $咪咕视频
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=2026020716020350bcfca2fc404cdbb8db370b5a687e68&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260207160203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=218.28.233.106&SecurityKey=20260207160203&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=94b12c9a92cdda601d5f2e25b4b1bb48 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=20260207200206518a581f962d4406a875785a0caad1dd&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260207200206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=218.28.233.106&SecurityKey=20260207200206&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=78861dff7848374c0c6755bf13f2b585 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=20260207160203a4dd7bbc03d74057806012473bc71fd9&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260207160203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=218.28.233.106&SecurityKey=20260207160203&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5d81d445fe3df38603623f4c211ef756 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=202602072002068ab4205eaef54d0784af4fc45b7f00fc&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260207200206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=218.28.233.106&SecurityKey=20260207200206&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c0c2f9688360230e4970c934088a7c82 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20260207160203f0bef6bfc79244ed959c1922ca84cb0e&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260207160203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=218.28.233.106&SecurityKey=20260207160203&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=75e86f93696156cf9e18260a44002085 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=2026020720020665382308ed3f4c09a062a353f9038c60&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260207200206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=218.28.233.106&SecurityKey=20260207200206&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bc814df38f8e58191e8e2292571122c2 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=20260207160203c2e84b1a2aba49048ef231538ae68025&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260207160203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=218.28.233.106&SecurityKey=20260207160203&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d741b8825faef07f6120a5de5dc4b788 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=20260207200206b9e364d1da6e45808e47f07f2ff3e5fc&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260207200206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=218.28.233.106&SecurityKey=20260207200206&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f24e98dc67803de30a0fa08799dc4b16 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=20260207160203ce6e26cb3ceb4f7aa0adc69dcee72f73&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260207160203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=218.28.233.106&SecurityKey=20260207160203&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8cf26f07546e23051364d5e3d826833a $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=2026020720020647a72082494447deabcf27e73f61984c&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260207200206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=218.28.233.106&SecurityKey=20260207200206&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f90327e1e3383f48a7a354fadfb2350f $咪咕视频
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=20260207160203b47ea88a62834260ba4ec0e7f490c4c1&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260207160203&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=218.28.233.106&SecurityKey=20260207160203&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=af32212cdd4061dc04594d7477618725 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=2026020720020676c5c7c8955344109711b10422f7d47e&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260207200206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=218.28.233.106&SecurityKey=20260207200206&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=16f58049a169369426a13bdd58fde088 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV9
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=2026020716020492648b5b5ce64f6fa0b7f162235d45c5&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260207160204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=218.28.233.106&SecurityKey=20260207160204&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=feaf37c2f1d411bfd49701ff2dbc6a2d $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=202602072002067365313ad8824d5d9f35af075d14f4af&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260207200206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=218.28.233.106&SecurityKey=20260207200206&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fab872193f956ef837d940f003226ef0 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=202602071602045975e02e2f17478cbd036446584f2561&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260207160204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=218.28.233.106&SecurityKey=20260207160204&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7d9db61a9c3174bb5d50c8008472d052 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=20260207200206fa9a32703ea84bb0becd25577670d2c5&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260207200206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=218.28.233.106&SecurityKey=20260207200206&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=551fdb60c45bf4687a25c1d1f5e29a59 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV11
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=20260207160204c4a5d6d2b14d4a7390ad9ebcff9b16d4&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260207160204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=218.28.233.106&SecurityKey=20260207160204&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e6a926977eb306d2341ee0cae79c0f62 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=20260207200207a9ce428bf70d4ba3921e4cc73c723765&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260207200207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=218.28.233.106&SecurityKey=20260207200207&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=565093ccebc2611708912463e6ae7b17 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV12
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=2026020716020473fdddd9529b4a7d898ee4fc3174de5f&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260207160204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=218.28.233.106&SecurityKey=20260207160204&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0a24fa184b9e3d3ba7974d0fe52ff326 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=2026020720020784d892edca8941a28c4195acfc8956d7&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260207200207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=218.28.233.106&SecurityKey=20260207200207&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=14ee07bc35701121e4da12064232a716 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV13
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=20260207160204d82fbff3dfe9461dbcdf43268bb5cc53&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260207160204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=218.28.233.106&SecurityKey=20260207160204&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6834f19ac6ff59a216d1316c2e26d27a $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=20260207200207174b1975927e44eabbe72a6c1f723f29&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260207200207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=218.28.233.106&SecurityKey=20260207200207&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f91cf171532c15bc94125dfd2313b9b1 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV14
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=2026020716020464cb232df38149e29f685041366ab1e1&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260207160204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=218.28.233.106&SecurityKey=20260207160204&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3a7b6f262e3b8b9629bbd34eb1b835ed $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=202602072002072c59a28e7b95459c9627b1324f8e139e&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260207200207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=218.28.233.106&SecurityKey=20260207200207&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e1d8326f8cb501c83663c778a0805beb $咪咕视频
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=20260207160204bc2e5cb0f4284e648d31ff3be6b8d346&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260207160204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=218.28.233.106&SecurityKey=20260207160204&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=df1f4bb7928d1b77e2715545110e111d $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=202602072002071b88e6139adb494e91f3c39cc1476f7d&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260207200207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=218.28.233.106&SecurityKey=20260207200207&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=95ff6fc7ed3de2ebe17883d62d1a52c0 $咪咕视频
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV17
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=20260207160204c1a4710f0c96413bbd3935b6b80f5f59&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260207160204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=218.28.233.106&SecurityKey=20260207160204&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7e9dc0527f3fd4a7d954994fe0ae95fc $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=2026020720020719fc852752564881962499dd5f66da4a&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260207200207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=218.28.233.106&SecurityKey=20260207200207&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bbf1154345956fa5488baf8026884f4f $咪咕视频
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV1
 https://migu.188766.xyz/?migutoken=3a6ecfd49b998fbcf5c4c1a932196281&id=CCTV1&type=yy$冰茶
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇨🇳央视频道🇨🇳",CCTV2
@@ -302,39 +302,39 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/index.m3u8?msisdn=
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",宁夏卫视
 http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20260207200023d96a3d19c6154cf6835a7cf0b4f1bc81&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260207200023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=43.139.160.244&SecurityKey=20260207200023&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5e7e252f1954f828057416db5683facb&ddCalcu=b5ceea70fe832085625fb1d965144f785208 $咪咕
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",重庆卫视
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=20260207180031f45417fafdaf4fbbbe56b0ebfc41f8f2&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260207180031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=43.139.160.244&SecurityKey=20260207180031&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cd56fffbfe55c5b533f84bde7981fd30&ddCalcu=0c3ded50f681f08f9f7befdeb5458cf53b35 $咪咕
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=20260204200022840810764d03483c9d46883018b0d7e5&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260204200022&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=43.139.160.244&SecurityKey=20260204200022&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ac798a79cddd44d1ae89076dc5d6e0e5&ddCalcu=5aece070e98680da57c9dc6d7d0d9484eda1
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",三沙卫视
 http://gslbmgsplive.miguvideo.com/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=2026020720002474d48fc02c2d4fa799a4016455249a1e&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260207200024&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=43.139.160.244&SecurityKey=20260207200024&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=12e1471ab9e3e276fb3798ccfe0f6f7e&ddCalcu=e172efe0611f4007e1facbc98e937e32b7f6 $咪咕
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",江苏卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=202602071602073cde6aec65774d33bd6e932b59eacd16&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260207160207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=218.28.233.106&SecurityKey=20260207160207&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9041ef9499147090818e5f7bf32d7760 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=20260207200210aa94b07790074bbab6c0be09931a1c0f&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260207200210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=218.28.233.106&SecurityKey=20260207200210&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3453af47fb737813ecb087d98534b9ab $咪咕视频
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",东方卫视
 http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=202602071802041b4c2963f53e4d159085cc9f8e969f47&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260207180204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=218.28.233.106&SecurityKey=20260207180204&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=67c7abf1a56040b567d83b68d4dc5ec5 $咪咕视频
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",北京卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=2026020716020750589a2eb9f246fd90ae913a67f821d7&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260207160207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=218.28.233.106&SecurityKey=20260207160207&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1d179c0173af75ddc08c32712b6462de $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=2026020720021023ba1ebd2e69493aa56366bd54a80312&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260207200210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=218.28.233.106&SecurityKey=20260207200210&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cc01b2925da54226b419bab90f212ea3 $咪咕视频
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",海南卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20260207160208eb58a956cdee4a80a9a51b7d125cb7ad&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260207160208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=218.28.233.106&SecurityKey=20260207160208&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b2d19ab2cc5a518600f28388ad8031ea $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20260207200211f7802369b16b4505989faf66609ed99a&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260207200211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=218.28.233.106&SecurityKey=20260207200211&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2ffca13b9366fa2e65bc8be436519ecd $咪咕视频
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",河南卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=2026020716020818ade298a57d4331a3de6c667184b54d&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260207160208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=218.28.233.106&SecurityKey=20260207160208&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dbbcfeafab9ff8264fd82556aed70987 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=20260207200210947f28ddd0a044dd83ed84438dfe61f6&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260207200210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=218.28.233.106&SecurityKey=20260207200210&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ea0eac736132d95da0b11ef934715c84 $咪咕视频
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",湖北卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=20260207160208a2524f83b70849f8a7a8e93c4870f754&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260207160208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=218.28.233.106&SecurityKey=20260207160208&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1c287f82710f30d7094cefb2a0c50f74 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=20260207200210ca205137685744f0825b4cc59bed201b&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260207200210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=218.28.233.106&SecurityKey=20260207200210&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7c339d9ba0a395fef3f927965f45469c $咪咕视频
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",江西卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=20260207180204bd965bdcc7c44e9fac1ec7915d139209&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260207180204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=218.28.233.106&SecurityKey=20260207180204&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b5eb4e18472f342f770e930f53a348f6 $咪咕视频
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",重庆卫视
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=2026020718020494310c712fd54012b8a00e6a5af9de05&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260207180204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20260207180204&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f820ed29bd7a1fd5b638851d0e810dcf $咪咕视频
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",辽宁卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20260207160207f3c2b42335254893afa334e1c42cb467&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260207160207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=218.28.233.106&SecurityKey=20260207160207&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8184646f6c1bf968cd0070827be0cb78 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20260207200210b2cac199a9714cc5a6ed659790f00d0a&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260207200210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=218.28.233.106&SecurityKey=20260207200210&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=08bf265a5de0399a276389fff2830cee $咪咕视频
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",吉林卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=202602071602080cdc183cd5af4c278c2a6fc93f2a6b63&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260207160208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=218.28.233.106&SecurityKey=20260207160208&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bee535d535fb6835428b4196ffce45f7 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20260207200210a91a3e3e08304108a0b7c232c2192b2a&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260207200210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=218.28.233.106&SecurityKey=20260207200210&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9df3e8c9dc1a3015bbe2824be109ecef $咪咕视频
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",宁夏卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20260207160209c2b1b7b6bec6409a8525c801b2972bb8&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260207160209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=218.28.233.106&SecurityKey=20260207160209&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=827aa461ec619db0430bb4f8bdb8baf8 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20260207200211c624e98fdda345e5aff2f9bbc87461f1&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260207200211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=218.28.233.106&SecurityKey=20260207200211&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4126fae00c8b54dfcd0ea83a3b5dc348 $咪咕视频
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",陕西卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=202602071802044c367b63c4fd4ec1a063ed3a2e2279a5&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260207180204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=218.28.233.106&SecurityKey=20260207180204&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c9a14f7180fefd688d71800432533cc8 $咪咕视频
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",青海卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20260207160208d5b12d61bb5c422fb3ebece1b7516517&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260207160208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=218.28.233.106&SecurityKey=20260207160208&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=46a604e2960b0135840a7bd9384b8b17 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202602072002109280eca7c37c4e0bb91caf0cb43f8a60&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260207200210&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=218.28.233.106&SecurityKey=20260207200210&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d1d0c95927a0684aed74103202cc5641 $咪咕视频
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",三沙卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=2026020716020991f6a556b8dd4a80adbd748ca8878f8c&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260207160209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260207160209&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=00a902b66f231848dd833fbeaaac5b99 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=202602072002112d848e2acc834d819fce3702d43b4130&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260207200211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260207200211&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6a8ed947e6cab2c42eed57c11170d53a $咪咕视频
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",兵团卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/51/20250804/index.m3u8?msisdn=20260207160209a0c4b05a235d4d21bce17bddb27f7bf6&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260207160209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=218.28.233.106&SecurityKey=20260207160209&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=231c223180669aa72e848072647f9d2d $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/51/20250804/index.m3u8?msisdn=20260207200211d99cc750dd9f4a6eb79c2c0e465b22db&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260207200211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=218.28.233.106&SecurityKey=20260207200211&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c6e43aac8400b39af090a4a85e406486 $咪咕视频
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",浙江卫视
 https://migu.188766.xyz/?migutoken=2dd5c5f940d3ae945dbd3b1884469806&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$冰茶
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🛰️卫视频道🛰️",浙江卫视
@@ -938,9 +938,9 @@ https://migu.188766.xyz/?migutoken=797f3255f39f9a6803e8026d5e53ccfc&id=hk_gdty&t
 #EXTINF:-1 tvg-name="广东体育" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏆体育频道🏅",广东体育
 https://hk.188766.xyz/?migutoken=221c6750bc73df72522eb6da2f38ae01&id=gd_gdty&type=sz $冰茶
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏆体育频道🏅",快乐垂钓
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=20260207160207477c31028fda42758dbf6f8cda0fab68&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260207160207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260207160207&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1961590221dc9fad59b54e0b3f736826 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=20260207200209cb3af77f419c4aa9b21a119ea0f08765&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260207200209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260207200209&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d5b90340b03e4313f774812abd667786 $咪咕视频
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏆体育频道🏅",四海钓鱼
-http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=2026020716020664f06ca23e6f4334a5079520c3f2b105&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260207160206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=218.28.233.106&SecurityKey=20260207160206&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=647ad50d8afcaafee37e642c1ded69ab $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=2026020720020900fc307388e742e3809aeaf25a78c492&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260207200209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=218.28.233.106&SecurityKey=20260207200209&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=232b943dfa05301ee638f42397971cbc $咪咕视频
 #EXTINF:-1 tvg-name="Trace Sports" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏆体育频道🏅",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="红牛运动" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏆体育频道🏅",红牛运动
@@ -951,6 +951,640 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-name="美国摔跤" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏆体育频道🏅",美国摔跤
 https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="NBA 交易截止日特别节目 全场回放（邵化谦、邢晨、拜月宁） 01:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 交易截止日特别节目 全场回放（邵化谦、邢晨、拜月宁） 01:00
+http://migu.heropx.dpdns.org/962906671
+#EXTINF:-1 tvg-name="意大利杯 亚特兰大VS尤文图斯 全场回放（吴桐、贺宇） 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",意大利杯 亚特兰大VS尤文图斯 全场回放（吴桐、贺宇） 03:45
+http://migu.heropx.dpdns.org/962906896
+#EXTINF:-1 tvg-name="NBA 活塞VS奇才 全场回放（王琰博） 07:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 活塞VS奇才 全场回放（王琰博） 07:55
+http://migu.heropx.dpdns.org/962910063
+#EXTINF:-1 tvg-name="NBA 活塞VS奇才 全场回放（英文原声） 07:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 活塞VS奇才 全场回放（英文原声） 07:55
+http://migu.heropx.dpdns.org/962910767
+#EXTINF:-1 tvg-name="NBA 魔术VS篮网 全场回放（罗森） 07:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 魔术VS篮网 全场回放（罗森） 07:55
+http://migu.heropx.dpdns.org/962910765
+#EXTINF:-1 tvg-name="NBA 老鹰VS爵士 全场回放（董倡硕） 08:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 老鹰VS爵士 全场回放（董倡硕） 08:25
+http://migu.heropx.dpdns.org/962910704
+#EXTINF:-1 tvg-name="NBA 老鹰VS爵士 全场回放（英文原声） 08:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 老鹰VS爵士 全场回放（英文原声） 08:25
+http://migu.heropx.dpdns.org/962911928
+#EXTINF:-1 tvg-name="NBA 猛龙VS公牛 全场回放（盛哲） 08:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 猛龙VS公牛 全场回放（盛哲） 08:25
+http://migu.heropx.dpdns.org/962910512
+#EXTINF:-1 tvg-name="NBA 猛龙VS公牛 全场回放（英文原声） 08:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 猛龙VS公牛 全场回放（英文原声） 08:25
+http://migu.heropx.dpdns.org/962911626
+#EXTINF:-1 tvg-name="NBA 火箭VS黄蜂 全场回放（姜帆、闫宇峰） 08:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 火箭VS黄蜂 全场回放（姜帆、闫宇峰） 08:55
+http://migu.heropx.dpdns.org/962910921
+#EXTINF:-1 tvg-name="NBA 火箭VS黄蜂 全场回放（英文原声） 08:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 火箭VS黄蜂 全场回放（英文原声） 08:55
+http://migu.heropx.dpdns.org/962911986
+#EXTINF:-1 tvg-name="UFC前瞻与回顾 UFC联合测试：第二日上午 2026UFC联合测试第二日上午全场回放（官方解说） 09:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",UFC前瞻与回顾 UFC联合测试：第二日上午 2026UFC联合测试第二日上午全场回放（官方解说） 09:15
+http://migu.heropx.dpdns.org/962911553
+#EXTINF:-1 tvg-name="NBA 独行侠VS马刺 全场回放（王晓晨） 09:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 独行侠VS马刺 全场回放（王晓晨） 09:25
+http://migu.heropx.dpdns.org/962911727
+#EXTINF:-1 tvg-name="NBA 独行侠VS马刺 全场回放（英文原声） 09:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 独行侠VS马刺 全场回放（英文原声） 09:25
+http://migu.heropx.dpdns.org/962912664
+#EXTINF:-1 tvg-name="NBA 太阳VS勇士 全场回放（杨健、马布里、曾令旭、季孟年、小七） 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 太阳VS勇士 全场回放（杨健、马布里、曾令旭、季孟年、小七） 10:55
+http://migu.heropx.dpdns.org/962912721
+#EXTINF:-1 tvg-name="NBA 太阳VS勇士 全场回放（洪荒） 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 太阳VS勇士 全场回放（洪荒） 10:55
+http://migu.heropx.dpdns.org/962912712
+#EXTINF:-1 tvg-name="NBA 太阳VS勇士 全场回放（英文原声） 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 太阳VS勇士 全场回放（英文原声） 10:55
+http://migu.heropx.dpdns.org/962913336
+#EXTINF:-1 tvg-name="NBA 湖人VS76人 全场回放（孙博、马健、佳依） 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 湖人VS76人 全场回放（孙博、马健、佳依） 10:55
+http://migu.heropx.dpdns.org/962912956
+#EXTINF:-1 tvg-name="NBA 湖人VS76人 全场回放（英文原声） 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",NBA 湖人VS76人 全场回放（英文原声） 10:55
+http://migu.heropx.dpdns.org/962913839
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 一号桌全场回放（侯英超） 10:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 一号桌全场回放（侯英超） 10:30
+http://migu.heropx.dpdns.org/962913060
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 二号桌全场回放（周冠达） 10:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 二号桌全场回放（周冠达） 10:30
+http://migu.heropx.dpdns.org/962913320
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 三号桌全场回放（周泽昊） 10:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 三号桌全场回放（周泽昊） 10:30
+http://migu.heropx.dpdns.org/962913196
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 一号桌全场回放 10:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 一号桌全场回放 10:30
+http://migu.heropx.dpdns.org/962914228
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 二号桌全场回放 10:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 二号桌全场回放 10:30
+http://migu.heropx.dpdns.org/962915065
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 三号桌全场回放 10:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 孙颖莎晋级淘汰赛 蒯曼3-0锁定出线 三号桌全场回放 10:30
+http://migu.heropx.dpdns.org/962914308
+#EXTINF:-1 tvg-name="戴维斯杯 中国队VS葡萄牙队 【回放】吴易昺2-0努诺·博杰斯 12:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",戴维斯杯 中国队VS葡萄牙队 【回放】吴易昺2-0努诺·博杰斯 12:00
+http://migu.heropx.dpdns.org/962915938
+#EXTINF:-1 tvg-name="戴维斯杯 中国队VS葡萄牙队 【回放】布云朝克特0-2亨里克·罗沙 12:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",戴维斯杯 中国队VS葡萄牙队 【回放】布云朝克特0-2亨里克·罗沙 12:00
+http://migu.heropx.dpdns.org/962914898
+#EXTINF:-1 tvg-name="斯诺克 肖国栋5-2斯佳辉 吴宜泽2-5张安达 【回放】斯佳辉2-5肖国栋（朱蒙） 13:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 肖国栋5-2斯佳辉 吴宜泽2-5张安达 【回放】斯佳辉2-5肖国栋（朱蒙） 13:00
+http://migu.heropx.dpdns.org/962914457
+#EXTINF:-1 tvg-name="斯诺克 肖国栋5-2斯佳辉 吴宜泽2-5张安达 【回放】吴宜泽2-5张安达（朱峰立） 13:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 肖国栋5-2斯佳辉 吴宜泽2-5张安达 【回放】吴宜泽2-5张安达（朱峰立） 13:00
+http://migu.heropx.dpdns.org/962914948
+#EXTINF:-1 tvg-name="斯诺克 肖国栋5-2斯佳辉 吴宜泽2-5张安达 【回放】斯佳辉2-5肖国栋 13:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 肖国栋5-2斯佳辉 吴宜泽2-5张安达 【回放】斯佳辉2-5肖国栋 13:00
+http://migu.heropx.dpdns.org/962915642
+#EXTINF:-1 tvg-name="斯诺克 肖国栋5-2斯佳辉 吴宜泽2-5张安达 【回放】吴宜泽2-5张安达 13:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 肖国栋5-2斯佳辉 吴宜泽2-5张安达 【回放】吴宜泽2-5张安达 13:00
+http://migu.heropx.dpdns.org/962919176
+#EXTINF:-1 tvg-name="萨马兰奇杯 成人组冠亚决赛 2026「萨马兰奇杯」亚洲篮球大师邀请赛大师组3V3决赛全场回放 14:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",萨马兰奇杯 成人组冠亚决赛 2026「萨马兰奇杯」亚洲篮球大师邀请赛大师组3V3决赛全场回放 14:00
+http://migu.heropx.dpdns.org/962914437
+#EXTINF:-1 tvg-name="UFC前瞻与回顾 UFC联合测试：第二日下午 2026UFC联合测试第二日下午全场回放（官方解说） 14:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",UFC前瞻与回顾 UFC联合测试：第二日下午 2026UFC联合测试第二日下午全场回放（官方解说） 14:00
+http://migu.heropx.dpdns.org/962928261
+#EXTINF:-1 tvg-name="萨马兰奇杯 U14冠亚决赛 2026「萨马兰奇杯」亚洲篮球大师邀请赛U14第68场决赛全场回放 14:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",萨马兰奇杯 U14冠亚决赛 2026「萨马兰奇杯」亚洲篮球大师邀请赛U14第68场决赛全场回放 14:15
+http://migu.heropx.dpdns.org/962915865
+#EXTINF:-1 tvg-name="萨马兰奇杯 U17冠亚决赛 2026「萨马兰奇杯」亚洲篮球大师邀请赛闭幕式全场回放 14:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",萨马兰奇杯 U17冠亚决赛 2026「萨马兰奇杯」亚洲篮球大师邀请赛闭幕式全场回放 14:15
+http://migu.heropx.dpdns.org/962915964
+#EXTINF:-1 tvg-name="萨马兰奇杯 U17冠亚决赛 2026「萨马兰奇杯」亚洲篮球大师邀请赛U17第53场决赛全场回放 14:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",萨马兰奇杯 U17冠亚决赛 2026「萨马兰奇杯」亚洲篮球大师邀请赛U17第53场决赛全场回放 14:15
+http://migu.heropx.dpdns.org/962915004
+#EXTINF:-1 tvg-name="女篮俱乐部杯 陕西榆林天泽VS四川蜀道远达 全场回放（原声） 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 陕西榆林天泽VS四川蜀道远达 全场回放（原声） 14:25
+http://migu.heropx.dpdns.org/962918645
+#EXTINF:-1 tvg-name="女篮俱乐部杯 石家庄英励VS上海浦发银行 全场回放（现场解说） 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 石家庄英励VS上海浦发银行 全场回放（现场解说） 14:25
+http://migu.heropx.dpdns.org/962917395
+#EXTINF:-1 tvg-name="女篮俱乐部杯 石家庄英励VS上海浦发银行 全场回放（原声） 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 石家庄英励VS上海浦发银行 全场回放（原声） 14:25
+http://migu.heropx.dpdns.org/962917346
+#EXTINF:-1 tvg-name="女篮俱乐部杯 东莞新彤盛VS新疆天山 全场回放（现场解说） 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 东莞新彤盛VS新疆天山 全场回放（现场解说） 14:25
+http://migu.heropx.dpdns.org/962919580
+#EXTINF:-1 tvg-name="CBA俱乐部杯 浙江稠州金租VS山东高速 全场回放（李天宇、陈正昊、周鹏） 15:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",CBA俱乐部杯 浙江稠州金租VS山东高速 全场回放（李天宇、陈正昊、周鹏） 15:50
+http://migu.heropx.dpdns.org/962917668
+#EXTINF:-1 tvg-name="CBA俱乐部杯 浙江稠州金租VS山东高速 全场回放（金哲豪） 15:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",CBA俱乐部杯 浙江稠州金租VS山东高速 全场回放（金哲豪） 15:50
+http://migu.heropx.dpdns.org/962918215
+#EXTINF:-1 tvg-name="CBA俱乐部杯 浙江稠州金租VS山东高速 全场回放（王新通） 15:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",CBA俱乐部杯 浙江稠州金租VS山东高速 全场回放（王新通） 15:50
+http://migu.heropx.dpdns.org/962917748
+#EXTINF:-1 tvg-name="CBA俱乐部杯 浙江稠州金租VS山东高速 全场回放（原声） 15:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",CBA俱乐部杯 浙江稠州金租VS山东高速 全场回放（原声） 15:50
+http://migu.heropx.dpdns.org/962918806
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 第三比赛日热身区 全场回放（上午场） 10:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 第三比赛日热身区 全场回放（上午场） 10:00
+http://migu.heropx.dpdns.org/962913833
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 第三比赛日热身区 全场回放（晚间场） 10:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 第三比赛日热身区 全场回放（晚间场） 10:00
+http://migu.heropx.dpdns.org/962923731
+#EXTINF:-1 tvg-name="女篮俱乐部杯 福建金篮VS浙江稠州银行 全场回放（现场解说） 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 福建金篮VS浙江稠州银行 全场回放（现场解说） 16:55
+http://migu.heropx.dpdns.org/962920057
+#EXTINF:-1 tvg-name="女篮俱乐部杯 河南豫光金铅VS厦门环东文旅 全场回放（原声） 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 河南豫光金铅VS厦门环东文旅 全场回放（原声） 16:55
+http://migu.heropx.dpdns.org/962919886
+#EXTINF:-1 tvg-name="女篮俱乐部杯 辽宁大连体产VS山西竹叶青酒 全场回放（现场解说） 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 辽宁大连体产VS山西竹叶青酒 全场回放（现场解说） 16:55
+http://migu.heropx.dpdns.org/962919414
+#EXTINF:-1 tvg-name="女篮俱乐部杯 辽宁大连体产VS山西竹叶青酒 全场回放（原声） 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 辽宁大连体产VS山西竹叶青酒 全场回放（原声） 16:55
+http://migu.heropx.dpdns.org/962919524
+#EXTINF:-1 tvg-name="欧洲16强杯 勒布伦兄弟晋级8强 小莫爆冷止步 全场回放 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",欧洲16强杯 勒布伦兄弟晋级8强 小莫爆冷止步 全场回放 17:30
+http://migu.heropx.dpdns.org/962924322
+#EXTINF:-1 tvg-name="欧洲16强杯 勒布伦兄弟晋级8强 小莫爆冷止步 全场回放（凌维康） 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",欧洲16强杯 勒布伦兄弟晋级8强 小莫爆冷止步 全场回放（凌维康） 17:30
+http://migu.heropx.dpdns.org/962919511
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 一号桌全场回放（刘国正、周泽昊） 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 一号桌全场回放（刘国正、周泽昊） 17:30
+http://migu.heropx.dpdns.org/962922158
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 一号桌全场回放（朱子恒） 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 一号桌全场回放（朱子恒） 17:30
+http://migu.heropx.dpdns.org/962921784
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 二号桌全场回放（刘馨蕊） 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 二号桌全场回放（刘馨蕊） 17:30
+http://migu.heropx.dpdns.org/962921567
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 三号桌全场回放（周冠达） 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 三号桌全场回放（周冠达） 17:30
+http://migu.heropx.dpdns.org/962921006
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 一号桌全场回放 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 一号桌全场回放 17:30
+http://migu.heropx.dpdns.org/962923395
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 二号桌全场回放 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 二号桌全场回放 17:30
+http://migu.heropx.dpdns.org/962923279
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 三号桌全场回放 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",乒乓球亚洲杯 王楚钦、王曼昱、周启豪、陈熠直落三局出线 三号桌全场回放 17:30
+http://migu.heropx.dpdns.org/962923008
+#EXTINF:-1 tvg-name="斯诺克 赵心童周跃龙晋级！中国包揽四强！ 【回放】克里斯·韦克林4-5赵心童（秦正） 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 赵心童周跃龙晋级！中国包揽四强！ 【回放】克里斯·韦克林4-5赵心童（秦正） 19:00
+http://migu.heropx.dpdns.org/962922710
+#EXTINF:-1 tvg-name="斯诺克 赵心童周跃龙晋级！中国包揽四强！ 【回放】周跃龙5-4阿里·卡特（朱峰立） 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 赵心童周跃龙晋级！中国包揽四强！ 【回放】周跃龙5-4阿里·卡特（朱峰立） 19:00
+http://migu.heropx.dpdns.org/962922775
+#EXTINF:-1 tvg-name="斯诺克 赵心童周跃龙晋级！中国包揽四强！ 【回放】克里斯·韦克林4-5赵心童 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 赵心童周跃龙晋级！中国包揽四强！ 【回放】克里斯·韦克林4-5赵心童 19:00
+http://migu.heropx.dpdns.org/962923519
+#EXTINF:-1 tvg-name="斯诺克 赵心童周跃龙晋级！中国包揽四强！ 【回放】周跃龙5-4阿里·卡特 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 赵心童周跃龙晋级！中国包揽四强！ 【回放】周跃龙5-4阿里·卡特 19:00
+http://migu.heropx.dpdns.org/962923769
+#EXTINF:-1 tvg-name="浙江省城市篮球联赛 丽水71-93杭州 25/26赛季浙江省城市篮球联赛: 丽水VS杭州 19:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",浙江省城市篮球联赛 丽水71-93杭州 25/26赛季浙江省城市篮球联赛: 丽水VS杭州 19:30
+http://migu.heropx.dpdns.org/962682595
+#EXTINF:-1 tvg-name="女篮俱乐部杯 江西赣星VS江苏南钢 全场回放（现场解说） 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 江西赣星VS江苏南钢 全场回放（现场解说） 19:25
+http://migu.heropx.dpdns.org/962923002
+#EXTINF:-1 tvg-name="女篮俱乐部杯 山东赤水河酒VS北京首钢园 全场回放（原声） 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 山东赤水河酒VS北京首钢园 全场回放（原声） 19:25
+http://migu.heropx.dpdns.org/962922927
+#EXTINF:-1 tvg-name="女篮俱乐部杯 武汉盛帆黄鹤VS合肥文旅 全场回放（现场解说） 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 武汉盛帆黄鹤VS合肥文旅 全场回放（现场解说） 19:25
+http://migu.heropx.dpdns.org/962922344
+#EXTINF:-1 tvg-name="女篮俱乐部杯 武汉盛帆黄鹤VS合肥文旅 全场回放（原声） 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 武汉盛帆黄鹤VS合肥文旅 全场回放（原声） 19:25
+http://migu.heropx.dpdns.org/962922385
+#EXTINF:-1 tvg-name="CBA俱乐部杯 上海久事VS广东东阳光 全场回放（李天宇、陈正昊、周鹏） 19:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",CBA俱乐部杯 上海久事VS广东东阳光 全场回放（李天宇、陈正昊、周鹏） 19:20
+http://migu.heropx.dpdns.org/962922055
+#EXTINF:-1 tvg-name="CBA俱乐部杯 上海久事VS广东东阳光 全场回放（张俊卿） 19:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",CBA俱乐部杯 上海久事VS广东东阳光 全场回放（张俊卿） 19:20
+http://migu.heropx.dpdns.org/962921549
+#EXTINF:-1 tvg-name="CBA俱乐部杯 上海久事VS广东东阳光 全场回放（莫俊祺） 19:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",CBA俱乐部杯 上海久事VS广东东阳光 全场回放（莫俊祺） 19:20
+http://migu.heropx.dpdns.org/962921585
+#EXTINF:-1 tvg-name="CBA俱乐部杯 上海久事VS广东东阳光 全场回放（原声） 19:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",CBA俱乐部杯 上海久事VS广东东阳光 全场回放（原声） 19:20
+http://migu.heropx.dpdns.org/962922719
+#EXTINF:-1 tvg-name="WTA 贝莱克2-1力压陶森 亚历山德洛晋级 2026WTA阿布扎比站Day6全场回放（英文原声） 22:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 贝莱克2-1力压陶森 亚历山德洛晋级 2026WTA阿布扎比站Day6全场回放（英文原声） 22:00
+http://migu.heropx.dpdns.org/962925604
+#EXTINF:-1 tvg-name="WTA 贝莱克2-1力压陶森 亚历山德洛晋级 【回放】巴蒂斯特1-2亚历山德洛娃（英文原声） 22:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 贝莱克2-1力压陶森 亚历山德洛晋级 【回放】巴蒂斯特1-2亚历山德洛娃（英文原声） 22:00
+http://migu.heropx.dpdns.org/962924038
+#EXTINF:-1 tvg-name="WTA 贝莱克2-1力压陶森 亚历山德洛晋级 【回放】巴蒂斯特1-2亚历山德洛娃 22:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 贝莱克2-1力压陶森 亚历山德洛晋级 【回放】巴蒂斯特1-2亚历山德洛娃 22:00
+http://migu.heropx.dpdns.org/962923990
+#EXTINF:-1 tvg-name="WTA 贝莱克2-1力压陶森 亚历山德洛晋级 【回放】贝莱克2-1陶森（英文原声） 22:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 贝莱克2-1力压陶森 亚历山德洛晋级 【回放】贝莱克2-1陶森（英文原声） 22:00
+http://migu.heropx.dpdns.org/962924906
+#EXTINF:-1 tvg-name="WTA 贝莱克2-1力压陶森 亚历山德洛晋级 【回放】贝莱克2-1陶森 22:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 贝莱克2-1力压陶森 亚历山德洛晋级 【回放】贝莱克2-1陶森 22:00
+http://migu.heropx.dpdns.org/962925149
+#EXTINF:-1 tvg-name="WTA 科斯蒂亚、拉杜卡努晋级 【回放】拉杜卡努2-1奥利尼科娃（英文原声） 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 科斯蒂亚、拉杜卡努晋级 【回放】拉杜卡努2-1奥利尼科娃（英文原声） 23:00
+http://migu.heropx.dpdns.org/962924213
+#EXTINF:-1 tvg-name="WTA 科斯蒂亚、拉杜卡努晋级 【回放】拉杜卡努2-1奥利尼科娃 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 科斯蒂亚、拉杜卡努晋级 【回放】拉杜卡努2-1奥利尼科娃 23:00
+http://migu.heropx.dpdns.org/962924123
+#EXTINF:-1 tvg-name="WTA 科斯蒂亚、拉杜卡努晋级 【回放】科斯蒂亚2-0斯尼古尔（英文原声） 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 科斯蒂亚、拉杜卡努晋级 【回放】科斯蒂亚2-0斯尼古尔（英文原声） 23:00
+http://migu.heropx.dpdns.org/962924421
+#EXTINF:-1 tvg-name="WTA 科斯蒂亚、拉杜卡努晋级 【回放】科斯蒂亚2-0斯尼古尔 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 科斯蒂亚、拉杜卡努晋级 【回放】科斯蒂亚2-0斯尼古尔 23:00
+http://migu.heropx.dpdns.org/962924310
+#EXTINF:-1 tvg-name="WTA 博尔特、科帕奇晋级决赛 2026WTA俄斯特拉发站女单半决赛回放：帕里0-2科帕奇 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 博尔特、科帕奇晋级决赛 2026WTA俄斯特拉发站女单半决赛回放：帕里0-2科帕奇 23:00
+http://migu.heropx.dpdns.org/962925722
+#EXTINF:-1 tvg-name="WTA 博尔特、科帕奇晋级决赛 【回放】帕里0-2科帕奇（英文原声） 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 博尔特、科帕奇晋级决赛 【回放】帕里0-2科帕奇（英文原声） 23:00
+http://migu.heropx.dpdns.org/962924576
+#EXTINF:-1 tvg-name="WTA 博尔特、科帕奇晋级决赛 【回放】沃雷涅茨0-2博尔特（英文原声） 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 博尔特、科帕奇晋级决赛 【回放】沃雷涅茨0-2博尔特（英文原声） 23:00
+http://migu.heropx.dpdns.org/962923723
+#EXTINF:-1 tvg-name="WTA 博尔特、科帕奇晋级决赛 【回放】沃雷涅茨0-2博尔特 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 博尔特、科帕奇晋级决赛 【回放】沃雷涅茨0-2博尔特 23:00
+http://migu.heropx.dpdns.org/962923976
+#EXTINF:-1 tvg-name="德甲 柏林联VS法兰克福 全场回放（鲁靖明） 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 柏林联VS法兰克福 全场回放（鲁靖明） 03:15
+http://migu.heropx.dpdns.org/962925340
+#EXTINF:-1 tvg-name="法甲 梅斯VS里尔 全场回放（鹿中原） 03:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",法甲 梅斯VS里尔 全场回放（鹿中原） 03:30
+http://migu.heropx.dpdns.org/962925516
+#EXTINF:-1 tvg-name="意甲 维罗纳VS比萨 全场回放（吴奕博） 03:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",意甲 维罗纳VS比萨 全场回放（吴奕博） 03:30
+http://migu.heropx.dpdns.org/962925536
+#EXTINF:-1 tvg-name="英超 利兹联VS诺丁汉森林 全场回放（刘焕） 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 利兹联VS诺丁汉森林 全场回放（刘焕） 03:45
+http://migu.heropx.dpdns.org/962925506
+#EXTINF:-1 tvg-name="西甲 塞尔塔VS奥萨苏纳 全场回放（梁祥宇） 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",西甲 塞尔塔VS奥萨苏纳 全场回放（梁祥宇） 03:45
+http://migu.heropx.dpdns.org/962925533
+#EXTINF:-1 tvg-name="NBA 活塞VS尼克斯 全场回放（邵化谦、拜月宁） 08:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 活塞VS尼克斯 全场回放（邵化谦、拜月宁） 08:25
+http://migu.heropx.dpdns.org/962928115
+#EXTINF:-1 tvg-name="NBA 凯尔特人VS热火 全场回放 08:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 凯尔特人VS热火 全场回放 08:25
+http://migu.heropx.dpdns.org/962929270
+#EXTINF:-1 tvg-name="NBA 凯尔特人VS热火 全场回放（蔡凯臣） 08:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 凯尔特人VS热火 全场回放（蔡凯臣） 08:25
+http://migu.heropx.dpdns.org/962928305
+#EXTINF:-1 tvg-name="NBA 森林狼VS鹈鹕 全场回放（金哲豪） 08:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 森林狼VS鹈鹕 全场回放（金哲豪） 08:55
+http://migu.heropx.dpdns.org/962928640
+#EXTINF:-1 tvg-name="NBA 森林狼VS鹈鹕 全场回放（英文原声） 08:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 森林狼VS鹈鹕 全场回放（英文原声） 08:55
+http://migu.heropx.dpdns.org/962929193
+#EXTINF:-1 tvg-name="NBA 雄鹿VS步行者 全场回放 08:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 雄鹿VS步行者 全场回放 08:55
+http://migu.heropx.dpdns.org/962929243
+#EXTINF:-1 tvg-name="NBA 雄鹿VS步行者 全场回放（刘沛元） 08:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 雄鹿VS步行者 全场回放（刘沛元） 08:55
+http://migu.heropx.dpdns.org/962928621
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 第四比赛日热身区 热身区 10:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 第四比赛日热身区 热身区 10:00
+http://migu.heropx.dpdns.org/962772435
+#EXTINF:-1 tvg-name="亚洲羽毛球团体锦标赛 女子团体半决赛 中国队VS中国台北队 2026年亚洲羽毛球团体锦标赛-女子团体 半决赛 10:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",亚洲羽毛球团体锦标赛 女子团体半决赛 中国队VS中国台北队 2026年亚洲羽毛球团体锦标赛-女子团体 半决赛 10:00
+http://migu.heropx.dpdns.org/962916018
+#EXTINF:-1 tvg-name="NBA 国王VS快船 姜帆 王润陶 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 国王VS快船 姜帆 王润陶 10:55
+http://migu.heropx.dpdns.org/962781554
+#EXTINF:-1 tvg-name="NBA 国王VS快船 英文原声 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 国王VS快船 英文原声 10:55
+http://migu.heropx.dpdns.org/962781586
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 侯英超 11:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 侯英超 11:00
+http://migu.heropx.dpdns.org/962772547
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 朱子恒 11:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 朱子恒 11:00
+http://migu.heropx.dpdns.org/962772568
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 刘馨蕊 11:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 刘馨蕊 11:00
+http://migu.heropx.dpdns.org/962772557
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 1号桌 11:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 1号桌 11:00
+http://migu.heropx.dpdns.org/962772470
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 2号桌 11:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 2号桌 11:00
+http://migu.heropx.dpdns.org/962772490
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 3号桌 11:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 3号桌 11:00
+http://migu.heropx.dpdns.org/962772518
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 热身区 10:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 热身区 10:00
+http://migu.heropx.dpdns.org/962772435
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 混采区 11:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 混采区 11:20
+http://migu.heropx.dpdns.org/962772605
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 候场区 10:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 孙颖莎率先晋级 王楚钦横扫挺进8强 候场区 10:30
+http://migu.heropx.dpdns.org/962772633
+#EXTINF:-1 tvg-name="戴维斯杯 中国队VS葡萄牙队 清流 12:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",戴维斯杯 中国队VS葡萄牙队 清流 12:00
+http://migu.heropx.dpdns.org/962851747
+#EXTINF:-1 tvg-name="斯诺克 半决赛：周跃龙vs张安达 朱蒙 13:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",斯诺克 半决赛：周跃龙vs张安达 朱蒙 13:00
+http://migu.heropx.dpdns.org/962923593
+#EXTINF:-1 tvg-name="斯诺克 半决赛：周跃龙vs张安达 1号桌 13:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",斯诺克 半决赛：周跃龙vs张安达 1号桌 13:00
+http://migu.heropx.dpdns.org/962747666
+#EXTINF:-1 tvg-name="广西县级足球超级联赛 桂林市灵川县队vs柳州市柳南区队 25/26赛季广西县级足球超级联赛第三轮：桂林市灵川县队vs柳州市柳南区队 13:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",广西县级足球超级联赛 桂林市灵川县队vs柳州市柳南区队 25/26赛季广西县级足球超级联赛第三轮：桂林市灵川县队vs柳州市柳南区队 13:30
+http://migu.heropx.dpdns.org/962871659
+#EXTINF:-1 tvg-name="女篮俱乐部杯 浙江稠州银行VS东莞新彤盛 解说 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 浙江稠州银行VS东莞新彤盛 解说 14:25
+http://migu.heropx.dpdns.org/962870001
+#EXTINF:-1 tvg-name="女篮俱乐部杯 厦门环东文旅VS山东赤水河酒 赛场原声 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 厦门环东文旅VS山东赤水河酒 赛场原声 14:25
+http://migu.heropx.dpdns.org/962870058
+#EXTINF:-1 tvg-name="女篮俱乐部杯 辽宁大连体产VS武汉盛帆黄鹤 赛场原声 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 辽宁大连体产VS武汉盛帆黄鹤 赛场原声 14:25
+http://migu.heropx.dpdns.org/962869786
+#EXTINF:-1 tvg-name="女篮俱乐部杯 辽宁大连体产VS武汉盛帆黄鹤 解说 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 辽宁大连体产VS武汉盛帆黄鹤 解说 14:25
+http://migu.heropx.dpdns.org/962897090
+#EXTINF:-1 tvg-name="广西县级足球超级联赛 河池市宜州区队vs百色市田东县队 25/26赛季广西县级足球超级联赛第三轮：河池市宜州区队vs百色市田东县队 14:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",广西县级足球超级联赛 河池市宜州区队vs百色市田东县队 25/26赛季广西县级足球超级联赛第三轮：河池市宜州区队vs百色市田东县队 14:30
+http://migu.heropx.dpdns.org/962871669
+#EXTINF:-1 tvg-name="广西县级足球超级联赛 来宾市武宣县队vs来宾市兴宾区队 25/26赛季广西县级足球超级联赛第三轮：来宾市武宣县队vs来宾市兴宾区队 14:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",广西县级足球超级联赛 来宾市武宣县队vs来宾市兴宾区队 25/26赛季广西县级足球超级联赛第三轮：来宾市武宣县队vs来宾市兴宾区队 14:30
+http://migu.heropx.dpdns.org/962871671
+#EXTINF:-1 tvg-name="云南省城市足球联赛 玉溪队VS大理队 25/26赛季云南省城市足球联赛第五轮: 玉溪市VS大理州 15:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",云南省城市足球联赛 玉溪队VS大理队 25/26赛季云南省城市足球联赛第五轮: 玉溪市VS大理州 15:00
+http://migu.heropx.dpdns.org/962866710
+#EXTINF:-1 tvg-name="云南省城市足球联赛 丽江队VS曲靖队 25/26赛季云南省城市足球联赛第五轮: 丽江市VS曲靖市 14:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",云南省城市足球联赛 丽江队VS曲靖队 25/26赛季云南省城市足球联赛第五轮: 丽江市VS曲靖市 14:00
+http://migu.heropx.dpdns.org/962866785
+#EXTINF:-1 tvg-name="云南省城市足球联赛 文山队VS昆明队 25/26赛季云南省城市足球联赛第五轮: 文山州VS昆明市 15:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",云南省城市足球联赛 文山队VS昆明队 25/26赛季云南省城市足球联赛第五轮: 文山州VS昆明市 15:00
+http://migu.heropx.dpdns.org/962866800
+#EXTINF:-1 tvg-name="云南省城市足球联赛 昭通队VS红河队 25/26赛季云南省城市足球联赛第五轮: 昭通市VS红河州 15:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",云南省城市足球联赛 昭通队VS红河队 25/26赛季云南省城市足球联赛第五轮: 昭通市VS红河州 15:00
+http://migu.heropx.dpdns.org/962866822
+#EXTINF:-1 tvg-name="云南省城市足球联赛 临沧队VS怒江队 25/26赛季云南省城市足球联赛第五轮: 临沧市VS怒江州 15:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",云南省城市足球联赛 临沧队VS怒江队 25/26赛季云南省城市足球联赛第五轮: 临沧市VS怒江州 15:00
+http://migu.heropx.dpdns.org/962866837
+#EXTINF:-1 tvg-name="云南省城市足球联赛 迪庆队VS楚雄队 25/26赛季云南省城市足球联赛第五轮: 迪庆州VS楚雄州 15:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",云南省城市足球联赛 迪庆队VS楚雄队 25/26赛季云南省城市足球联赛第五轮: 迪庆州VS楚雄州 15:00
+http://migu.heropx.dpdns.org/962866871
+#EXTINF:-1 tvg-name="CBA俱乐部杯 浙江方兴渡VS长白山恩都里 李天宇 陈正昊 周鹏 15:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",CBA俱乐部杯 浙江方兴渡VS长白山恩都里 李天宇 陈正昊 周鹏 15:30
+http://migu.heropx.dpdns.org/962858393
+#EXTINF:-1 tvg-name="CBA俱乐部杯 浙江方兴渡VS长白山恩都里 郭知昊 15:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",CBA俱乐部杯 浙江方兴渡VS长白山恩都里 郭知昊 15:50
+http://migu.heropx.dpdns.org/962858399
+#EXTINF:-1 tvg-name="CBA俱乐部杯 浙江方兴渡VS长白山恩都里 陈涛 15:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",CBA俱乐部杯 浙江方兴渡VS长白山恩都里 陈涛 15:50
+http://migu.heropx.dpdns.org/962858409
+#EXTINF:-1 tvg-name="CBA俱乐部杯 浙江方兴渡VS长白山恩都里 赛场原声 15:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",CBA俱乐部杯 浙江方兴渡VS长白山恩都里 赛场原声 15:50
+http://migu.heropx.dpdns.org/962913452
+#EXTINF:-1 tvg-name="女篮俱乐部杯 新疆天山VS江苏南钢 解说 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 新疆天山VS江苏南钢 解说 16:55
+http://migu.heropx.dpdns.org/962870010
+#EXTINF:-1 tvg-name="女篮俱乐部杯 四川蜀道远达VS北京首钢园 赛场原声 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 四川蜀道远达VS北京首钢园 赛场原声 16:55
+http://migu.heropx.dpdns.org/962870075
+#EXTINF:-1 tvg-name="女篮俱乐部杯 合肥文旅VS上海浦发银行 赛场原声 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 合肥文旅VS上海浦发银行 赛场原声 16:55
+http://migu.heropx.dpdns.org/962869808
+#EXTINF:-1 tvg-name="女篮俱乐部杯 合肥文旅VS上海浦发银行 解说 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 合肥文旅VS上海浦发银行 解说 16:55
+http://migu.heropx.dpdns.org/962897107
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 刘国正 周冠达 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 刘国正 周冠达 17:30
+http://migu.heropx.dpdns.org/962771525
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 凌维康 18:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 凌维康 18:45
+http://migu.heropx.dpdns.org/962771552
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 肖扬 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 肖扬 18:00
+http://migu.heropx.dpdns.org/962771571
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 1号桌 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 1号桌 18:00
+http://migu.heropx.dpdns.org/962771482
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 2号桌 18:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 2号桌 18:45
+http://migu.heropx.dpdns.org/962771502
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 3号桌 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 3号桌 18:00
+http://migu.heropx.dpdns.org/962771510
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 热身区 10:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 热身区 10:00
+http://migu.heropx.dpdns.org/962772435
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 咪咕环廊视角 17:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 咪咕环廊视角 17:00
+http://migu.heropx.dpdns.org/962771587
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 混采区 18:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 混采区 18:20
+http://migu.heropx.dpdns.org/962771643
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 候场区 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 候场区 17:30
+http://migu.heropx.dpdns.org/962771656
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 1/4决赛 朱子恒 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",乒乓球亚洲杯 1/4决赛 朱子恒 18:00
+http://migu.heropx.dpdns.org/962928895
+#EXTINF:-1 tvg-name="欧洲16强杯 F·勒布伦迎战林德 普卡PK达科 刘馨蕊 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",欧洲16强杯 F·勒布伦迎战林德 普卡PK达科 刘馨蕊 18:00
+http://migu.heropx.dpdns.org/962772726
+#EXTINF:-1 tvg-name="欧洲16强杯 F·勒布伦迎战林德 普卡PK达科 赛场原声 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",欧洲16强杯 F·勒布伦迎战林德 普卡PK达科 赛场原声 18:00
+http://migu.heropx.dpdns.org/962772621
+#EXTINF:-1 tvg-name="斯诺克 半决赛：肖国栋vs赵心童 秦正 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",斯诺克 半决赛：肖国栋vs赵心童 秦正 19:00
+http://migu.heropx.dpdns.org/962923613
+#EXTINF:-1 tvg-name="斯诺克 半决赛：肖国栋vs赵心童 1号桌 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",斯诺克 半决赛：肖国栋vs赵心童 1号桌 19:00
+http://migu.heropx.dpdns.org/962747702
+#EXTINF:-1 tvg-name="江西省城市篮球联赛 宜春VS景德镇 2026江西省城市篮球联赛: 新余VS抚州 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",江西省城市篮球联赛 宜春VS景德镇 2026江西省城市篮球联赛: 新余VS抚州 19:00
+http://migu.heropx.dpdns.org/962772988
+#EXTINF:-1 tvg-name="广西县级足球超级联赛 百色市平果市队vs南宁市江南区 25/26赛季广西县级足球超级联赛第三轮：百色市平果市队vs南宁市江南区 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",广西县级足球超级联赛 百色市平果市队vs南宁市江南区 25/26赛季广西县级足球超级联赛第三轮：百色市平果市队vs南宁市江南区 19:00
+http://migu.heropx.dpdns.org/962871682
+#EXTINF:-1 tvg-name="CBA俱乐部杯 山西汾酒VS北京控股 李天宇 陈正昊 周鹏 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",CBA俱乐部杯 山西汾酒VS北京控股 李天宇 陈正昊 周鹏 19:00
+http://migu.heropx.dpdns.org/962858457
+#EXTINF:-1 tvg-name="CBA俱乐部杯 山西汾酒VS北京控股 石楷文 19:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",CBA俱乐部杯 山西汾酒VS北京控股 石楷文 19:20
+http://migu.heropx.dpdns.org/962858464
+#EXTINF:-1 tvg-name="CBA俱乐部杯 山西汾酒VS北京控股 周赫 19:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",CBA俱乐部杯 山西汾酒VS北京控股 周赫 19:20
+http://migu.heropx.dpdns.org/962858470
+#EXTINF:-1 tvg-name="CBA俱乐部杯 山西汾酒VS北京控股 赛场原声 19:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",CBA俱乐部杯 山西汾酒VS北京控股 赛场原声 19:20
+http://migu.heropx.dpdns.org/962913463
+#EXTINF:-1 tvg-name="女篮俱乐部杯 福建金篮VS江西赣星 解说 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 福建金篮VS江西赣星 解说 19:25
+http://migu.heropx.dpdns.org/962870028
+#EXTINF:-1 tvg-name="女篮俱乐部杯 河南豫光金铅VS陕西榆林天泽 赛场原声 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 河南豫光金铅VS陕西榆林天泽 赛场原声 19:25
+http://migu.heropx.dpdns.org/962870096
+#EXTINF:-1 tvg-name="女篮俱乐部杯 石家庄英励VS山西竹叶青酒 赛场原声 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 石家庄英励VS山西竹叶青酒 赛场原声 19:25
+http://migu.heropx.dpdns.org/962869817
+#EXTINF:-1 tvg-name="女篮俱乐部杯 石家庄英励VS山西竹叶青酒 解说 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 石家庄英励VS山西竹叶青酒 解说 19:25
+http://migu.heropx.dpdns.org/962897130
+#EXTINF:-1 tvg-name="中国女篮系列热身赛 中国女篮VS国际女篮 殷雪怡 张琳 19:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",中国女篮系列热身赛 中国女篮VS国际女篮 殷雪怡 张琳 19:15
+http://migu.heropx.dpdns.org/962903372
+#EXTINF:-1 tvg-name="中国女篮系列热身赛 中国女篮VS国际女篮 清流播出 19:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",中国女篮系列热身赛 中国女篮VS国际女篮 清流播出 19:15
+http://migu.heropx.dpdns.org/962900043
+#EXTINF:-1 tvg-name="五人制亚洲杯 印度尼西亚VS伊朗 王子睿 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",五人制亚洲杯 印度尼西亚VS伊朗 王子睿 19:45
+http://migu.heropx.dpdns.org/962763909
+#EXTINF:-1 tvg-name="五人制亚洲杯 印度尼西亚VS伊朗 赛场原声 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",五人制亚洲杯 印度尼西亚VS伊朗 赛场原声 19:45
+http://migu.heropx.dpdns.org/962917417
+#EXTINF:-1 tvg-name="英女超 莱斯特城女足VS曼联女足 刘畅 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英女超 莱斯特城女足VS曼联女足 刘畅 19:45
+http://migu.heropx.dpdns.org/962900661
+#EXTINF:-1 tvg-name="英女超 莱斯特城女足VS曼联女足 赛场原声 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英女超 莱斯特城女足VS曼联女足 赛场原声 19:45
+http://migu.heropx.dpdns.org/962900657
+#EXTINF:-1 tvg-name="英超 曼联VS托特纳姆热刺 娄一晨 刘越 姚安妮 20:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼联VS托特纳姆热刺 娄一晨 刘越 姚安妮 20:00
+http://migu.heropx.dpdns.org/962908950
+#EXTINF:-1 tvg-name="英超 曼联VS托特纳姆热刺 陈凯冬 何辉 20:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼联VS托特纳姆热刺 陈凯冬 何辉 20:20
+http://migu.heropx.dpdns.org/962908919
+#EXTINF:-1 tvg-name="英超 曼联VS托特纳姆热刺 球星视角 20:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼联VS托特纳姆热刺 球星视角 20:20
+http://migu.heropx.dpdns.org/962909076
+#EXTINF:-1 tvg-name="英超 曼联VS托特纳姆热刺 4K赛场原声 20:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼联VS托特纳姆热刺 4K赛场原声 20:15
+http://migu.heropx.dpdns.org/962908932
+#EXTINF:-1 tvg-name="英超 曼联VS托特纳姆热刺 陈渤胄 20:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼联VS托特纳姆热刺 陈渤胄 20:15
+http://migu.heropx.dpdns.org/962909021
+#EXTINF:-1 tvg-name="英超 曼联VS托特纳姆热刺 英文原声 20:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼联VS托特纳姆热刺 英文原声 20:15
+http://migu.heropx.dpdns.org/962909049
+#EXTINF:-1 tvg-name="英超 曼联VS托特纳姆热刺 洪荒 20:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼联VS托特纳姆热刺 洪荒 20:15
+http://migu.heropx.dpdns.org/962912656
+#EXTINF:-1 tvg-name="西甲 巴列卡诺VS皇家奥维耶多 周楚雄 20:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",西甲 巴列卡诺VS皇家奥维耶多 周楚雄 20:45
+http://migu.heropx.dpdns.org/962903632
+#EXTINF:-1 tvg-name="西甲 巴列卡诺VS皇家奥维耶多 赛场原声 20:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",西甲 巴列卡诺VS皇家奥维耶多 赛场原声 20:45
+http://migu.heropx.dpdns.org/962903628
+#EXTINF:-1 tvg-name="WTA WTA阿布扎比站Day7 清流 21:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA WTA阿布扎比站Day7 清流 21:00
+http://migu.heropx.dpdns.org/962749770
+#EXTINF:-1 tvg-name="WTA WTA阿布扎比站Day7 英文原声 21:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA WTA阿布扎比站Day7 英文原声 21:00
+http://migu.heropx.dpdns.org/962749831
+#EXTINF:-1 tvg-name="PFL PFL迪拜站：努马戈梅多夫vs戴维斯 王琰博 22:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",PFL PFL迪拜站：努马戈梅多夫vs戴维斯 王琰博 22:00
+http://migu.heropx.dpdns.org/962899391
+#EXTINF:-1 tvg-name="德甲 圣保利VS斯图加特 刘洪新 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 圣保利VS斯图加特 刘洪新 22:15
+http://migu.heropx.dpdns.org/962903274
+#EXTINF:-1 tvg-name="德甲 圣保利VS斯图加特 赛场原声 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 圣保利VS斯图加特 赛场原声 22:15
+http://migu.heropx.dpdns.org/962903264
+#EXTINF:-1 tvg-name="德甲 沃尔夫斯堡VS多特蒙德 涂远 马延峰 22:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 沃尔夫斯堡VS多特蒙德 涂远 马延峰 22:00
+http://migu.heropx.dpdns.org/962903261
+#EXTINF:-1 tvg-name="德甲 沃尔夫斯堡VS多特蒙德 赛场原声 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 沃尔夫斯堡VS多特蒙德 赛场原声 22:15
+http://migu.heropx.dpdns.org/962903219
+#EXTINF:-1 tvg-name="德甲 美因茨VS奥格斯堡 王子睿 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 美因茨VS奥格斯堡 王子睿 22:15
+http://migu.heropx.dpdns.org/962903212
+#EXTINF:-1 tvg-name="德甲 美因茨VS奥格斯堡 赛场原声 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 美因茨VS奥格斯堡 赛场原声 22:15
+http://migu.heropx.dpdns.org/962903208
+#EXTINF:-1 tvg-name="德甲 弗赖堡VS云达不莱梅 刘洋 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 弗赖堡VS云达不莱梅 刘洋 22:15
+http://migu.heropx.dpdns.org/962903184
+#EXTINF:-1 tvg-name="德甲 弗赖堡VS云达不莱梅 赛场原声 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 弗赖堡VS云达不莱梅 赛场原声 22:15
+http://migu.heropx.dpdns.org/962903166
+#EXTINF:-1 tvg-name="德甲 海登海姆VS汉堡 吴子越 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 海登海姆VS汉堡 吴子越 22:15
+http://migu.heropx.dpdns.org/962903341
+#EXTINF:-1 tvg-name="德甲 海登海姆VS汉堡 赛场原声 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",德甲 海登海姆VS汉堡 赛场原声 22:15
+http://migu.heropx.dpdns.org/962903304
+#EXTINF:-1 tvg-name="WTA WTA克卢日-纳波卡站Day7 清流 22:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA WTA克卢日-纳波卡站Day7 清流 22:30
+http://migu.heropx.dpdns.org/962827452
+#EXTINF:-1 tvg-name="WTA WTA克卢日-纳波卡站Day7 英文原声 22:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA WTA克卢日-纳波卡站Day7 英文原声 22:30
+http://migu.heropx.dpdns.org/962827479
+#EXTINF:-1 tvg-name="英超 狼队VS切尔西 苏东 徐阳 程思钦 22:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 狼队VS切尔西 苏东 徐阳 程思钦 22:30
+http://migu.heropx.dpdns.org/962909576
+#EXTINF:-1 tvg-name="英超 狼队VS切尔西 夏景俊 陆毅隽 22:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 狼队VS切尔西 夏景俊 陆毅隽 22:50
+http://migu.heropx.dpdns.org/962909536
+#EXTINF:-1 tvg-name="英超 狼队VS切尔西 赛场原声 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 狼队VS切尔西 赛场原声 22:45
+http://migu.heropx.dpdns.org/962909544
+#EXTINF:-1 tvg-name="英超 狼队VS切尔西 英文原声 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 狼队VS切尔西 英文原声 22:45
+http://migu.heropx.dpdns.org/962909583
+#EXTINF:-1 tvg-name="英超 富勒姆VS埃弗顿 郭灿亮 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 富勒姆VS埃弗顿 郭灿亮 22:45
+http://migu.heropx.dpdns.org/962909507
+#EXTINF:-1 tvg-name="英超 富勒姆VS埃弗顿 赛场原声 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 富勒姆VS埃弗顿 赛场原声 22:45
+http://migu.heropx.dpdns.org/962909474
+#EXTINF:-1 tvg-name="英超 富勒姆VS埃弗顿 英文原声 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 富勒姆VS埃弗顿 英文原声 22:45
+http://migu.heropx.dpdns.org/962909516
+#EXTINF:-1 tvg-name="英超 伯恩利VS西汉姆联 黄航 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 伯恩利VS西汉姆联 黄航 22:45
+http://migu.heropx.dpdns.org/962909416
+#EXTINF:-1 tvg-name="英超 伯恩利VS西汉姆联 赛场原声 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 伯恩利VS西汉姆联 赛场原声 22:45
+http://migu.heropx.dpdns.org/962909390
+#EXTINF:-1 tvg-name="英超 伯恩利VS西汉姆联 英文原声 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 伯恩利VS西汉姆联 英文原声 22:45
+http://migu.heropx.dpdns.org/962909429
+#EXTINF:-1 tvg-name="英超 阿森纳VS桑德兰 詹俊 张路 林梦鸽 22:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 阿森纳VS桑德兰 詹俊 张路 林梦鸽 22:30
+http://migu.heropx.dpdns.org/962909228
+#EXTINF:-1 tvg-name="英超 阿森纳VS桑德兰 叶紫辰 陈曦 22:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 阿森纳VS桑德兰 叶紫辰 陈曦 22:50
+http://migu.heropx.dpdns.org/962909187
+#EXTINF:-1 tvg-name="英超 阿森纳VS桑德兰 赛场原声 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 阿森纳VS桑德兰 赛场原声 22:45
+http://migu.heropx.dpdns.org/962909209
+#EXTINF:-1 tvg-name="英超 阿森纳VS桑德兰 英文原声 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 阿森纳VS桑德兰 英文原声 22:45
+http://migu.heropx.dpdns.org/962909274
+#EXTINF:-1 tvg-name="英超 伯恩茅斯VS阿斯顿维拉 吴桐 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 伯恩茅斯VS阿斯顿维拉 吴桐 22:45
+http://migu.heropx.dpdns.org/962909160
+#EXTINF:-1 tvg-name="英超 伯恩茅斯VS阿斯顿维拉 赛场原声 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 伯恩茅斯VS阿斯顿维拉 赛场原声 22:45
+http://migu.heropx.dpdns.org/962909122
+#EXTINF:-1 tvg-name="英超 伯恩茅斯VS阿斯顿维拉 英文原声 22:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 伯恩茅斯VS阿斯顿维拉 英文原声 22:45
+http://migu.heropx.dpdns.org/962909174
+#EXTINF:-1 tvg-name="WTA 博尔特、科帕奇会师决赛 清流 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA 博尔特、科帕奇会师决赛 清流 23:00
+http://migu.heropx.dpdns.org/962828526
+#EXTINF:-1 tvg-name="WTA 博尔特、科帕奇会师决赛 英文原声 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA 博尔特、科帕奇会师决赛 英文原声 23:00
+http://migu.heropx.dpdns.org/962828598
+#EXTINF:-1 tvg-name="西甲 巴塞罗那VS马略卡 张昊泽 李欣 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",西甲 巴塞罗那VS马略卡 张昊泽 李欣 23:00
+http://migu.heropx.dpdns.org/962903637
+#EXTINF:-1 tvg-name="西甲 巴塞罗那VS马略卡 赛场原声 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",西甲 巴塞罗那VS马略卡 赛场原声 23:00
+http://migu.heropx.dpdns.org/962903641
+#EXTINF:-1 tvg-name="法甲 朗斯VS雷恩 邵煊 23:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",法甲 朗斯VS雷恩 邵煊 23:45
+http://migu.heropx.dpdns.org/962901090
+#EXTINF:-1 tvg-name="法甲 朗斯VS雷恩 赛场原声 23:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",法甲 朗斯VS雷恩 赛场原声 23:45
+http://migu.heropx.dpdns.org/962901082
+#EXTINF:-1 tvg-name="意甲 热那亚VS那不勒斯 石庆圣 李彦 00:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",意甲 热那亚VS那不勒斯 石庆圣 李彦 00:45
+http://migu.heropx.dpdns.org/962902047
+#EXTINF:-1 tvg-name="意甲 热那亚VS那不勒斯 赛场原声 00:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",意甲 热那亚VS那不勒斯 赛场原声 00:45
+http://migu.heropx.dpdns.org/962901353
+#EXTINF:-1 tvg-name="英超 纽卡斯尔联VS布伦特福德 刘畅 颜强 李子琪 01:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英超 纽卡斯尔联VS布伦特福德 刘畅 颜强 李子琪 01:15
+http://migu.heropx.dpdns.org/962909665
+#EXTINF:-1 tvg-name="英超 纽卡斯尔联VS布伦特福德 赛场原声 01:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英超 纽卡斯尔联VS布伦特福德 赛场原声 01:15
+http://migu.heropx.dpdns.org/962909630
+#EXTINF:-1 tvg-name="英超 纽卡斯尔联VS布伦特福德 英文原声 01:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英超 纽卡斯尔联VS布伦特福德 英文原声 01:15
+http://migu.heropx.dpdns.org/962909694
+#EXTINF:-1 tvg-name="德甲 门兴格拉德巴赫VS勒沃库森 沈云怡 秦游夏 01:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",德甲 门兴格拉德巴赫VS勒沃库森 沈云怡 秦游夏 01:15
+http://migu.heropx.dpdns.org/962903483
+#EXTINF:-1 tvg-name="德甲 门兴格拉德巴赫VS勒沃库森 赛场原声 01:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",德甲 门兴格拉德巴赫VS勒沃库森 赛场原声 01:15
+http://migu.heropx.dpdns.org/962903441
+#EXTINF:-1 tvg-name="西甲 塞维利亚VS吉罗纳 兰子非 01:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",西甲 塞维利亚VS吉罗纳 兰子非 01:15
+http://migu.heropx.dpdns.org/962903645
+#EXTINF:-1 tvg-name="西甲 塞维利亚VS吉罗纳 赛场原声 01:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",西甲 塞维利亚VS吉罗纳 赛场原声 01:15
+http://migu.heropx.dpdns.org/962903652
+#EXTINF:-1 tvg-name="法甲 布雷斯特VS洛里昂 张天翼 01:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",法甲 布雷斯特VS洛里昂 张天翼 01:45
+http://migu.heropx.dpdns.org/962901107
+#EXTINF:-1 tvg-name="法甲 布雷斯特VS洛里昂 赛场原声 01:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",法甲 布雷斯特VS洛里昂 赛场原声 01:45
+http://migu.heropx.dpdns.org/962901101
+#EXTINF:-1 tvg-name="意甲 佛罗伦萨VS都灵 谭逸雄 03:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",意甲 佛罗伦萨VS都灵 谭逸雄 03:30
+http://migu.heropx.dpdns.org/962902207
+#EXTINF:-1 tvg-name="意甲 佛罗伦萨VS都灵 赛场原声 03:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",意甲 佛罗伦萨VS都灵 赛场原声 03:30
+http://migu.heropx.dpdns.org/962902082
+#EXTINF:-1 tvg-name="西甲 皇家社会VS埃尔切 洪宇青 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",西甲 皇家社会VS埃尔切 洪宇青 03:45
+http://migu.heropx.dpdns.org/962903673
+#EXTINF:-1 tvg-name="西甲 皇家社会VS埃尔切 赛场原声 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",西甲 皇家社会VS埃尔切 赛场原声 03:45
+http://migu.heropx.dpdns.org/962903660
+#EXTINF:-1 tvg-name="NBA 篮网VS奇才 刘沛元 03:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 篮网VS奇才 刘沛元 03:55
+http://migu.heropx.dpdns.org/962782907
+#EXTINF:-1 tvg-name="NBA 篮网VS奇才 英文原声 03:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 篮网VS奇才 英文原声 03:55
+http://migu.heropx.dpdns.org/962783180
+#EXTINF:-1 tvg-name="法甲 南特VS里昂 乔迁 03:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",法甲 南特VS里昂 乔迁 03:50
+http://migu.heropx.dpdns.org/962901158
+#EXTINF:-1 tvg-name="法甲 南特VS里昂 赛场原声 03:50" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",法甲 南特VS里昂 赛场原声 03:50
+http://migu.heropx.dpdns.org/962901151
+#EXTINF:-1 tvg-name="NBA 雷霆VS火箭 周鹏 04:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 雷霆VS火箭 周鹏 04:25
+http://migu.heropx.dpdns.org/962783192
+#EXTINF:-1 tvg-name="NBA 雷霆VS火箭 英文原声 04:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 雷霆VS火箭 英文原声 04:25
+http://migu.heropx.dpdns.org/962783248
+#EXTINF:-1 tvg-name="UFC格斗之夜 UFC格斗之夜：莫拉VS王聪 王琰博 郝俊 05:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",UFC格斗之夜 UFC格斗之夜：莫拉VS王聪 王琰博 郝俊 05:55
+http://migu.heropx.dpdns.org/962857232
+#EXTINF:-1 tvg-name="UFC格斗之夜 UFC格斗之夜：莫拉VS王聪 英文原声 05:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",UFC格斗之夜 UFC格斗之夜：莫拉VS王聪 英文原声 05:55
+http://migu.heropx.dpdns.org/962857258
+#EXTINF:-1 tvg-name="UFC格斗之夜 UFC格斗之夜：莫拉VS王聪 智能字幕 05:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",UFC格斗之夜 UFC格斗之夜：莫拉VS王聪 智能字幕 05:55
+http://migu.heropx.dpdns.org/962878361
+#EXTINF:-1 tvg-name="NBA 马刺VS独行侠 王晓晨 06:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 马刺VS独行侠 王晓晨 06:55
+http://migu.heropx.dpdns.org/962783266
+#EXTINF:-1 tvg-name="NBA 马刺VS独行侠 英文原声 06:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 马刺VS独行侠 英文原声 06:55
+http://migu.heropx.dpdns.org/962783303
+#EXTINF:-1 tvg-name="NBA 魔术VS爵士 张泽欣 07:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 魔术VS爵士 张泽欣 07:55
+http://migu.heropx.dpdns.org/962783398
+#EXTINF:-1 tvg-name="NBA 魔术VS爵士 英文原声 07:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 魔术VS爵士 英文原声 07:55
+http://migu.heropx.dpdns.org/962783459
+#EXTINF:-1 tvg-name="NBA 老鹰VS黄蜂 金哲豪 08:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 老鹰VS黄蜂 金哲豪 08:25
+http://migu.heropx.dpdns.org/962783468
+#EXTINF:-1 tvg-name="NBA 老鹰VS黄蜂 英文原声 08:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 老鹰VS黄蜂 英文原声 08:25
+http://migu.heropx.dpdns.org/962783513
+#EXTINF:-1 tvg-name="NBA 公牛VS掘金 盛哲 08:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 公牛VS掘金 盛哲 08:55
+http://migu.heropx.dpdns.org/962783525
+#EXTINF:-1 tvg-name="NBA 公牛VS掘金 英文原声 08:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 公牛VS掘金 英文原声 08:55
+http://migu.heropx.dpdns.org/962783570
+#EXTINF:-1 tvg-name="NBA 湖人VS勇士 杨健 周琦 曾令旭 09:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 湖人VS勇士 杨健 周琦 曾令旭 09:15
+http://migu.heropx.dpdns.org/962783585
+#EXTINF:-1 tvg-name="NBA 湖人VS勇士 郑泽鹏 09:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 湖人VS勇士 郑泽鹏 09:25
+http://migu.heropx.dpdns.org/962783601
+#EXTINF:-1 tvg-name="NBA 湖人VS勇士 拜月宁 09:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 湖人VS勇士 拜月宁 09:25
+http://migu.heropx.dpdns.org/962783609
+#EXTINF:-1 tvg-name="NBA 湖人VS勇士 莫俊祺 09:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 湖人VS勇士 莫俊祺 09:25
+http://migu.heropx.dpdns.org/962783619
+#EXTINF:-1 tvg-name="NBA 湖人VS勇士 英文原声 09:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 湖人VS勇士 英文原声 09:25
+http://migu.heropx.dpdns.org/962783714
+#EXTINF:-1 tvg-name="NBA 太阳VS76人 吴博文 贾磊 09:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 太阳VS76人 吴博文 贾磊 09:55
+http://migu.heropx.dpdns.org/962783723
+#EXTINF:-1 tvg-name="NBA 太阳VS76人 英文原声 09:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 太阳VS76人 英文原声 09:55
+http://migu.heropx.dpdns.org/962783756
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 第五比赛日热身区 热身区 10:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 第五比赛日热身区 热身区 10:00
+http://migu.heropx.dpdns.org/962771664
+#EXTINF:-1 tvg-name="NBA 国王VS骑士 徐秦威 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 国王VS骑士 徐秦威 10:55
+http://migu.heropx.dpdns.org/962783859
+#EXTINF:-1 tvg-name="NBA 国王VS骑士 英文原声 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 国王VS骑士 英文原声 10:55
+http://migu.heropx.dpdns.org/962783899
+#EXTINF:-1 tvg-name="NBA 国王VS骑士 大史 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 国王VS骑士 大史 10:55
+http://migu.heropx.dpdns.org/962870114
+#EXTINF:-1 tvg-name="NBA 开拓者VS灰熊 连睿 马健 闫宇峰 10:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 开拓者VS灰熊 连睿 马健 闫宇峰 10:45
+http://migu.heropx.dpdns.org/962783785
+#EXTINF:-1 tvg-name="NBA 开拓者VS灰熊 邢晨 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 开拓者VS灰熊 邢晨 10:55
+http://migu.heropx.dpdns.org/962783797
+#EXTINF:-1 tvg-name="NBA 开拓者VS灰熊 英文原声 10:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",NBA 开拓者VS灰熊 英文原声 10:55
+http://migu.heropx.dpdns.org/962783848
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 半决赛 侯英超 周泽昊 10:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 半决赛 侯英超 周泽昊 10:30
+http://migu.heropx.dpdns.org/962771717
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 半决赛 赛场原声 11:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 半决赛 赛场原声 11:00
+http://migu.heropx.dpdns.org/962771700
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 半决赛 热身区 10:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 半决赛 热身区 10:00
+http://migu.heropx.dpdns.org/962771664
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 半决赛 混采区 11:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 半决赛 混采区 11:20
+http://migu.heropx.dpdns.org/962771733
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 半决赛 候场区 10:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 半决赛 候场区 10:30
+http://migu.heropx.dpdns.org/962771748
+#EXTINF:-1 tvg-name="斯诺克 决赛 1号桌 13:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",斯诺克 决赛 1号桌 13:00
+http://migu.heropx.dpdns.org/962747726
+#EXTINF:-1 tvg-name="女篮俱乐部杯 江苏南钢VS福建金篮 解说 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 江苏南钢VS福建金篮 解说 14:25
+http://migu.heropx.dpdns.org/962869825
+#EXTINF:-1 tvg-name="女篮俱乐部杯 四川蜀道远达VS河南豫光金铅 赛场原声 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 四川蜀道远达VS河南豫光金铅 赛场原声 14:25
+http://migu.heropx.dpdns.org/962869880
+#EXTINF:-1 tvg-name="女篮俱乐部杯 合肥文旅VS石家庄英励 赛场原声 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 合肥文旅VS石家庄英励 赛场原声 14:25
+http://migu.heropx.dpdns.org/962869923
+#EXTINF:-1 tvg-name="女篮俱乐部杯 合肥文旅VS石家庄英励 解说 14:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 合肥文旅VS石家庄英励 解说 14:25
+http://migu.heropx.dpdns.org/962897149
+#EXTINF:-1 tvg-name="广西县级足球超级联赛 南宁市宾阳县vs北海市海城区队 25/26赛季广西县级足球超级联赛第三轮：南宁市宾阳县vs北海市海城区队 14:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",广西县级足球超级联赛 南宁市宾阳县vs北海市海城区队 25/26赛季广西县级足球超级联赛第三轮：南宁市宾阳县vs北海市海城区队 14:30
+http://migu.heropx.dpdns.org/962871702
+#EXTINF:-1 tvg-name="广西县级足球超级联赛 玉林市玉州区队vs桂林市七星区队 25/26赛季广西县级足球超级联赛第三轮：玉林市玉州区队vs桂林市七星区队 14:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",广西县级足球超级联赛 玉林市玉州区队vs桂林市七星区队 25/26赛季广西县级足球超级联赛第三轮：玉林市玉州区队vs桂林市七星区队 14:30
+http://migu.heropx.dpdns.org/962871708
+#EXTINF:-1 tvg-name="BTF综合格斗赛 张伟丽BTF格斗赛：冯萧灿VS舒托娃 解说 16:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",BTF综合格斗赛 张伟丽BTF格斗赛：冯萧灿VS舒托娃 解说 16:00
+http://migu.heropx.dpdns.org/962834370
+#EXTINF:-1 tvg-name="欧洲16强杯 男女单打半决赛及决赛 刘馨蕊 周泽昊 17:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",欧洲16强杯 男女单打半决赛及决赛 刘馨蕊 周泽昊 17:00
+http://migu.heropx.dpdns.org/962772641
+#EXTINF:-1 tvg-name="欧洲16强杯 男女单打半决赛及决赛 赛场原声 17:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",欧洲16强杯 男女单打半决赛及决赛 赛场原声 17:00
+http://migu.heropx.dpdns.org/962772628
+#EXTINF:-1 tvg-name="女篮俱乐部杯 江西赣星VS东莞新彤盛 解说 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 江西赣星VS东莞新彤盛 解说 16:55
+http://migu.heropx.dpdns.org/962869840
+#EXTINF:-1 tvg-name="女篮俱乐部杯 陕西榆林天泽VS山东赤水河酒 赛场原声 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 陕西榆林天泽VS山东赤水河酒 赛场原声 16:55
+http://migu.heropx.dpdns.org/962869895
+#EXTINF:-1 tvg-name="女篮俱乐部杯 武汉盛帆黄鹤VS山西竹叶青酒 赛场原声 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 武汉盛帆黄鹤VS山西竹叶青酒 赛场原声 16:55
+http://migu.heropx.dpdns.org/962869937
+#EXTINF:-1 tvg-name="女篮俱乐部杯 武汉盛帆黄鹤VS山西竹叶青酒 解说 16:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 武汉盛帆黄鹤VS山西竹叶青酒 解说 16:55
+http://migu.heropx.dpdns.org/962897175
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 铜牌赛、决赛 刘国正 周冠达 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 铜牌赛、决赛 刘国正 周冠达 17:30
+http://migu.heropx.dpdns.org/962772161
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 铜牌赛、决赛 赛场原声 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 铜牌赛、决赛 赛场原声 18:00
+http://migu.heropx.dpdns.org/962772114
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 铜牌赛、决赛 热身区 10:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 铜牌赛、决赛 热身区 10:00
+http://migu.heropx.dpdns.org/962771664
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 铜牌赛、决赛 咪咕环廊视角 17:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 铜牌赛、决赛 咪咕环廊视角 17:00
+http://migu.heropx.dpdns.org/962771847
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 铜牌赛、决赛 混采区 18:20" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 铜牌赛、决赛 混采区 18:20
+http://migu.heropx.dpdns.org/962772202
+#EXTINF:-1 tvg-name="乒乓球亚洲杯 铜牌赛、决赛 候场区 17:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",乒乓球亚洲杯 铜牌赛、决赛 候场区 17:30
+http://migu.heropx.dpdns.org/962772677
+#EXTINF:-1 tvg-name="WTA WTA多哈站Day1 清流 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",WTA WTA多哈站Day1 清流 18:00
+http://migu.heropx.dpdns.org/962870508
+#EXTINF:-1 tvg-name="WTA WTA多哈站Day1 英文原声 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",WTA WTA多哈站Day1 英文原声 18:00
+http://migu.heropx.dpdns.org/962870538
+#EXTINF:-1 tvg-name="斯诺克 决赛 1号桌 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",斯诺克 决赛 1号桌 19:00
+http://migu.heropx.dpdns.org/962747766
+#EXTINF:-1 tvg-name="江西省城市篮球联赛 吉安VS九江庐山文旅 2026江西省城市篮球联赛: 吉安VS九江庐山文旅 19:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",江西省城市篮球联赛 吉安VS九江庐山文旅 2026江西省城市篮球联赛: 吉安VS九江庐山文旅 19:00
+http://migu.heropx.dpdns.org/962772997
+#EXTINF:-1 tvg-name="意甲 博洛尼亚VS帕尔马 乔迁 19:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",意甲 博洛尼亚VS帕尔马 乔迁 19:15
+http://migu.heropx.dpdns.org/962902242
+#EXTINF:-1 tvg-name="意甲 博洛尼亚VS帕尔马 赛场原声 19:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",意甲 博洛尼亚VS帕尔马 赛场原声 19:15
+http://migu.heropx.dpdns.org/962902220
+#EXTINF:-1 tvg-name="浙江省城市篮球联赛 杭州VS丽水 25/26赛季浙江省城市篮球联赛: 杭州VS丽水 19:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",浙江省城市篮球联赛 杭州VS丽水 25/26赛季浙江省城市篮球联赛: 杭州VS丽水 19:30
+http://migu.heropx.dpdns.org/962682618
+#EXTINF:-1 tvg-name="女篮俱乐部杯 新疆天山VS浙江稠州银行 解说 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 新疆天山VS浙江稠州银行 解说 19:25
+http://migu.heropx.dpdns.org/962869852
+#EXTINF:-1 tvg-name="女篮俱乐部杯 北京首钢园VS厦门环东文旅 赛场原声 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 北京首钢园VS厦门环东文旅 赛场原声 19:25
+http://migu.heropx.dpdns.org/962869908
+#EXTINF:-1 tvg-name="女篮俱乐部杯 上海浦发银行VS辽宁大连体产 赛场原声 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 上海浦发银行VS辽宁大连体产 赛场原声 19:25
+http://migu.heropx.dpdns.org/962869951
+#EXTINF:-1 tvg-name="女篮俱乐部杯 上海浦发银行VS辽宁大连体产 解说 19:25" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",女篮俱乐部杯 上海浦发银行VS辽宁大连体产 解说 19:25
+http://migu.heropx.dpdns.org/962897196
+#EXTINF:-1 tvg-name="英女超 伦敦城雌狮女足VS埃弗顿女足 刘焕 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英女超 伦敦城雌狮女足VS埃弗顿女足 刘焕 19:45
+http://migu.heropx.dpdns.org/962900609
+#EXTINF:-1 tvg-name="英女超 伦敦城雌狮女足VS埃弗顿女足 赛场原声 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英女超 伦敦城雌狮女足VS埃弗顿女足 赛场原声 19:45
+http://migu.heropx.dpdns.org/962900603
+#EXTINF:-1 tvg-name="英女超 西汉姆联女足VS布莱顿女足 沈云怡 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英女超 西汉姆联女足VS布莱顿女足 沈云怡 19:45
+http://migu.heropx.dpdns.org/962900560
+#EXTINF:-1 tvg-name="英女超 西汉姆联女足VS布莱顿女足 赛场原声 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英女超 西汉姆联女足VS布莱顿女足 赛场原声 19:45
+http://migu.heropx.dpdns.org/962900551
+#EXTINF:-1 tvg-name="英女超 阿森纳女足VS曼城女足 兰子非 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英女超 阿森纳女足VS曼城女足 兰子非 19:45
+http://migu.heropx.dpdns.org/962900547
+#EXTINF:-1 tvg-name="英女超 阿森纳女足VS曼城女足 赛场原声 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英女超 阿森纳女足VS曼城女足 赛场原声 19:45
+http://migu.heropx.dpdns.org/962900542
+#EXTINF:-1 tvg-name="英女超 利物浦女足VS阿斯顿维拉女足 胡小凡 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英女超 利物浦女足VS阿斯顿维拉女足 胡小凡 19:45
+http://migu.heropx.dpdns.org/962900510
+#EXTINF:-1 tvg-name="英女超 利物浦女足VS阿斯顿维拉女足 赛场原声 19:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英女超 利物浦女足VS阿斯顿维拉女足 赛场原声 19:45
+http://migu.heropx.dpdns.org/962900502
+#EXTINF:-1 tvg-name="西甲 阿拉维斯VS赫塔菲 孙雨轩 20:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",西甲 阿拉维斯VS赫塔菲 孙雨轩 20:45
+http://migu.heropx.dpdns.org/962903685
+#EXTINF:-1 tvg-name="西甲 阿拉维斯VS赫塔菲 赛场原声 20:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",西甲 阿拉维斯VS赫塔菲 赛场原声 20:45
+http://migu.heropx.dpdns.org/962903683
+#EXTINF:-1 tvg-name="英超 布莱顿VS水晶宫 苗锟 21:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英超 布莱顿VS水晶宫 苗锟 21:45
+http://migu.heropx.dpdns.org/962910552
+#EXTINF:-1 tvg-name="英超 布莱顿VS水晶宫 英文原声 21:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英超 布莱顿VS水晶宫 英文原声 21:45
+http://migu.heropx.dpdns.org/962910545
+#EXTINF:-1 tvg-name="英超 布莱顿VS水晶宫 赛场原声 21:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英超 布莱顿VS水晶宫 赛场原声 21:45
+http://migu.heropx.dpdns.org/962910539
+#EXTINF:-1 tvg-name="法甲 尼斯VS摩纳哥 盛斌 21:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",法甲 尼斯VS摩纳哥 盛斌 21:45
+http://migu.heropx.dpdns.org/962901194
+#EXTINF:-1 tvg-name="法甲 尼斯VS摩纳哥 赛场原声 21:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",法甲 尼斯VS摩纳哥 赛场原声 21:45
+http://migu.heropx.dpdns.org/962901179
+#EXTINF:-1 tvg-name="意甲 莱切VS乌迪内斯 梁祥宇 21:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",意甲 莱切VS乌迪内斯 梁祥宇 21:45
+http://migu.heropx.dpdns.org/962902271
+#EXTINF:-1 tvg-name="意甲 莱切VS乌迪内斯 赛场原声 21:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",意甲 莱切VS乌迪内斯 赛场原声 21:45
+http://migu.heropx.dpdns.org/962902261
+#EXTINF:-1 tvg-name="英女超 托特纳姆热刺女足VS切尔西女足 吴桐 22:10" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英女超 托特纳姆热刺女足VS切尔西女足 吴桐 22:10
+http://migu.heropx.dpdns.org/962900489
+#EXTINF:-1 tvg-name="英女超 托特纳姆热刺女足VS切尔西女足 赛场原声 22:10" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",英女超 托特纳姆热刺女足VS切尔西女足 赛场原声 22:10
+http://migu.heropx.dpdns.org/962900484
+#EXTINF:-1 tvg-name="德甲 科隆VSRB莱比锡 赵宇 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",德甲 科隆VSRB莱比锡 赵宇 22:15
+http://migu.heropx.dpdns.org/962903506
+#EXTINF:-1 tvg-name="德甲 科隆VSRB莱比锡 赛场原声 22:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",德甲 科隆VSRB莱比锡 赛场原声 22:15
+http://migu.heropx.dpdns.org/962903500
+#EXTINF:-1 tvg-name="西甲 毕尔巴鄂竞技VS莱万特 李霄 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",西甲 毕尔巴鄂竞技VS莱万特 李霄 23:00
+http://migu.heropx.dpdns.org/962903696
+#EXTINF:-1 tvg-name="西甲 毕尔巴鄂竞技VS莱万特 赛场原声 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="⚽明日赛事⚽",西甲 毕尔巴鄂竞技VS莱万特 赛场原声 23:00
+http://migu.heropx.dpdns.org/962903698
 #EXTINF:-1 tvg-name="咪咕直播 1" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏆咪咕体育🏆",咪咕直播 1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=BingCha
 #EXTINF:-1 tvg-name="咪咕直播 2" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏆咪咕体育🏆",咪咕直播 2
@@ -1156,19 +1790,19 @@ https://migu.188766.xyz/?migutoken=500b88c724ebe4ba94f3a393ebea1599&id=%E8%80%81
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🥝精品频道🥝",发现之旅
 https://migu.188766.xyz/?migutoken=4bf44fd20adb93ec63f25ab8ad4a529f&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy$冰茶
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🥝精品频道🥝",CHC影迷电影
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=202602071602141fcc01c4574a403b8ab8aebf7cd564d0&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260207160214&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=218.28.233.106&SecurityKey=20260207160214&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=84d1696ae2630aaf4cf1dedeb002d97f $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2026020720021631f8fff9fb114e2ebbde3af9db50e053&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260207200216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=218.28.233.106&SecurityKey=20260207200216&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c6ce673b69af4699338f88bf8c70ec11 $咪咕视频
 #EXTINF:-1 tvg-name="经典香港电影" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🥝精品频道🥝",经典香港电影
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=2026020716021396e6cc058d1848168bd84d1ee719260e&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260207160213&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=218.28.233.106&SecurityKey=20260207160213&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0292ce61b3a11fbb07ee42c35fb8e66a $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=20260207200216fc58eb504abc46e79074c868466aa70a&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260207200216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=218.28.233.106&SecurityKey=20260207200216&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=00fae136a85ae824d6d9602d959f71b3 $咪咕视频
 #EXTINF:-1 tvg-name="抗战经典影片" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🥝精品频道🥝",抗战经典影片
-http://hlsztemgsplive.miguvideo.com:8080/wd-virtuallive5100002089-150/index.m3u8?msisdn=20260207160213a3b8ad6b03984a069731b55e4d1af5ca&mdspid=&spid=800033&netType=0&sid=5500002717&pid=2028597139&timestamp=20260207160213&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617432318&ParentNodeID=-99&assertID=5500002717&client_ip=218.28.233.106&SecurityKey=20260207160213&promotionId=&mvid=5100002089&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f0da9ae5ed63aa1fc6fb3371127b6505 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd-virtuallive5100002089-150/index.m3u8?msisdn=20260207200216141a79c4261343e9a03755faa472e7ff&mdspid=&spid=800033&netType=0&sid=5500002717&pid=2028597139&timestamp=20260207200216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617432318&ParentNodeID=-99&assertID=5500002717&client_ip=218.28.233.106&SecurityKey=20260207200216&promotionId=&mvid=5100002089&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=16c8b67a2b4c1d7ac5002f53bc4f1abf $咪咕视频
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🥝精品频道🥝",快乐垂钓
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=20260207160207477c31028fda42758dbf6f8cda0fab68&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260207160207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260207160207&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1961590221dc9fad59b54e0b3f736826 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=20260207200209cb3af77f419c4aa9b21a119ea0f08765&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260207200209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260207200209&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d5b90340b03e4313f774812abd667786 $咪咕视频
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🥝精品频道🥝",四海钓鱼
-http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=2026020716020664f06ca23e6f4334a5079520c3f2b105&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260207160206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=218.28.233.106&SecurityKey=20260207160206&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=647ad50d8afcaafee37e642c1ded69ab $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=2026020720020900fc307388e742e3809aeaf25a78c492&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260207200209&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=218.28.233.106&SecurityKey=20260207200209&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=232b943dfa05301ee638f42397971cbc $咪咕视频
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🥝精品频道🥝",优漫卡通
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=2026020716021164f737b2772145159f96de0fdd4ea932&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20260207160211&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=218.28.233.106&SecurityKey=20260207160211&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ee2c70e84756db63380d7d24dcf48dbb $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=202602072002149f4d915d8c8b4717aafcd91eec834e4f&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20260207200214&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=218.28.233.106&SecurityKey=20260207200214&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6b96f75e3995e57aca1f21d07e018857 $咪咕视频
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🥝精品频道🥝",嘉佳卡通
-http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=202602071602167517790203ed4c11b7d0279036113306&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20260207160216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=218.28.233.106&SecurityKey=20260207160216&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0b11c396e10d58123406e6ae93f0e804 $咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20260207200219e1cbe989944b4f18905d5efd187ceeea&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20260207200219&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=218.28.233.106&SecurityKey=20260207200219&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7c91770b038ebeac0a5e93622d121f4b $咪咕视频
 #EXTINF:-1 tvg-name="老故事" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🥝精品频道🥝",老故事
 http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=2026020720002153a2907ddbd744ecae0d4e7488680a85&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260207200021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=43.139.160.244&SecurityKey=20260207200021&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c555ca2eb96574a5f12a33e763b7e555&ddCalcu=5c55e550e547c0ba326e7be93635a7241af5 $咪咕
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🥝精品频道🥝",发现之旅
