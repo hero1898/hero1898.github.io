@@ -17,13 +17,6 @@
         },
         {
 
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json",
-
-            "name": "🐶雷蒙影视🐶"
-
-        },
-        {
-
             "url": "http://肥猫.com",
 
             "name": "🐱肥猫🐱"
@@ -69,6 +62,13 @@
   //          "url": "http://影视仓.com/",
 
   //         "name": "🛖影视仓🛖"
+
+  //      },
+  //      {
+
+  //          "url": "https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json",
+
+  //          "name": "🐶雷蒙影视🐶"
 
   //      },
         { 
