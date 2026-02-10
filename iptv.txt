@@ -453,40 +453,14 @@ CCTV高尔夫网球,http://223.144.220.9:3000/udp/239.76.254.62:9000
 深圳都市频道,http://113.100.30.54:4022/udp/239.77.1.176:5146
 深圳都市频道,http://113.104.186.76:7088/udp/239.77.1.176:5146
 🇭🇰港澳台🇭🇰,#genre#
-凤凰中文,https://mgev.188766.xyz/?migutoken=458604bd4538dfcc0bfe128fa0287fbc&id=fhzw&pp=1$冰茶
-凤凰中文,https://mgev.188766.xyz/?migutoken=458604bd4538dfcc0bfe128fa0287fbc&id=fhzw&pp=1$冰茶
-凤凰资讯,https://mgev.188766.xyz/?migutoken=33aff965c3601ad29d129b995fe45194&id=fhzx&pp=1$冰茶
-凤凰资讯,https://mgev.188766.xyz/?migutoken=33aff965c3601ad29d129b995fe45194&id=fhzx&pp=1$冰茶
-凤凰香港,https://mgev.188766.xyz/?migutoken=187549d83a8ca494a63fe86f1e936b7a&id=fhhk&pp=1$冰茶
-凤凰香港,https://mgev.188766.xyz/?migutoken=187549d83a8ca494a63fe86f1e936b7a&id=fhhk&pp=1$冰茶
-翡翠台,https://mgev.188766.xyz/?migutoken=e990abf8653801404d40d4932c9d98eb&id=hk_fct&type=dy$冰茶
-翡翠台4K,https://mgev.188766.xyz/?migutoken=b476361cca69787e500a4ad92d8c6b89&id=hk_fct4k&type=dy$冰茶
-无线新闻,https://mgev.188766.xyz/?migutoken=b7ee18cb847c4674e60fb36ba9a94703&id=hk_wxxw&type=dy$冰茶
-Now新闻台,https://mgev.188766.xyz/?migutoken=855a0834e65f2187104724c947da2a27&id=hk_now&type=dy$冰茶
-TVB Plus,https://mgev.188766.xyz/?migutoken=ffb103ec26e1f85acefe1cc9173a79ae&id=hk_tvbp&type=dy$冰茶
-明珠台,https://mgev.188766.xyz/?migutoken=17956e1112f3534b9e167c5ac7ff86a6&id=hk_mzt&type=dy$冰茶
-TVB星河,https://mgev.188766.xyz/?migutoken=657b71d7468afa18ef8546d95331fd8c&id=hk_tvbxh&type=dy$冰茶
-TVB功夫,https://mgev.188766.xyz/?migutoken=c2e879aa348bd080d7511506c63493e0&id=hk_yzwx&type=dy$冰茶
-八度空间,https://mgev.188766.xyz/?migutoken=b9165c9c55f375043fdd6e3938cbe79a&id=hk_8tv&type=dy$冰茶
-CHU,https://mgev.188766.xyz/?migutoken=7abb28d6e776b661546d23e4da03ddba&id=hk_chu&type=dy$冰茶
-CH5,https://mgev.188766.xyz/?migutoken=f00a3488d9d95a67bc6d66c5b0ac107f&id=hk_ch5&type=dy$冰茶
-CH8,https://mgev.188766.xyz/?migutoken=03145a669e6e1f4fa39f575975f7a6c5&id=hk_ch8&type=dy$冰茶
-澳视澳门,https://mgev.188766.xyz/?migutoken=19c5ef013db102782299322ec65de306&id=hk_asam&type=dy$冰茶
-HOY77,https://mgev.188766.xyz/?migutoken=a7bfc0ca8bd209354dcff01b8ca4d77e&id=hk_hoy&type=dy$冰茶
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-凤凰中文,http://110.180.148.5:8933/rtp/239.1.1.126:8126
-凤凰资讯,http://110.180.148.5:8933/rtp/239.1.1.127:8127
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 翡翠台,https://cdn6.101.qzz.io/163189/fct
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -517,6 +491,26 @@ ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 香港C＋,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 翡翠台4K,http://cdn3.1678520.xyz/live/?id=fct4k
 TVB plus,http://cdn3.1678520.xyz/live/?id=tvbp
+凤凰中文,https://mgev.188766.xyz/?migutoken=458604bd4538dfcc0bfe128fa0287fbc&id=fhzw&pp=1$冰茶
+凤凰中文,https://mgev.188766.xyz/?migutoken=458604bd4538dfcc0bfe128fa0287fbc&id=fhzw&pp=1$冰茶
+凤凰资讯,https://mgev.188766.xyz/?migutoken=33aff965c3601ad29d129b995fe45194&id=fhzx&pp=1$冰茶
+凤凰资讯,https://mgev.188766.xyz/?migutoken=33aff965c3601ad29d129b995fe45194&id=fhzx&pp=1$冰茶
+凤凰香港,https://mgev.188766.xyz/?migutoken=187549d83a8ca494a63fe86f1e936b7a&id=fhhk&pp=1$冰茶
+凤凰香港,https://mgev.188766.xyz/?migutoken=187549d83a8ca494a63fe86f1e936b7a&id=fhhk&pp=1$冰茶
+翡翠台,https://mgev.188766.xyz/?migutoken=e990abf8653801404d40d4932c9d98eb&id=hk_fct&type=dy$冰茶
+翡翠台4K,https://mgev.188766.xyz/?migutoken=b476361cca69787e500a4ad92d8c6b89&id=hk_fct4k&type=dy$冰茶
+无线新闻,https://mgev.188766.xyz/?migutoken=b7ee18cb847c4674e60fb36ba9a94703&id=hk_wxxw&type=dy$冰茶
+Now新闻台,https://mgev.188766.xyz/?migutoken=855a0834e65f2187104724c947da2a27&id=hk_now&type=dy$冰茶
+TVB Plus,https://mgev.188766.xyz/?migutoken=ffb103ec26e1f85acefe1cc9173a79ae&id=hk_tvbp&type=dy$冰茶
+明珠台,https://mgev.188766.xyz/?migutoken=17956e1112f3534b9e167c5ac7ff86a6&id=hk_mzt&type=dy$冰茶
+TVB星河,https://mgev.188766.xyz/?migutoken=657b71d7468afa18ef8546d95331fd8c&id=hk_tvbxh&type=dy$冰茶
+TVB功夫,https://mgev.188766.xyz/?migutoken=c2e879aa348bd080d7511506c63493e0&id=hk_yzwx&type=dy$冰茶
+八度空间,https://mgev.188766.xyz/?migutoken=b9165c9c55f375043fdd6e3938cbe79a&id=hk_8tv&type=dy$冰茶
+CHU,https://mgev.188766.xyz/?migutoken=7abb28d6e776b661546d23e4da03ddba&id=hk_chu&type=dy$冰茶
+CH5,https://mgev.188766.xyz/?migutoken=f00a3488d9d95a67bc6d66c5b0ac107f&id=hk_ch5&type=dy$冰茶
+CH8,https://mgev.188766.xyz/?migutoken=03145a669e6e1f4fa39f575975f7a6c5&id=hk_ch8&type=dy$冰茶
+澳视澳门,https://mgev.188766.xyz/?migutoken=19c5ef013db102782299322ec65de306&id=hk_asam&type=dy$冰茶
+HOY77,https://mgev.188766.xyz/?migutoken=a7bfc0ca8bd209354dcff01b8ca4d77e&id=hk_hoy&type=dy$冰茶
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻,https://live.catvod.com/live.php?id=ctinews
 中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
@@ -739,31 +733,30 @@ NBA 魔术VS雄鹿 全场回放（英文原声） 08:25,http://migu.heropx.dpdns
 NBA 热火VS爵士 全场回放（贾磊） 08:25,http://migu.heropx.dpdns.org/963000679
 NBA 热火VS爵士 全场回放（英文原声） 08:25,http://migu.heropx.dpdns.org/963000354
 NBA 篮网VS公牛 全场回放（吴博文） 08:25,http://migu.heropx.dpdns.org/962998810
+NBA 篮网VS公牛 全场回放（英文原声） 08:25,http://migu.heropx.dpdns.org/963003080
 NBA 鹈鹕VS国王 全场回放（王凯） 08:55,http://migu.heropx.dpdns.org/962999794
+NBA 鹈鹕VS国王 全场回放（英文原声） 08:55,http://migu.heropx.dpdns.org/963001298
 NBA 森林狼VS老鹰 全场回放（盛哲） 08:55,http://migu.heropx.dpdns.org/963000139
+NBA 森林狼VS老鹰 全场回放（英文原声） 08:55,http://migu.heropx.dpdns.org/963000567
 NBA 掘金VS骑士 全场回放（连睿、王润陶） 09:55,http://migu.heropx.dpdns.org/963000463
-NBA 湖人VS雷霆 李天宇 徐咏 魏欣怡 10:45,http://migu.heropx.dpdns.org/962932937
-NBA 湖人VS雷霆 英文原声 10:55,http://migu.heropx.dpdns.org/962933043
-NBA 勇士VS灰熊 孙博 闫宇峰 裴优 10:45,http://migu.heropx.dpdns.org/962932815
-NBA 勇士VS灰熊 董倡硕 10:55,http://migu.heropx.dpdns.org/962932835
-NBA 勇士VS灰熊 英文原声 10:55,http://migu.heropx.dpdns.org/962932908
-NBA 开拓者VS76人 姜帆 季孟年 秋童 10:45,http://migu.heropx.dpdns.org/962933066
-NBA 开拓者VS76人 邢晨 10:55,http://migu.heropx.dpdns.org/962933077
-NBA 开拓者VS76人 英文原声 10:55,http://migu.heropx.dpdns.org/962933119
-女篮俱乐部杯 江西赣星VS新疆天山 解说 14:25,http://migu.heropx.dpdns.org/962870560
-女篮俱乐部杯 陕西榆林天泽VS北京首钢园 赛场原声 14:25,http://migu.heropx.dpdns.org/962870672
-女篮俱乐部杯 上海浦发银行VS山西竹叶青酒 赛场原声 14:25,http://migu.heropx.dpdns.org/962870745
-女篮俱乐部杯 上海浦发银行VS山西竹叶青酒 解说 14:25,http://migu.heropx.dpdns.org/962897312
-女篮俱乐部杯 东莞新彤盛VS福建金篮 解说 16:55,http://migu.heropx.dpdns.org/962870643
-女篮俱乐部杯 四川蜀道远达VS厦门环东文旅 赛场原声 16:55,http://migu.heropx.dpdns.org/962870689
-女篮俱乐部杯 石家庄英励VS武汉盛帆黄鹤 赛场原声 16:55,http://migu.heropx.dpdns.org/962870761
-女篮俱乐部杯 石家庄英励VS武汉盛帆黄鹤 解说 16:55,http://migu.heropx.dpdns.org/962897327
+NBA 掘金VS骑士 全场回放（英文原声） 09:55,http://migu.heropx.dpdns.org/963002092
+NBA 湖人VS雷霆 全场回放（李天宇、徐咏、魏欣怡） 10:55,http://migu.heropx.dpdns.org/963001816
+NBA 湖人VS雷霆 全场回放（英文原声） 10:55,http://migu.heropx.dpdns.org/963003235
+NBA 勇士VS灰熊 全场回放（孙博、闫宇峰、裴优） 10:55,http://migu.heropx.dpdns.org/963001649
+NBA 勇士VS灰熊 全场回放（董倡硕） 10:55,http://migu.heropx.dpdns.org/963001668
+NBA 勇士VS灰熊 全场回放（英文原声） 10:55,http://migu.heropx.dpdns.org/963002464
+NBA 开拓者VS76人 全场回放（姜帆、季孟年、秋童） 10:55,http://migu.heropx.dpdns.org/963001978
+NBA 开拓者VS76人 全场回放（邢晨） 10:55,http://migu.heropx.dpdns.org/963001938
+女篮俱乐部杯 江西赣星VS新疆天山 全场回放 14:25,http://migu.heropx.dpdns.org/963006254
+女篮俱乐部杯 陕西榆林天泽VS北京首钢园 全场回放（原声） 14:25,http://migu.heropx.dpdns.org/963005767
+女篮俱乐部杯 上海浦发银行VS山西竹叶青酒 全场回放（现场解说） 14:25,http://migu.heropx.dpdns.org/963005487
+女篮俱乐部杯 上海浦发银行VS山西竹叶青酒 全场回放（原声） 14:25,http://migu.heropx.dpdns.org/963005441
 亚冠精英 广岛三箭VS柔佛新山 张昊泽 17:45,http://migu.heropx.dpdns.org/962911303
 亚冠精英 广岛三箭VS柔佛新山 赛场原声 17:45,http://migu.heropx.dpdns.org/962911312
 亚冠精英 神户胜利船VS首尔FC 鲁靖明 17:45,http://migu.heropx.dpdns.org/962911283
 亚冠精英 神户胜利船VS首尔FC 赛场原声 17:45,http://migu.heropx.dpdns.org/962911292
-WTA 王欣瑜PK莱巴金娜 郑钦文vs帕克斯 赛场原声 18:00,http://migu.heropx.dpdns.org/962870640
-WTA 王欣瑜PK莱巴金娜 郑钦文vs帕克斯 英文原声 18:00,http://migu.heropx.dpdns.org/962870656
+WTA 梅尔滕斯登场 高芙、斯瓦泰克轮番出战 赛场原声 18:00,http://migu.heropx.dpdns.org/962870640
+WTA 梅尔滕斯登场 高芙、斯瓦泰克轮番出战 英文原声 18:00,http://migu.heropx.dpdns.org/962870656
 斯诺克 常冰玉、雷佩凡出战 1号桌 18:00,http://migu.heropx.dpdns.org/962976742
 斯诺克 常冰玉、雷佩凡出战 2号桌 18:00,http://migu.heropx.dpdns.org/962976753
 斯诺克 常冰玉、雷佩凡出战 3号桌 18:00,http://migu.heropx.dpdns.org/962976768
@@ -771,7 +764,6 @@ WTA 王欣瑜PK莱巴金娜 郑钦文vs帕克斯 英文原声 18:00,http://migu.
 斯诺克 常冰玉、雷佩凡出战 5号桌 18:00,http://migu.heropx.dpdns.org/962976824
 斯诺克 常冰玉、雷佩凡出战 6号桌 18:00,http://migu.heropx.dpdns.org/962976855
 斯诺克 常冰玉、雷佩凡出战 7号桌 18:00,http://migu.heropx.dpdns.org/962976869
-斯诺克 常冰玉、雷佩凡出战 备用信号 18:00,http://migu.heropx.dpdns.org/962976885
 女篮俱乐部杯 江苏南钢VS浙江稠州银行 解说 19:25,http://migu.heropx.dpdns.org/962870664
 女篮俱乐部杯 山东赤水河酒VS河南豫光金铅 赛场原声 19:25,http://migu.heropx.dpdns.org/962870734
 女篮俱乐部杯 辽宁大连体产VS合肥文旅 赛场原声 19:25,http://migu.heropx.dpdns.org/962870779
@@ -781,14 +773,19 @@ WTT 外协众将冲击正赛 2号桌 19:30,http://migu.heropx.dpdns.org/96292839
 WTT 外协众将冲击正赛 3号桌 19:30,http://migu.heropx.dpdns.org/962928402
 WTT 外协众将冲击正赛 4号桌 19:30,http://migu.heropx.dpdns.org/962928418
 亚冠精英 成都蓉城VS武里南联 袁甲 贺宇 李子琪 20:00,http://migu.heropx.dpdns.org/962911359
-亚冠精英 成都蓉城VS武里南联 赛场原声 20:00,http://migu.heropx.dpdns.org/962911397
 亚冠精英 成都蓉城VS武里南联 娄一晨 刘越 姚安妮 20:00,http://migu.heropx.dpdns.org/962911323
+亚冠精英 成都蓉城VS武里南联 赛场原声 20:00,http://migu.heropx.dpdns.org/962911397
 亚冠精英 上海申花VS町田泽维亚 娄一晨 刘越 姚安妮 20:00,http://migu.heropx.dpdns.org/962911323
-亚冠精英 上海申花VS町田泽维亚 赛场原声 20:00,http://migu.heropx.dpdns.org/962911328
-亚冠精英 上海申花VS町田泽维亚 赛场原声 20:00,http://migu.heropx.dpdns.org/962953992
 亚冠精英 上海申花VS町田泽维亚 袁甲 贺宇 李子琪 20:00,http://migu.heropx.dpdns.org/962911359
 亚冠二级 德黑兰独立VS伊尔比德侯赛因 王子睿 21:30,http://migu.heropx.dpdns.org/962910924
 亚冠二级 德黑兰独立VS伊尔比德侯赛因 赛场原声 21:30,http://migu.heropx.dpdns.org/962910930
+WTA 帕克斯VS郑钦文 赛场原声 22:30,http://migu.heropx.dpdns.org/963000748
+WTA 帕克斯VS郑钦文 单文强 22:30,http://migu.heropx.dpdns.org/963000783
+WTA 帕克斯VS郑钦文 英文原声 22:30,http://migu.heropx.dpdns.org/963000772
+WTA 王欣瑜VS莱巴金娜 赛场原声 18:00,http://migu.heropx.dpdns.org/962870640
+WTA 王欣瑜VS莱巴金娜 胡力涛 23:00,http://migu.heropx.dpdns.org/963000708
+WTA 王欣瑜VS莱巴金娜 英文原声 18:00,http://migu.heropx.dpdns.org/962870656
+WTA 王欣瑜VS莱巴金娜 智能球路轨迹测试 23:00,http://migu.heropx.dpdns.org/963000722
 ⚽明日赛事⚽,#genre#
 亚冠精英 大不里士拖拉机VS萨德 刘焕 23:45,http://migu.heropx.dpdns.org/962911253
 亚冠精英 大不里士拖拉机VS萨德 赛场原声 23:45,http://migu.heropx.dpdns.org/962911265
@@ -818,9 +815,9 @@ NBA 火箭VS快船 英文原声 08:55,http://migu.heropx.dpdns.org/962933312
 NBA 太阳VS独行侠 李天宇 殷文玉 廖昕阳 09:45,http://migu.heropx.dpdns.org/962933154
 NBA 太阳VS独行侠 英文原声 09:55,http://migu.heropx.dpdns.org/962933138
 NBA 湖人VS马刺 连睿 苏群 佳依 11:15,http://migu.heropx.dpdns.org/962933295
+NBA 湖人VS马刺 郑泽鹏 11:25,http://migu.heropx.dpdns.org/962933315
 NBA 湖人VS马刺 王晓晨 11:25,http://migu.heropx.dpdns.org/962933260
 NBA 湖人VS马刺 英文原声 11:25,http://migu.heropx.dpdns.org/962933236
-NBA 湖人VS马刺 郑泽鹏 11:25,http://migu.heropx.dpdns.org/962933315
 WTT 男女单打资格赛第二、三轮及双打资格赛 1号桌 13:30,http://migu.heropx.dpdns.org/962928439
 WTT 男女单打资格赛第二、三轮及双打资格赛 2号桌 13:30,http://migu.heropx.dpdns.org/962928461
 WTT 男女单打资格赛第二、三轮及双打资格赛 3号桌 13:30,http://migu.heropx.dpdns.org/962929191
@@ -844,9 +841,9 @@ WTA WTA多哈站Day4 英文原声 18:00,http://migu.heropx.dpdns.org/962870789
 中国女篮系列热身赛 中国女篮VS国际女篮 殷雪怡 张琳 19:15,http://migu.heropx.dpdns.org/962903386
 中国女篮系列热身赛 中国女篮VS国际女篮 清流播出 19:15,http://migu.heropx.dpdns.org/962900055
 CBA俱乐部杯 山东高速VS浙江方兴渡 庄宁宇 陈正昊 李根 18:45,http://migu.heropx.dpdns.org/962996277
-CBA俱乐部杯 山东高速VS浙江方兴渡 赛场原声 19:20,http://migu.heropx.dpdns.org/962996251
 CBA俱乐部杯 山东高速VS浙江方兴渡 王新通 19:20,http://migu.heropx.dpdns.org/962996286
 CBA俱乐部杯 山东高速VS浙江方兴渡 郭知昊 19:20,http://migu.heropx.dpdns.org/962996319
+CBA俱乐部杯 山东高速VS浙江方兴渡 赛场原声 19:20,http://migu.heropx.dpdns.org/962996251
 东亚超级联赛 马尼拉电气VS琉球黄金帝王 清流播出3 19:35,http://migu.heropx.dpdns.org/961479000
 亚冠二级 河内公安VS淡滨尼流浪者 鹿中原 20:00,http://migu.heropx.dpdns.org/962911011
 亚冠二级 河内公安VS淡滨尼流浪者 赛场原声 20:00,http://migu.heropx.dpdns.org/962911018
