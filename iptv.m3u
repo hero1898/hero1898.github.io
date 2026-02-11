@@ -1365,26 +1365,64 @@ http://migu.heropx.dpdns.org/963020941
 http://migu.heropx.dpdns.org/963026867
 #EXTINF:-1 tvg-name="亚冠精英 江原FCVS上海海港 全场回放（石庆圣、李彦、魏欣怡） 17:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",亚冠精英 江原FCVS上海海港 全场回放（石庆圣、李彦、魏欣怡） 17:45
 http://migu.heropx.dpdns.org/963028821
-#EXTINF:-1 tvg-name="亚冠精英 蔚山HDVS墨尔本城 全场回放 17:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",亚冠精英 蔚山HDVS墨尔本城 全场回放 17:45
-http://migu.heropx.dpdns.org/963029293
 #EXTINF:-1 tvg-name="亚冠精英 蔚山HDVS墨尔本城 全场回放（涂远） 17:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",亚冠精英 蔚山HDVS墨尔本城 全场回放（涂远） 17:45
 http://migu.heropx.dpdns.org/963028614
-#EXTINF:-1 tvg-name="WTA 郑钦文大战莱巴 斯瓦泰克晋级八强 赛场原声 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 郑钦文大战莱巴 斯瓦泰克晋级八强 赛场原声 18:00
-http://migu.heropx.dpdns.org/962870735
-#EXTINF:-1 tvg-name="WTA 郑钦文大战莱巴 斯瓦泰克晋级八强 胡力涛 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 郑钦文大战莱巴 斯瓦泰克晋级八强 胡力涛 23:00
-http://migu.heropx.dpdns.org/963024933
-#EXTINF:-1 tvg-name="WTA 郑钦文大战莱巴 斯瓦泰克晋级八强 智能球路轨迹 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 郑钦文大战莱巴 斯瓦泰克晋级八强 智能球路轨迹 23:00
-http://migu.heropx.dpdns.org/963024958
-#EXTINF:-1 tvg-name="WTA 郑钦文大战莱巴 斯瓦泰克晋级八强 英文原声 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 郑钦文大战莱巴 斯瓦泰克晋级八强 英文原声 18:00
-http://migu.heropx.dpdns.org/962870789
-#EXTINF:-1 tvg-name="斯诺克 袁思俊、龙泽煌登场 老马速胜晋级 2号桌 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 袁思俊、龙泽煌登场 老马速胜晋级 2号桌 18:00
-http://migu.heropx.dpdns.org/962976926
-#EXTINF:-1 tvg-name="斯诺克 袁思俊、龙泽煌登场 老马速胜晋级 4号桌 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 袁思俊、龙泽煌登场 老马速胜晋级 4号桌 18:00
-http://migu.heropx.dpdns.org/962976969
-#EXTINF:-1 tvg-name="斯诺克 袁思俊、龙泽煌登场 老马速胜晋级 5号桌 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 袁思俊、龙泽煌登场 老马速胜晋级 5号桌 18:00
-http://migu.heropx.dpdns.org/962976998
-#EXTINF:-1 tvg-name="斯诺克 袁思俊、龙泽煌登场 老马速胜晋级 7号桌 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 袁思俊、龙泽煌登场 老马速胜晋级 7号桌 18:00
-http://migu.heropx.dpdns.org/962977015
+#EXTINF:-1 tvg-name="WTA 姆博科、斯瓦泰克晋级八强 2026WTA多哈站女单第3轮回放：卡林斯卡娅2-0斯维托丽娜 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 姆博科、斯瓦泰克晋级八强 2026WTA多哈站女单第3轮回放：卡林斯卡娅2-0斯维托丽娜 18:00
+http://migu.heropx.dpdns.org/963036834
+#EXTINF:-1 tvg-name="WTA 姆博科、斯瓦泰克晋级八强 2026WTA多哈站女单第3轮回放：卡林斯卡娅2-0斯维托丽娜 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 姆博科、斯瓦泰克晋级八强 2026WTA多哈站女单第3轮回放：卡林斯卡娅2-0斯维托丽娜 18:00
+http://migu.heropx.dpdns.org/963036799
+#EXTINF:-1 tvg-name="WTA 姆博科、斯瓦泰克晋级八强 【回放】郑钦文1-2莱巴金娜 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 姆博科、斯瓦泰克晋级八强 【回放】郑钦文1-2莱巴金娜 18:00
+http://migu.heropx.dpdns.org/963036506
+#EXTINF:-1 tvg-name="WTA 姆博科、斯瓦泰克晋级八强 【回放】郑钦文1-2莱巴金娜（英文原声） 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 姆博科、斯瓦泰克晋级八强 【回放】郑钦文1-2莱巴金娜（英文原声） 18:00
+http://migu.heropx.dpdns.org/963036047
+#EXTINF:-1 tvg-name="WTA 姆博科、斯瓦泰克晋级八强 【回放】格拉切娃0-2萨卡里 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 姆博科、斯瓦泰克晋级八强 【回放】格拉切娃0-2萨卡里 18:00
+http://migu.heropx.dpdns.org/963029071
+#EXTINF:-1 tvg-name="WTA 姆博科、斯瓦泰克晋级八强 【回放】格拉切娃0-2萨卡里（英文原声） 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 姆博科、斯瓦泰克晋级八强 【回放】格拉切娃0-2萨卡里（英文原声） 18:00
+http://migu.heropx.dpdns.org/963028939
+#EXTINF:-1 tvg-name="WTA 姆博科、斯瓦泰克晋级八强 【回放】米拉·安德列娃1-2姆博科 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 姆博科、斯瓦泰克晋级八强 【回放】米拉·安德列娃1-2姆博科 18:00
+http://migu.heropx.dpdns.org/963031885
+#EXTINF:-1 tvg-name="WTA 姆博科、斯瓦泰克晋级八强 【回放】米拉·安德列娃1-2姆博科（英文原声） 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 姆博科、斯瓦泰克晋级八强 【回放】米拉·安德列娃1-2姆博科（英文原声） 18:00
+http://migu.heropx.dpdns.org/963031403
+#EXTINF:-1 tvg-name="WTA 姆博科、斯瓦泰克晋级八强 【回放】斯瓦泰克2-1卡萨金娜 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 姆博科、斯瓦泰克晋级八强 【回放】斯瓦泰克2-1卡萨金娜 18:00
+http://migu.heropx.dpdns.org/963033390
+#EXTINF:-1 tvg-name="WTA 姆博科、斯瓦泰克晋级八强 【回放】斯瓦泰克2-1卡萨金娜（英文原声） 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 姆博科、斯瓦泰克晋级八强 【回放】斯瓦泰克2-1卡萨金娜（英文原声） 18:00
+http://migu.heropx.dpdns.org/963033293
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】周跃龙5-0迪伦·埃莫里 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】周跃龙5-0迪伦·埃莫里 18:00
+http://migu.heropx.dpdns.org/963029023
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】斯科特·唐纳森4-5许医尘 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】斯科特·唐纳森4-5许医尘 18:00
+http://migu.heropx.dpdns.org/963032424
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】罗比·威廉姆斯5-3王雨晨 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】罗比·威廉姆斯5-3王雨晨 18:00
+http://migu.heropx.dpdns.org/963031822
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】侯赛因·瓦菲5-2蓝裕豪 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】侯赛因·瓦菲5-2蓝裕豪 18:00
+http://migu.heropx.dpdns.org/963032950
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】袁思俊2-5大卫·格雷斯 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】袁思俊2-5大卫·格雷斯 18:00
+http://migu.heropx.dpdns.org/963033338
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】范争一2-5朱利安·勒克莱 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】范争一2-5朱利安·勒克莱 18:00
+http://migu.heropx.dpdns.org/963031016
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】扎克·舒尔第5-1黄佳浩 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】扎克·舒尔第5-1黄佳浩 18:00
+http://migu.heropx.dpdns.org/963029248
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】凯伦·威尔逊5-0亚历山大·乌尔森巴赫 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】凯伦·威尔逊5-0亚历山大·乌尔森巴赫 18:00
+http://migu.heropx.dpdns.org/963036146
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】马克·威廉姆斯5-0克雷什·古尔巴克萨尼 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】马克·威廉姆斯5-0克雷什·古尔巴克萨尼 18:00
+http://migu.heropx.dpdns.org/963032756
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】阿里·卡特5-2吉米·怀特 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】阿里·卡特5-2吉米·怀特 18:00
+http://migu.heropx.dpdns.org/963036681
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】迈克尔·霍尔特5-2肯·达赫迪 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】迈克尔·霍尔特5-2肯·达赫迪 18:00
+http://migu.heropx.dpdns.org/963033467
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】塔猜亚·乌努5-0穆罕默德·谢哈布 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】塔猜亚·乌努5-0穆罕默德·谢哈布 18:00
+http://migu.heropx.dpdns.org/963036550
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】诺鹏·桑卡姆3-5斯蒂芬·霍尔沃斯 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】诺鹏·桑卡姆3-5斯蒂芬·霍尔沃斯 18:00
+http://migu.heropx.dpdns.org/963030882
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】丹尼尔·威尔斯5-4罗比·麦圭根 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】丹尼尔·威尔斯5-4罗比·麦圭根 18:00
+http://migu.heropx.dpdns.org/963034300
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】马修·史蒂文斯5-1弗盖尔·奎因 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】马修·史蒂文斯5-1弗盖尔·奎因 18:00
+http://migu.heropx.dpdns.org/963033276
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】杰克·琼斯5-1萨希尔·纳亚尔 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】杰克·琼斯5-1萨希尔·纳亚尔 18:00
+http://migu.heropx.dpdns.org/963036306
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】亚伦·希尔5-0哈里斯·塔希尔 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】亚伦·希尔5-0哈里斯·塔希尔 18:00
+http://migu.heropx.dpdns.org/963036233
+#EXTINF:-1 tvg-name="斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】卢卡·布雷切尔5-4马特乌斯·巴拉诺夫斯基 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",斯诺克 囧哥轻松晋级 阿里·卡特PK吉米·怀特 【回放】卢卡·布雷切尔5-4马特乌斯·巴拉诺夫斯基 18:00
+http://migu.heropx.dpdns.org/963031053
 #EXTINF:-1 tvg-name="东亚超级联赛 宇都宫王道VS台北富邦勇士 全场回放（原声） 18:05" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",东亚超级联赛 宇都宫王道VS台北富邦勇士 全场回放（原声） 18:05
 http://migu.heropx.dpdns.org/963030644
 #EXTINF:-1 tvg-name="东亚超级联赛 乌兰巴托野马VS东京电击 全场回放（季孟年） 19:05" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",东亚超级联赛 乌兰巴托野马VS东京电击 全场回放（季孟年） 19:05
@@ -1429,56 +1467,28 @@ http://migu.heropx.dpdns.org/963030868
 http://migu.heropx.dpdns.org/963032821
 #EXTINF:-1 tvg-name="亚冠二级 阿卡达格VS利雅得胜利 全场回放（刘畅） 21:30" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",亚冠二级 阿卡达格VS利雅得胜利 全场回放（刘畅） 21:30
 http://migu.heropx.dpdns.org/963031791
-#EXTINF:-1 tvg-name="亚冠二级 塞帕罕VS多哈国民 张天翼 23:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",亚冠二级 塞帕罕VS多哈国民 张天翼 23:45
-http://migu.heropx.dpdns.org/962910993
-#EXTINF:-1 tvg-name="亚冠二级 塞帕罕VS多哈国民 赛场原声 23:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",亚冠二级 塞帕罕VS多哈国民 赛场原声 23:45
-http://migu.heropx.dpdns.org/962911003
-#EXTINF:-1 tvg-name="WTA 郑钦文VS莱巴金娜 赛场原声 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA 郑钦文VS莱巴金娜 赛场原声 18:00
-http://migu.heropx.dpdns.org/962870735
-#EXTINF:-1 tvg-name="WTA 郑钦文VS莱巴金娜 胡力涛 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA 郑钦文VS莱巴金娜 胡力涛 23:00
-http://migu.heropx.dpdns.org/963024933
-#EXTINF:-1 tvg-name="WTA 郑钦文VS莱巴金娜 英文原声 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA 郑钦文VS莱巴金娜 英文原声 18:00
-http://migu.heropx.dpdns.org/962870789
-#EXTINF:-1 tvg-name="WTA 郑钦文VS莱巴金娜 智能球路轨迹 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA 郑钦文VS莱巴金娜 智能球路轨迹 23:00
-http://migu.heropx.dpdns.org/963024958
-#EXTINF:-1 tvg-name="英超 诺丁汉森林VS狼队 刘焕 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 诺丁汉森林VS狼队 刘焕 03:15
-http://migu.heropx.dpdns.org/962909471
-#EXTINF:-1 tvg-name="英超 诺丁汉森林VS狼队 英文原声 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 诺丁汉森林VS狼队 英文原声 03:15
-http://migu.heropx.dpdns.org/962909461
-#EXTINF:-1 tvg-name="英超 诺丁汉森林VS狼队 赛场原声 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 诺丁汉森林VS狼队 赛场原声 03:15
-http://migu.heropx.dpdns.org/962909449
-#EXTINF:-1 tvg-name="英超 曼城VS富勒姆 娄一晨 刘越 姚安妮 03:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼城VS富勒姆 娄一晨 刘越 姚安妮 03:00
-http://migu.heropx.dpdns.org/962909289
-#EXTINF:-1 tvg-name="英超 曼城VS富勒姆 英文原声 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼城VS富勒姆 英文原声 03:15
-http://migu.heropx.dpdns.org/962909271
-#EXTINF:-1 tvg-name="英超 曼城VS富勒姆 赛场原声 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼城VS富勒姆 赛场原声 03:15
-http://migu.heropx.dpdns.org/962909255
-#EXTINF:-1 tvg-name="英超 曼城VS富勒姆 娄一晨 刘越 姚安妮 03:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼城VS富勒姆 娄一晨 刘越 姚安妮 03:00
-http://migu.heropx.dpdns.org/962909383
-#EXTINF:-1 tvg-name="英超 水晶宫VS伯恩利 黄航 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 水晶宫VS伯恩利 黄航 03:15
-http://migu.heropx.dpdns.org/962909550
-#EXTINF:-1 tvg-name="英超 水晶宫VS伯恩利 英文原声 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 水晶宫VS伯恩利 英文原声 03:15
-http://migu.heropx.dpdns.org/962909538
-#EXTINF:-1 tvg-name="英超 水晶宫VS伯恩利 赛场原声 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 水晶宫VS伯恩利 赛场原声 03:15
-http://migu.heropx.dpdns.org/962909530
-#EXTINF:-1 tvg-name="英超 阿斯顿维拉VS布莱顿 苗锟 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 阿斯顿维拉VS布莱顿 苗锟 03:15
-http://migu.heropx.dpdns.org/962909673
-#EXTINF:-1 tvg-name="英超 阿斯顿维拉VS布莱顿 英文原声 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 阿斯顿维拉VS布莱顿 英文原声 03:15
-http://migu.heropx.dpdns.org/962909663
-#EXTINF:-1 tvg-name="英超 阿斯顿维拉VS布莱顿 赛场原声 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 阿斯顿维拉VS布莱顿 赛场原声 03:15
-http://migu.heropx.dpdns.org/962909643
-#EXTINF:-1 tvg-name="意大利杯 博洛尼亚VS拉齐奥 鲁靖明 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",意大利杯 博洛尼亚VS拉齐奥 鲁靖明 03:45
-http://migu.heropx.dpdns.org/962901014
-#EXTINF:-1 tvg-name="意大利杯 博洛尼亚VS拉齐奥 赛场原声 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",意大利杯 博洛尼亚VS拉齐奥 赛场原声 03:45
-http://migu.heropx.dpdns.org/962900986
-#EXTINF:-1 tvg-name="英超 桑德兰VS利物浦 詹俊 张路 林梦鸽 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 桑德兰VS利物浦 詹俊 张路 林梦鸽 03:45
-http://migu.heropx.dpdns.org/962909074
-#EXTINF:-1 tvg-name="英超 桑德兰VS利物浦 英文原声 04:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 桑德兰VS利物浦 英文原声 04:00
-http://migu.heropx.dpdns.org/962909047
-#EXTINF:-1 tvg-name="英超 桑德兰VS利物浦 赛场原声 04:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 桑德兰VS利物浦 赛场原声 04:00
-http://migu.heropx.dpdns.org/962909023
-#EXTINF:-1 tvg-name="英超 桑德兰VS利物浦 詹俊 张路 林梦鸽 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 桑德兰VS利物浦 詹俊 张路 林梦鸽 03:45
-http://migu.heropx.dpdns.org/962909073
+#EXTINF:-1 tvg-name="WTA 斯瓦泰克VS卡萨特金娜 全场回放 18:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🎾昨日赛事🎾",WTA 斯瓦泰克VS卡萨特金娜 全场回放 18:00
+http://migu.heropx.dpdns.org/963033390
+#EXTINF:-1 tvg-name="亚冠二级 塞帕罕VS多哈国民 全场回放（张天翼） 23:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",亚冠二级 塞帕罕VS多哈国民 全场回放（张天翼） 23:45
+http://migu.heropx.dpdns.org/963033228
+#EXTINF:-1 tvg-name="WTA 郑钦文VS莱巴金娜 全场回放 23:00" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",WTA 郑钦文VS莱巴金娜 全场回放 23:00
+http://migu.heropx.dpdns.org/963036116
+#EXTINF:-1 tvg-name="英超 诺丁汉森林VS狼队 全场回放（刘焕） 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 诺丁汉森林VS狼队 全场回放（刘焕） 03:15
+http://migu.heropx.dpdns.org/963036548
+#EXTINF:-1 tvg-name="英超 曼城VS富勒姆 全场回放 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼城VS富勒姆 全场回放 03:15
+http://migu.heropx.dpdns.org/963036728
+#EXTINF:-1 tvg-name="英超 曼城VS富勒姆 全场回放（娄一晨、刘越、姚安妮） 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 曼城VS富勒姆 全场回放（娄一晨、刘越、姚安妮） 03:15
+http://migu.heropx.dpdns.org/963036044
+#EXTINF:-1 tvg-name="英超 阿斯顿维拉VS布莱顿 全场回放（苗锟） 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 阿斯顿维拉VS布莱顿 全场回放（苗锟） 03:15
+http://migu.heropx.dpdns.org/963036235
+#EXTINF:-1 tvg-name="英超 水晶宫VS伯恩利 全场回放 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 水晶宫VS伯恩利 全场回放 03:15
+http://migu.heropx.dpdns.org/963036830
+#EXTINF:-1 tvg-name="英超 水晶宫VS伯恩利 全场回放（黄航） 03:15" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 水晶宫VS伯恩利 全场回放（黄航） 03:15
+http://migu.heropx.dpdns.org/963036450
+#EXTINF:-1 tvg-name="意大利杯 博洛尼亚VS拉齐奥 全场回放（鲁靖明） 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",意大利杯 博洛尼亚VS拉齐奥 全场回放（鲁靖明） 03:45
+http://migu.heropx.dpdns.org/963036623
+#EXTINF:-1 tvg-name="英超 桑德兰VS利物浦 全场回放（詹俊、张路、林梦鸽） 03:45" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",英超 桑德兰VS利物浦 全场回放（詹俊、张路、林梦鸽） 03:45
+http://migu.heropx.dpdns.org/963036678
 #EXTINF:-1 tvg-name="NBA 骑士VS奇才 孙博 07:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 骑士VS奇才 孙博 07:55
 http://migu.heropx.dpdns.org/962933492
 #EXTINF:-1 tvg-name="NBA 骑士VS奇才 英文原声 07:55" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🏀今日赛事🏀",NBA 骑士VS奇才 英文原声 07:55
@@ -2821,3 +2831,253 @@ https://vd3.bdstatic.com/mda-mhkb8qqr7tfs2ayv/hd/cae_h264_nowatermark/1629533560
 https://vd3.bdstatic.com/mda-mhr9cvdz49zuvkv0/hd/cae_h264_nowatermark/1629962253314476344/mda-mhr9cvdz49zuvkv0.mp4?
 #EXTINF:-1 tvg-name="石头烤肉" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",石头烤肉
 https://vd3.bdstatic.com/mda-mi4ab8i1w6w4y5jj/hd/cae_h264_nowatermark/1630828286668238373/mda-mi4ab8i1w6w4y5jj.mp4?
+#EXTINF:-1 tvg-name="土窑烤羊头" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",土窑烤羊头
+https://vd3.bdstatic.com/mda-miaa4mvnh3tvdx5v/hd/cae_h264_delogo/1643285147008260737/mda-miaa4mvnh3tvdx5v.mp4?
+#EXTINF:-1 tvg-name="红油烧兔" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",红油烧兔
+https://vd3.bdstatic.com/mda-mif1ufq0yid8d08t/hd/cae_h264_nowatermark/1631771666930725095/mda-mif1ufq0yid8d08t.mp4?
+#EXTINF:-1 tvg-name="熏牛头" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",熏牛头
+https://vd3.bdstatic.com/mda-mipad2w74c5ve16r/hd/cae_h264_nowatermark/1632470564677186726/mda-mipad2w74c5ve16r.mp4?
+#EXTINF:-1 tvg-name="驴板肠" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",驴板肠
+https://vd3.bdstatic.com/mda-mir98exz23pc0kag/hd/cae_h264_delogo/1643268269600619303/mda-mir98exz23pc0kag.mp4?
+#EXTINF:-1 tvg-name="椒麻牛肚" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",椒麻牛肚
+https://vd3.bdstatic.com/mda-miubaf6hcyy7rg7j/hd/cae_h264_nowatermark/1632904973218649172/mda-miubaf6hcyy7rg7j.mp4?
+#EXTINF:-1 tvg-name="一圣两吃" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",一圣两吃
+https://vd3.bdstatic.com/mda-mj49wzs4nbtipw7r/hd/cae_h264_delogo/1643347230722924103/mda-mj49wzs4nbtipw7r.mp4?
+#EXTINF:-1 tvg-name="土窑猪排" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",土窑猪排
+https://vd3.bdstatic.com/mda-mja9808byebsih24/hd/cae_h264_delogo/1643145464986574279/mda-mja9808byebsih24.mp4?
+#EXTINF:-1 tvg-name="火焰醉鹅" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",火焰醉鹅
+https://vd3.bdstatic.com/mda-mjiatn4qf193dt08/hd/cae_h264_delogo/1643345184575680334/mda-mjiatn4qf193dt08.mp4?
+#EXTINF:-1 tvg-name="大龙虾" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",大龙虾
+https://vd3.bdstatic.com/mda-mjk90p9g5wc9n1at/hd/cae_h264_delogo/1643288388530304311/mda-mjk90p9g5wc9n1at.mp4?
+#EXTINF:-1 tvg-name="牛头宴" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",牛头宴
+https://vd3.bdstatic.com/mda-mks9y8dy7impm9c2/hd/cae_h264_nowatermark/1638008851889524241/mda-mks9y8dy7impm9c2.mp4?
+#EXTINF:-1 tvg-name="古法烧鸽" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",古法烧鸽
+https://vd3.bdstatic.com/mda-mm099uaj0ke9fihc/hd/cae_h264_delogo/1643394054911732959/mda-mm099uaj0ke9fihc.mp4?
+#EXTINF:-1 tvg-name="烤全羊" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",烤全羊
+https://vd3.bdstatic.com/mda-mmj8nq3seh9ffdnh/hd/cae_h264_delogo/1643139052644510616/mda-mmj8nq3seh9ffdnh.mp4?
+#EXTINF:-1 tvg-name="肥肠甲鱼" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",肥肠甲鱼
+https://vd3.bdstatic.com/mda-mmm8c3hewxedh66d/hd/cae_h264_nowatermark/1640158495064205292/mda-mmm8c3hewxedh66d.mp4?
+#EXTINF:-1 tvg-name="牛肉生蚝" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",牛肉生蚝
+https://vd3.bdstatic.com/mda-na39suky43apd0y1/hd/cae_h264_delogo/1642482679484559135/mda-na39suky43apd0y1.mp4?
+#EXTINF:-1 tvg-name="肥肠鱼泡" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",肥肠鱼泡
+https://vd3.bdstatic.com/mda-na49ic0ymwjgkt65/hd/cae_h264_nowatermark/1641370280555230626/mda-na49ic0ymwjgkt65.mp4?
+#EXTINF:-1 tvg-name="海鲜凤爪" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",海鲜凤爪
+https://vd3.bdstatic.com/mda-nb09atbmh54tx1dy/hd/cae_h264_nowatermark_delogo/1643700081927987800/mda-nb09atbmh54tx1dy.mp4?
+#EXTINF:-1 tvg-name="叫花牛蹄" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",叫花牛蹄
+https://vd3.bdstatic.com/mda-nb82f0r4ehxpchn9/hd/cae_h264_nowatermark_delogo/1644394964122599695/mda-nb82f0r4ehxpchn9.mp4?
+#EXTINF:-1 tvg-name="猪肚鸡" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",猪肚鸡
+https://vd3.bdstatic.com/mda-nbp9ei7iz1phjnq9/hd/cae_h264_delogo/1645687952128151129/mda-nbp9ei7iz1phjnq9.mp4?
+#EXTINF:-1 tvg-name="铁板羊腰" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",铁板羊腰
+https://vd3.bdstatic.com/mda-nbs76a3f70kr1p7z/480p/h264_delogo/1645939971169058430/mda-nbs76a3f70kr1p7z.mp4?
+#EXTINF:-1 tvg-name="烤娃娃鱼" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",烤娃娃鱼
+https://vd3.bdstatic.com/mda-nc581x9xhdu2hy97/480p/h264_delogo/1646547280542647694/mda-nc581x9xhdu2hy97.mp4?
+#EXTINF:-1 tvg-name="扒鸡" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",扒鸡
+https://vd3.bdstatic.com/mda-nc8a1imqiriahjd2/hd/cae_h264_delogo/1646811978078057591/mda-nc8a1imqiriahjd2.mp4?
+#EXTINF:-1 tvg-name="牛肉汤" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",牛肉汤
+https://vd3.bdstatic.com/mda-ncg7mynaykcnexuw/480p/h264_delogo/1647496893316677116/mda-ncg7mynaykcnexuw.mp4?
+#EXTINF:-1 tvg-name="鱼泡羊肉" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",鱼泡羊肉
+https://vd3.bdstatic.com/mda-nck76h2megnj3mbh/480p/h264_delogo/1647841284503494555/mda-nck76h2megnj3mbh.mp4?
+#EXTINF:-1 tvg-name="水煮毛肚" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",水煮毛肚
+https://vd3.bdstatic.com/mda-ncq9rn183n6gnvs7/480p/h264_delogo/1648192109377463064/mda-ncq9rn183n6gnvs7.mp4?
+#EXTINF:-1 tvg-name="乾坤牛肚" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",乾坤牛肚
+https://vd3.bdstatic.com/mda-ncsc455a412m4wha/480p/h264_delogo/1648370949637453882/mda-ncsc455a412m4wha.mp4?
+#EXTINF:-1 tvg-name="脆皮猪手" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",脆皮猪手
+https://vd3.bdstatic.com/mda-nd37fvbi8ns75v8k/480p/h264_delogo/1649051367811032897/mda-nd37fvbi8ns75v8k.mp4?
+#EXTINF:-1 tvg-name="果香排骨" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",果香排骨
+https://vd3.bdstatic.com/mda-nd68ai08aj0ewj9s/480p/h264_delogo/1649313333330734786/mda-nd68ai08aj0ewj9s.mp4?
+#EXTINF:-1 tvg-name="盐焗鄂龟" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",盐焗鄂龟
+https://vd3.bdstatic.com/mda-nd7c2f8nq4hcnrkn/480p/h264_delogo/1649407459996974581/mda-nd7c2f8nq4hcnrkn.mp4?
+#EXTINF:-1 tvg-name="大锅台" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",大锅台
+https://vd3.bdstatic.com/mda-nd89jph9c9hh7rcf/480p/h264_delogo/1649488575217940578/mda-nd89jph9c9hh7rcf.mp4?
+#EXTINF:-1 tvg-name="鸿运猪头" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",鸿运猪头
+https://vd3.bdstatic.com/mda-ndj8t1xtu0qf1vp7/480p/h264_delogo/1650436754621760647/mda-ndj8t1xtu0qf1vp7.mp4?
+#EXTINF:-1 tvg-name="土窑乳猪" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",土窑乳猪
+https://vd3.bdstatic.com/mda-nds73vki5mn28pfm/480p/h264_delogo/1651038226344965832/mda-nds73vki5mn28pfm.mp4?
+#EXTINF:-1 tvg-name="麻辣小龙虾" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",麻辣小龙虾
+https://vd3.bdstatic.com/mda-ndu9tguy0fay7ye1/480p/h264_delogo/1651215429015875965/mda-ndu9tguy0fay7ye1.mp4?
+#EXTINF:-1 tvg-name="兔包鸡" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",兔包鸡
+https://vd3.bdstatic.com/mda-ne086qd7pxsrab3f/480p/h264_delogo/1651385481542929517/mda-ne086qd7pxsrab3f.mp4?
+#EXTINF:-1 tvg-name="捞汁小龙虾" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",捞汁小龙虾
+https://vd3.bdstatic.com/mda-ne387zfv91c5g2k5/480p/h264_delogo/1651645733563996673/mda-ne387zfv91c5g2k5.mp4?
+#EXTINF:-1 tvg-name="四蹄同烩" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",四蹄同烩
+https://vd3.bdstatic.com/mda-nefa29rfui86n3pw/480p/h264/1652685563112169821/mda-nefa29rfui86n3pw.mp4?
+#EXTINF:-1 tvg-name="红曲酱鸭" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",红曲酱鸭
+https://vd3.bdstatic.com/mda-neh81rk1eiuv3w27/480p/h264/1652854920609442406/mda-neh81rk1eiuv3w27.mp4?
+#EXTINF:-1 tvg-name="食叔辣卤驼头" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",食叔辣卤驼头
+https://vd3.bdstatic.com/mda-newe17bhfrmd35a9/480p/h264/1653991101001259092/mda-newe17bhfrmd35a9.mp4?
+#EXTINF:-1 tvg-name="食叔霸王牛尾" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",食叔霸王牛尾
+https://vd3.bdstatic.com/mda-nf39wk2de3ryede7/480p/h264/1654326718567558149/mda-nf39wk2de3ryede7.mp4?
+#EXTINF:-1 tvg-name="食叔鸡腰炖黄鳝" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",食叔鸡腰炖黄鳝
+https://vd3.bdstatic.com/mda-nf5b4qfywy5pzjgu/480p/h264/1654502805261088051/mda-nf5b4qfywy5pzjgu.mp4?
+#EXTINF:-1 tvg-name="乡村食叔1100买头羊" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",乡村食叔1100买头羊
+https://vd4.bdstatic.com/mda-kghmm8wqwjvp97gm/hd/mda-kghmm8wqwjvp97gm.mp4?
+#EXTINF:-1 tvg-name="醋焖牛棒骨" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",醋焖牛棒骨
+https://vd4.bdstatic.com/mda-mfk8c204weuzvhxa/hd/cae_h264_delogo/1643147501963347947/mda-mfk8c204weuzvhxa.mp4?
+#EXTINF:-1 tvg-name="麻辣虾尾" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",麻辣虾尾
+https://vd4.bdstatic.com/mda-mg68s8tqk7821s6k/hd/cae_h264_nowatermark/1625641172105934010/mda-mg68s8tqk7821s6k.mp4?
+#EXTINF:-1 tvg-name="沙爆羊肚肉" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",沙爆羊肚肉
+https://vd4.bdstatic.com/mda-mg989gmh31icebre/hd/cae_h264_nowatermark/1625900251935570127/mda-mg989gmh31icebre.mp4?
+#EXTINF:-1 tvg-name="干锅牛尾巴" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",干锅牛尾巴
+https://vd4.bdstatic.com/mda-mgmav7wcir7rb2f8/480p/h264/1626940245358233958/mda-mgmav7wcir7rb2f8.mp4?
+#EXTINF:-1 tvg-name="火焰牛皮" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",火焰牛皮
+https://vd4.bdstatic.com/mda-mh59qup45zfydi76/hd/cae_h264_delogo/1643402078497614460/mda-mh59qup45zfydi76.mp4?
+#EXTINF:-1 tvg-name="卤牛舌" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",卤牛舌
+https://vd4.bdstatic.com/mda-mha9ctbvx0p7xpeg/hd/cae_h264_nowatermark/1628666552624701166/mda-mha9ctbvx0p7xpeg.mp4?
+#EXTINF:-1 tvg-name="扒驼掌" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",扒驼掌
+https://vd4.bdstatic.com/mda-mhb4sz7fqievqwxg/hd/cae_h264_delogo/1643265199711533630/mda-mhb4sz7fqievqwxg.mp4?
+#EXTINF:-1 tvg-name="叫花青蟹" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",叫花青蟹
+https://vd4.bdstatic.com/mda-mhba45j94002q00p/hd/cae_h264_nowatermark/1628754279184882298/mda-mhba45j94002q00p.mp4?
+#EXTINF:-1 tvg-name="龙凤一锅焖" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",龙凤一锅焖
+https://vd4.bdstatic.com/mda-mhc9q24e8aanyqfq/hd/cae_h264_nowatermark/1628843986055712987/mda-mhc9q24e8aanyqfq.mp4?
+#EXTINF:-1 tvg-name="香辣梭子蟹" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",香辣梭子蟹
+https://vd4.bdstatic.com/mda-mhpb0c0wncgxc46z/hd/cae_h264_nowatermark/1629793200922512800/mda-mhpb0c0wncgxc46z.mp4?
+#EXTINF:-1 tvg-name="虎皮鸵鸟腿" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",虎皮鸵鸟腿
+https://vd4.bdstatic.com/mda-micb4mbwu92afiyy/hd/cae_h264_delogo/1643265872305837504/mda-micb4mbwu92afiyy.mp4?
+#EXTINF:-1 tvg-name="红油鳄龟" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",红油鳄龟
+https://vd4.bdstatic.com/mda-mimebnr7cbwe87gv/hd/cae_h264_nowatermark/1632306810020853183/mda-mimebnr7cbwe87gv.mp4?
+#EXTINF:-1 tvg-name="肥肠鸵鸟" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",肥肠鸵鸟
+https://vd4.bdstatic.com/mda-mj3aznj03miqb90i/hd/cae_h264_delogo/1643395222269072007/mda-mj3aznj03miqb90i.mp4?
+#EXTINF:-1 tvg-name="盐焗大闸蟹" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",盐焗大闸蟹
+https://vd4.bdstatic.com/mda-mjra3nnad32gvkr8/hd/cae_h264_delogo/1643309159026103358/mda-mjra3nnad32gvkr8.mp4?
+#EXTINF:-1 tvg-name="羊肚包肉" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",羊肚包肉
+https://vd4.bdstatic.com/mda-mk5d99p7c8mb0xg3/hd/cae_h264_delogo/1643307354471528651/mda-mk5d99p7c8mb0xg3.mp4?
+#EXTINF:-1 tvg-name="猪脑花" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",猪脑花
+https://vd4.bdstatic.com/mda-mke8ye6thivbi3ee/hd/cae_h264_nowatermark/1636960733213609865/mda-mke8ye6thivbi3ee.mp4?
+#EXTINF:-1 tvg-name="姜辣牛排" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",姜辣牛排
+https://vd4.bdstatic.com/mda-mkj9mb2e0d3uxz46/hd/cae_h264_delogo/1643237569847823147/mda-mkj9mb2e0d3uxz46.mp4?
+#EXTINF:-1 tvg-name="铁板猪蹄" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",铁板猪蹄
+https://vd4.bdstatic.com/mda-mm19upe0w7ez7w6a/hd/cae_h264_delogo/1643294485844966415/mda-mm19upe0w7ez7w6a.mp4?
+#EXTINF:-1 tvg-name="筋头八脑" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",筋头八脑
+https://vd4.bdstatic.com/mda-mm47strdf2zeu4x9/hd/cae_h264_nowatermark/1638685530136559736/mda-mm47strdf2zeu4x9.mp4?
+#EXTINF:-1 tvg-name="杀猪菜" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",杀猪菜
+https://vd4.bdstatic.com/mda-mmh8enzg9dufcjew/hd/cae_h264_delogo/1643148855922505652/mda-mmh8enzg9dufcjew.mp4?
+#EXTINF:-1 tvg-name="霸王兔" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",霸王兔
+https://vd4.bdstatic.com/mda-mmp7he34swdh6gsw/hd/cae_h264_delogo/1643140446383773433/mda-mmp7he34swdh6gsw.mp4?
+#EXTINF:-1 tvg-name="胡辣羊头" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",胡辣羊头
+https://vd4.bdstatic.com/mda-mms71px4squvd00p/hd/cae_h264_nowatermark/1640590775126218266/mda-mms71px4squvd00p.mp4?
+#EXTINF:-1 tvg-name="压牛头" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",压牛头
+https://vd4.bdstatic.com/mda-mmu8h5nnkp1t2nx0/hd/cae_h264_nowatermark/1640765166397502440/mda-mmu8h5nnkp1t2nx0.mp4?
+#EXTINF:-1 tvg-name="涮火锅" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",涮火锅
+https://vd4.bdstatic.com/mda-na67fq41v8myeed4/hd/cae_h264_delogo/1643273295594908296/mda-na67fq41v8myeed4.mp4?
+#EXTINF:-1 tvg-name="垛子牛肉" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",垛子牛肉
+https://vd4.bdstatic.com/mda-nabavj4c221wxqgt/hd/cae_h264_nowatermark_delogo/1641976216670988470/mda-nabavj4c221wxqgt.mp4?
+#EXTINF:-1 tvg-name="蒜蓉虾尾" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",蒜蓉虾尾
+https://vd4.bdstatic.com/mda-naf8hkrjgwxbj8us/hd/cae_h264_nowatermark_delogo/1642316302701242007/mda-naf8hkrjgwxbj8us.mp4?
+#EXTINF:-1 tvg-name="叫花牛头" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",叫花牛头
+https://vd4.bdstatic.com/mda-nan9ayjfqc79ntag/hd/cae_h264_nowatermark_delogo/1642922236652462702/mda-nan9ayjfqc79ntag.mp4?
+#EXTINF:-1 tvg-name="烤全羊" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",烤全羊
+https://vd4.bdstatic.com/mda-nar9cxbsfvrp10kh/hd/cae_h264_nowatermark_delogo/1643183099240871416/mda-nar9cxbsfvrp10kh.mp4?
+#EXTINF:-1 tvg-name="驴杂火锅" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",驴杂火锅
+https://vd4.bdstatic.com/mda-natd8fqhddamndcf/hd/cae_h264_nowatermark_delogo/1643363346179801123/mda-natd8fqhddamndcf.mp4?
+#EXTINF:-1 tvg-name="香辣驴头" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",香辣驴头
+https://vd4.bdstatic.com/mda-nb5d0hz6bv4tckwf/hd/cae_h264_nowatermark_delogo/1644141076715754303/mda-nb5d0hz6bv4tckwf.mp4?
+#EXTINF:-1 tvg-name="牛鞭火锅" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",牛鞭火锅
+https://vd4.bdstatic.com/mda-nbh8cz7cj4kzq9me/hd/cae_h264_nowatermark_delogo/1645166700349951420/mda-nbh8cz7cj4kzq9me.mp4?
+#EXTINF:-1 tvg-name="香辣猪蹄" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",香辣猪蹄
+https://vd4.bdstatic.com/mda-nc0aebyi54haejjg/480p/h264_delogo/1646121677309172816/mda-nc0aebyi54haejjg.mp4?
+#EXTINF:-1 tvg-name="涮羊肉" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",涮羊肉
+https://vd4.bdstatic.com/mda-nc283zcb1sdxffh7/hd/cae_h264_delogo/1646291832305806760/mda-nc283zcb1sdxffh7.mp4?
+#EXTINF:-1 tvg-name="五花肉卷" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",五花肉卷
+https://vd4.bdstatic.com/mda-nca7q9hnjmqh2iw6/hd/cae_h264_delogo/1646984324539660807/mda-nca7q9hnjmqh2iw6.mp4?
+#EXTINF:-1 tvg-name="红烧马鞍桥" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",红烧马鞍桥
+https://vd4.bdstatic.com/mda-nci8vdhp6s1ppcg8/480p/h264_delogo/1647672848908064952/mda-nci8vdhp6s1ppcg8.mp4?
+#EXTINF:-1 tvg-name="羊肚包肉" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",羊肚包肉
+https://vd4.bdstatic.com/mda-ncp8q87kp3k72s2q/480p/h264_delogo/1648103282514140679/mda-ncp8q87kp3k72s2q.mp4?
+#EXTINF:-1 tvg-name="胡辣汤" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",胡辣汤
+https://vd4.bdstatic.com/mda-ncw71ypxk54z5rx2/480p/h264_delogo/1648709839751364673/mda-ncw71ypxk54z5rx2.mp4?
+#EXTINF:-1 tvg-name="板肠螺狮粉" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",板肠螺狮粉
+https://vd4.bdstatic.com/mda-nd98hi8r73ztrpya/480p/h264_delogo/1649573004142585909/mda-nd98hi8r73ztrpya.mp4?
+#EXTINF:-1 tvg-name="梅菜扣肉" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",梅菜扣肉
+https://vd4.bdstatic.com/mda-ndc94dad3mfaia93/480p/h264_delogo/1649832429929756958/mda-ndc94dad3mfaia93.mp4?
+#EXTINF:-1 tvg-name="沙爆猪皮" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",沙爆猪皮
+https://vd4.bdstatic.com/mda-ndf8dwrz9uh2jd8c/480p/h264_delogo/1650090435537246451/mda-ndf8dwrz9uh2jd8c.mp4?
+#EXTINF:-1 tvg-name="酸菜泥鳅" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",酸菜泥鳅
+https://vd4.bdstatic.com/mda-ndh7bpuzvpswnwp2/480p/h264_delogo/1650260306760166423/mda-ndh7bpuzvpswnwp2.mp4?
+#EXTINF:-1 tvg-name="鲍汁豆腐" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",鲍汁豆腐
+https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?
+#EXTINF:-1 tvg-name="地锅鸡" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",地锅鸡
+https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?
+#EXTINF:-1 tvg-name="食叔肥肠鹅" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",食叔肥肠鹅
+https://vd4.bdstatic.com/mda-nepbnx1gkwwfe6h4/480p/h264/1653380567130163019/mda-nepbnx1gkwwfe6h4.mp4?
+#EXTINF:-1 tvg-name="食叔虎皮鸵鸟爪" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",食叔虎皮鸵鸟爪
+https://vd4.bdstatic.com/mda-net93dwtcueu4u9j/480p/h264/1653721609596437460/mda-net93dwtcueu4u9j.mp4?
+#EXTINF:-1 tvg-name="食叔干锅牛蛙" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",食叔干锅牛蛙
+https://vd4.bdstatic.com/mda-neu9v10u2tk22kwt/480p/h264/1653808467692279237/mda-neu9v10u2tk22kwt.mp4?
+#EXTINF:-1 tvg-name="食叔260买十来只小甲鱼" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",食叔260买十来只小甲鱼
+https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?
+#EXTINF:-1 tvg-name="食叔烤全羊" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🍜美食🍜",食叔烤全羊
+https://vd4.bdstatic.com/mda-nf7a3a7fkagmh17j/480p/h264/1654672594780789869/mda-nf7a3a7fkagmh17j.mp4?
+#EXTINF:-1 tvg-name="3D0" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",3D0
+https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
+#EXTINF:-1 tvg-name="3D1" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",3D1
+https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
+#EXTINF:-1 tvg-name="3d4" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",3d4
+https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
+#EXTINF:-1 tvg-name="3D5" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",3D5
+https://vd2.bdstatic.com/mda-kkfx81ffgjvk2qja/v1-cae/sc/mda-kkfx81ffgjvk2qja.mp4
+#EXTINF:-1 tvg-name="3D投影1" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",3D投影1
+https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
+#EXTINF:-1 tvg-name="3D投影2" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",3D投影2
+https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
+#EXTINF:-1 tvg-name="AA" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",AA
+https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
+#EXTINF:-1 tvg-name="Bicycle" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",Bicycle
+https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun6n01ucc.mp4
+#EXTINF:-1 tvg-name="Dreamcatcher" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",Dreamcatcher
+https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
+#EXTINF:-1 tvg-name="MV" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",MV
+https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
+#EXTINF:-1 tvg-name="X战警：黑凤凰" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",X战警：黑凤凰
+https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
+#EXTINF:-1 tvg-name="变形金刚1" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",变形金刚1
+https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
+#EXTINF:-1 tvg-name="变形金刚2K" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",变形金刚2K
+https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
+#EXTINF:-1 tvg-name="变形金刚4K" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",变形金刚4K
+https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
+#EXTINF:-1 tvg-name="变形金刚LD" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",变形金刚LD
+https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
+#EXTINF:-1 tvg-name="变形金刚UHD" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",变形金刚UHD
+https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
+#EXTINF:-1 tvg-name="不同国家" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",不同国家
+https://vd2.bdstatic.com/mda-ncm7bqn1fvayqcac/sc/cae_h264_delogo/1647926240143319597/mda-ncm7bqn1fvayqcac.mp4
+#EXTINF:-1 tvg-name="长津湖" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",长津湖
+https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
+#EXTINF:-1 tvg-name="大橘" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",大橘
+https://vd4.bdstatic.com/mda-ma2gq0my4ar6a8dz/v1-cae/1080p/mda-ma2gq0my4ar6a8dz.mp4
+#EXTINF:-1 tvg-name="大片3D" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",大片3D
+https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
+#EXTINF:-1 tvg-name="电影" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",电影
+https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
+#EXTINF:-1 tvg-name="东京-新宿" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",东京-新宿
+https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
+#EXTINF:-1 tvg-name="钢铁侠" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",钢铁侠
+https://vd4.bdstatic.com/mda-narbupksqbu5yyiy/sc/cae_h264_nowatermark_delogo/1643187081773112317/mda-narbupksqbu5yyiy.mp4
+#EXTINF:-1 tvg-name="功夫之王" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",功夫之王
+https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
+#EXTINF:-1 tvg-name="混剪3D" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",混剪3D
+https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
+#EXTINF:-1 tvg-name="精美" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",精美
+https://vd4.bdstatic.com/mda-mjak88esahdcpmc5/1080p/cae_h264/1633962937397290860/mda-mjak88esahdcpmc5.mp4
+#EXTINF:-1 tvg-name="龙腾虎跃" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",龙腾虎跃
+https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
+#EXTINF:-1 tvg-name="裸眼3D" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",裸眼3D
+https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
+#EXTINF:-1 tvg-name="裸眼3D2" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",裸眼3D2
+https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
+#EXTINF:-1 tvg-name="木叶上忍的究极对决" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",木叶上忍的究极对决
+https://vd4.bdstatic.com/mda-mahnrqxb6xvgzyte/sc/cae_h264_nowatermark/1610957664/mda-mahnrqxb6xvgzyte.mp4
+#EXTINF:-1 tvg-name="千里江山图" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",千里江山图
+https://vd4.bdstatic.com/mda-ncrggyx20mz0s134/sc/cae_h264_delogo/1648294922621791952/mda-ncrggyx20mz0s134.mp4
+#EXTINF:-1 tvg-name="生物多样性" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",生物多样性
+https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
+#EXTINF:-1 tvg-name="视觉艺术" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",视觉艺术
+https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
+#EXTINF:-1 tvg-name="司藤" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",司藤
+https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
+#EXTINF:-1 tvg-name="头号玩家" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",头号玩家
+https://vd2.bdstatic.com/mda-kknwdmibvdrfaavv/v1-cae/1080p/mda-kknwdmibvdrfaavv.mp4
+#EXTINF:-1 tvg-name="玩家" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",玩家
+https://vd3.bdstatic.com/mda-kbhkh7z58qvsn0a1/mda-kbhkh7z58qvsn0a1.mp4
+#EXTINF:-1 tvg-name="小丑" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🤩3D频道🤩",小丑
+https://vd2.bdstatic.com/mda-jkbrts1znp07ryb8/sc/mda-jkbrts1znp07ryb8.mp4
