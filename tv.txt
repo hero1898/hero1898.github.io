@@ -625,6 +625,128 @@ TVBS新闻,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 咪咕直播 38,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 咪咕直播4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 咪咕直播4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+咪咕直播 1,https://msj.188766.xyz/play?id=3000000001000005308&token=9c44c9359c44c9359c44c9359c44c935&client=ys
+咪咕直播 2,https://msj.188766.xyz/play?id=3000000001000005969&token=9c44e0769c44e0769c44e0769c44e076&client=ys
+咪咕直播 3,https://msj.188766.xyz/play?id=3000000001000007218&token=9c45ae519c45ae519c45ae519c45ae51&client=ys
+咪咕直播 4,https://msj.188766.xyz/play?id=3000000001000008001&token=9c461b089c461b089c461b089c461b08&client=ys
+咪咕直播 5,https://msj.188766.xyz/play?id=3000000001000008176&token=9c461fa79c461fa79c461fa79c461fa7&client=ys
+咪咕直播 6,https://msj.188766.xyz/play?id=3000000001000008379&token=9c46272c9c46272c9c46272c9c46272c&client=ys
+咪咕直播 7,https://msj.188766.xyz/play?id=3000000001000010129&token=9c5093989c5093989c5093989c509398&client=ys
+咪咕直播 8,https://msj.188766.xyz/play?id=3000000001000010948&token=9c50b1dd9c50b1dd9c50b1dd9c50b1dd&client=ys
+咪咕直播 9,https://msj.188766.xyz/play?id=3000000001000028638&token=9c6260f49c6260f49c6260f49c6260f4&client=ys
+咪咕直播 10,https://msj.188766.xyz/play?id=3000000001000031494&token=9c6d43109c6d43109c6d43109c6d4310&client=ys
+咪咕直播 11,https://msj.188766.xyz/play?id=3000000010000000097&token=3cddbacf3cddbacf3cddbacf3cddbacf&client=ys
+咪咕直播 12,https://msj.188766.xyz/play?id=3000000010000002019&token=3cdea2973cdea2973cdea2973cdea297&client=ys
+咪咕直播 13,https://msj.188766.xyz/play?id=3000000010000002809&token=3cdec0803cdec0803cdec0803cdec080&client=ys
+咪咕直播 14,https://msj.188766.xyz/play?id=3000000010000003915&token=3cdf38bb3cdf38bb3cdf38bb3cdf38bb&client=ys
+咪咕直播 15,https://msj.188766.xyz/play?id=3000000010000004193&token=3cdf90083cdf90083cdf90083cdf9008&client=ys
+咪咕直播 16,https://msj.188766.xyz/play?id=3000000010000005837&token=3ce01df83ce01df83ce01df83ce01df8&client=ys
+咪咕直播 17,https://msj.188766.xyz/play?id=3000000010000006077&token=3ce074cb3ce074cb3ce074cb3ce074cb&client=ys
+咪咕直播 18,https://msj.188766.xyz/play?id=3000000010000006658&token=3ce08b143ce08b143ce08b143ce08b14&client=ys
+咪咕直播 19,https://msj.188766.xyz/play?id=3000000010000009788&token=3ce1ec4f3ce1ec4f3ce1ec4f3ce1ec4f&client=ys
+咪咕直播 20,https://msj.188766.xyz/play?id=3000000010000010833&token=3cebef9a3cebef9a3cebef9a3cebef9a&client=ys
+咪咕直播 21,https://msj.188766.xyz/play?id=3000000010000011297&token=3cec4e313cec4e313cec4e313cec4e31&client=ys
+咪咕直播 22,https://msj.188766.xyz/play?id=3000000010000011518&token=3cec587d3cec587d3cec587d3cec587d&client=ys
+咪咕直播 23,https://msj.188766.xyz/play?id=3000000010000012558&token=3ceccd583ceccd583ceccd583ceccd58&client=ys
+咪咕直播 24,https://msj.188766.xyz/play?id=3000000010000012616&token=3cecd09b3cecd09b3cecd09b3cecd09b&client=ys
+咪咕直播 25,https://msj.188766.xyz/play?id=3000000010000015470&token=3cee26ea3cee26ea3cee26ea3cee26ea&client=ys
+咪咕直播 26,https://msj.188766.xyz/play?id=3000000010000015560&token=3cee2a8c3cee2a8c3cee2a8c3cee2a8c&client=ys
+咪咕直播 27,https://msj.188766.xyz/play?id=3000000010000017678&token=3cef17323cef17323cef17323cef1732&client=ys
+咪咕直播 28,https://msj.188766.xyz/play?id=3000000010000019839&token=3cf006f73cf006f73cf006f73cf006f7&client=ys
+咪咕直播 29,https://msj.188766.xyz/play?id=3000000010000021904&token=3cfa7edf3cfa7edf3cfa7edf3cfa7edf&client=ys
+咪咕直播 30,https://msj.188766.xyz/play?id=3000000010000023434&token=3cfb55353cfb55353cfb55353cfb5535&client=ys
+咪咕直播 31,https://msj.188766.xyz/play?id=3000000010000025380&token=3cfc3ac93cfc3ac93cfc3ac93cfc3ac9&client=ys
+咪咕直播 32,https://msj.188766.xyz/play?id=3000000010000027691&token=3cfd2eea3cfd2eea3cfd2eea3cfd2eea&client=ys
+咪咕直播 33,https://msj.188766.xyz/play?id=3000000010000031669&token=3d088bdc3d088bdc3d088bdc3d088bdc&client=ys
+咪咕直播 34,https://msj.188766.xyz/play?id=3000000020000011518&token=d1d10b3ed1d10b3ed1d10b3ed1d10b3e&client=ys
+咪咕直播 35,https://msj.188766.xyz/play?id=3000000020000011519&token=d1d10b3fd1d10b3fd1d10b3fd1d10b3f&client=ys
+咪咕直播 36,https://msj.188766.xyz/play?id=3000000020000011520&token=d1d10b55d1d10b55d1d10b55d1d10b55&client=ys
+咪咕直播 37,https://msj.188766.xyz/play?id=3000000020000011521&token=d1d10b56d1d10b56d1d10b56d1d10b56&client=ys
+咪咕直播 38,https://msj.188766.xyz/play?id=3000000020000011522&token=d1d10b57d1d10b57d1d10b57d1d10b57&client=ys
+睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=d1d10b5dd1d10b5dd1d10b5dd1d10b5d&client=ys
+睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=d1d10b5ed1d10b5ed1d10b5ed1d10b5e&client=ys
+睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=d1d10b5ad1d10b5ad1d10b5ad1d10b5a&client=ys
+睛彩广场舞,https://msj.188766.xyz/play?id=3000000020000011523&token=d1d10b58d1d10b58d1d10b58d1d10b58&client=ys
+咪咕直播4K-1,https://msj.188766.xyz/play?id=3000000010000005180&token=3ce004453ce004453ce004453ce00445&client=ys
+咪咕直播4K-2,https://msj.188766.xyz/play?id=3000000010000015686&token=3cee2e913cee2e913cee2e913cee2e91&client=ys
+咪咕直播 1,https://msj.188766.xyz/play?id=3000000001000005308&token=9c44c9359c44c9359c44c9359c44c935
+咪咕直播 2,https://msj.188766.xyz/play?id=3000000001000005969&token=9c44e0769c44e0769c44e0769c44e076
+咪咕直播 3,https://msj.188766.xyz/play?id=3000000001000007218&token=9c45ae519c45ae519c45ae519c45ae51
+咪咕直播 4,https://msj.188766.xyz/play?id=3000000001000008001&token=9c461b089c461b089c461b089c461b08
+咪咕直播 5,https://msj.188766.xyz/play?id=3000000001000008176&token=9c461fa79c461fa79c461fa79c461fa7
+咪咕直播 6,https://msj.188766.xyz/play?id=3000000001000008379&token=9c46272c9c46272c9c46272c9c46272c
+咪咕直播 7,https://msj.188766.xyz/play?id=3000000001000010129&token=9c5093989c5093989c5093989c509398
+咪咕直播 8,https://msj.188766.xyz/play?id=3000000001000010948&token=9c50b1dd9c50b1dd9c50b1dd9c50b1dd
+咪咕直播 9,https://msj.188766.xyz/play?id=3000000001000028638&token=9c6260f49c6260f49c6260f49c6260f4
+咪咕直播 10,https://msj.188766.xyz/play?id=3000000001000031494&token=9c6d43109c6d43109c6d43109c6d4310
+咪咕直播 11,https://msj.188766.xyz/play?id=3000000010000000097&token=3cddbacf3cddbacf3cddbacf3cddbacf
+咪咕直播 12,https://msj.188766.xyz/play?id=3000000010000002019&token=3cdea2973cdea2973cdea2973cdea297
+咪咕直播 13,https://msj.188766.xyz/play?id=3000000010000002809&token=3cdec0803cdec0803cdec0803cdec080
+咪咕直播 14,https://msj.188766.xyz/play?id=3000000010000003915&token=3cdf38bb3cdf38bb3cdf38bb3cdf38bb
+咪咕直播 15,https://msj.188766.xyz/play?id=3000000010000004193&token=3cdf90083cdf90083cdf90083cdf9008
+咪咕直播 16,https://msj.188766.xyz/play?id=3000000010000005837&token=3ce01df83ce01df83ce01df83ce01df8
+咪咕直播 17,https://msj.188766.xyz/play?id=3000000010000006077&token=3ce074cb3ce074cb3ce074cb3ce074cb
+咪咕直播 18,https://msj.188766.xyz/play?id=3000000010000006658&token=3ce08b143ce08b143ce08b143ce08b14
+咪咕直播 19,https://msj.188766.xyz/play?id=3000000010000009788&token=3ce1ec4f3ce1ec4f3ce1ec4f3ce1ec4f
+咪咕直播 20,https://msj.188766.xyz/play?id=3000000010000010833&token=3cebef9a3cebef9a3cebef9a3cebef9a
+咪咕直播 21,https://msj.188766.xyz/play?id=3000000010000011297&token=3cec4e313cec4e313cec4e313cec4e31
+咪咕直播 22,https://msj.188766.xyz/play?id=3000000010000011518&token=3cec587d3cec587d3cec587d3cec587d
+咪咕直播 23,https://msj.188766.xyz/play?id=3000000010000012558&token=3ceccd583ceccd583ceccd583ceccd58
+咪咕直播 24,https://msj.188766.xyz/play?id=3000000010000012616&token=3cecd09b3cecd09b3cecd09b3cecd09b
+咪咕直播 25,https://msj.188766.xyz/play?id=3000000010000015470&token=3cee26ea3cee26ea3cee26ea3cee26ea
+咪咕直播 26,https://msj.188766.xyz/play?id=3000000010000015560&token=3cee2a8c3cee2a8c3cee2a8c3cee2a8c
+咪咕直播 27,https://msj.188766.xyz/play?id=3000000010000017678&token=3cef17323cef17323cef17323cef1732
+咪咕直播 28,https://msj.188766.xyz/play?id=3000000010000019839&token=3cf006f73cf006f73cf006f73cf006f7
+咪咕直播 29,https://msj.188766.xyz/play?id=3000000010000021904&token=3cfa7edf3cfa7edf3cfa7edf3cfa7edf
+咪咕直播 30,https://msj.188766.xyz/play?id=3000000010000023434&token=3cfb55353cfb55353cfb55353cfb5535
+咪咕直播 31,https://msj.188766.xyz/play?id=3000000010000025380&token=3cfc3ac93cfc3ac93cfc3ac93cfc3ac9
+咪咕直播 32,https://msj.188766.xyz/play?id=3000000010000027691&token=3cfd2eea3cfd2eea3cfd2eea3cfd2eea
+咪咕直播 33,https://msj.188766.xyz/play?id=3000000010000031669&token=3d088bdc3d088bdc3d088bdc3d088bdc
+咪咕直播 34,https://msj.188766.xyz/play?id=3000000020000011518&token=d1d10b3ed1d10b3ed1d10b3ed1d10b3e
+咪咕直播 35,https://msj.188766.xyz/play?id=3000000020000011519&token=d1d10b3fd1d10b3fd1d10b3fd1d10b3f
+咪咕直播 36,https://msj.188766.xyz/play?id=3000000020000011520&token=d1d10b55d1d10b55d1d10b55d1d10b55
+咪咕直播 37,https://msj.188766.xyz/play?id=3000000020000011521&token=d1d10b56d1d10b56d1d10b56d1d10b56
+咪咕直播 38,https://msj.188766.xyz/play?id=3000000020000011522&token=d1d10b57d1d10b57d1d10b57d1d10b57
+睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=d1d10b5dd1d10b5dd1d10b5dd1d10b5d
+睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=d1d10b5ed1d10b5ed1d10b5ed1d10b5e
+睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=d1d10b5ad1d10b5ad1d10b5ad1d10b5a
+睛彩广场舞,https://msj.188766.xyz/play?id=3000000020000011523&token=d1d10b58d1d10b58d1d10b58d1d10b58
+咪咕直播4K-1,https://msj.188766.xyz/play?id=3000000010000005180&token=3ce004453ce004453ce004453ce00445
+咪咕直播4K-2,https://msj.188766.xyz/play?id=3000000010000015686&token=3cee2e913cee2e913cee2e913cee2e91
+咪咕直播 1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3%24
+咪咕直播 2,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3%24
+咪咕直播 3,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3%24
+咪咕直播 4,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3%24
+咪咕直播 5,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3%24
+咪咕直播 6,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3%24
+咪咕直播 7,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3%24
+咪咕直播 8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3%24
+咪咕直播 9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3%24
+咪咕直播 10,http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3%24
+咪咕直播 11,http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3%24
+咪咕直播 12,http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3%24
+咪咕直播 13,http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3%24
+咪咕直播 14,http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3%24
+咪咕直播 15,http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3%24
+咪咕直播 16,http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3%24
+咪咕直播 17,http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3%24
+咪咕直播 18,http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3%24
+咪咕直播 19,http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3%24
+咪咕直播 20,http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3%24
+咪咕直播 21,http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3%24
+咪咕直播 22,http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3%24
+咪咕直播 23,http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3%24
+咪咕直播 24,http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3%24
+咪咕直播 25,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3%24
+咪咕直播 26,http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3%24
+咪咕直播 27,http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3%24
+咪咕直播 28,http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3%24
+咪咕直播 29,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3%24
+咪咕直播 30,http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3%24
+咪咕直播 31,http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3%24
+咪咕直播 32,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3%24
+咪咕直播 33,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3%24
+咪咕直播4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3%24
 🏆体育频道🏅,#genre#
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
@@ -1641,40 +1763,43 @@ iPanda怡然2,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 食叔260买十来只小甲鱼,https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?
 食叔烤全羊,https://vd4.bdstatic.com/mda-nf7a3a7fkagmh17j/480p/h264/1654672594780789869/mda-nf7a3a7fkagmh17j.mp4?
 🤩3D频道🤩,#genre#
+生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
+电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
+木叶上忍的究极对决,https://vd4.bdstatic.com/mda-mahnrqxb6xvgzyte/sc/cae_h264_nowatermark/1610957664/mda-mahnrqxb6xvgzyte.mp4
+千里江山图,https://vd4.bdstatic.com/mda-ncrggyx20mz0s134/sc/cae_h264_delogo/1648294922621791952/mda-ncrggyx20mz0s134.mp4
+3D投影1,https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
+3D投影2,https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
+不同国家,https://vd2.bdstatic.com/mda-ncm7bqn1fvayqcac/sc/cae_h264_delogo/1647926240143319597/mda-ncm7bqn1fvayqcac.mp4
+艺术科技感,https://vd3.bdstatic.com/mda-ncrw9pciw60jymyd/sc/cae_h264_delogo/1648329992682771558/mda-ncrw9pciw60jymyd.mp4
+视觉艺术,https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
+功夫之王,https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
 3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
 3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
 3d4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
+混剪3D,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
 3D5,https://vd2.bdstatic.com/mda-kkfx81ffgjvk2qja/v1-cae/sc/mda-kkfx81ffgjvk2qja.mp4
-3D投影1,https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
-3D投影2,https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
-AA,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
-Bicycle,https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun6n01ucc.mp4
-Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
-MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
-X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
+大橘,https://vd4.bdstatic.com/mda-ma2gq0my4ar6a8dz/v1-cae/1080p/mda-ma2gq0my4ar6a8dz.mp4
+头号玩家,https://vd2.bdstatic.com/mda-kknwdmibvdrfaavv/v1-cae/1080p/mda-kknwdmibvdrfaavv.mp4
 变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
+精美,https://vd4.bdstatic.com/mda-mjak88esahdcpmc5/1080p/cae_h264/1633962937397290860/mda-mjak88esahdcpmc5.mp4
+变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
+变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
 变形金刚2K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
 变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
-不同国家,https://vd2.bdstatic.com/mda-ncm7bqn1fvayqcac/sc/cae_h264_delogo/1647926240143319597/mda-ncm7bqn1fvayqcac.mp4
-长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
-大橘,https://vd4.bdstatic.com/mda-ma2gq0my4ar6a8dz/v1-cae/1080p/mda-ma2gq0my4ar6a8dz.mp4
-大片3D,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
-电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
-东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
+Bicycle,https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun6n01ucc.mp4
+玩家,https://vd3.bdstatic.com/mda-kbhkh7z58qvsn0a1/mda-kbhkh7z58qvsn0a1.mp4
 钢铁侠,https://vd4.bdstatic.com/mda-narbupksqbu5yyiy/sc/cae_h264_nowatermark_delogo/1643187081773112317/mda-narbupksqbu5yyiy.mp4
-功夫之王,https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
-混剪3D,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
-精美,https://vd4.bdstatic.com/mda-mjak88esahdcpmc5/1080p/cae_h264/1633962937397290860/mda-mjak88esahdcpmc5.mp4
 龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
+终结者,https://vd3.bdstatic.com/mda-jk1hupziz0524rq1/mda-jk1hupziz0524rq1.mp4
+AA,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
+Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
+东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
+大片3D,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
 裸眼3D,https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
 裸眼3D2,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
-木叶上忍的究极对决,https://vd4.bdstatic.com/mda-mahnrqxb6xvgzyte/sc/cae_h264_nowatermark/1610957664/mda-mahnrqxb6xvgzyte.mp4
-千里江山图,https://vd4.bdstatic.com/mda-ncrggyx20mz0s134/sc/cae_h264_delogo/1648294922621791952/mda-ncrggyx20mz0s134.mp4
-生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
-视觉艺术,https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
-司藤,https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
-头号玩家,https://vd2.bdstatic.com/mda-kknwdmibvdrfaavv/v1-cae/1080p/mda-kknwdmibvdrfaavv.mp4
-玩家,https://vd3.bdstatic.com/mda-kbhkh7z58qvsn0a1/mda-kbhkh7z58qvsn0a1.mp4
 小丑,https://vd2.bdstatic.com/mda-jkbrts1znp07ryb8/sc/mda-jkbrts1znp07ryb8.mp4
+X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
+长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
+司藤,https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
+星球大战9,https://vd3.bdstatic.com/mda-ndfj480755j9juhe/cae_h264_delogo/1650116825326935651/mda-ndfj480755j9juhe.mp4
+MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
