@@ -1,4 +1,21 @@
 🇨🇳央视频道🇨🇳,#genre#
+CCTV1,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=608807420
+CCTV2,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=631780532
+CCTV3,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=624878271
+CCTV4,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=631780421
+CCTV5,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=641886683
+CCTV5+,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=641886773
+CCTV6,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=624878396
+CCTV7,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=673168121
+CCTV8,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=624878356
+CCTV9,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=673168140
+CCTV10,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=624878405
+CCTV11,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=667987558
+CCTV12,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=673168185
+CCTV13,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=608807423
+CCTV14,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=624878440
+CCTV15,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=673168223
+CCTV17,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=673168256
 CCTV1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20260215160017c0ab9f3953ae46d5862c63f540ebec88&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260215160017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260215160017&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=17e1c619bfb0888228cc276cc830154d&ddCalcu=d147e5e11180c03681c9cb6f7b20c8c88822 $咪咕
 CCTV2,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/600/index.m3u8?msisdn=20260215160017764aafcfc7cc4e1a8913180da9ff01a9&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260215160017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=43.139.160.244&SecurityKey=20260215160017&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2dfab5b1de3c819207e442b1a6da2552&ddCalcu=225de5f12a1ab0d56ba11dbe234c48e17902 $咪咕
 CCTV3,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=202602151600189c91f65f53eb49dca018416888242028&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260215160018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=43.139.160.244&SecurityKey=20260215160018&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c0d7d1884afa82dc8137a7d55a199a79&ddCalcu=9c70ead19749d011a85854da7faa78321d8c $咪咕
@@ -50,23 +67,6 @@ CCTV13,https://migu.188766.xyz/?migutoken=f94dbed5e18404e9f7541ca4974e6de3&id=CC
 CCTV14,https://migu.188766.xyz/?migutoken=92128f7d07b3905103a8f7661c48c546&id=CCTV14&type=yy$冰茶
 CCTV15,https://migu.188766.xyz/?migutoken=e97152d6b0c6da1fb86d0c3d55473343&id=CCTV15&type=yy$冰茶
 CCTV17,https://migu.188766.xyz/?migutoken=dd15956f5f202e1f6dba673df321c101&id=CCTV17&type=yy$冰茶
-CCTV1,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=608807420
-CCTV2,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=631780532
-CCTV3,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=624878271
-CCTV4,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=631780421
-CCTV5,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=641886683
-CCTV5+,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=641886773
-CCTV6,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=624878396
-CCTV7,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=673168121
-CCTV8,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=624878356
-CCTV9,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=673168140
-CCTV10,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=624878405
-CCTV11,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=667987558
-CCTV12,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=673168185
-CCTV13,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=608807423
-CCTV14,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=624878440
-CCTV15,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=673168223
-CCTV17,http://146.56.248.47:1366/SuanFaZhibo2026/live8/miguVIP.php?id=673168256
 CCTV1,http://119.91.7.169:2026/ysws.php?id=CCTV1
 CCTV2,http://119.91.7.169:2026/ysws.php?id=CCTV2
 CCTV3,http://119.91.7.169:2026/ysws.php?id=CCTV3
