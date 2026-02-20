@@ -996,27 +996,27 @@ http://113.104.187.15:7088/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳体育健康
 http://113.104.187.15:7088/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳体育健康
-http://113.111.111.233:4022/udp/239.77.1.128:5146
+http://113.111.110.142:4022/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳体育健康
-http://113.111.111.233:4022/udp/239.77.1.140:5146
+http://113.111.110.142:4022/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳电视剧频道
 http://113.100.31.84:4022/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳电视剧频道
 http://113.104.187.15:7088/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳电视剧频道
-http://113.111.111.233:4022/udp/239.77.1.125:5146
+http://113.111.110.142:4022/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳财经生活
 http://113.100.31.84:4022/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳财经生活
 http://113.104.187.15:7088/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳财经生活
-http://113.111.111.233:4022/udp/239.77.1.242:5146
+http://113.111.110.142:4022/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳都市频道
 http://113.100.31.84:4022/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳都市频道
 http://113.104.187.15:7088/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🌎地方卫视🌎",深圳都市频道
-http://113.111.111.233:4022/udp/239.77.1.176:5146
+http://113.111.110.142:4022/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo=" https://logo.catvod.com/$ {channel_name}.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
