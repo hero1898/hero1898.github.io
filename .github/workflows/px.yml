@@ -25,6 +25,8 @@ jobs:
         # 频道  rm -f iptv.m3u && wget https://gh.llkk.cc/https://raw.githubusercontent.com/pxiptv/live/main/iptv.m3u -O iptv.m3u
         rm -f iptv.txt && wget https://tv.heropx.dpdns.org/files/tv.txt -O iptv.txt
         rm -f iptv.m3u && wget https://tv.heropx.dpdns.org/files/tv.m3u -O iptv.m3u
+        rm -f iptv.txt && wget https://tv.heropx.dpdns.org/files/tv.txt -O tv.txt
+        rm -f iptv.m3u && wget https://tv.heropx.dpdns.org/files/tv.m3u -O tv.m3u
         rm -f fan.txt && wget https://gh.llkk.cc/http://raw.githubusercontent.com/loopool/fan/main/JAR/fan.txt -O fan.txt
         
     - name: Commit results
@@ -32,7 +34,7 @@ jobs:
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Action"
         if [ -n "$(git status --porcelain)" ]; then
-        git add iptv.txt iptv.m3u fan.txt
+        git add iptv.txt iptv.m3u fan.txt tv.txt tv.m3u
         git commit -m "Automatic update"
         git push
         else
