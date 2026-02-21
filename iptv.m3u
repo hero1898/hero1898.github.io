@@ -1747,7 +1747,7 @@ http://migu.heropx.dpdns.org/963180380
 http://migu.heropx.dpdns.org/963179306
 #EXTINF:-1 tvg-name="WTA 斯维托丽娜VS高芙 全场回放（刘钟鸣） 23:00" tvg-logo="https://logo.catvod.com/WTA 斯维托丽娜VS高芙 全场回放（刘钟鸣） 23:00.png" group-title="🏀今日赛事🏀",WTA 斯维托丽娜VS高芙 全场回放（刘钟鸣） 23:00
 http://migu.heropx.dpdns.org/963180226
-#EXTINF:-1 tvg-name="斯诺克 马克·艾伦 6-2 马克·塞尔比 2026斯诺克球员锦标赛1/4决赛回放：马克·艾伦6-2马克·塞尔比 02:45" tvg-logo="https://logo.catvod.com/斯诺克 马克·艾伦 6-2 马克·塞尔比 2026斯诺克球员锦标赛1/4决赛回放：马克·艾伦6-2马克·塞尔比 02:45.png" group-title="🏀今日赛事🏀",斯诺克 马克·艾伦 6-2 马克·塞尔比 2026斯诺克球员锦标赛1/4决赛回放：马克·艾伦6-2马克·塞尔比 02:45
+#EXTINF:-1 tvg-name="斯诺克 马克·艾伦 6-2 马克·塞尔比 【回放】马克·艾伦6-2马克·塞尔比 02:45" tvg-logo="https://logo.catvod.com/斯诺克 马克·艾伦 6-2 马克·塞尔比 【回放】马克·艾伦6-2马克·塞尔比 02:45.png" group-title="🏀今日赛事🏀",斯诺克 马克·艾伦 6-2 马克·塞尔比 【回放】马克·艾伦6-2马克·塞尔比 02:45
 http://migu.heropx.dpdns.org/963183706
 #EXTINF:-1 tvg-name="德甲 美因茨VS汉堡 全场回放（李霄） 03:15" tvg-logo="https://logo.catvod.com/德甲 美因茨VS汉堡 全场回放（李霄） 03:15.png" group-title="🏀今日赛事🏀",德甲 美因茨VS汉堡 全场回放（李霄） 03:15
 http://migu.heropx.dpdns.org/963180748
@@ -1769,49 +1769,53 @@ http://migu.heropx.dpdns.org/963183271
 http://migu.heropx.dpdns.org/963183632
 #EXTINF:-1 tvg-name="NBA 奇才VS步行者 全场回放（刘沛元） 07:55" tvg-logo="https://logo.catvod.com/NBA 奇才VS步行者 全场回放（刘沛元） 07:55.png" group-title="🏀今日赛事🏀",NBA 奇才VS步行者 全场回放（刘沛元） 07:55
 http://migu.heropx.dpdns.org/963183211
-#EXTINF:-1 tvg-name="NBA 奇才VS步行者 全场回放（英文原声） 07:55" tvg-logo="https://logo.catvod.com/NBA 奇才VS步行者 全场回放（英文原声） 07:55.png" group-title="🏀今日赛事🏀",NBA 奇才VS步行者 全场回放（英文原声） 07:55
-http://migu.heropx.dpdns.org/963183385
 #EXTINF:-1 tvg-name="NBA 森林狼VS独行侠 全场回放（陈鑫隆） 08:25" tvg-logo="https://logo.catvod.com/NBA 森林狼VS独行侠 全场回放（陈鑫隆） 08:25.png" group-title="🏀今日赛事🏀",NBA 森林狼VS独行侠 全场回放（陈鑫隆） 08:25
 http://migu.heropx.dpdns.org/963183565
+#EXTINF:-1 tvg-name="NBA 森林狼VS独行侠 全场回放（英文原声） 08:25" tvg-logo="https://logo.catvod.com/NBA 森林狼VS独行侠 全场回放（英文原声） 08:25.png" group-title="🏀今日赛事🏀",NBA 森林狼VS独行侠 全场回放（英文原声） 08:25
+http://migu.heropx.dpdns.org/963183883
+#EXTINF:-1 tvg-name="NBA 老鹰VS热火 全场回放（王琰博） 08:25" tvg-logo="https://logo.catvod.com/NBA 老鹰VS热火 全场回放（王琰博） 08:25.png" group-title="🏀今日赛事🏀",NBA 老鹰VS热火 全场回放（王琰博） 08:25
+http://migu.heropx.dpdns.org/963183395
+#EXTINF:-1 tvg-name="NBA 老鹰VS热火 全场回放（英文原声） 08:25" tvg-logo="https://logo.catvod.com/NBA 老鹰VS热火 全场回放（英文原声） 08:25.png" group-title="🏀今日赛事🏀",NBA 老鹰VS热火 全场回放（英文原声） 08:25
+http://migu.heropx.dpdns.org/963184520
 #EXTINF:-1 tvg-name="NBA 鹈鹕VS雄鹿 全场回放（王冠证） 08:55" tvg-logo="https://logo.catvod.com/NBA 鹈鹕VS雄鹿 全场回放（王冠证） 08:55.png" group-title="🏀今日赛事🏀",NBA 鹈鹕VS雄鹿 全场回放（王冠证） 08:55
 http://migu.heropx.dpdns.org/963183620
 #EXTINF:-1 tvg-name="NBA 鹈鹕VS雄鹿 全场回放（英文原声） 08:55" tvg-logo="https://logo.catvod.com/NBA 鹈鹕VS雄鹿 全场回放（英文原声） 08:55.png" group-title="🏀今日赛事🏀",NBA 鹈鹕VS雄鹿 全场回放（英文原声） 08:55
 http://migu.heropx.dpdns.org/963183876
 #EXTINF:-1 tvg-name="NBA 雷霆VS篮网 全场回放（邵化谦） 08:55" tvg-logo="https://logo.catvod.com/NBA 雷霆VS篮网 全场回放（邵化谦） 08:55.png" group-title="🏀今日赛事🏀",NBA 雷霆VS篮网 全场回放（邵化谦） 08:55
 http://migu.heropx.dpdns.org/963183716
-#EXTINF:-1 tvg-name="NBA 开拓者VS掘金 李天宇 陈正昊 魏欣怡 10:45" tvg-logo="https://logo.catvod.com/NBA 开拓者VS掘金 李天宇 陈正昊 魏欣怡 10:45.png" group-title="🏀今日赛事🏀",NBA 开拓者VS掘金 李天宇 陈正昊 魏欣怡 10:45
-http://migu.heropx.dpdns.org/962934183
-#EXTINF:-1 tvg-name="NBA 开拓者VS掘金 邢晨 10:55" tvg-logo="https://logo.catvod.com/NBA 开拓者VS掘金 邢晨 10:55.png" group-title="🏀今日赛事🏀",NBA 开拓者VS掘金 邢晨 10:55
-http://migu.heropx.dpdns.org/962934178
-#EXTINF:-1 tvg-name="NBA 开拓者VS掘金 英文原声 10:55" tvg-logo="https://logo.catvod.com/NBA 开拓者VS掘金 英文原声 10:55.png" group-title="🏀今日赛事🏀",NBA 开拓者VS掘金 英文原声 10:55
-http://migu.heropx.dpdns.org/962934129
-#EXTINF:-1 tvg-name="NBA 湖人VS快船 杨健 曾令旭 刘铁 10:45" tvg-logo="https://logo.catvod.com/NBA 湖人VS快船 杨健 曾令旭 刘铁 10:45.png" group-title="🏀今日赛事🏀",NBA 湖人VS快船 杨健 曾令旭 刘铁 10:45
-http://migu.heropx.dpdns.org/962934223
-#EXTINF:-1 tvg-name="NBA 湖人VS快船 英文原声 10:55" tvg-logo="https://logo.catvod.com/NBA 湖人VS快船 英文原声 10:55.png" group-title="🏀今日赛事🏀",NBA 湖人VS快船 英文原声 10:55
-http://migu.heropx.dpdns.org/962934197
-#EXTINF:-1 tvg-name="NBA 湖人VS快船 同看开拓者 10:45" tvg-logo="https://logo.catvod.com/NBA 湖人VS快船 同看开拓者 10:45.png" group-title="🏀今日赛事🏀",NBA 湖人VS快船 同看开拓者 10:45
-http://migu.heropx.dpdns.org/962934183
-#EXTINF:-1 tvg-name="NBA 湖人VS快船 莫俊祺 10:55" tvg-logo="https://logo.catvod.com/NBA 湖人VS快船 莫俊祺 10:55.png" group-title="🏀今日赛事🏀",NBA 湖人VS快船 莫俊祺 10:55
-http://migu.heropx.dpdns.org/962934241
-#EXTINF:-1 tvg-name="NBA 湖人VS快船 洪荒 10:55" tvg-logo="https://logo.catvod.com/NBA 湖人VS快船 洪荒 10:55.png" group-title="🏀今日赛事🏀",NBA 湖人VS快船 洪荒 10:55
-http://migu.heropx.dpdns.org/962934254
-#EXTINF:-1 tvg-name="WTT 陈颢桦对决洪敬恺 郭冠宏1-3奇里塔 2号桌 11:00" tvg-logo="https://logo.catvod.com/WTT 陈颢桦对决洪敬恺 郭冠宏1-3奇里塔 2号桌 11:00.png" group-title="🏀今日赛事🏀",WTT 陈颢桦对决洪敬恺 郭冠宏1-3奇里塔 2号桌 11:00
-http://migu.heropx.dpdns.org/963143082
-#EXTINF:-1 tvg-name="WTT 陈颢桦对决洪敬恺 郭冠宏1-3奇里塔 3号桌 11:00" tvg-logo="https://logo.catvod.com/WTT 陈颢桦对决洪敬恺 郭冠宏1-3奇里塔 3号桌 11:00.png" group-title="🏀今日赛事🏀",WTT 陈颢桦对决洪敬恺 郭冠宏1-3奇里塔 3号桌 11:00
-http://migu.heropx.dpdns.org/963143092
-#EXTINF:-1 tvg-name="WTT 陈颢桦对决洪敬恺 郭冠宏1-3奇里塔 4号桌 11:00" tvg-logo="https://logo.catvod.com/WTT 陈颢桦对决洪敬恺 郭冠宏1-3奇里塔 4号桌 11:00.png" group-title="🏀今日赛事🏀",WTT 陈颢桦对决洪敬恺 郭冠宏1-3奇里塔 4号桌 11:00
-http://migu.heropx.dpdns.org/963143110
-#EXTINF:-1 tvg-name="WTT 程靖淇、周冠达、周泽昊解读签位 程靖淇 周冠达 周泽昊 15:30" tvg-logo="https://logo.catvod.com/WTT 程靖淇、周冠达、周泽昊解读签位 程靖淇 周冠达 周泽昊 15:30.png" group-title="🏀今日赛事🏀",WTT 程靖淇、周冠达、周泽昊解读签位 程靖淇 周冠达 周泽昊 15:30
-http://migu.heropx.dpdns.org/963143236
-#EXTINF:-1 tvg-name="WTT 男女单打资格赛第三轮 刘馨蕊 16:00" tvg-logo="https://logo.catvod.com/WTT 男女单打资格赛第三轮 刘馨蕊 16:00.png" group-title="🏀今日赛事🏀",WTT 男女单打资格赛第三轮 刘馨蕊 16:00
+#EXTINF:-1 tvg-name="NBA 雷霆VS篮网 全场回放（英文原声） 08:55" tvg-logo="https://logo.catvod.com/NBA 雷霆VS篮网 全场回放（英文原声） 08:55.png" group-title="🏀今日赛事🏀",NBA 雷霆VS篮网 全场回放（英文原声） 08:55
+http://migu.heropx.dpdns.org/963184295
+#EXTINF:-1 tvg-name="NBA 开拓者VS掘金 全场回放（李天宇、陈正昊、魏欣怡） 10:55" tvg-logo="https://logo.catvod.com/NBA 开拓者VS掘金 全场回放（李天宇、陈正昊、魏欣怡） 10:55.png" group-title="🏀今日赛事🏀",NBA 开拓者VS掘金 全场回放（李天宇、陈正昊、魏欣怡） 10:55
+http://migu.heropx.dpdns.org/963184706
+#EXTINF:-1 tvg-name="NBA 开拓者VS掘金 全场回放（邢晨） 10:55" tvg-logo="https://logo.catvod.com/NBA 开拓者VS掘金 全场回放（邢晨） 10:55.png" group-title="🏀今日赛事🏀",NBA 开拓者VS掘金 全场回放（邢晨） 10:55
+http://migu.heropx.dpdns.org/963184777
+#EXTINF:-1 tvg-name="NBA 开拓者VS掘金 全场回放（英文原声） 10:55" tvg-logo="https://logo.catvod.com/NBA 开拓者VS掘金 全场回放（英文原声） 10:55.png" group-title="🏀今日赛事🏀",NBA 开拓者VS掘金 全场回放（英文原声） 10:55
+http://migu.heropx.dpdns.org/963185109
+#EXTINF:-1 tvg-name="NBA 湖人VS快船 全场回放（杨健、曾令旭、刘铁、佳依） 10:55" tvg-logo="https://logo.catvod.com/NBA 湖人VS快船 全场回放（杨健、曾令旭、刘铁、佳依） 10:55.png" group-title="🏀今日赛事🏀",NBA 湖人VS快船 全场回放（杨健、曾令旭、刘铁、佳依） 10:55
+http://migu.heropx.dpdns.org/963184899
+#EXTINF:-1 tvg-name="NBA 湖人VS快船 全场回放（洪荒） 10:55" tvg-logo="https://logo.catvod.com/NBA 湖人VS快船 全场回放（洪荒） 10:55.png" group-title="🏀今日赛事🏀",NBA 湖人VS快船 全场回放（洪荒） 10:55
+http://migu.heropx.dpdns.org/963184858
+#EXTINF:-1 tvg-name="NBA 湖人VS快船 全场回放（莫俊祺） 10:55" tvg-logo="https://logo.catvod.com/NBA 湖人VS快船 全场回放（莫俊祺） 10:55.png" group-title="🏀今日赛事🏀",NBA 湖人VS快船 全场回放（莫俊祺） 10:55
+http://migu.heropx.dpdns.org/963184847
+#EXTINF:-1 tvg-name="NBA 湖人VS快船 全场回放（英文原声） 10:55" tvg-logo="https://logo.catvod.com/NBA 湖人VS快船 全场回放（英文原声） 10:55.png" group-title="🏀今日赛事🏀",NBA 湖人VS快船 全场回放（英文原声） 10:55
+http://migu.heropx.dpdns.org/963185199
+#EXTINF:-1 tvg-name="WTT 陈颢桦鏖战五局逆转取胜 郭冠宏1-3奇里塔 全场回放（二号桌） 11:00" tvg-logo="https://logo.catvod.com/WTT 陈颢桦鏖战五局逆转取胜 郭冠宏1-3奇里塔 全场回放（二号桌） 11:00.png" group-title="🏀今日赛事🏀",WTT 陈颢桦鏖战五局逆转取胜 郭冠宏1-3奇里塔 全场回放（二号桌） 11:00
+http://migu.heropx.dpdns.org/963185580
+#EXTINF:-1 tvg-name="WTT 陈颢桦鏖战五局逆转取胜 郭冠宏1-3奇里塔 全场回放（三号桌） 11:00" tvg-logo="https://logo.catvod.com/WTT 陈颢桦鏖战五局逆转取胜 郭冠宏1-3奇里塔 全场回放（三号桌） 11:00.png" group-title="🏀今日赛事🏀",WTT 陈颢桦鏖战五局逆转取胜 郭冠宏1-3奇里塔 全场回放（三号桌） 11:00
+http://migu.heropx.dpdns.org/963185250
+#EXTINF:-1 tvg-name="WTT 陈颢桦鏖战五局逆转取胜 郭冠宏1-3奇里塔 全场回放（四号桌） 11:00" tvg-logo="https://logo.catvod.com/WTT 陈颢桦鏖战五局逆转取胜 郭冠宏1-3奇里塔 全场回放（四号桌） 11:00.png" group-title="🏀今日赛事🏀",WTT 陈颢桦鏖战五局逆转取胜 郭冠宏1-3奇里塔 全场回放（四号桌） 11:00
+http://migu.heropx.dpdns.org/963185678
+#EXTINF:-1 tvg-name="WTT 程靖淇、周冠达、周泽昊解读签位 全场回放 15:30" tvg-logo="https://logo.catvod.com/WTT 程靖淇、周冠达、周泽昊解读签位 全场回放 15:30.png" group-title="🏀今日赛事🏀",WTT 程靖淇、周冠达、周泽昊解读签位 全场回放 15:30
+http://migu.heropx.dpdns.org/963185939
+#EXTINF:-1 tvg-name="WTT 陈颢桦冲正赛 梁夏银PK万远 刘馨蕊 16:00" tvg-logo="https://logo.catvod.com/WTT 陈颢桦冲正赛 梁夏银PK万远 刘馨蕊 16:00.png" group-title="🏀今日赛事🏀",WTT 陈颢桦冲正赛 梁夏银PK万远 刘馨蕊 16:00
 http://migu.heropx.dpdns.org/963143230
-#EXTINF:-1 tvg-name="WTT 男女单打资格赛第三轮 程靖淇周冠达解读签位 15:30" tvg-logo="https://logo.catvod.com/WTT 男女单打资格赛第三轮 程靖淇周冠达解读签位 15:30.png" group-title="🏀今日赛事🏀",WTT 男女单打资格赛第三轮 程靖淇周冠达解读签位 15:30
-http://migu.heropx.dpdns.org/963143236
-#EXTINF:-1 tvg-name="WTT 男女单打资格赛第三轮 2号桌 16:00" tvg-logo="https://logo.catvod.com/WTT 男女单打资格赛第三轮 2号桌 16:00.png" group-title="🏀今日赛事🏀",WTT 男女单打资格赛第三轮 2号桌 16:00
+#EXTINF:-1 tvg-name="WTT 陈颢桦冲正赛 梁夏银PK万远 冬奥会自由式滑雪 17:15" tvg-logo="https://logo.catvod.com/WTT 陈颢桦冲正赛 梁夏银PK万远 冬奥会自由式滑雪 17:15.png" group-title="🏀今日赛事🏀",WTT 陈颢桦冲正赛 梁夏银PK万远 冬奥会自由式滑雪 17:15
+http://migu.heropx.dpdns.org/963161103
+#EXTINF:-1 tvg-name="WTT 陈颢桦冲正赛 梁夏银PK万远 2号桌 16:00" tvg-logo="https://logo.catvod.com/WTT 陈颢桦冲正赛 梁夏银PK万远 2号桌 16:00.png" group-title="🏀今日赛事🏀",WTT 陈颢桦冲正赛 梁夏银PK万远 2号桌 16:00
 http://migu.heropx.dpdns.org/963143145
-#EXTINF:-1 tvg-name="WTT 男女单打资格赛第三轮 3号桌 16:00" tvg-logo="https://logo.catvod.com/WTT 男女单打资格赛第三轮 3号桌 16:00.png" group-title="🏀今日赛事🏀",WTT 男女单打资格赛第三轮 3号桌 16:00
+#EXTINF:-1 tvg-name="WTT 陈颢桦冲正赛 梁夏银PK万远 3号桌 16:00" tvg-logo="https://logo.catvod.com/WTT 陈颢桦冲正赛 梁夏银PK万远 3号桌 16:00.png" group-title="🏀今日赛事🏀",WTT 陈颢桦冲正赛 梁夏银PK万远 3号桌 16:00
 http://migu.heropx.dpdns.org/963143166
-#EXTINF:-1 tvg-name="WTT 男女单打资格赛第三轮 4号桌 16:00" tvg-logo="https://logo.catvod.com/WTT 男女单打资格赛第三轮 4号桌 16:00.png" group-title="🏀今日赛事🏀",WTT 男女单打资格赛第三轮 4号桌 16:00
+#EXTINF:-1 tvg-name="WTT 陈颢桦冲正赛 梁夏银PK万远 4号桌 16:00" tvg-logo="https://logo.catvod.com/WTT 陈颢桦冲正赛 梁夏银PK万远 4号桌 16:00.png" group-title="🏀今日赛事🏀",WTT 陈颢桦冲正赛 梁夏银PK万远 4号桌 16:00
 http://migu.heropx.dpdns.org/963143217
 #EXTINF:-1 tvg-name="昆仑决 章润冲击金腰带 朱展鹏、刘春瑞出战 解说 18:55" tvg-logo="https://logo.catvod.com/昆仑决 章润冲击金腰带 朱展鹏、刘春瑞出战 解说 18:55.png" group-title="🏀今日赛事🏀",昆仑决 章润冲击金腰带 朱展鹏、刘春瑞出战 解说 18:55
 http://migu.heropx.dpdns.org/963073085
@@ -1895,14 +1899,14 @@ http://migu.heropx.dpdns.org/963068412
 http://migu.heropx.dpdns.org/963068393
 #EXTINF:-1 tvg-name="WTA 斯维托丽娜VS佩古拉 清流 23:00" tvg-logo="https://logo.catvod.com/WTA 斯维托丽娜VS佩古拉 清流 23:00.png" group-title="🏀今日赛事🏀",WTA 斯维托丽娜VS佩古拉 清流 23:00
 http://migu.heropx.dpdns.org/963046959
+#EXTINF:-1 tvg-name="WTA 斯维托丽娜VS佩古拉 胡力涛 23:00" tvg-logo="https://logo.catvod.com/WTA 斯维托丽娜VS佩古拉 胡力涛 23:00.png" group-title="🏀今日赛事🏀",WTA 斯维托丽娜VS佩古拉 胡力涛 23:00
+http://migu.heropx.dpdns.org/963180801
 #EXTINF:-1 tvg-name="WTA 斯维托丽娜VS佩古拉 英文原声 23:00" tvg-logo="https://logo.catvod.com/WTA 斯维托丽娜VS佩古拉 英文原声 23:00.png" group-title="🏀今日赛事🏀",WTA 斯维托丽娜VS佩古拉 英文原声 23:00
 http://migu.heropx.dpdns.org/963046977
 #EXTINF:-1 tvg-name="WTA 斯维托丽娜VS佩古拉 同看冬奥会冰壶 20:55" tvg-logo="https://logo.catvod.com/WTA 斯维托丽娜VS佩古拉 同看冬奥会冰壶 20:55.png" group-title="🏀今日赛事🏀",WTA 斯维托丽娜VS佩古拉 同看冬奥会冰壶 20:55
 http://migu.heropx.dpdns.org/963161211
 #EXTINF:-1 tvg-name="WTA 斯维托丽娜VS佩古拉 冬奥会速度滑冰 21:30" tvg-logo="https://logo.catvod.com/WTA 斯维托丽娜VS佩古拉 冬奥会速度滑冰 21:30.png" group-title="🏀今日赛事🏀",WTA 斯维托丽娜VS佩古拉 冬奥会速度滑冰 21:30
 http://migu.heropx.dpdns.org/963161189
-#EXTINF:-1 tvg-name="WTA 斯维托丽娜VS佩古拉 胡力涛 23:00" tvg-logo="https://logo.catvod.com/WTA 斯维托丽娜VS佩古拉 胡力涛 23:00.png" group-title="🏀今日赛事🏀",WTA 斯维托丽娜VS佩古拉 胡力涛 23:00
-http://migu.heropx.dpdns.org/963180801
 #EXTINF:-1 tvg-name="西甲 皇家贝蒂斯VS巴列卡诺 张昊泽 23:00" tvg-logo="https://logo.catvod.com/西甲 皇家贝蒂斯VS巴列卡诺 张昊泽 23:00.png" group-title="🏀今日赛事🏀",西甲 皇家贝蒂斯VS巴列卡诺 张昊泽 23:00
 http://migu.heropx.dpdns.org/963069677
 #EXTINF:-1 tvg-name="西甲 皇家贝蒂斯VS巴列卡诺 赛场原声 23:00" tvg-logo="https://logo.catvod.com/西甲 皇家贝蒂斯VS巴列卡诺 赛场原声 23:00.png" group-title="🏀今日赛事🏀",西甲 皇家贝蒂斯VS巴列卡诺 赛场原声 23:00
@@ -1975,6 +1979,10 @@ http://migu.heropx.dpdns.org/963068924
 http://migu.heropx.dpdns.org/962934121
 #EXTINF:-1 tvg-name="NBA 太阳VS魔术 英文原声 05:55" tvg-logo="https://logo.catvod.com/NBA 太阳VS魔术 英文原声 05:55.png" group-title="⚽明日赛事⚽",NBA 太阳VS魔术 英文原声 05:55
 http://migu.heropx.dpdns.org/962934104
+#EXTINF:-1 tvg-name="UFC格斗之夜 UFC格斗之夜：斯特里克兰VS赫尔南德兹 郑文祺 汪乐 05:55" tvg-logo="https://logo.catvod.com/UFC格斗之夜 UFC格斗之夜：斯特里克兰VS赫尔南德兹 郑文祺 汪乐 05:55.png" group-title="⚽明日赛事⚽",UFC格斗之夜 UFC格斗之夜：斯特里克兰VS赫尔南德兹 郑文祺 汪乐 05:55
+http://migu.heropx.dpdns.org/963184463
+#EXTINF:-1 tvg-name="UFC格斗之夜 UFC格斗之夜：斯特里克兰VS赫尔南德兹 英文原声 05:55" tvg-logo="https://logo.catvod.com/UFC格斗之夜 UFC格斗之夜：斯特里克兰VS赫尔南德兹 英文原声 05:55.png" group-title="⚽明日赛事⚽",UFC格斗之夜 UFC格斗之夜：斯特里克兰VS赫尔南德兹 英文原声 05:55
+http://migu.heropx.dpdns.org/963184452
 #EXTINF:-1 tvg-name="NBA 鹈鹕VS76人 刘沛元 07:55" tvg-logo="https://logo.catvod.com/NBA 鹈鹕VS76人 刘沛元 07:55.png" group-title="⚽明日赛事⚽",NBA 鹈鹕VS76人 刘沛元 07:55
 http://migu.heropx.dpdns.org/962934096
 #EXTINF:-1 tvg-name="NBA 鹈鹕VS76人 英文原声 07:55" tvg-logo="https://logo.catvod.com/NBA 鹈鹕VS76人 英文原声 07:55.png" group-title="⚽明日赛事⚽",NBA 鹈鹕VS76人 英文原声 07:55
@@ -2003,6 +2011,8 @@ http://migu.heropx.dpdns.org/963143248
 http://migu.heropx.dpdns.org/963142813
 #EXTINF:-1 tvg-name="WTT 王曼昱冲开门红 林诗栋PK篠塚大登 周冠达 12:00" tvg-logo="https://logo.catvod.com/WTT 王曼昱冲开门红 林诗栋PK篠塚大登 周冠达 12:00.png" group-title="⚽明日赛事⚽",WTT 王曼昱冲开门红 林诗栋PK篠塚大登 周冠达 12:00
 http://migu.heropx.dpdns.org/963142823
+#EXTINF:-1 tvg-name="WTT 王曼昱冲开门红 林诗栋PK篠塚大登 热身馆 11:00" tvg-logo="https://logo.catvod.com/WTT 王曼昱冲开门红 林诗栋PK篠塚大登 热身馆 11:00.png" group-title="⚽明日赛事⚽",WTT 王曼昱冲开门红 林诗栋PK篠塚大登 热身馆 11:00
+http://migu.heropx.dpdns.org/963143248
 #EXTINF:-1 tvg-name="WTT 王曼昱冲开门红 林诗栋PK篠塚大登 1号桌 12:00" tvg-logo="https://logo.catvod.com/WTT 王曼昱冲开门红 林诗栋PK篠塚大登 1号桌 12:00.png" group-title="⚽明日赛事⚽",WTT 王曼昱冲开门红 林诗栋PK篠塚大登 1号桌 12:00
 http://migu.heropx.dpdns.org/963143285
 #EXTINF:-1 tvg-name="WTT 王曼昱冲开门红 林诗栋PK篠塚大登 2号桌 12:00" tvg-logo="https://logo.catvod.com/WTT 王曼昱冲开门红 林诗栋PK篠塚大登 2号桌 12:00.png" group-title="⚽明日赛事⚽",WTT 王曼昱冲开门红 林诗栋PK篠塚大登 2号桌 12:00
@@ -2017,6 +2027,10 @@ http://migu.heropx.dpdns.org/963142804
 http://migu.heropx.dpdns.org/963142935
 #EXTINF:-1 tvg-name="WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 朱子恒 18:00" tvg-logo="https://logo.catvod.com/WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 朱子恒 18:00.png" group-title="⚽明日赛事⚽",WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 朱子恒 18:00
 http://migu.heropx.dpdns.org/963143088
+#EXTINF:-1 tvg-name="WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 热身馆 11:00" tvg-logo="https://logo.catvod.com/WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 热身馆 11:00.png" group-title="⚽明日赛事⚽",WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 热身馆 11:00
+http://migu.heropx.dpdns.org/963143248
+#EXTINF:-1 tvg-name="WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 同看冬奥会冰壶 17:50" tvg-logo="https://logo.catvod.com/WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 同看冬奥会冰壶 17:50.png" group-title="⚽明日赛事⚽",WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 同看冬奥会冰壶 17:50
+http://migu.heropx.dpdns.org/963175318
 #EXTINF:-1 tvg-name="WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 1号桌 18:00" tvg-logo="https://logo.catvod.com/WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 1号桌 18:00.png" group-title="⚽明日赛事⚽",WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 1号桌 18:00
 http://migu.heropx.dpdns.org/963142975
 #EXTINF:-1 tvg-name="WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 2号桌 18:00" tvg-logo="https://logo.catvod.com/WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 2号桌 18:00.png" group-title="⚽明日赛事⚽",WTT 王楚钦迎首秀 陈熠对决波尔卡诺娃 2号桌 18:00
@@ -2053,18 +2067,26 @@ http://migu.heropx.dpdns.org/963153991
 http://migu.heropx.dpdns.org/963153998
 #EXTINF:-1 tvg-name="西甲 赫塔菲VS塞维利亚 李霄 20:45" tvg-logo="https://logo.catvod.com/西甲 赫塔菲VS塞维利亚 李霄 20:45.png" group-title="⚽明日赛事⚽",西甲 赫塔菲VS塞维利亚 李霄 20:45
 http://migu.heropx.dpdns.org/963069925
+#EXTINF:-1 tvg-name="西甲 赫塔菲VS塞维利亚 冬奥会闭幕式 20:00" tvg-logo="https://logo.catvod.com/西甲 赫塔菲VS塞维利亚 冬奥会闭幕式 20:00.png" group-title="⚽明日赛事⚽",西甲 赫塔菲VS塞维利亚 冬奥会闭幕式 20:00
+http://migu.heropx.dpdns.org/963171594
 #EXTINF:-1 tvg-name="西甲 赫塔菲VS塞维利亚 赛场原声 20:45" tvg-logo="https://logo.catvod.com/西甲 赫塔菲VS塞维利亚 赛场原声 20:45.png" group-title="⚽明日赛事⚽",西甲 赫塔菲VS塞维利亚 赛场原声 20:45
 http://migu.heropx.dpdns.org/963069903
 #EXTINF:-1 tvg-name="斯诺克 决赛 第一阶段 1号桌 21:00" tvg-logo="https://logo.catvod.com/斯诺克 决赛 第一阶段 1号桌 21:00.png" group-title="⚽明日赛事⚽",斯诺克 决赛 第一阶段 1号桌 21:00
 http://migu.heropx.dpdns.org/963071261
+#EXTINF:-1 tvg-name="斯诺克 决赛 第一阶段 同看闭幕式特别节目 20:00" tvg-logo="https://logo.catvod.com/斯诺克 决赛 第一阶段 同看闭幕式特别节目 20:00.png" group-title="⚽明日赛事⚽",斯诺克 决赛 第一阶段 同看闭幕式特别节目 20:00
+http://migu.heropx.dpdns.org/963171594
 #EXTINF:-1 tvg-name="英超 桑德兰VS富勒姆 涂远 21:45" tvg-logo="https://logo.catvod.com/英超 桑德兰VS富勒姆 涂远 21:45.png" group-title="⚽明日赛事⚽",英超 桑德兰VS富勒姆 涂远 21:45
 http://migu.heropx.dpdns.org/963069382
+#EXTINF:-1 tvg-name="英超 桑德兰VS富勒姆 冬奥会冰球 21:00" tvg-logo="https://logo.catvod.com/英超 桑德兰VS富勒姆 冬奥会冰球 21:00.png" group-title="⚽明日赛事⚽",英超 桑德兰VS富勒姆 冬奥会冰球 21:00
+http://migu.heropx.dpdns.org/963175303
 #EXTINF:-1 tvg-name="英超 桑德兰VS富勒姆 赛场原声 21:45" tvg-logo="https://logo.catvod.com/英超 桑德兰VS富勒姆 赛场原声 21:45.png" group-title="⚽明日赛事⚽",英超 桑德兰VS富勒姆 赛场原声 21:45
 http://migu.heropx.dpdns.org/963069403
 #EXTINF:-1 tvg-name="英超 桑德兰VS富勒姆 英文原声 21:45" tvg-logo="https://logo.catvod.com/英超 桑德兰VS富勒姆 英文原声 21:45.png" group-title="⚽明日赛事⚽",英超 桑德兰VS富勒姆 英文原声 21:45
 http://migu.heropx.dpdns.org/963069396
 #EXTINF:-1 tvg-name="英超 诺丁汉森林VS利物浦 苏东 黄健翔 邵凌霄 21:30" tvg-logo="https://logo.catvod.com/英超 诺丁汉森林VS利物浦 苏东 黄健翔 邵凌霄 21:30.png" group-title="⚽明日赛事⚽",英超 诺丁汉森林VS利物浦 苏东 黄健翔 邵凌霄 21:30
 http://migu.heropx.dpdns.org/963069143
+#EXTINF:-1 tvg-name="英超 诺丁汉森林VS利物浦 冬奥会冰球 21:00" tvg-logo="https://logo.catvod.com/英超 诺丁汉森林VS利物浦 冬奥会冰球 21:00.png" group-title="⚽明日赛事⚽",英超 诺丁汉森林VS利物浦 冬奥会冰球 21:00
+http://migu.heropx.dpdns.org/963175303
 #EXTINF:-1 tvg-name="英超 诺丁汉森林VS利物浦 陈曦 何辉 21:50" tvg-logo="https://logo.catvod.com/英超 诺丁汉森林VS利物浦 陈曦 何辉 21:50.png" group-title="⚽明日赛事⚽",英超 诺丁汉森林VS利物浦 陈曦 何辉 21:50
 http://migu.heropx.dpdns.org/963069240
 #EXTINF:-1 tvg-name="英超 诺丁汉森林VS利物浦 赛场原声 21:45" tvg-logo="https://logo.catvod.com/英超 诺丁汉森林VS利物浦 赛场原声 21:45.png" group-title="⚽明日赛事⚽",英超 诺丁汉森林VS利物浦 赛场原声 21:45
@@ -2075,6 +2097,8 @@ http://migu.heropx.dpdns.org/963156389
 http://migu.heropx.dpdns.org/963069262
 #EXTINF:-1 tvg-name="英超 水晶宫VS狼队 吴桐 21:45" tvg-logo="https://logo.catvod.com/英超 水晶宫VS狼队 吴桐 21:45.png" group-title="⚽明日赛事⚽",英超 水晶宫VS狼队 吴桐 21:45
 http://migu.heropx.dpdns.org/963068969
+#EXTINF:-1 tvg-name="英超 水晶宫VS狼队 冬奥会冰球 21:00" tvg-logo="https://logo.catvod.com/英超 水晶宫VS狼队 冬奥会冰球 21:00.png" group-title="⚽明日赛事⚽",英超 水晶宫VS狼队 冬奥会冰球 21:00
+http://migu.heropx.dpdns.org/963175303
 #EXTINF:-1 tvg-name="英超 水晶宫VS狼队 赛场原声 21:45" tvg-logo="https://logo.catvod.com/英超 水晶宫VS狼队 赛场原声 21:45.png" group-title="⚽明日赛事⚽",英超 水晶宫VS狼队 赛场原声 21:45
 http://migu.heropx.dpdns.org/963069025
 #EXTINF:-1 tvg-name="英超 水晶宫VS狼队 英文原声 21:45" tvg-logo="https://logo.catvod.com/英超 水晶宫VS狼队 英文原声 21:45.png" group-title="⚽明日赛事⚽",英超 水晶宫VS狼队 英文原声 21:45
@@ -2085,14 +2109,18 @@ http://migu.heropx.dpdns.org/963069085
 http://migu.heropx.dpdns.org/963069071
 #EXTINF:-1 tvg-name="意甲 亚特兰大VS那不勒斯 鲁靖明 马延峰 21:45" tvg-logo="https://logo.catvod.com/意甲 亚特兰大VS那不勒斯 鲁靖明 马延峰 21:45.png" group-title="⚽明日赛事⚽",意甲 亚特兰大VS那不勒斯 鲁靖明 马延峰 21:45
 http://migu.heropx.dpdns.org/963124376
+#EXTINF:-1 tvg-name="意甲 亚特兰大VS那不勒斯 冬奥会冰球 21:00" tvg-logo="https://logo.catvod.com/意甲 亚特兰大VS那不勒斯 冬奥会冰球 21:00.png" group-title="⚽明日赛事⚽",意甲 亚特兰大VS那不勒斯 冬奥会冰球 21:00
+http://migu.heropx.dpdns.org/963175303
 #EXTINF:-1 tvg-name="意甲 亚特兰大VS那不勒斯 赛场原声 21:45" tvg-logo="https://logo.catvod.com/意甲 亚特兰大VS那不勒斯 赛场原声 21:45.png" group-title="⚽明日赛事⚽",意甲 亚特兰大VS那不勒斯 赛场原声 21:45
 http://migu.heropx.dpdns.org/963124374
 #EXTINF:-1 tvg-name="德甲 弗赖堡VS门兴格拉德巴赫 刘洪新 22:15" tvg-logo="https://logo.catvod.com/德甲 弗赖堡VS门兴格拉德巴赫 刘洪新 22:15.png" group-title="⚽明日赛事⚽",德甲 弗赖堡VS门兴格拉德巴赫 刘洪新 22:15
 http://migu.heropx.dpdns.org/963124208
 #EXTINF:-1 tvg-name="德甲 弗赖堡VS门兴格拉德巴赫 赛场原声 22:15" tvg-logo="https://logo.catvod.com/德甲 弗赖堡VS门兴格拉德巴赫 赛场原声 22:15.png" group-title="⚽明日赛事⚽",德甲 弗赖堡VS门兴格拉德巴赫 赛场原声 22:15
 http://migu.heropx.dpdns.org/963124206
-#EXTINF:-1 tvg-name="西甲 巴塞罗那VS莱万特 鹿中原 李欣 23:00" tvg-logo="https://logo.catvod.com/西甲 巴塞罗那VS莱万特 鹿中原 李欣 23:00.png" group-title="⚽明日赛事⚽",西甲 巴塞罗那VS莱万特 鹿中原 李欣 23:00
+#EXTINF:-1 tvg-name="西甲 巴塞罗那VS莱万特 鹿中原 李欣 22:55" tvg-logo="https://logo.catvod.com/西甲 巴塞罗那VS莱万特 鹿中原 李欣 22:55.png" group-title="⚽明日赛事⚽",西甲 巴塞罗那VS莱万特 鹿中原 李欣 22:55
 http://migu.heropx.dpdns.org/963069967
+#EXTINF:-1 tvg-name="西甲 巴塞罗那VS莱万特 冬奥会冰球 21:00" tvg-logo="https://logo.catvod.com/西甲 巴塞罗那VS莱万特 冬奥会冰球 21:00.png" group-title="⚽明日赛事⚽",西甲 巴塞罗那VS莱万特 冬奥会冰球 21:00
+http://migu.heropx.dpdns.org/963175303
 #EXTINF:-1 tvg-name="西甲 巴塞罗那VS莱万特 赛场原声 23:00" tvg-logo="https://logo.catvod.com/西甲 巴塞罗那VS莱万特 赛场原声 23:00.png" group-title="⚽明日赛事⚽",西甲 巴塞罗那VS莱万特 赛场原声 23:00
 http://migu.heropx.dpdns.org/963069950
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="🥝精品频道🥝",CHC影迷电影
