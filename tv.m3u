@@ -298,83 +298,83 @@ http://tonyk.56301232.xyz:3477/rtp/239.37.0.230:5540$吉林组播
 #EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://logo.catvod.com/CCTV卫生健康.png" group-title="🇨🇳央视频道🇨🇳",CCTV卫生健康
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.229:5540$吉林组播
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://logo.catvod.com/CCTV4K.png" group-title="🇨🇳央视频道🇨🇳",CCTV4K
-http://223.144.223.114:3000/udp/239.76.254.101:9000
+http://223.144.222.231:3000/udp/239.76.254.101:9000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://logo.catvod.com/CCTV4K.png" group-title="🇨🇳央视频道🇨🇳",CCTV4K
-http://223.144.223.114:3000/udp/239.76.254.64:9000
+http://223.144.222.231:3000/udp/239.76.254.64:9000
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://223.144.223.114:3000/udp/239.76.253.160:9000
+http://223.144.222.231:3000/udp/239.76.253.160:9000
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="🇨🇳央视频道🇨🇳",CCTV11
-http://223.144.223.114:3000/udp/239.76.252.251:9000
+http://223.144.222.231:3000/udp/239.76.252.251:9000
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="🇨🇳央视频道🇨🇳",CCTV12
-http://223.144.223.114:3000/udp/239.76.253.162:9000
+http://223.144.222.231:3000/udp/239.76.253.162:9000
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="🇨🇳央视频道🇨🇳",CCTV13
-http://223.144.223.114:3000/udp/239.76.253.93:9000
+http://223.144.222.231:3000/udp/239.76.253.93:9000
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="🇨🇳央视频道🇨🇳",CCTV14
-http://223.144.223.114:3000/udp/239.76.253.164:9000
+http://223.144.222.231:3000/udp/239.76.253.164:9000
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://223.144.223.114:3000/udp/239.76.252.252:9000
+http://223.144.222.231:3000/udp/239.76.252.252:9000
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://logo.catvod.com/CCTV16 4K.png" group-title="🇨🇳央视频道🇨🇳",CCTV16 4K
-http://223.144.223.114:3000/udp/239.76.253.230:9000
+http://223.144.222.231:3000/udp/239.76.253.230:9000
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://logo.catvod.com/CCTV16 4K.png" group-title="🇨🇳央视频道🇨🇳",CCTV16 4K
-http://223.144.223.114:3000/udp/239.76.254.200:9000
+http://223.144.222.231:3000/udp/239.76.254.200:9000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="🇨🇳央视频道🇨🇳",CCTV16
-http://223.144.223.114:3000/udp/239.76.253.98:9000
+http://223.144.222.231:3000/udp/239.76.253.98:9000
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="🇨🇳央视频道🇨🇳",CCTV17
-http://223.144.223.114:3000/udp/239.76.252.238:9000
+http://223.144.222.231:3000/udp/239.76.252.238:9000
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="🇨🇳央视频道🇨🇳",CCTV1
-http://223.144.223.114:3000/udp/239.76.253.151:9000
+http://223.144.222.231:3000/udp/239.76.253.151:9000
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://223.144.223.114:3000/udp/239.76.253.152:9000
+http://223.144.222.231:3000/udp/239.76.253.152:9000
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://223.144.223.114:3000/udp/239.76.253.153:9000
+http://223.144.222.231:3000/udp/239.76.253.153:9000
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://223.144.223.114:3000/udp/239.76.253.154:9000
+http://223.144.222.231:3000/udp/239.76.253.154:9000
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://223.144.223.114:3000/udp/239.76.253.95:9000
+http://223.144.222.231:3000/udp/239.76.253.95:9000
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://223.144.223.114:3000/udp/239.76.253.96:9000
+http://223.144.222.231:3000/udp/239.76.253.96:9000
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://223.144.223.114:3000/udp/239.76.253.168:9000
+http://223.144.222.231:3000/udp/239.76.253.168:9000
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://223.144.223.114:3000/udp/239.76.254.215:9000
+http://223.144.222.231:3000/udp/239.76.254.215:9000
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://223.144.223.114:3000/udp/239.76.253.155:9000
+http://223.144.222.231:3000/udp/239.76.253.155:9000
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://223.144.223.114:3000/udp/239.76.254.214:9000
+http://223.144.222.231:3000/udp/239.76.254.214:9000
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://223.144.223.114:3000/udp/239.76.253.156:9000
+http://223.144.222.231:3000/udp/239.76.253.156:9000
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://223.144.223.114:3000/udp/239.76.253.157:9000
+http://223.144.222.231:3000/udp/239.76.253.157:9000
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://223.144.223.114:3000/udp/239.76.253.158:9000
+http://223.144.222.231:3000/udp/239.76.253.158:9000
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="🇨🇳央视频道🇨🇳",CCTV9
-http://223.144.223.114:3000/udp/239.76.253.159:9000
+http://223.144.222.231:3000/udp/239.76.253.159:9000
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://logo.catvod.com/CCTV世界地理.png" group-title="🇨🇳央视频道🇨🇳",CCTV世界地理
-http://223.144.223.114:3000/udp/239.76.254.57:9000
+http://223.144.222.231:3000/udp/239.76.254.57:9000
 #EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://logo.catvod.com/CCTV兵器科技.png" group-title="🇨🇳央视频道🇨🇳",CCTV兵器科技
-http://223.144.223.114:3000/udp/239.76.254.59:9000
+http://223.144.222.231:3000/udp/239.76.254.59:9000
 #EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://logo.catvod.com/CCTV卫生健康.png" group-title="🇨🇳央视频道🇨🇳",CCTV卫生健康
-http://223.144.223.114:3000/udp/239.76.253.247:9000
+http://223.144.222.231:3000/udp/239.76.253.247:9000
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://logo.catvod.com/CCTV央视台球.png" group-title="🇨🇳央视频道🇨🇳",CCTV央视台球
-http://223.144.223.114:3000/udp/239.76.254.58:9000
+http://223.144.222.231:3000/udp/239.76.254.58:9000
 #EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://logo.catvod.com/CCTV央视文化精品.png" group-title="🇨🇳央视频道🇨🇳",CCTV央视文化精品
-http://223.144.223.114:3000/udp/239.76.254.56:9000
+http://223.144.222.231:3000/udp/239.76.254.56:9000
 #EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://logo.catvod.com/CCTV女性时尚.png" group-title="🇨🇳央视频道🇨🇳",CCTV女性时尚
-http://223.144.223.114:3000/udp/239.76.254.55:9000
+http://223.144.222.231:3000/udp/239.76.254.55:9000
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://logo.catvod.com/CCTV怀旧剧场.png" group-title="🇨🇳央视频道🇨🇳",CCTV怀旧剧场
-http://223.144.223.114:3000/udp/239.76.254.53:9000
+http://223.144.222.231:3000/udp/239.76.254.53:9000
 #EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://logo.catvod.com/CCTV电视指南.png" group-title="🇨🇳央视频道🇨🇳",CCTV电视指南
-http://223.144.223.114:3000/udp/239.76.254.61:9000
+http://223.144.222.231:3000/udp/239.76.254.61:9000
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://logo.catvod.com/CCTV第一剧场.png" group-title="🇨🇳央视频道🇨🇳",CCTV第一剧场
-http://223.144.223.114:3000/udp/239.76.254.49:9000
+http://223.144.222.231:3000/udp/239.76.254.49:9000
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://logo.catvod.com/CCTV风云剧场.png" group-title="🇨🇳央视频道🇨🇳",CCTV风云剧场
-http://223.144.223.114:3000/udp/239.76.254.50:9000
+http://223.144.222.231:3000/udp/239.76.254.50:9000
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://logo.catvod.com/CCTV风云足球.png" group-title="🇨🇳央视频道🇨🇳",CCTV风云足球
-http://223.144.223.114:3000/udp/239.76.254.52:9000
+http://223.144.222.231:3000/udp/239.76.254.52:9000
 #EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://logo.catvod.com/CCTV风云音乐.png" group-title="🇨🇳央视频道🇨🇳",CCTV风云音乐
-http://223.144.223.114:3000/udp/239.76.254.51:9000
+http://223.144.222.231:3000/udp/239.76.254.51:9000
 #EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV高尔夫网球.png" group-title="🇨🇳央视频道🇨🇳",CCTV高尔夫网球
-http://223.144.223.114:3000/udp/239.76.254.62:9000
+http://223.144.222.231:3000/udp/239.76.254.62:9000
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="🛰️卫视频道🛰️",湖南卫视
 https://migu.188766.xyz/?migutoken=058d68f88c4626590ffbefdefaf05d09&id=hnws&type=sz$冰茶
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="🛰️卫视频道🛰️",江苏卫视
@@ -954,101 +954,101 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="https://logo.catvod.com/河北4K.png" group-title="🛰️卫视频道🛰️",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="🛰️卫视频道🛰️",东南卫视
-http://223.144.223.114:3000/udp/239.76.252.190:9000
+http://223.144.222.231:3000/udp/239.76.252.190:9000
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://logo.catvod.com/东方卫视4K.png" group-title="🛰️卫视频道🛰️",东方卫视4K
-http://223.144.223.114:3000/udp/239.76.254.224:9000
+http://223.144.222.231:3000/udp/239.76.254.224:9000
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://logo.catvod.com/东方卫视4K.png" group-title="🛰️卫视频道🛰️",东方卫视4K
-http://223.144.223.114:3000/udp/239.76.254.226:9000
+http://223.144.222.231:3000/udp/239.76.254.226:9000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="🛰️卫视频道🛰️",东方卫视
-http://223.144.223.114:3000/udp/239.76.253.186:9000
+http://223.144.222.231:3000/udp/239.76.253.186:9000
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="🛰️卫视频道🛰️",云南卫视
-http://223.144.223.114:3000/udp/239.76.254.60:9000
+http://223.144.222.231:3000/udp/239.76.254.60:9000
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="🛰️卫视频道🛰️",兵团卫视
-http://223.144.223.114:3000/udp/239.76.252.232:9000
+http://223.144.222.231:3000/udp/239.76.252.232:9000
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://logo.catvod.com/北京卫视4K.png" group-title="🛰️卫视频道🛰️",北京卫视4K
-http://223.144.223.114:3000/udp/239.76.253.150:9000
+http://223.144.222.231:3000/udp/239.76.253.150:9000
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="🛰️卫视频道🛰️",吉林卫视
-http://223.144.223.114:3000/udp/239.76.253.201:9000
+http://223.144.222.231:3000/udp/239.76.253.201:9000
 #EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://logo.catvod.com/四川卫视4K.png" group-title="🛰️卫视频道🛰️",四川卫视4K
-http://223.144.223.114:3000/udp/239.76.254.232:9000
+http://223.144.222.231:3000/udp/239.76.254.232:9000
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="🛰️卫视频道🛰️",四川卫视
-http://223.144.223.114:3000/udp/239.76.253.91:9000
+http://223.144.222.231:3000/udp/239.76.253.91:9000
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="🛰️卫视频道🛰️",天津卫视
-http://223.144.223.114:3000/udp/239.76.251.92:9000
+http://223.144.222.231:3000/udp/239.76.251.92:9000
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="🛰️卫视频道🛰️",宁夏卫视
-http://223.144.223.114:3000/udp/239.76.251.65:9000
+http://223.144.222.231:3000/udp/239.76.251.65:9000
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="🛰️卫视频道🛰️",安徽卫视
-http://223.144.223.114:3000/udp/239.76.252.196:9000
+http://223.144.222.231:3000/udp/239.76.252.196:9000
 #EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://logo.catvod.com/山东卫视4K.png" group-title="🛰️卫视频道🛰️",山东卫视4K
-http://223.144.223.114:3000/udp/239.76.254.228:9000
+http://223.144.222.231:3000/udp/239.76.254.228:9000
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="🛰️卫视频道🛰️",山东卫视
-http://223.144.223.114:3000/udp/239.76.253.195:9000
+http://223.144.222.231:3000/udp/239.76.253.195:9000
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://logo.catvod.com/广东卫视4K.png" group-title="🛰️卫视频道🛰️",广东卫视4K
-http://223.144.223.114:3000/udp/239.76.254.138:9000
+http://223.144.222.231:3000/udp/239.76.254.138:9000
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://logo.catvod.com/广东卫视4K.png" group-title="🛰️卫视频道🛰️",广东卫视4K
-http://223.144.223.114:3000/udp/239.76.254.139:9000
+http://223.144.222.231:3000/udp/239.76.254.139:9000
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="🛰️卫视频道🛰️",广东卫视
-http://223.144.223.114:3000/udp/239.76.252.189:9000
+http://223.144.222.231:3000/udp/239.76.252.189:9000
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="🛰️卫视频道🛰️",广西卫视
-http://223.144.223.114:3000/udp/239.76.254.54:9000
+http://223.144.222.231:3000/udp/239.76.254.54:9000
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="🛰️卫视频道🛰️",新疆卫视
-http://223.144.223.114:3000/udp/239.76.251.67:9000
+http://223.144.222.231:3000/udp/239.76.251.67:9000
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="🛰️卫视频道🛰️",新疆卫视
-http://223.144.223.114:3000/udp/239.76.252.109:9000
+http://223.144.222.231:3000/udp/239.76.252.109:9000
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://logo.catvod.com/江苏卫视4K.png" group-title="🛰️卫视频道🛰️",江苏卫视4K
-http://223.144.223.114:3000/udp/239.76.254.216:9000
+http://223.144.222.231:3000/udp/239.76.254.216:9000
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://logo.catvod.com/江苏卫视4K.png" group-title="🛰️卫视频道🛰️",江苏卫视4K
-http://223.144.223.114:3000/udp/239.76.254.218:9000
+http://223.144.222.231:3000/udp/239.76.254.218:9000
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="🛰️卫视频道🛰️",河北卫视
-http://223.144.223.114:3000/udp/239.76.252.199:9000
+http://223.144.222.231:3000/udp/239.76.252.199:9000
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="🛰️卫视频道🛰️",河南卫视
-http://223.144.223.114:3000/udp/239.76.253.202:9000
+http://223.144.222.231:3000/udp/239.76.253.202:9000
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://logo.catvod.com/浙江卫视4K.png" group-title="🛰️卫视频道🛰️",浙江卫视4K
-http://223.144.223.114:3000/udp/239.76.254.220:9000
+http://223.144.222.231:3000/udp/239.76.254.220:9000
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://logo.catvod.com/浙江卫视4K.png" group-title="🛰️卫视频道🛰️",浙江卫视4K
-http://223.144.223.114:3000/udp/239.76.254.222:9000
+http://223.144.222.231:3000/udp/239.76.254.222:9000
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="🛰️卫视频道🛰️",海南卫视
-http://223.144.223.114:3000/udp/239.76.253.203:9000
+http://223.144.222.231:3000/udp/239.76.253.203:9000
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://logo.catvod.com/深圳卫视4K.png" group-title="🛰️卫视频道🛰️",深圳卫视4K
-http://223.144.223.114:3000/udp/239.76.254.137:9000
+http://223.144.222.231:3000/udp/239.76.254.137:9000
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="🛰️卫视频道🛰️",深圳卫视
-http://223.144.223.114:3000/udp/239.76.251.94:9000
+http://223.144.222.231:3000/udp/239.76.251.94:9000
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="🛰️卫视频道🛰️",深圳卫视
-http://223.144.223.114:3000/udp/239.76.253.188:9000
+http://223.144.222.231:3000/udp/239.76.253.188:9000
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="🛰️卫视频道🛰️",湖北卫视
-http://223.144.223.114:3000/udp/239.76.253.193:9000
+http://223.144.222.231:3000/udp/239.76.253.193:9000
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://logo.catvod.com/湖南卫视4K.png" group-title="🛰️卫视频道🛰️",湖南卫视4K
-http://223.144.223.114:3000/udp/239.76.253.100:9000
+http://223.144.222.231:3000/udp/239.76.253.100:9000
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://logo.catvod.com/湖南卫视4K.png" group-title="🛰️卫视频道🛰️",湖南卫视4K
-http://223.144.223.114:3000/udp/239.76.253.214:9000
+http://223.144.222.231:3000/udp/239.76.253.214:9000
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://logo.catvod.com/湖南卫视4K.png" group-title="🛰️卫视频道🛰️",湖南卫视4K
-http://223.144.223.114:3000/udp/239.76.253.62:9000
+http://223.144.222.231:3000/udp/239.76.253.62:9000
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://logo.catvod.com/湖南卫视4K.png" group-title="🛰️卫视频道🛰️",湖南卫视4K
-http://223.144.223.114:3000/udp/239.76.254.136:9000
+http://223.144.222.231:3000/udp/239.76.254.136:9000
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="🛰️卫视频道🛰️",湖南卫视
-http://223.144.223.114:3000/udp/239.76.252.115:9000
+http://223.144.222.231:3000/udp/239.76.252.115:9000
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="🛰️卫视频道🛰️",湖南卫视
-http://223.144.223.114:3000/udp/239.76.253.101:9000
+http://223.144.222.231:3000/udp/239.76.253.101:9000
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="🛰️卫视频道🛰️",甘肃卫视
-http://223.144.223.114:3000/udp/239.76.253.94:9000
+http://223.144.222.231:3000/udp/239.76.253.94:9000
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/西藏卫视.png" group-title="🛰️卫视频道🛰️",西藏卫视
-http://223.144.223.114:3000/udp/239.76.251.66:9000
+http://223.144.222.231:3000/udp/239.76.251.66:9000
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/西藏卫视.png" group-title="🛰️卫视频道🛰️",西藏卫视
-http://223.144.223.114:3000/udp/239.76.252.108:9000
+http://223.144.222.231:3000/udp/239.76.252.108:9000
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="🛰️卫视频道🛰️",贵州卫视
-http://223.144.223.114:3000/udp/239.76.252.198:9000
+http://223.144.222.231:3000/udp/239.76.252.198:9000
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="🛰️卫视频道🛰️",辽宁卫视
-http://223.144.223.114:3000/udp/239.76.252.197:9000
+http://223.144.222.231:3000/udp/239.76.252.197:9000
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="🛰️卫视频道🛰️",重庆卫视
-http://223.144.223.114:3000/udp/239.76.253.92:9000
+http://223.144.222.231:3000/udp/239.76.253.92:9000
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="🛰️卫视频道🛰️",陕西卫视
-http://223.144.223.114:3000/udp/239.76.254.76:9000
+http://223.144.222.231:3000/udp/239.76.254.76:9000
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="🛰️卫视频道🛰️",青海卫视
-http://223.144.223.114:3000/udp/239.76.254.132:9000
+http://223.144.222.231:3000/udp/239.76.254.132:9000
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="🛰️卫视频道🛰️",黑龙江卫视
-http://223.144.223.114:3000/udp/239.76.251.96:9000
+http://223.144.222.231:3000/udp/239.76.251.96:9000
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="🛰️卫视频道🛰️",黑龙江卫视
-http://223.144.223.114:3000/udp/239.76.253.200:9000
+http://223.144.222.231:3000/udp/239.76.253.200:9000
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://logo.catvod.com/湖南经视.png" group-title="🌎地方卫视🌎",湖南经视
 http://111.23.208.105:9999/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://logo.catvod.com/湖南都市.png" group-title="🌎地方卫视🌎",湖南都市
@@ -1074,37 +1074,37 @@ http://111.23.208.105:9999/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://logo.catvod.com/长沙政法.png" group-title="🌎地方卫视🌎",长沙政法
 http://111.23.208.105:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://logo.catvod.com/湖南国际.png" group-title="🌎地方卫视🌎",湖南国际
-http://223.144.223.114:3000/udp/239.76.252.124:9000
+http://223.144.222.231:3000/udp/239.76.252.124:9000
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://logo.catvod.com/湖南国际.png" group-title="🌎地方卫视🌎",湖南国际
-http://223.144.223.114:3000/udp/239.76.252.240:9000
+http://223.144.222.231:3000/udp/239.76.252.240:9000
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://logo.catvod.com/湖南国际.png" group-title="🌎地方卫视🌎",湖南国际
-http://223.144.223.114:3000/udp/239.76.253.102:9000
+http://223.144.222.231:3000/udp/239.76.253.102:9000
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://logo.catvod.com/湖南娱乐.png" group-title="🌎地方卫视🌎",湖南娱乐
-http://223.144.223.114:3000/udp/239.76.252.121:9000
+http://223.144.222.231:3000/udp/239.76.252.121:9000
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://logo.catvod.com/湖南娱乐.png" group-title="🌎地方卫视🌎",湖南娱乐
-http://223.144.223.114:3000/udp/239.76.253.105:9000
+http://223.144.222.231:3000/udp/239.76.253.105:9000
 #EXTINF:-1 tvg-name="湖南教育台" tvg-logo="https://logo.catvod.com/湖南教育台.png" group-title="🌎地方卫视🌎",湖南教育台
-http://223.144.223.114:3000/udp/239.76.252.233:9000
+http://223.144.222.231:3000/udp/239.76.252.233:9000
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://logo.catvod.com/湖南爱晚.png" group-title="🌎地方卫视🌎",湖南爱晚
-http://223.144.223.114:3000/udp/239.76.252.123:9000
+http://223.144.222.231:3000/udp/239.76.252.123:9000
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://logo.catvod.com/湖南爱晚.png" group-title="🌎地方卫视🌎",湖南爱晚
-http://223.144.223.114:3000/udp/239.76.253.109:9000
+http://223.144.222.231:3000/udp/239.76.253.109:9000
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://logo.catvod.com/湖南电影.png" group-title="🌎地方卫视🌎",湖南电影
-http://223.144.223.114:3000/udp/239.76.252.119:9000
+http://223.144.222.231:3000/udp/239.76.252.119:9000
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://logo.catvod.com/湖南电影.png" group-title="🌎地方卫视🌎",湖南电影
-http://223.144.223.114:3000/udp/239.76.253.106:9000
+http://223.144.222.231:3000/udp/239.76.253.106:9000
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://logo.catvod.com/湖南电视剧.png" group-title="🌎地方卫视🌎",湖南电视剧
-http://223.144.223.114:3000/udp/239.76.252.118:9000
+http://223.144.222.231:3000/udp/239.76.252.118:9000
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://logo.catvod.com/湖南电视剧.png" group-title="🌎地方卫视🌎",湖南电视剧
-http://223.144.223.114:3000/udp/239.76.253.108:9000
+http://223.144.222.231:3000/udp/239.76.253.108:9000
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://logo.catvod.com/湖南经视.png" group-title="🌎地方卫视🌎",湖南经视
-http://223.144.223.114:3000/udp/239.76.252.116:9000
+http://223.144.222.231:3000/udp/239.76.252.116:9000
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://logo.catvod.com/湖南经视.png" group-title="🌎地方卫视🌎",湖南经视
-http://223.144.223.114:3000/udp/239.76.253.103:9000
+http://223.144.222.231:3000/udp/239.76.253.103:9000
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://logo.catvod.com/湖南都市.png" group-title="🌎地方卫视🌎",湖南都市
-http://223.144.223.114:3000/udp/239.76.252.117:9000
+http://223.144.222.231:3000/udp/239.76.252.117:9000
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://logo.catvod.com/湖南都市.png" group-title="🌎地方卫视🌎",湖南都市
-http://223.144.223.114:3000/udp/239.76.253.104:9000
+http://223.144.222.231:3000/udp/239.76.253.104:9000
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🌎地方卫视🌎",深圳体育健康
 http://113.100.31.102:4022/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🌎地方卫视🌎",深圳体育健康
@@ -1118,9 +1118,9 @@ http://113.104.236.47:7088/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🌎地方卫视🌎",深圳体育健康
 http://113.104.236.47:7088/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🌎地方卫视🌎",深圳体育健康
-http://113.111.108.93:4022/udp/239.77.1.128:5146
+http://113.111.108.74:4022/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🌎地方卫视🌎",深圳体育健康
-http://113.111.108.93:4022/udp/239.77.1.140:5146
+http://113.111.108.74:4022/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🌎地方卫视🌎",深圳电视剧频道
 http://113.100.31.102:4022/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🌎地方卫视🌎",深圳电视剧频道
@@ -1128,7 +1128,7 @@ http://113.104.187.15:7088/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🌎地方卫视🌎",深圳电视剧频道
 http://113.104.236.47:7088/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🌎地方卫视🌎",深圳电视剧频道
-http://113.111.108.93:4022/udp/239.77.1.125:5146
+http://113.111.108.74:4022/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🌎地方卫视🌎",深圳财经生活
 http://113.100.31.102:4022/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🌎地方卫视🌎",深圳财经生活
@@ -1136,7 +1136,7 @@ http://113.104.187.15:7088/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🌎地方卫视🌎",深圳财经生活
 http://113.104.236.47:7088/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🌎地方卫视🌎",深圳财经生活
-http://113.111.108.93:4022/udp/239.77.1.242:5146
+http://113.111.108.74:4022/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🌎地方卫视🌎",深圳都市频道
 http://113.100.31.102:4022/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🌎地方卫视🌎",深圳都市频道
@@ -1144,7 +1144,7 @@ http://113.104.187.15:7088/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🌎地方卫视🌎",深圳都市频道
 http://113.104.236.47:7088/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🌎地方卫视🌎",深圳都市频道
-http://113.111.108.93:4022/udp/239.77.1.176:5146
+http://113.111.108.74:4022/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
@@ -2228,11 +2228,11 @@ http://tonyk.56301232.xyz:3477/rtp/239.37.0.187:5540$吉林组播
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="🥝精品频道🥝",CHC家庭影院
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.188:5540$吉林组播
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC动作电影.png" group-title="🥝精品频道🥝",CHC动作电影
-http://223.144.223.114:3000/udp/239.76.252.243:9000
+http://223.144.222.231:3000/udp/239.76.252.243:9000
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="🥝精品频道🥝",CHC家庭影院
-http://223.144.223.114:3000/udp/239.76.252.241:9000
+http://223.144.222.231:3000/udp/239.76.252.241:9000
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="🥝精品频道🥝",CHC影迷电影
-http://223.144.223.114:3000/udp/239.76.252.242:9000
+http://223.144.222.231:3000/udp/239.76.252.242:9000
 #EXTINF:-1 tvg-name="叶问系列" tvg-logo="https://logo.catvod.com/叶问系列.png" group-title="🎥飞扬电影🎥",叶问系列
 http://live.chinacert.cftest5.cn/huya/23829543
 #EXTINF:-1 tvg-name="狄仁杰系列" tvg-logo="https://logo.catvod.com/狄仁杰系列.png" group-title="🎥飞扬电影🎥",狄仁杰系列
