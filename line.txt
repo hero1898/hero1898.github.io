@@ -2,7 +2,7 @@
     "urls": [
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/px.json",
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/px.json",
 
             "name": "🐶PX影视🐶"
 
@@ -10,7 +10,7 @@
         {
 
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/miss.json",
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/miss.json",
 
             "name": "🐶4K免扫🐶"
 
@@ -38,21 +38,21 @@
         },
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/%E8%80%81%E4%B8%89%E5%BD%B1%E8%A7%86",
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/ljlfct01/%E8%80%81%E4%B8%89%E5%BD%B1%E8%A7%86",
 
             "name": "3️⃣老三影视3️⃣"
 
         },
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
 
             "name": "🍄潇洒影视🍄"
 
         },
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
 
             "name": "☂️JSM☂️"
 
@@ -66,7 +66,7 @@
   //      },
   //      {
 
-  //          "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json",
+  //          "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json",
 
   //          "name": "🐶雷蒙影视🐶"
 
@@ -87,14 +87,14 @@
         },
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/alantang1977/X/main/X.json",
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/alantang1977/X/main/X.json",
 
             "name": "😻汤影视❶😻"
 
         },
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/alantang1977/X/main/aTV.json",
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/alantang1977/X/main/aTV.json",
 
             "name": "😻汤影视❷😻"
 
@@ -122,14 +122,14 @@
         },
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/2.json",       //  "http://ok321.top/ok", 
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/zx419d2o0/TasIkE/main/tv/vod/2.json",       //  "http://ok321.top/ok", 
 
            "name": "👌OK杰克👌"
 
         },
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/wzxxcz/xczwzx.json", 
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/woshishiq1/hipy-drpy/main/wzxxcz/xczwzx.json", 
 
            "name": "🍊小橙子影视🍊"
 
@@ -150,7 +150,7 @@
         },
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
 
             "name": "🍀香雅情🍀"
 
@@ -171,14 +171,14 @@
         },
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/bluefriendCN/set/main/mx.json",
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/bluefriendCN/set/main/mx.json",
 
             "name": "📦MX影视📦"
 
         },
         {
 
-            "url": "https://github.xxlab.tech/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/pq.json",
+            "url": "https://gh.b52m.cn/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/pq.json",
 
             "name": "🐹测试线路🐹"
 
