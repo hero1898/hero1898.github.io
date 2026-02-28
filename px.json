@@ -34,6 +34,7 @@
 {"name":"ANANA","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/ANANA/IPTV_Personal/master/output/ipv6/result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"alantang1977","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/iptv_api/main/output/live_ipv4.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"333","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/zuomy2021/tv/main/333.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"ioptu","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/main/htllt.m3u","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"测试","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/cs.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"}],
 
 "sites":[
