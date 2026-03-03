@@ -750,32 +750,11 @@ ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 香港C＋,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 翡翠台4K,http://cdn3.1678520.xyz/live/?id=fct4k
 TVB plus,http://cdn3.1678520.xyz/live/?id=tvbp
-凤凰中文,https://mgev.188766.xyz/?migutoken=71657eda6c69117b93846d8ad34c2146&id=fhzw&pp=1$冰茶
-凤凰中文,https://mgev.188766.xyz/?migutoken=71657eda6c69117b93846d8ad34c2146&id=fhzw&pp=1$冰茶
-凤凰资讯,https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1$冰茶
-凤凰资讯,https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1$冰茶
-凤凰香港,https://mgev.188766.xyz/?migutoken=31206284b8700dd6871da4a602998d5e&id=fhhk&pp=1$冰茶
-凤凰香港,https://mgev.188766.xyz/?migutoken=31206284b8700dd6871da4a602998d5e&id=fhhk&pp=1$冰茶
-翡翠台,https://mgev.188766.xyz/?migutoken=e027bbfbfe02bc36b72bd848539f8922&id=hk_fct&type=dy$冰茶
-翡翠台4K,https://mgev.188766.xyz/?migutoken=25ab7412f68a1fe0be47cab55b853e8e&id=hk_fct4k&type=dy$冰茶
-无线新闻,https://mgev.188766.xyz/?migutoken=844866cd674c058cc9ef4061fc50d5a2&id=hk_wxxw&type=dy$冰茶
-Now新闻台,https://mgev.188766.xyz/?migutoken=7ab5fe56b915598723ca0f5c5c98556f&id=hk_now&type=dy$冰茶
-TVB Plus,https://mgev.188766.xyz/?migutoken=eeb234e3f649f1d335e1e2c14e3f9438&id=hk_tvbp&type=dy$冰茶
-明珠台,https://mgev.188766.xyz/?migutoken=26c12108aa24cb805ba07dd2114be961&id=hk_mzt&type=dy$冰茶
-TVB星河,https://mgev.188766.xyz/?migutoken=61ac899bc2b82d3812cda8e638a2dd5c&id=hk_tvbxh&type=dy$冰茶
-TVB功夫,https://mgev.188766.xyz/?migutoken=1b4f95fca82e00cea81377e4f4c0427e&id=hk_yzwx&type=dy$冰茶
-八度空间,https://mgev.188766.xyz/?migutoken=995732114e25b4efe8cbc0b8de67d8b7&id=hk_8tv&type=dy$冰茶
-CHU,https://mgev.188766.xyz/?migutoken=989bc5c30af54e60acfffc9de3c15fac&id=hk_chu&type=dy$冰茶
-CH5,https://mgev.188766.xyz/?migutoken=33b53b392a49f6399b02e3609e0438c5&id=hk_ch5&type=dy$冰茶
-CH8,https://mgev.188766.xyz/?migutoken=fa65a57db4651a2f32b0e08edc41b273&id=hk_ch8&type=dy$冰茶
-澳视澳门,https://mgev.188766.xyz/?migutoken=a7333c42a8566a97fd6a6d65b2ea0178&id=hk_asam&type=dy$冰茶
-HOY77,https://mgev.188766.xyz/?migutoken=4e129c0a21865912d96b7afe33204a1d&id=hk_hoy&type=dy$冰茶
-中天新闻Hktv,http://rihou.cc:555/tv/[Hv]中天新聞
-寰宇新闻Hktv,http://rihou.cc:555/tv/[Hk]寰宇新闻
-东森新闻Hktv,http://rihou.cc:555/tv/[Hk]东森新闻
-中视新闻Hktv,http://rihou.cc:555/tv/[Hk]中视新闻
-tvbS闽南Hktv,http://rihou.cc:555/tv/[Hv]tvbS闽南
-中天新闻,https://live.catvod.com/live.php?id=ctinews
+中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
+寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
+东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
+中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
+tvbS闽南,http://rihou.cc:555/tv/[Hv]tvbS闽南
 中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
