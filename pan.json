@@ -1,36 +1,36 @@
 {
-    "spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/spider.jar",
 	//"spider":"https://img2.gelonghui.com/library/cc5ae-cad9c019-a704-4ae0-b1ab-d71b2f90eff9.png;md5;cc5ae3a5f652c14398978c1e3c73cba0",
 	//"spider":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3D9B941_773_wex_20251030154004765newMediaImage.png;md5;17951645b1a4d8f0ca41309caccdd6f3",
 	//"spider":"http://我不是.摸鱼儿.top/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
 	"lives": [
-	{"name":"PX 电视频道","type":0,"playerType":1,"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/tv.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"PX 自动采集","type":0,"playerType":1,"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/iptv.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"PX 电视频道","type":0,"playerType":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/tv.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"PX 自动采集","type":0,"playerType":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/iptv.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"冰茶1","type":0,"playerType":1,"url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"冰茶2","type":0,"playerType":1,"url": "https://fy.iptv1.ggff.net/?url=http://www.douzhicloud.site:35455","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"青龙电视","type":0,"playerType":1,"url": "https://d.kstore.dev/download/15366/6988.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"电视组播1","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoye20230624/ZB/main/iptv_list.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"电视组播2","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoye20230624/hndxzb/main/iptv_list.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"湖南电信组播","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoye20230624/hndxzb/main/湖南_电信_组播.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"广东电信组播","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/luoye20230624/hndxzb/main/广东_电信_组播.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"雷蒙影视","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/lem85930/LiteTV/main/litelive.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"小橙子","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/wzxxcz/wzx/main/bbxx.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"电视组播1","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/luoye20230624/ZB/main/iptv_list.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"电视组播2","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/luoye20230624/hndxzb/main/iptv_list.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"湖南电信组播","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/luoye20230624/hndxzb/main/湖南_电信_组播.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"广东电信组播","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/luoye20230624/hndxzb/main/广东_电信_组播.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"雷蒙影视","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/lem85930/LiteTV/main/litelive.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"小橙子","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/wzx/main/bbxx.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"爱米","type":0,"playerType":1,"url": "http://210.245.166.84:1299/live/live.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"墨韵","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/leiyou-li/moyuntv3/main/live.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"kakaxi","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"fuxinyi0505","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"vbskycn","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"linux-jin","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/linux-jin/TvBox/main/live.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"AlexYUY","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/AlexYUY/TV/master/output/ipv4/result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"tmxk2020","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/tmxk2020/iptv-api/master/output/user_result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"PSLTV","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/newssr17/PSLTV/master/output/user_result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"lhf0554","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/lhf0554/jx/master/output/result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"wwb521","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"Moo930","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Moo930/iptv-api/master/output/motv.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"Supprise0901","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"ANANA","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/ANANA/IPTV_Personal/master/output/ipv6/result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"Cx4x","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Cx4x/xd/master/output/user_result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"测试","type":0,"playerType":1,"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/cs.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"}],
+	{"name":"墨韵","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/leiyou-li/moyuntv3/main/live.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"kakaxi","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"fuxinyi0505","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"vbskycn","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"linux-jin","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/linux-jin/TvBox/main/live.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"AlexYUY","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/AlexYUY/TV/master/output/ipv4/result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"tmxk2020","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/tmxk2020/iptv-api/master/output/user_result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"PSLTV","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/newssr17/PSLTV/master/output/user_result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"lhf0554","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/lhf0554/jx/master/output/result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"wwb521","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"Moo930","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Moo930/iptv-api/master/output/motv.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"Supprise0901","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"ANANA","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/ANANA/IPTV_Personal/master/output/ipv6/result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"Cx4x","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Cx4x/xd/master/output/user_result.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"测试","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/cs.txt","ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"}],
 	"wallpaper":"https://深色壁纸.xxooo.cf/",
     "warningText":"潘兴祝你：观影愉快！",
 	
@@ -265,7 +265,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/wogg.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/wogg.json"
         },
         {
             "key": "木偶",
@@ -276,7 +276,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/mogg.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/mogg.json"
         },
         {
             "key": "蜡笔",
@@ -287,7 +287,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/lb.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/lb.json"
         },
         {
             "key": "至臻",
@@ -298,7 +298,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/zz.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/zz.json"
         },
         {
             "key": "多多",
@@ -309,7 +309,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/yyds.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/yyds.json"
         },
         {
             "key": "欧哥",
@@ -320,7 +320,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/og.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/og.json"
         },
         {
             "key": "二小",
@@ -331,7 +331,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/ex.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/ex.json"
         },
         {
             "key": "虎斑",
@@ -342,7 +342,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/hb.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/hb.json"
         },
         {
             "key": "雷鲸",
@@ -357,7 +357,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/lj.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/lj.json"
         },
         {
             "key": "海绵",
@@ -372,7 +372,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/hm.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/hm.json"
         },
         {
             "key": "夸父",
@@ -387,7 +387,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/kf.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/kf.json"
         },
         {
             "key": "123",
@@ -402,7 +402,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/123.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/123.json"
         },
         {
             "key": "趣盘",
@@ -425,8 +425,8 @@
             "key": "双星",
             "name": "双星4K",
             "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/drpy2.min.js",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/双星.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/双星.js",
             "style": {
                 "type": "list"
             }
@@ -435,8 +435,8 @@
             "key": "人人",
             "name": "人人4K",
             "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/drpy2.min.js",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/人人电影网.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/人人电影网.js",
             "style": {
                 "type": "list"
             }
@@ -476,7 +476,7 @@
             "key": "猎手影视",
             "name": "猎手影视",
             "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/py/猎手影视.py",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/py/猎手影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -502,21 +502,21 @@
             "name": "明星影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/XBPQ/明星影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/XBPQ/明星影视.json"
         },
         {
             "key": "永乐影视",
             "name": "永乐影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/XBPQ/永乐影视.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/XBPQ/永乐影视.json"
         },
         {
             "key": "采集之王",
             "name": "采集合集",
             "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/drpy2.min.js",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/采集之王.js?type=url&params=https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/采集静态.json$1$1"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/js/采集之王.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/采集静态.json$1$1"
         },
         {
             "key": "荐片",
@@ -544,7 +544,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/quarkShare.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/quarkShare.json"
         },
         {
             "key": "UC",
@@ -558,7 +558,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/ucShare.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/ucShare.json"
         },
         {
             "key": "百度云盘",
@@ -683,7 +683,7 @@
             "style": {
                 "type": "list"
             },
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/alist.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/alist.json"
         },
         {
             "key": "88看球",
@@ -711,8 +711,8 @@
 		},
 {"key":"超全","name":"⚽超全看球⚽","type":3,"api":"csp_ZbzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
 {"key":"看球","name":"🏈手机看球🏈","type":3,"api":"csp_KanqiuGuard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"虎牙直播js","name":"🐯虎牙直播🐯","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/main/drpy2.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/main/huya2.js","style":{"type":"rect","ratio":1.755},"timeout":15,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"斗鱼js","name":"🐟斗鱼直播🐟","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/main/drpy2.min.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":15,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"虎牙直播js","name":"🐯虎牙直播🐯","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/drpy2.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/huya2.js","style":{"type":"rect","ratio":1.755},"timeout":15,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"斗鱼js","name":"🐟斗鱼直播🐟","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"timeout":15,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
         {
             "key": "网络直播",
             "name": "网络直播",
@@ -720,7 +720,7 @@
 			"searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/py/网络直播.py"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/py/网络直播.py"
         },
         {
             "key": "哔哩直播",
@@ -729,7 +729,7 @@
 			"searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/py/哔哩直播.py"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/py/哔哩直播.py"
         },
         {
             "key": "哔哩合集",
@@ -745,7 +745,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩合集.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩合集.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
@@ -759,7 +759,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩哔哩演唱会.json"
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩哔哩演唱会.json"
             },
             "style": {
                 "type": "rect",
@@ -776,7 +776,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩哔哩听书.json"
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩哔哩听书.json"
             },
             "style": {
                 "type": "rect",
@@ -793,7 +793,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩哔哩相声.json"
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩哔哩相声.json"
             },
             "style": {
                 "type": "rect",
@@ -810,7 +810,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩哔哩小品.json"
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩哔哩小品.json"
             },
             "style": {
                 "type": "rect",
@@ -827,24 +827,24 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩哔哩戏曲.json"
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/哔哩哔哩戏曲.json"
             },
             "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
         },
-{"key":"老潘哔哩","name":"🌤︎老潘哔哩🌤︎","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/老潘哔哩.json"}},
-{"key":"新闻时事","name":"📰新闻时事📰","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/新闻时事.json"}},
-{"key":"影视解说","name":"🎬影视解说🎬","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/影视解说.json"}},
-{"key":"老潘体育","name":"🏂老潘体育🏂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/体育.json"}},
-{"key":"老潘美食","name":"🥗老潘美食🥗","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/美食.json"}},
-{"key":"老潘旅游","name":"🏕老潘旅游🏖","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/旅游.json"}},
-{"key":"老潘教程","name":"👨‍🏫老潘教程👨‍🏫","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/软件教程.json"}},
-{"key":"老潘游戏","name":"🎮老潘游戏🕹","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh.llkk.cc/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/游戏.json"}},
-{"key":"drpy_js_童趣","name":"🧑🏻童趣学堂🧑🏻","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/童趣.js"},
-{"key":"drpy_js_有声绘本网","name":"📓有声绘本📓","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/有声绘本网.js"},
-{"key":"dr_兔小贝","name":"🐰兔小贝🐰","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/main/drpy2.min.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/main/兔小贝.js","style":{"type":"rect","ratio":1.597}},
+{"key":"老潘哔哩","name":"🌤︎老潘哔哩🌤︎","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/老潘哔哩.json"}},
+{"key":"新闻时事","name":"📰新闻时事📰","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/新闻时事.json"}},
+{"key":"影视解说","name":"🎬影视解说🎬","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/影视解说.json"}},
+{"key":"老潘体育","name":"🏂老潘体育🏂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/体育.json"}},
+{"key":"老潘美食","name":"🥗老潘美食🥗","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/美食.json"}},
+{"key":"老潘旅游","name":"🏕老潘旅游🏖","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/旅游.json"}},
+{"key":"老潘教程","name":"👨‍🏫老潘教程👨‍🏫","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/软件教程.json"}},
+{"key":"老潘游戏","name":"🎮老潘游戏🕹","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/hero1898/hero1898.github.io/main/json/游戏.json"}},
+{"key":"drpy_js_童趣","name":"🧑🏻童趣学堂🧑🏻","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/童趣.js"},
+{"key":"drpy_js_有声绘本网","name":"📓有声绘本📓","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/有声绘本网.js"},
+{"key":"dr_兔小贝","name":"🐰兔小贝🐰","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/兔小贝.js","style":{"type":"rect","ratio":1.597}},
 {"key":"Wexergeduoduo","name":"👼多多儿歌👼","type":3,"api":"csp_WexergeduoduoGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/2873EE0_773_wex_20251022150319875newMediaImage.png;md5;0a002e26ea6b9510a5d1a52511c10075"},
 {"key":"Wexbaobaobashi","name":"👼宝宝儿歌👼","type":3,"api":"csp_WexbaobaobashiGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/2873EE0_773_wex_20251022150319875newMediaImage.png;md5;0a002e26ea6b9510a5d1a52511c10075"},
 {"key":"Wexbeiwa","name":"👼贝贝儿歌👼","type":3,"api":"csp_WexbeiwaGuard","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/2873EE0_773_wex_20251022150319875newMediaImage.png;md5;0a002e26ea6b9510a5d1a52511c10075"},
@@ -858,7 +858,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/少儿教育.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/少儿教育.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -875,7 +875,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/小学课堂.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/小学课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -892,7 +892,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/初中课堂.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/初中课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -909,7 +909,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/高中课堂.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/json/高中课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -939,7 +939,7 @@
 			"searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/XBPQ/养生堂.json",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/XBPQ/养生堂.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
