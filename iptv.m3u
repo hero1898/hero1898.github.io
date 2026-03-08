@@ -34,73 +34,73 @@ http://migu.heropx.dpdns.org/673168223
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://migu.heropx.dpdns.org/673168256
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="🇨🇳央视频道🇨🇳",CCTV1
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=202603081200200543aea9b4f346b09a3fde1aff289198&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260308120020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260308120020&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d379ebc8b4dbae3da78929f2576ce042&ddCalcu=2d43e070e98ce06b7c582bf49d2b9a8e73ad$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20260308140016f4d3e470b8ad46e39ae20797b50da6d5&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260308140016&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=43.139.160.244&SecurityKey=20260308140016&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b24935837eaf46f6288f6f93958b0213&ddCalcu=3b12e240098b30855893379efa6ff4868f26$咪咕
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/600/index.m3u8?msisdn=2026030812002053715bbdaaee41a7b7b99bbe74c00926&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260308120020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=43.139.160.244&SecurityKey=20260308120020&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e262962abc268a65232e4717300261ab&ddCalcu=bea2e16062129006023a7b1c7246e82a3625$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/600/index.m3u8?msisdn=20260308140016e49cfa591cd44c15bb778a6c5306373b&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260308140016&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=43.139.160.244&SecurityKey=20260308140016&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=eeaa95001e6570b148dcbe16af703e29&ddCalcu=9e2eeea03a109075f0a0611ee6b5c7d08b41$咪咕
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=20260308120020fb139befbee34744b85c9bb10adee2d4&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260308120020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=43.139.160.244&SecurityKey=20260308120020&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=69c292084f867c4c844a4ce7ac1fa8c4&ddCalcu=46c9e8c0a24f9012c0a874efc846a74c448c$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=2026030814001665ca44a6b8d84c3b8deb02e5ccb4b8b1&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260308140016&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=43.139.160.244&SecurityKey=20260308140016&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e8f81e717c23d96d2f2c5300460906b7&ddCalcu=7eb8e6f00849100e6741070c3253cd29f62d$咪咕
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/600/index.m3u8?msisdn=202603081200209d3eb5e9d063450abd3e05c51d178c0a&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260308120020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=43.139.160.244&SecurityKey=20260308120020&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8218c9fd20ec2a9156d91135870ddcb1&ddCalcu=18b2ec10d81dc0097f8d52301e1c92da6951$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/600/index.m3u8?msisdn=202603081400160df54b634bf44c9b85bc57539edece62&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260308140016&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=43.139.160.244&SecurityKey=20260308140016&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f2521ce3416320599fac3e5672d75fc8&ddCalcu=8fc2ef50521710dc2e736451e633c2a0f599$咪咕
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=2026030812002056c9e9eff162482bb8b7b1967cea020e&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260308120020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=43.139.160.244&SecurityKey=20260308120020&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7f26a11b82ab3ce7a8636868ca8d4867&ddCalcu=776fe820461da081a1cb88628a6b336c8ea7$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=202603081400162413e09fcbdb4653a8abfa6bba44b7ec&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260308140016&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=43.139.160.244&SecurityKey=20260308140016&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f10e95b1ede9e71a88238518b338c5da&ddCalcu=afd1e500ce1890353bb18e1d5e893e27818a$咪咕
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=20260308120020731ca8f6bf124ed18d21eafe2bcdea6a&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260308120020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=43.139.160.244&SecurityKey=20260308120020&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=546c6fdb8a346599b2e5cc3a072cdfa7&ddCalcu=75a4ef60dc1c602f7d0ba83ac3c456e529b9$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=20260308140016584ce72efb624f9282a1d6750a7eeca6&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260308140016&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=43.139.160.244&SecurityKey=20260308140016&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8d9c4266d4d4f7493ad9b21621237493&ddCalcu=389de4907c13402216266d142db49fd7a439$咪咕
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?msisdn=20260308120020e4fa782d1f644ca4a649668f87233f34&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260308120020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=43.139.160.244&SecurityKey=20260308120020&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1714f851feaea4c5cb636f84f7e8d627&ddCalcu=7127e610d448f0e875f14f8efa6e3a64bcc5$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?msisdn=20260308140016365e32b4efaf407e86ac09ae001df790&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260308140016&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=43.139.160.244&SecurityKey=20260308140016&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a8c51fd4018a972ec945339f87ab5bd0&ddCalcu=0ad8ebc0554b10af7d84f091383a594792ce$咪咕
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=2026030812002059ba3becdd134b3bb397630830dd5931&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260308120020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=43.139.160.244&SecurityKey=20260308120020&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5d8fee7a31a54c28c97c0ca619cff045&ddCalcu=554de080ff3fe0ce971a63a1ca05c47c92c8$咪咕
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=20260308140016902d224c243648bbaf03114a8a891246&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260308140016&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=43.139.160.244&SecurityKey=20260308140016&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9cdf43c19052c9ae153bba29b08d11e4&ddCalcu=49ece1d01f3d40830cb19920a5b2bc395a1e$咪咕
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?msisdn=2026030812002007c9a1d6eb154122b2aa71468090d6d4&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260308120020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=43.139.160.244&SecurityKey=20260308120020&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=086916d5f9aef11dde6468bed5f80309&ddCalcu=9008e360094810f65dd5efb98a6e4f61e1dd$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?msisdn=202603081400165a65d88811514df2a1abd32117d6fd6a&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260308140016&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=43.139.160.244&SecurityKey=20260308140016&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=aa39e98873f881c78969da1b5492dc67&ddCalcu=7a6aec30d942e0994858b713afd898619c87$咪咕
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="🇨🇳央视频道🇨🇳",CCTV9
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?msisdn=202603081200216b4a825d082648cda73f800d8db81eef&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260308120021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=43.139.160.244&SecurityKey=20260308120021&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7f97d2229e56481bdaaf92fbe3a67def&ddCalcu=f7efed907736d0a232e2b9fe2596f4a8a1db$咪咕
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?msisdn=2026030814001782bdaf4eb9c84cd9a2539db1e267d606&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260308140017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=43.139.160.244&SecurityKey=20260308140017&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0be6e872dd20a2bc9ea5c20a937460a0&ddCalcu=00abe0e06634e0783792ad0d22c05aa2eb9c$咪咕
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?msisdn=2026030812002160a7cb723a24404f9a28a56dc69118f2&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260308120021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=43.139.160.244&SecurityKey=20260308120021&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a36807bbc4990e5f6064e85c9b910be0&ddCalcu=0ae3eb6008410097bb9bcc5489e9406e056f$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?msisdn=20260308140017d677ecb73c884e6a8088ed81f8034d9f&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260308140017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=43.139.160.244&SecurityKey=20260308140017&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5ebd29a2fa8836b0ef3c0b9f471c8e60&ddCalcu=056eeeb08d4c20197a42ff9ab808c336fbe0$咪咕
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="🇨🇳央视频道🇨🇳",CCTV11
-http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=20260308120021d83637da209549778a811ed822de09c6&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260308120021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=43.139.160.244&SecurityKey=20260308120021&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dd4a75fa023ecc0a569830a3e7a9b085&ddCalcu=5d8de040ba7970a57fea30a2033e8c9c605a$咪咕
+http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=202603081400179beda1670bf243f28e45eb114890e8c9&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260308140017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=43.139.160.244&SecurityKey=20260308140017&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6f7b942ee59fa97f20efc2fa6a18b5ef&ddCalcu=f6efe570bb789014a26eaef529cffae9072f$咪咕
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="🇨🇳央视频道🇨🇳",CCTV12
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/50/index.m3u8?msisdn=2026030812002110d64abf4a62406399d908b56db6381d&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260308120021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=43.139.160.244&SecurityKey=20260308120021&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6eef7723887bbfc13cfdf032898d64a8&ddCalcu=86aee4e06f3d70879283283807fbdbffcc31$咪咕
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/50/index.m3u8?msisdn=20260308140017fb94b333cab548bda93b5bab1df3eb4a&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260308140017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=43.139.160.244&SecurityKey=20260308140017&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5c65a18aa90eb4cdd2044cb89390860a&ddCalcu=a50ce6608530a091389a8ab9c04e4b042cdd$咪咕
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="🇨🇳央视频道🇨🇳",CCTV13
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=202603081200210004707b1d1c42ab83f0b44003e7d803&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260308120021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=43.139.160.244&SecurityKey=20260308120021&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=adeb2153ad5fcf4989c74d67d6fdd52d&ddCalcu=da2de5e0db8d20f165d37a6dd54f7ccf9489$咪咕
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=202603081400177b58d780b4804e9d957d777944a0e3c5&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260308140017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=43.139.160.244&SecurityKey=20260308140017&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0c5491c4d43699bf1c3f2a521dd0cff2&ddCalcu=20fcef50c48090d1dc142d54a326f939cb1f$咪咕
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="🇨🇳央视频道🇨🇳",CCTV14
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?msisdn=202603081200216cd044f8b34040e4bc2c6bcbb6b31cea&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260308120021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=43.139.160.244&SecurityKey=20260308120021&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=af5f8291a73c345f367aa96d520a5af7&ddCalcu=7affea505f4a80022951da6793aca374653f$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?msisdn=202603081400174b44f088d3444505a9fdfac1243f23ad&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260308140017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=43.139.160.244&SecurityKey=20260308140017&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6bcf88a7b90a6cb0eb79d9c834a49716&ddCalcu=661be7c09f4480a84a378bc990da967cbbe0$咪咕
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/50/index.m3u8?msisdn=20260308120021ae15e805e1e4400996ca819d9ff6a7de&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260308120021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=43.139.160.244&SecurityKey=20260308120021&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f849172f8416faede4c3073a5a702076&ddCalcu=6f78e04029301077a25fa83471063fca4eed$咪咕
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/50/index.m3u8?msisdn=202603081400171058976c8dc24bf2827063260790f861&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260308140017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=43.139.160.244&SecurityKey=20260308140017&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4b1fd2d2b649002775368262ae0579a7&ddCalcu=74abe9107f35d002eda22b66248960305277$咪咕
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="🇨🇳央视频道🇨🇳",CCTV17
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/50/index.m3u8?msisdn=2026030812002143a4f50097c94a498b9613c662e9efd8&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260308120021&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=43.139.160.244&SecurityKey=20260308120021&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=166e12e798dc614e4d336f6c78483228&ddCalcu=8126e2603e3810428e77c968fd6c3631d44e$咪咕
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/50/index.m3u8?msisdn=20260308140017ec3fc0f6771f433889871e8463bd375c&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260308140017&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=43.139.160.244&SecurityKey=20260308140017&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1028730b3949b22d70bab2f775d9f8a1&ddCalcu=11a0e820f83970d3507b73f924b9abb2027d$咪咕
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="🇨🇳央视频道🇨🇳",CCTV1
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=2026030810022232c109ef45344458a22f9485c2f6a06a&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260308100222&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=218.28.233.106&SecurityKey=20260308100222&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=275e0e717aeef883f99b4b519b4dc5c3$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=202603081402275d93be53f72a4d2cb93f799a94fa24cd&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260308140227&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=218.28.233.106&SecurityKey=20260308140227&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=993aabcf875fd81517e28458e10dfbc0$咪咕视频
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/600/index.m3u8?msisdn=202603080802209cba2f170e8c48e0942bb9bab1b47830&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260308080220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=218.28.233.106&SecurityKey=20260308080220&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=be83906a5d2f71c829442347e77354ab$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/600/index.m3u8?msisdn=20260308120225217cb74f56604801ab6bb81cb7d4ed3d&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260308120225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=218.28.233.106&SecurityKey=20260308120225&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=14e54d45f0fcfa9ee63abae98998f74b$咪咕视频
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=20260308080220155a3b4e7dd448a5b715915a7c5986d1&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260308080220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=218.28.233.106&SecurityKey=20260308080220&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8b0fe8720571e9eded93beaf29996b35$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=20260308120225980f6b1641cd4819bc32a38d1984c294&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260308120225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=218.28.233.106&SecurityKey=20260308120225&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=efca8ec16d4e8be63cc1275d48a20246$咪咕视频
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/600/index.m3u8?msisdn=202603080802208505e7f913164632a14d7ab06b41c68e&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260308080220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=218.28.233.106&SecurityKey=20260308080220&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=248e3e2f34afc7710c9dce1e2d85d69b$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/600/index.m3u8?msisdn=20260308120225c6dd97c07fae42beb3fb09d2137cc825&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260308120225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=218.28.233.106&SecurityKey=20260308120225&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=59141e7d3c845e82d93f574a0f732a24$咪咕视频
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20260308080220944024c325dd451b8e323f8dc3724916&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260308080220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=218.28.233.106&SecurityKey=20260308080220&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f62710243ebf98daae7c3d7ac611a465$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20260308120225afb24a8dce514ed084b6878f2a9c9f5c&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260308120225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=218.28.233.106&SecurityKey=20260308120225&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=634b02960c6ef5c657e32b29f8b5a121$咪咕视频
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20260308080220944024c325dd451b8e323f8dc3724916&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260308080220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=218.28.233.106&SecurityKey=20260308080220&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f62710243ebf98daae7c3d7ac611a465$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20260308120225afb24a8dce514ed084b6878f2a9c9f5c&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260308120225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=218.28.233.106&SecurityKey=20260308120225&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=634b02960c6ef5c657e32b29f8b5a121$咪咕视频
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?msisdn=202603080802203a7c3f0bdd79402c843d2fc8bf1d9a1e&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260308080220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=218.28.233.106&SecurityKey=20260308080220&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9f1e1e08d97e4228c493c5efcf07cf55$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?msisdn=2026030812022532bd814039934357bfbd2cb3866a59f1&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260308120225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=218.28.233.106&SecurityKey=20260308120225&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7050f130f2a867daa27660061ac164fc$咪咕视频
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="🇨🇳央视频道🇨🇳",CCTV7
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=202603080802206f6456699c764407adbd0507a2df656d&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260308080220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=218.28.233.106&SecurityKey=20260308080220&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7f97bf5cc96159f45ff9651955a03ecd$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=20260308120225831df6b600184cc18c609ef5da8e9fa0&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260308120225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=218.28.233.106&SecurityKey=20260308120225&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=10fad598ed19e0a34b3c6663841a84fa$咪咕视频
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?msisdn=20260308080221413d8a4b5cf4490d96f1d5dec3256e3f&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260308080221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=218.28.233.106&SecurityKey=20260308080221&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=963fcca1402b1574d816f4d3f0c2dbd7$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?msisdn=202603081202257ddb7a1bd6594fc8b856659f617936c0&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260308120225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=218.28.233.106&SecurityKey=20260308120225&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eb9a5dfc6483eee38ec29d6d9febd827$咪咕视频
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="🇨🇳央视频道🇨🇳",CCTV9
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/50/index.m3u8?msisdn=202603080802215fa062a0630042e8956bc52b47a133ec&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260308080221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=218.28.233.106&SecurityKey=20260308080221&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5bb55efb3ab962c472dafdfc114545d1$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/50/index.m3u8?msisdn=202603081202266e422577ae3f42b78ef461d01d618938&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260308120226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=218.28.233.106&SecurityKey=20260308120226&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8d5ca93a98427aa8b666a6f774db53ee$咪咕视频
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?msisdn=202603080802217f65760e14ed4fb49505df64647ae0bf&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260308080221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=218.28.233.106&SecurityKey=20260308080221&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2815e602ef6080b6d0dcaae6187e5cc2$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?msisdn=2026030812022607e4ec83b89b44e3ae920c009db2742f&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260308120226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=218.28.233.106&SecurityKey=20260308120226&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4c48306f86d6b972ea0c39977d03acfc$咪咕视频
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="🇨🇳央视频道🇨🇳",CCTV11
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=20260308080221430219e6ece34ec6969738100f46cabe&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260308080221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=218.28.233.106&SecurityKey=20260308080221&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e1b784168c0ed755fb644e3328aea1bb$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=20260308120226046ea5a572cf47ac945de126f5401aa7&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260308120226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=218.28.233.106&SecurityKey=20260308120226&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f5528b22c6735e5b1707b9c93e61cd2b$咪咕视频
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="🇨🇳央视频道🇨🇳",CCTV12
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/50/index.m3u8?msisdn=202603080802219c34de77fd6147f89298fede41663c1e&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260308080221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=218.28.233.106&SecurityKey=20260308080221&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=08233ef6d9869451142acfed8d1f37a0$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/50/index.m3u8?msisdn=202603081202262ebd8396d9e04594acc160f3939bbfb7&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260308120226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=218.28.233.106&SecurityKey=20260308120226&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=79ba029ec92a89a37b87e6e34f70b0ad$咪咕视频
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="🇨🇳央视频道🇨🇳",CCTV13
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=20260308080221ff9ce6005e5947c4a93d47692275e672&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260308080221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=218.28.233.106&SecurityKey=20260308080221&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2f261ab2776bfb34567895dd49d6aeed$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=202603081202263e65d041b3bf42c7920036d8c3b48856&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260308120226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=218.28.233.106&SecurityKey=20260308120226&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2b88f8c773afebe84c6831e505b88439$咪咕视频
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="🇨🇳央视频道🇨🇳",CCTV14
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?msisdn=202603080802213d82d6d532c242038372c3870aff9356&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260308080221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=218.28.233.106&SecurityKey=20260308080221&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4b2c2e1fc25d972d513b06783fbd6e44$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?msisdn=202603081202262961c00c52b347e094a6c659d181a29b&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260308120226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=218.28.233.106&SecurityKey=20260308120226&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=27c99ff65863526ff8214ec67318ced5$咪咕视频
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="🇨🇳央视频道🇨🇳",CCTV15
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/50/index.m3u8?msisdn=20260308080221076ef97187544d11aa2c343d442b92d4&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260308080221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=218.28.233.106&SecurityKey=20260308080221&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3127f0a0596cc4bc7a022b421fd1ff9f$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/50/index.m3u8?msisdn=20260308120226c7b568ef0e74491ba1427a7443909f6b&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260308120226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=218.28.233.106&SecurityKey=20260308120226&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=37b97aeb71d964d8272a05172e3c04f9$咪咕视频
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="🇨🇳央视频道🇨🇳",CCTV17
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/50/index.m3u8?msisdn=2026030808022190406fa4cc10490e8493d66101e18a6a&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260308080221&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=218.28.233.106&SecurityKey=20260308080221&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f1e1a8d1bf8a089722b3a258a4df70cc$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/50/index.m3u8?msisdn=20260308120226a7a0fd2864024a5386a3c19a67a65de1&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260308120226&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=218.28.233.106&SecurityKey=20260308120226&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c82e9848b3325e637b5ed7c8c09f5563$咪咕视频
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cctv1hd265/51/20191230/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260302180232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=218.28.233.106&SecurityKey=20260302180232&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8fcf66f0fdaf94b401302ca49bbfd3cf&sv=10004&ct=android$咪咕视频
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="🇨🇳央视频道🇨🇳",CCTV2
@@ -336,19 +336,19 @@ http://113.100.31.43:4022/udp/239.77.1.113:5146
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="🇨🇳央视频道🇨🇳",CCTV10
 http://113.104.185.72:7088/udp/239.77.1.113:5146
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="🇨🇳央视频道🇨🇳",CCTV10
-http://113.111.111.96:4022/udp/239.77.1.113:5146
+http://113.111.110.40:4022/udp/239.77.1.113:5146
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="🇨🇳央视频道🇨🇳",CCTV11
 http://113.100.31.43:4022/udp/239.77.1.108:5146
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="🇨🇳央视频道🇨🇳",CCTV11
 http://113.104.185.72:7088/udp/239.77.1.108:5146
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="🇨🇳央视频道🇨🇳",CCTV11
-http://113.111.111.96:4022/udp/239.77.1.108:5146
+http://113.111.110.40:4022/udp/239.77.1.108:5146
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="🇨🇳央视频道🇨🇳",CCTV12
 http://113.100.31.43:4022/udp/239.77.1.109:5146
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="🇨🇳央视频道🇨🇳",CCTV12
 http://113.104.185.72:7088/udp/239.77.1.109:5146
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="🇨🇳央视频道🇨🇳",CCTV12
-http://113.111.111.96:4022/udp/239.77.1.109:5146
+http://113.111.110.40:4022/udp/239.77.1.109:5146
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="🇨🇳央视频道🇨🇳",CCTV13
 http://113.100.31.43:4022/udp/239.253.43.196:5146
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="🇨🇳央视频道🇨🇳",CCTV13
@@ -358,51 +358,51 @@ http://113.104.185.72:7088/udp/239.253.43.196:5146
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="🇨🇳央视频道🇨🇳",CCTV13
 http://113.104.185.72:7088/udp/239.77.0.188:5146
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="🇨🇳央视频道🇨🇳",CCTV13
-http://113.111.111.96:4022/udp/239.253.43.196:5146
+http://113.111.110.40:4022/udp/239.253.43.196:5146
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="🇨🇳央视频道🇨🇳",CCTV13
-http://113.111.111.96:4022/udp/239.77.0.188:5146
+http://113.111.110.40:4022/udp/239.77.0.188:5146
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="🇨🇳央视频道🇨🇳",CCTV14
 http://113.100.31.43:4022/udp/239.77.1.161:5146
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="🇨🇳央视频道🇨🇳",CCTV14
 http://113.104.185.72:7088/udp/239.77.1.161:5146
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="🇨🇳央视频道🇨🇳",CCTV14
-http://113.111.111.96:4022/udp/239.77.1.161:5146
+http://113.111.110.40:4022/udp/239.77.1.161:5146
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="🇨🇳央视频道🇨🇳",CCTV16
 http://113.100.31.43:4022/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="🇨🇳央视频道🇨🇳",CCTV16
 http://113.104.185.72:7088/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="🇨🇳央视频道🇨🇳",CCTV16
-http://113.111.111.96:4022/udp/239.77.0.165:5146
+http://113.111.110.40:4022/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-name="CCTV17农业" tvg-logo="https://logo.catvod.com/CCTV17农业.png" group-title="🇨🇳央视频道🇨🇳",CCTV17农业
 http://113.100.31.43:4022/udp/239.77.0.198:5146
 #EXTINF:-1 tvg-name="CCTV17农业" tvg-logo="https://logo.catvod.com/CCTV17农业.png" group-title="🇨🇳央视频道🇨🇳",CCTV17农业
 http://113.104.185.72:7088/udp/239.77.0.198:5146
 #EXTINF:-1 tvg-name="CCTV17农业" tvg-logo="https://logo.catvod.com/CCTV17农业.png" group-title="🇨🇳央视频道🇨🇳",CCTV17农业
-http://113.111.111.96:4022/udp/239.77.0.198:5146
+http://113.111.110.40:4022/udp/239.77.0.198:5146
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://113.100.31.43:4022/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="🇨🇳央视频道🇨🇳",CCTV17
 http://113.104.185.72:7088/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="🇨🇳央视频道🇨🇳",CCTV17
-http://113.111.111.96:4022/udp/239.77.1.121:5146
+http://113.111.110.40:4022/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://113.100.31.43:4022/udp/239.77.0.119:5146
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://113.104.185.72:7088/udp/239.77.0.119:5146
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="🇨🇳央视频道🇨🇳",CCTV1
-http://113.111.111.96:4022/udp/239.77.0.119:5146
+http://113.111.110.40:4022/udp/239.77.0.119:5146
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="🇨🇳央视频道🇨🇳",CCTV2
 http://113.100.31.43:4022/udp/239.77.1.158:5146
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="🇨🇳央视频道🇨🇳",CCTV2
 http://113.104.185.72:7088/udp/239.77.1.158:5146
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="🇨🇳央视频道🇨🇳",CCTV2
-http://113.111.111.96:4022/udp/239.77.1.158:5146
+http://113.111.110.40:4022/udp/239.77.1.158:5146
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="🇨🇳央视频道🇨🇳",CCTV3
 http://113.100.31.43:4022/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="🇨🇳央视频道🇨🇳",CCTV3
 http://113.104.185.72:7088/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="🇨🇳央视频道🇨🇳",CCTV3
-http://113.111.111.96:4022/udp/239.77.0.169:5146
+http://113.111.110.40:4022/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-name="CCTV4K 超" tvg-logo="https://logo.catvod.com/CCTV4K 超.png" group-title="🇨🇳央视频道🇨🇳",CCTV4K 超
 http://180.109.94.149:4022/udp/239.49.0.82:8000
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://logo.catvod.com/CCTV4欧洲.png" group-title="🇨🇳央视频道🇨🇳",CCTV4欧洲
@@ -410,13 +410,13 @@ http://113.100.31.43:4022/udp/239.253.43.120:5146
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://logo.catvod.com/CCTV4欧洲.png" group-title="🇨🇳央视频道🇨🇳",CCTV4欧洲
 http://113.104.185.72:7088/udp/239.253.43.120:5146
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://logo.catvod.com/CCTV4欧洲.png" group-title="🇨🇳央视频道🇨🇳",CCTV4欧洲
-http://113.111.111.96:4022/udp/239.253.43.120:5146
+http://113.111.110.40:4022/udp/239.253.43.120:5146
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://logo.catvod.com/CCTV4美洲.png" group-title="🇨🇳央视频道🇨🇳",CCTV4美洲
 http://113.100.31.43:4022/udp/239.253.43.121:5146
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://logo.catvod.com/CCTV4美洲.png" group-title="🇨🇳央视频道🇨🇳",CCTV4美洲
 http://113.104.185.72:7088/udp/239.253.43.121:5146
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://logo.catvod.com/CCTV4美洲.png" group-title="🇨🇳央视频道🇨🇳",CCTV4美洲
-http://113.111.111.96:4022/udp/239.253.43.121:5146
+http://113.111.110.40:4022/udp/239.253.43.121:5146
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
 http://113.100.31.43:4022/udp/239.77.0.78:5146
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
@@ -426,9 +426,9 @@ http://113.104.185.72:7088/udp/239.77.0.78:5146
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
 http://113.104.185.72:7088/udp/239.77.1.163:5146
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://113.111.111.96:4022/udp/239.77.0.78:5146
+http://113.111.110.40:4022/udp/239.77.0.78:5146
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳央视频道🇨🇳",CCTV4
-http://113.111.111.96:4022/udp/239.77.1.163:5146
+http://113.111.110.40:4022/udp/239.77.1.163:5146
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="🇨🇳央视频道🇨🇳",CCTV5+
 http://113.100.31.43:4022/udp/239.77.0.87:5146
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="🇨🇳央视频道🇨🇳",CCTV5+
@@ -438,99 +438,99 @@ http://113.104.185.72:7088/udp/239.77.0.87:5146
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="🇨🇳央视频道🇨🇳",CCTV5+
 http://113.104.185.72:7088/udp/239.77.1.31:5146
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://113.111.111.96:4022/udp/239.77.0.87:5146
+http://113.111.110.40:4022/udp/239.77.0.87:5146
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5+.png" group-title="🇨🇳央视频道🇨🇳",CCTV5+
-http://113.111.111.96:4022/udp/239.77.1.31:5146
+http://113.111.110.40:4022/udp/239.77.1.31:5146
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="🇨🇳央视频道🇨🇳",CCTV5
 http://113.100.31.43:4022/udp/239.77.0.170:5146
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="🇨🇳央视频道🇨🇳",CCTV5
 http://113.104.185.72:7088/udp/239.77.0.170:5146
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://113.111.111.96:4022/udp/239.77.0.170:5146
+http://113.111.110.40:4022/udp/239.77.0.170:5146
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="🇨🇳央视频道🇨🇳",CCTV6
 http://113.100.31.43:4022/udp/239.77.0.171:5146
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="🇨🇳央视频道🇨🇳",CCTV6
 http://113.104.185.72:7088/udp/239.77.0.171:5146
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="🇨🇳央视频道🇨🇳",CCTV6
-http://113.111.111.96:4022/udp/239.77.0.171:5146
+http://113.111.110.40:4022/udp/239.77.0.171:5146
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="🇨🇳央视频道🇨🇳",CCTV8
 http://113.100.31.43:4022/udp/239.77.0.172:5146
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="🇨🇳央视频道🇨🇳",CCTV8
 http://113.104.185.72:7088/udp/239.77.0.172:5146
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="🇨🇳央视频道🇨🇳",CCTV8
-http://113.111.111.96:4022/udp/239.77.0.172:5146
+http://113.111.110.40:4022/udp/239.77.0.172:5146
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="🇨🇳央视频道🇨🇳",CCTV9
 http://113.100.31.43:4022/udp/239.77.1.160:5146
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="🇨🇳央视频道🇨🇳",CCTV9
 http://113.104.185.72:7088/udp/239.77.1.160:5146
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="🇨🇳央视频道🇨🇳",CCTV9
-http://113.111.111.96:4022/udp/239.77.1.160:5146
+http://113.111.110.40:4022/udp/239.77.1.160:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="🛰️卫视频道🛰️",湖南卫视
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.10:5540$吉林组播
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="🛰️卫视频道🛰️",江苏卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=20260308120023c082cb2e08ec46bf86cbff359fa13b92&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260308120023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=43.139.160.244&SecurityKey=20260308120023&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dc824e6a64b53c19d2418df0149523a8&ddCalcu=8dace3802235409e461a06f4db85134c21d9$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=2026030814001816b8b7fe17414d03a74b25530ed2e0be&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260308140018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=43.139.160.244&SecurityKey=20260308140018&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a2e76046237ad88c677b230885089a15&ddCalcu=5a12eae09738600054868203372abd78786c$咪咕
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="🛰️卫视频道🛰️",北京卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/bjws/50/20251127/index.m3u8?msisdn=20260308120023569c8e72b58c4d9e986cf54a0b93e7da&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260308120023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=43.139.160.244&SecurityKey=20260308120023&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=01d91733dc69932efea6bead1a03c015&ddCalcu=5011e0d0c9031007a313ddace6b969a3e2fe$咪咕
+http://gslbmgsplive.miguvideo.com/migu/kailu/bjws/50/20251127/index.m3u8?msisdn=20260308140018ad86d37228bc4d42ba64f4f8da3c7522&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260308140018&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=43.139.160.244&SecurityKey=20260308140018&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dc6aec62e2f74116a2edc466ede3b18b&ddCalcu=bd8ce160ba03e0ecd6e26e624fc7d4e121a6$咪咕
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="🛰️卫视频道🛰️",辽宁卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?msisdn=20260308120023db32b8143a0744dcbdbe1d100d729753&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260308120023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=43.139.160.244&SecurityKey=20260308120023&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d864e68e73ec3febb216784186db2cb4&ddCalcu=4db8ec60240be0d6688e17438e7c631f2ebb$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?msisdn=202603081400198017bb387c0943858ec1a87cc5d14747&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260308140019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=43.139.160.244&SecurityKey=20260308140019&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=737c19233ca3d28a91fd6571222702e9&ddCalcu=97e3e2700c0710292223137c5a63ddf2189a$咪咕
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="🛰️卫视频道🛰️",河南卫视
-http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=20260308120023de83c1754c2849ddbbf76e3836e2ab57&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260308120023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=43.139.160.244&SecurityKey=20260308120023&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3efb5aa455f0f8a215545527d07055aa&ddCalcu=a3aee5f05b00507a0ad475255f504f585a12$咪咕
+http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=20260308140019f0e4c618113e47fe9e61fa2521e3b271&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260308140019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=43.139.160.244&SecurityKey=20260308140019&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a855dc0158fe5d711ff89743deceeb92&ddCalcu=2a98eb50e50ed0cce0d135487f9e85fdf711$咪咕
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="🛰️卫视频道🛰️",大湾区卫视
-http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=202603081200239813ec741b26470f908a2763abc9141b&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260308120023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=43.139.160.244&SecurityKey=20260308120023&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=26ae76be24219c9926d6b1e320e46392&ddCalcu=2296e3a06e8470e60b2e32e412b169dc6929$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2026030814001977b51e786a7e47a38f7ef30067ae7d58&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260308140019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=43.139.160.244&SecurityKey=20260308140019&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=25e3b4eec482c43ddf25f2583f83ea69&ddCalcu=9265eae0e383b084fe3e8c5428f25c24f3dd$咪咕
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="🛰️卫视频道🛰️",湖北卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=20260308120023068b2265640344c6bf6f5d057a2bd9a9&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260308120023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=43.139.160.244&SecurityKey=20260308120023&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d8881d770dee269c0f1d78346b5362dc&ddCalcu=cdd8e2806873105db767403d8e7ed216f90c$咪咕
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=20260308140019227f9c41c7b640a1a8ce34afb0a67bb8&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260308140019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=43.139.160.244&SecurityKey=20260308140019&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2af15573a8e33e1900cc60623bf12564&ddCalcu=426ae5f0217150f5b7332a680e63c3ce0109$咪咕
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="🛰️卫视频道🛰️",吉林卫视
-http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=202603081200242d6c36bcf8644445bdeb4ae14d82e1e6&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260308120024&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=43.139.160.244&SecurityKey=20260308120024&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=14da0d7f8a4479aa9cbfedaf63c04975&ddCalcu=5174e9d04a7000cd376ff8aad4e4f7b9ca9a$咪咕
+http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=2026030814001908534a76f78e4d06ad4ffc6714b3d81c&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260308140019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=43.139.160.244&SecurityKey=20260308140019&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4947c7a979959f879df8543736599135&ddCalcu=5439e1409779c0576a397739495589ffd897$咪咕
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="🛰️卫视频道🛰️",青海卫视
-http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20260308120024391bdc2e43a2474d899b9a8ab5e8f3d3&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260308120024&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=43.139.160.244&SecurityKey=20260308120024&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=87226181ae063d1988b2cff8db6ee4e0&ddCalcu=08e7e420e27e6061b8d18afef0c623bd8189$咪咕
+http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202603081400195179a584c7694d16bbf06dc1ebac96ea&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260308140019&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=43.139.160.244&SecurityKey=20260308140019&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e514dcb256bc469f7faaa415a9bc6be7&ddCalcu=7ee5eb10647cd0bc9ba255164baca4a6f97f$咪咕
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="🛰️卫视频道🛰️",海南卫视
-http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20260308120024943b99038baf46ff99967087389575ef&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260308120024&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=43.139.160.244&SecurityKey=20260308120024&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c85e84b7b99ce5bb1eacffdd8c1f4581&ddCalcu=1c88e5504e7f8014cb87dbd9f9fccea5eb1b$咪咕
+http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20260308140020196b8d5ed7124b1db6fefb854c444d72&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260308140020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=43.139.160.244&SecurityKey=20260308140020&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a13ec4de42e4f812303c06bc9d2dd2a5&ddCalcu=5aa1e230de7dc024dd9ec4b26e04cf380132$咪咕
 #EXTINF:-1 tvg-name="中国农林卫视" tvg-logo="https://logo.catvod.com/中国农林卫视.png" group-title="🛰️卫视频道🛰️",中国农林卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=20260308120024fb93a1bda5994fff9f0e6607f485ba69&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260308120024&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=43.139.160.244&SecurityKey=20260308120024&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4dd2b005fecaad76badca240e5f461d5&ddCalcu=54dde1d06264b0f050e50f4e2caacadda7b6$咪咕
+http://gslbmgsplive.miguvideo.com/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=20260308140020045b212c101f419690b7f789280a62bb&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260308140020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=43.139.160.244&SecurityKey=20260308140020&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=384471d6b2d008330aa735995ac40d7f&ddCalcu=f378ed40046470c1ad569b925d3070a8a303$咪咕
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="🛰️卫视频道🛰️",兵团卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/btws/50/20250804/index.m3u8?msisdn=20260308120024c51aa1954fda4dab9794d3453c4b172f&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260308120024&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=43.139.160.244&SecurityKey=20260308120024&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=21131b41c7f5c23f683f44ae15700448&ddCalcu=8241e4100360107b5411eca74f45fc32836f$咪咕
+http://gslbmgsplive.miguvideo.com/migu/kailu/btws/50/20250804/index.m3u8?msisdn=20260308140020457a85ed12e24ea8bcaec6ea3491725c&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260308140020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=43.139.160.244&SecurityKey=20260308140020&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a7b8ec6635cb16fb4a1554c6d56b0ab4&ddCalcu=4ab7eab0086be06c56d663c54c5b5116af4b$咪咕
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="🛰️卫视频道🛰️",宁夏卫视
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=202603081200243231836265184736babf3c832df3ee66&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260308120024&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=43.139.160.244&SecurityKey=20260308120024&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1bf1b290161d7e2dc299f10cd416f779&ddCalcu=917be7f0f186b01249d0c10611fd979e22cd$咪咕
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=202603081400206ebe5ec3314b4e93a3f8485fb2e1d912&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260308140020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=43.139.160.244&SecurityKey=20260308140020&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7234ad41f34981fbcfa117552fa1993c&ddCalcu=c732e9309481a0adf4215f53741918a1ffcb$咪咕
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="🛰️卫视频道🛰️",重庆卫视
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=2026030812002564d47c7368264e39a1c67a7f8835b148&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260308120025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=43.139.160.244&SecurityKey=20260308120025&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1dda6d33a92b1f5246ec27cad7c50eb0&ddCalcu=01bdeed00a8560cd73d3aac9722bc1ef6542$咪咕
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=20260308140020bdcf52b17fdb492cae7add51722921b2&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260308140020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=43.139.160.244&SecurityKey=20260308140020&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=548f98c3c9778fe571eb27150738d7d3&ddCalcu=35d4e780df8890387c035c197727b8ef1e75$咪咕
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/三沙卫视.png" group-title="🛰️卫视频道🛰️",三沙卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=2026030812002545b331aa68e74029b8ff4c971af60749&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260308120025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=43.139.160.244&SecurityKey=20260308120025&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f5787ac4bb9062f0b0dba225fbc3cb30&ddCalcu=0f35eb70c81370cabcf45b2b29a0b6d20fb0$咪咕
+http://gslbmgsplive.miguvideo.com/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=202603081400201a714a9458c44a178999bf319cf2ce9d&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260308140020&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=43.139.160.244&SecurityKey=20260308140020&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1c801a1848338a94841d487a2a80978b&ddCalcu=b18ce7809010108aa128a4788343d81a4984$咪咕
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="🛰️卫视频道🛰️",东方卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=202603081002234793e9df60cc49a18a25014e4f5cf0da&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260308100223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=218.28.233.106&SecurityKey=20260308100223&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=811e381c41f74d89ebab9414562bdc4c$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=2026030814022887ac00456cc940d8b21c3bd0c7efd31c&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260308140228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=218.28.233.106&SecurityKey=20260308140228&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8d49ae0a8db41814fc2be754999fe4d7$咪咕视频
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="🛰️卫视频道🛰️",江苏卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=2026030810022329a61bafb54f42cbaf2dc95c4bf7df0a&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260308100223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=218.28.233.106&SecurityKey=20260308100223&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e26027e48502e3bc9f80610d7f57c2ee$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=2026030814022827a8d5a030b24aa2bf27c2a0388f162f&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260308140228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=218.28.233.106&SecurityKey=20260308140228&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ec89a5230de680171be071125fc29ed6$咪咕视频
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="🛰️卫视频道🛰️",广东卫视
-http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20260308060218a920fdda3401484290f41ab3fb480524&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260308060218&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20260308060218&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f55258aa90d12fdb69d794b2cacd33da$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20260308140228f991cd8f811d45838bfba50338577c6a&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260308140228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20260308140228&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5f96adfc8736b033df2abb30c73cb540$咪咕视频
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="🛰️卫视频道🛰️",北京卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/50/20251127/index.m3u8?msisdn=20260308080223f821d97ac624413391e14bfdfd77820b&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260308080223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=218.28.233.106&SecurityKey=20260308080223&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=08b502005c634cc5cabba456513c5ffd$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/50/20251127/index.m3u8?msisdn=202603081202284cd6635f290b469290926ded8f299bbe&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260308120228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=218.28.233.106&SecurityKey=20260308120228&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=89fdf7ab2ac73ec18c03b3efdc1908e2$咪咕视频
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="🛰️卫视频道🛰️",辽宁卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?msisdn=202603080802243d3084774bbc43e6812d380abbd9a686&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260308080224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=218.28.233.106&SecurityKey=20260308080224&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=63d94fcf788aff73edf223cd23d30342$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?msisdn=20260308120228e45f00e7c7d641739f5a318de422cac2&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260308120228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=218.28.233.106&SecurityKey=20260308120228&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1dfb9d14b2c7709aefdf5cc481dabc37$咪咕视频
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="🛰️卫视频道🛰️",江西卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/50/20190820/index.m3u8?msisdn=2026030810022415c4c49976424075a91080227b7e14ab&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260308100224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=218.28.233.106&SecurityKey=20260308100224&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0aadad4c1cb81704e6e627f71e186e1a$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/50/20190820/index.m3u8?msisdn=20260308140228c50754a0bdc64a0c8981ec350ec2766a&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260308140228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=218.28.233.106&SecurityKey=20260308140228&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0a292156bc71eecbdcae8f5006ca9b4b$咪咕视频
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="🛰️卫视频道🛰️",河南卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=202603080802243a42293426a64164924f867dd80252d1&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260308080224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=218.28.233.106&SecurityKey=20260308080224&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=98a8474b44dfdb02fc61fa3b0773cab7$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=20260308120229b80dd4ceae92412785667a8f9041d297&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260308120229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=218.28.233.106&SecurityKey=20260308120229&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1a9b5128297f7f3544829409b9c582e5$咪咕视频
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="🛰️卫视频道🛰️",陕西卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/shan3xiws/50/20220809/index.m3u8?msisdn=20260308100224ca37cd1100a14fe0ab01d2d9576ef556&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260308100224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=218.28.233.106&SecurityKey=20260308100224&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b8664d504ffd16efe352a10b24c03688$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/shan3xiws/50/20220809/index.m3u8?msisdn=2026030814022970fd2e1ca4474ccfa7a30c3a416d3b52&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260308140229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=218.28.233.106&SecurityKey=20260308140229&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=80cf7b2f153159519582bddc35662327$咪咕视频
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="🛰️卫视频道🛰️",大湾区卫视
 http://hlszymgsplive.miguvideo.com:8080/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=20260302195256db0b2f940d5d40beb5cff306f01dceb7&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260302195256&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=47.92.222.227&SecurityKey=20260302195256&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f230f7dc4e6da360abd5ecfc696c6641&sv=10004&ct=android$ioptu
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="🛰️卫视频道🛰️",湖北卫视
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=20260308080224a377714a83d44c929e26adc29504adc1&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260308080224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=218.28.233.106&SecurityKey=20260308080224&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=da4794aa8656f7fd9acb9317fb88f2dc$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=2026030812022993acb898ea8e4093a9e9dd56dd0990a5&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260308120229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=218.28.233.106&SecurityKey=20260308120229&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dace861e864f2988827b04137f173092$咪咕视频
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="🛰️卫视频道🛰️",吉林卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20260308080224baec86a38e20459e8284845aa9e153ad&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260308080224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=218.28.233.106&SecurityKey=20260308080224&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=09ebee2631c92c38804508d72605d6c0$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20260308120229a5cba4ae2f9446ba900eb581221ca4ae&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260308120229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=218.28.233.106&SecurityKey=20260308120229&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9a6c14daa102543e566083a977ee0fad$咪咕视频
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="🛰️卫视频道🛰️",青海卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=2026030810022416dcf6e3558b4ac49e087230322a8f93&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260308100224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=218.28.233.106&SecurityKey=20260308100224&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e238febe922ecdfd20889b8aeb71ddf0$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20260308140229d51eefad87c84ff7b03212817e148b53&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260308140229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=218.28.233.106&SecurityKey=20260308140229&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=512a5b44e1298cffa61a200664a7d0ff$咪咕视频
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="🛰️卫视频道🛰️",海南卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/SD/lvyou/711/index.m3u8?msisdn=202603080802249f73c7af607c4ed29bb2b87c718d8c44&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260308080224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=218.28.233.106&SecurityKey=20260308080224&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9264674248a6d8f30fa349380f9f580b$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/SD/lvyou/711/index.m3u8?msisdn=202603081202290ed5abd46d6345658cd7a7e6a95e3cea&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260308120229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=218.28.233.106&SecurityKey=20260308120229&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bd8645a6bd155add38d458949f019fea$咪咕视频
 #EXTINF:-1 tvg-name="中国农林卫视" tvg-logo="https://logo.catvod.com/中国农林卫视.png" group-title="🛰️卫视频道🛰️",中国农林卫视
 http://hlszymgsplive.miguvideo.com:8080/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=2026030219525966b599bc05084ee1b0bea9e91b5f1895&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260302195259&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=47.92.222.227&SecurityKey=20260302195259&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cf26b5b96aaa67e2141ee0ac32aa7b6c&sv=10004&ct=android$ioptu
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="🛰️卫视频道🛰️",兵团卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=20260308080225ad066ff60ba046f3ac94e5d680a21737&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260308080225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=218.28.233.106&SecurityKey=20260308080225&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ce7a57d3e80b02fe8c0a8221512e5338$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/50/20250804/index.m3u8?msisdn=202603081202299e4c3a8e99e648ff9beeacce31c1bf5b&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260308120229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=218.28.233.106&SecurityKey=20260308120229&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=835077d3b30464054a7d3e2e01ca9c1d$咪咕视频
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="🛰️卫视频道🛰️",宁夏卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=202603080802258dcd462639304631b0aa49e6e9995f77&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260308080225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=218.28.233.106&SecurityKey=20260308080225&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dfe12cd5a97d7e1967a597347e83af7e$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20260308120230aa62904074384881b8ecc321e5662ef4&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260308120230&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=218.28.233.106&SecurityKey=20260308120230&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=44c049040a9c9f50577a7c65715f863a$咪咕视频
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="🛰️卫视频道🛰️",重庆卫视
-http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=20260308100224e7b0ebcfd28e43deb056ede536559c77&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260308100224&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20260308100224&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7c7a6991940f023f2f16caf499d9ba63$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=202603081402293ee17b25009d4eebada526b6362f08b4&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260308140229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=218.28.233.106&SecurityKey=20260308140229&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=58ed6840986f1f724fd22b018bf6b5ac$咪咕视频
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/三沙卫视.png" group-title="🛰️卫视频道🛰️",三沙卫视
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=2026030808022548467446def847778dafad9861334313&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260308080225&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260308080225&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=061b6fa1d922386b3af9dc815c767a82$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20260308120230019b9657e312456fb7786bdcc577070e&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260308120230&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=218.28.233.106&SecurityKey=20260308120230&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b9a1dc10d13a58290d058058266de878$咪咕视频
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="🛰️卫视频道🛰️",东方卫视
 http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/dongfanghd265/51/20191230/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260302180233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=218.28.233.106&SecurityKey=20260302180233&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=97faf0cafc0f7698aa5fa98822760b4b&sv=10004&ct=android$咪咕视频
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="🛰️卫视频道🛰️",北京卫视
@@ -1088,13 +1088,13 @@ http://113.100.31.43:4022/udp/239.253.43.113:5146
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/三沙卫视.png" group-title="🛰️卫视频道🛰️",三沙卫视
 http://113.104.185.72:7088/udp/239.253.43.113:5146
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/三沙卫视.png" group-title="🛰️卫视频道🛰️",三沙卫视
-http://113.111.111.96:4022/udp/239.253.43.113:5146
+http://113.111.110.40:4022/udp/239.253.43.113:5146
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="🛰️卫视频道🛰️",东南卫视
 http://113.100.31.43:4022/udp/239.77.1.104:5146
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="🛰️卫视频道🛰️",东南卫视
 http://113.104.185.72:7088/udp/239.77.1.104:5146
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="🛰️卫视频道🛰️",东南卫视
-http://113.111.111.96:4022/udp/239.77.1.104:5146
+http://113.111.110.40:4022/udp/239.77.1.104:5146
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="🛰️卫视频道🛰️",东方卫视
 http://113.100.31.43:4022/udp/239.77.0.5:5146
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="🛰️卫视频道🛰️",东方卫视
@@ -1104,21 +1104,21 @@ http://113.104.185.72:7088/udp/239.77.0.5:5146
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="🛰️卫视频道🛰️",东方卫视
 http://113.104.185.72:7088/udp/239.77.0.98:5146
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="🛰️卫视频道🛰️",东方卫视
-http://113.111.111.96:4022/udp/239.77.0.5:5146
+http://113.111.110.40:4022/udp/239.77.0.5:5146
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="🛰️卫视频道🛰️",东方卫视
-http://113.111.111.96:4022/udp/239.77.0.98:5146
+http://113.111.110.40:4022/udp/239.77.0.98:5146
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="🛰️卫视频道🛰️",云南卫视
 http://113.100.31.43:4022/udp/239.253.43.100:5146
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="🛰️卫视频道🛰️",云南卫视
 http://113.104.185.72:7088/udp/239.253.43.100:5146
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="🛰️卫视频道🛰️",云南卫视
-http://113.111.111.96:4022/udp/239.253.43.100:5146
+http://113.111.110.40:4022/udp/239.253.43.100:5146
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="🛰️卫视频道🛰️",兵团卫视
 http://113.100.31.43:4022/udp/239.77.1.29:5146
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="🛰️卫视频道🛰️",兵团卫视
 http://113.104.185.72:7088/udp/239.77.1.29:5146
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="🛰️卫视频道🛰️",兵团卫视
-http://113.111.111.96:4022/udp/239.77.1.29:5146
+http://113.111.110.40:4022/udp/239.77.1.29:5146
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="🛰️卫视频道🛰️",北京卫视
 http://113.100.31.43:4022/udp/239.77.0.232:5146
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="🛰️卫视频道🛰️",北京卫视
@@ -1132,13 +1132,17 @@ http://113.104.185.72:7088/udp/239.77.0.91:5146
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="🛰️卫视频道🛰️",北京卫视
 http://113.104.185.72:7088/udp/239.77.1.4:5146
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="🛰️卫视频道🛰️",北京卫视
-http://113.111.111.96:4022/udp/239.77.0.232:5146
+http://113.111.110.40:4022/udp/239.77.0.232:5146
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="🛰️卫视频道🛰️",北京卫视
+http://113.111.110.40:4022/udp/239.77.0.91:5146
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="🛰️卫视频道🛰️",北京卫视
+http://113.111.110.40:4022/udp/239.77.1.4:5146
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="🛰️卫视频道🛰️",吉林卫视
 http://113.100.31.43:4022/udp/239.77.0.150:5146
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="🛰️卫视频道🛰️",吉林卫视
 http://113.104.185.72:7088/udp/239.77.0.150:5146
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="🛰️卫视频道🛰️",吉林卫视
-http://113.111.111.96:4022/udp/239.77.0.150:5146
+http://113.111.110.40:4022/udp/239.77.0.150:5146
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="🛰️卫视频道🛰️",四川卫视
 http://113.100.31.43:4022/udp/239.77.0.11:5146
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="🛰️卫视频道🛰️",四川卫视
@@ -1148,15 +1152,15 @@ http://113.104.185.72:7088/udp/239.77.0.11:5146
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="🛰️卫视频道🛰️",四川卫视
 http://113.104.185.72:7088/udp/239.77.0.159:5146
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="🛰️卫视频道🛰️",四川卫视
-http://113.111.111.96:4022/udp/239.77.0.11:5146
+http://113.111.110.40:4022/udp/239.77.0.11:5146
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="🛰️卫视频道🛰️",四川卫视
-http://113.111.111.96:4022/udp/239.77.0.159:5146
+http://113.111.110.40:4022/udp/239.77.0.159:5146
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="🛰️卫视频道🛰️",大湾区卫视
 http://113.100.31.43:4022/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="🛰️卫视频道🛰️",大湾区卫视
 http://113.104.185.72:7088/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="🛰️卫视频道🛰️",大湾区卫视
-http://113.111.111.96:4022/udp/239.77.0.215:5146
+http://113.111.110.40:4022/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="🛰️卫视频道🛰️",天津卫视
 http://113.100.31.43:4022/udp/239.77.0.97:5146
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="🛰️卫视频道🛰️",天津卫视
@@ -1166,15 +1170,15 @@ http://113.104.185.72:7088/udp/239.77.0.97:5146
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="🛰️卫视频道🛰️",天津卫视
 http://113.104.185.72:7088/udp/239.77.1.141:5146
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="🛰️卫视频道🛰️",天津卫视
-http://113.111.111.96:4022/udp/239.77.0.97:5146
+http://113.111.110.40:4022/udp/239.77.0.97:5146
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="🛰️卫视频道🛰️",天津卫视
-http://113.111.111.96:4022/udp/239.77.1.141:5146
+http://113.111.110.40:4022/udp/239.77.1.141:5146
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="🛰️卫视频道🛰️",宁夏卫视
 http://113.100.31.43:4022/udp/239.77.1.28:5146
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="🛰️卫视频道🛰️",宁夏卫视
 http://113.104.185.72:7088/udp/239.77.1.28:5146
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="🛰️卫视频道🛰️",宁夏卫视
-http://113.111.111.96:4022/udp/239.77.1.28:5146
+http://113.111.110.40:4022/udp/239.77.1.28:5146
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="🛰️卫视频道🛰️",安徽卫视
 http://113.100.31.43:4022/udp/239.77.0.183:5146
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="🛰️卫视频道🛰️",安徽卫视
@@ -1184,9 +1188,9 @@ http://113.104.185.72:7088/udp/239.77.0.183:5146
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="🛰️卫视频道🛰️",安徽卫视
 http://113.104.185.72:7088/udp/239.77.1.92:5146
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="🛰️卫视频道🛰️",安徽卫视
-http://113.111.111.96:4022/udp/239.77.0.183:5146
+http://113.111.110.40:4022/udp/239.77.0.183:5146
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="🛰️卫视频道🛰️",安徽卫视
-http://113.111.111.96:4022/udp/239.77.1.92:5146
+http://113.111.110.40:4022/udp/239.77.1.92:5146
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="🛰️卫视频道🛰️",山东卫视
 http://113.100.31.43:4022/udp/239.77.0.8:5146
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="🛰️卫视频道🛰️",山东卫视
@@ -1196,9 +1200,9 @@ http://113.104.185.72:7088/udp/239.77.0.8:5146
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="🛰️卫视频道🛰️",山东卫视
 http://113.104.185.72:7088/udp/239.77.0.94:5146
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="🛰️卫视频道🛰️",山东卫视
-http://113.111.111.96:4022/udp/239.77.0.8:5146
+http://113.111.110.40:4022/udp/239.77.0.8:5146
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="🛰️卫视频道🛰️",山东卫视
-http://113.111.111.96:4022/udp/239.77.0.94:5146
+http://113.111.110.40:4022/udp/239.77.0.94:5146
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="🛰️卫视频道🛰️",广东卫视
 http://113.100.31.43:4022/udp/239.77.0.4:5146
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="🛰️卫视频道🛰️",广东卫视
@@ -1212,15 +1216,13 @@ http://113.104.185.72:7088/udp/239.77.0.84:5146
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="🛰️卫视频道🛰️",广东卫视
 http://113.104.185.72:7088/udp/239.77.1.19:5146
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="🛰️卫视频道🛰️",广东卫视
-http://113.111.111.96:4022/udp/239.77.0.4:5146
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="🛰️卫视频道🛰️",广东卫视
-http://113.111.111.96:4022/udp/239.77.1.19:5146
+http://113.111.110.40:4022/udp/239.77.1.19:5146
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="🛰️卫视频道🛰️",广西卫视
 http://113.100.31.43:4022/udp/239.77.0.139:5146
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="🛰️卫视频道🛰️",广西卫视
 http://113.104.185.72:7088/udp/239.77.0.139:5146
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="🛰️卫视频道🛰️",广西卫视
-http://113.111.111.96:4022/udp/239.77.0.139:5146
+http://113.111.110.40:4022/udp/239.77.0.139:5146
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="🛰️卫视频道🛰️",新疆卫视
 http://113.100.31.43:4022/udp/239.253.43.202:5146
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="🛰️卫视频道🛰️",新疆卫视
@@ -1230,9 +1232,9 @@ http://113.104.185.72:7088/udp/239.253.43.202:5146
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="🛰️卫视频道🛰️",新疆卫视
 http://113.104.185.72:7088/udp/239.77.1.25:5146
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="🛰️卫视频道🛰️",新疆卫视
-http://113.111.111.96:4022/udp/239.253.43.202:5146
+http://113.111.110.40:4022/udp/239.253.43.202:5146
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="🛰️卫视频道🛰️",新疆卫视
-http://113.111.111.96:4022/udp/239.77.1.25:5146
+http://113.111.110.40:4022/udp/239.77.1.25:5146
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="🛰️卫视频道🛰️",江苏卫视
 http://113.100.31.43:4022/udp/239.77.0.7:5146
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="🛰️卫视频道🛰️",江苏卫视
@@ -1242,27 +1244,27 @@ http://113.104.185.72:7088/udp/239.77.0.7:5146
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="🛰️卫视频道🛰️",江苏卫视
 http://113.104.185.72:7088/udp/239.77.0.90:5146
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="🛰️卫视频道🛰️",江苏卫视
-http://113.111.111.96:4022/udp/239.77.0.7:5146
+http://113.111.110.40:4022/udp/239.77.0.7:5146
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="🛰️卫视频道🛰️",江苏卫视
-http://113.111.111.96:4022/udp/239.77.0.90:5146
+http://113.111.110.40:4022/udp/239.77.0.90:5146
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="🛰️卫视频道🛰️",江西卫视
 http://113.100.31.43:4022/udp/239.77.0.149:5146
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="🛰️卫视频道🛰️",江西卫视
 http://113.104.185.72:7088/udp/239.77.0.149:5146
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="🛰️卫视频道🛰️",江西卫视
-http://113.111.111.96:4022/udp/239.77.0.149:5146
+http://113.111.110.40:4022/udp/239.77.0.149:5146
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="🛰️卫视频道🛰️",河北卫视
 http://113.100.31.43:4022/udp/239.77.0.148:5146
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="🛰️卫视频道🛰️",河北卫视
 http://113.104.185.72:7088/udp/239.77.0.148:5146
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="🛰️卫视频道🛰️",河北卫视
-http://113.111.111.96:4022/udp/239.77.0.148:5146
+http://113.111.110.40:4022/udp/239.77.0.148:5146
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="🛰️卫视频道🛰️",河南卫视
 http://113.100.31.43:4022/udp/239.77.0.17:5146
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="🛰️卫视频道🛰️",河南卫视
 http://113.104.185.72:7088/udp/239.77.0.17:5146
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="🛰️卫视频道🛰️",河南卫视
-http://113.111.111.96:4022/udp/239.77.0.17:5146
+http://113.111.110.40:4022/udp/239.77.0.17:5146
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="🛰️卫视频道🛰️",浙江卫视
 http://113.100.31.43:4022/udp/239.77.0.12:5146
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="🛰️卫视频道🛰️",浙江卫视
@@ -1272,15 +1274,15 @@ http://113.104.185.72:7088/udp/239.77.0.12:5146
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="🛰️卫视频道🛰️",浙江卫视
 http://113.104.185.72:7088/udp/239.77.0.89:5146
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="🛰️卫视频道🛰️",浙江卫视
-http://113.111.111.96:4022/udp/239.77.0.12:5146
+http://113.111.110.40:4022/udp/239.77.0.12:5146
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="🛰️卫视频道🛰️",浙江卫视
-http://113.111.111.96:4022/udp/239.77.0.89:5146
+http://113.111.110.40:4022/udp/239.77.0.89:5146
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="🛰️卫视频道🛰️",海南卫视
 http://113.100.31.43:4022/udp/239.253.43.101:5146
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="🛰️卫视频道🛰️",海南卫视
 http://113.104.185.72:7088/udp/239.253.43.101:5146
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="🛰️卫视频道🛰️",海南卫视
-http://113.111.111.96:4022/udp/239.253.43.101:5146
+http://113.111.110.40:4022/udp/239.253.43.101:5146
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="🛰️卫视频道🛰️",深圳卫视
 http://113.100.31.43:4022/udp/239.77.0.92:5146
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="🛰️卫视频道🛰️",深圳卫视
@@ -1294,9 +1296,9 @@ http://113.104.185.72:7088/udp/239.77.0.9:5146
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="🛰️卫视频道🛰️",深圳卫视
 http://113.104.185.72:7088/udp/239.77.1.3:5146
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="🛰️卫视频道🛰️",深圳卫视
-http://113.111.111.96:4022/udp/239.77.0.9:5146
+http://113.111.110.40:4022/udp/239.77.0.9:5146
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="🛰️卫视频道🛰️",深圳卫视
-http://113.111.111.96:4022/udp/239.77.1.3:5146
+http://113.111.110.40:4022/udp/239.77.1.3:5146
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="🛰️卫视频道🛰️",湖北卫视
 http://113.100.31.43:4022/udp/239.77.0.95:5146
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="🛰️卫视频道🛰️",湖北卫视
@@ -1310,11 +1312,11 @@ http://113.104.185.72:7088/udp/239.77.1.174:5146
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="🛰️卫视频道🛰️",湖北卫视
 http://113.104.185.72:7088/udp/239.77.1.93:5146
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="🛰️卫视频道🛰️",湖北卫视
-http://113.111.111.96:4022/udp/239.77.0.95:5146
+http://113.111.110.40:4022/udp/239.77.0.95:5146
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="🛰️卫视频道🛰️",湖北卫视
-http://113.111.111.96:4022/udp/239.77.1.174:5146
+http://113.111.110.40:4022/udp/239.77.1.174:5146
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="🛰️卫视频道🛰️",湖北卫视
-http://113.111.111.96:4022/udp/239.77.1.93:5146
+http://113.111.110.40:4022/udp/239.77.1.93:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="🛰️卫视频道🛰️",湖南卫视
 http://113.100.31.43:4022/udp/239.77.0.6:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="🛰️卫视频道🛰️",湖南卫视
@@ -1328,53 +1330,53 @@ http://113.104.185.72:7088/udp/239.77.0.88:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="🛰️卫视频道🛰️",湖南卫视
 http://113.104.185.72:7088/udp/239.77.1.5:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="🛰️卫视频道🛰️",湖南卫视
-http://113.111.111.96:4022/udp/239.77.0.6:5146
+http://113.111.110.40:4022/udp/239.77.0.6:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="🛰️卫视频道🛰️",湖南卫视
-http://113.111.111.96:4022/udp/239.77.0.88:5146
+http://113.111.110.40:4022/udp/239.77.0.88:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="🛰️卫视频道🛰️",湖南卫视
-http://113.111.111.96:4022/udp/239.77.1.5:5146
+http://113.111.110.40:4022/udp/239.77.1.5:5146
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="🛰️卫视频道🛰️",甘肃卫视
 http://113.100.31.43:4022/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="🛰️卫视频道🛰️",甘肃卫视
 http://113.104.185.72:7088/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="🛰️卫视频道🛰️",甘肃卫视
-http://113.111.111.96:4022/udp/239.77.0.189:5146
+http://113.111.110.40:4022/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-name="福建东南卫视" tvg-logo="https://logo.catvod.com/福建东南卫视.png" group-title="🛰️卫视频道🛰️",福建东南卫视
 http://113.100.31.43:4022/udp/239.77.0.146:5146
 #EXTINF:-1 tvg-name="福建东南卫视" tvg-logo="https://logo.catvod.com/福建东南卫视.png" group-title="🛰️卫视频道🛰️",福建东南卫视
 http://113.104.185.72:7088/udp/239.77.0.146:5146
 #EXTINF:-1 tvg-name="福建东南卫视" tvg-logo="https://logo.catvod.com/福建东南卫视.png" group-title="🛰️卫视频道🛰️",福建东南卫视
-http://113.111.111.96:4022/udp/239.77.0.146:5146
+http://113.111.110.40:4022/udp/239.77.0.146:5146
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="🛰️卫视频道🛰️",贵州卫视
 http://113.100.31.43:4022/udp/239.77.0.230:5146
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="🛰️卫视频道🛰️",贵州卫视
 http://113.104.185.72:7088/udp/239.77.0.230:5146
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="🛰️卫视频道🛰️",贵州卫视
-http://113.111.111.96:4022/udp/239.77.0.230:5146
+http://113.111.110.40:4022/udp/239.77.0.230:5146
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="🛰️卫视频道🛰️",辽宁卫视
 http://113.100.31.43:4022/udp/239.77.0.123:5146
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="🛰️卫视频道🛰️",辽宁卫视
 http://113.104.185.72:7088/udp/239.77.0.123:5146
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="🛰️卫视频道🛰️",辽宁卫视
-http://113.111.111.96:4022/udp/239.77.0.123:5146
+http://113.111.110.40:4022/udp/239.77.0.123:5146
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="🛰️卫视频道🛰️",辽宁卫视
 http://113.100.31.43:4022/udp/239.77.1.103:5146
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="🛰️卫视频道🛰️",辽宁卫视
 http://113.104.185.72:7088/udp/239.77.1.103:5146
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="🛰️卫视频道🛰️",辽宁卫视
-http://113.111.111.96:4022/udp/239.77.1.103:5146
+http://113.111.110.40:4022/udp/239.77.1.103:5146
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="🛰️卫视频道🛰️",重庆卫视
 http://113.100.31.43:4022/udp/239.77.0.182:5146
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="🛰️卫视频道🛰️",重庆卫视
 http://113.104.185.72:7088/udp/239.77.0.182:5146
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="🛰️卫视频道🛰️",重庆卫视
-http://113.111.111.96:4022/udp/239.77.0.182:5146
+http://113.111.110.40:4022/udp/239.77.0.182:5146
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="🛰️卫视频道🛰️",青海卫视
 http://113.100.31.43:4022/udp/239.253.43.125:5146
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="🛰️卫视频道🛰️",青海卫视
 http://113.104.185.72:7088/udp/239.253.43.125:5146
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="🛰️卫视频道🛰️",青海卫视
-http://113.111.111.96:4022/udp/239.253.43.125:5146
+http://113.111.110.40:4022/udp/239.253.43.125:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="🛰️卫视频道🛰️",黑龙江卫视
 http://113.100.31.43:4022/udp/239.77.0.93:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="🛰️卫视频道🛰️",黑龙江卫视
@@ -1388,11 +1390,9 @@ http://113.104.185.72:7088/udp/239.77.1.179:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="🛰️卫视频道🛰️",黑龙江卫视
 http://113.104.185.72:7088/udp/239.77.1.6:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="🛰️卫视频道🛰️",黑龙江卫视
-http://113.111.111.96:4022/udp/239.77.0.93:5146
+http://113.111.110.40:4022/udp/239.77.0.93:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="🛰️卫视频道🛰️",黑龙江卫视
-http://113.111.111.96:4022/udp/239.77.1.179:5146
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="🛰️卫视频道🛰️",黑龙江卫视
-http://113.111.111.96:4022/udp/239.77.1.6:5146
+http://113.111.110.40:4022/udp/239.77.1.179:5146
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://logo.catvod.com/湖南经视.png" group-title="🌎地方卫视🌎",湖南经视
 http://111.23.208.105:9999/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://logo.catvod.com/湖南都市.png" group-title="🌎地方卫视🌎",湖南都市
@@ -1426,27 +1426,27 @@ http://113.104.185.72:7088/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🌎地方卫视🌎",深圳体育健康
 http://113.104.185.72:7088/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🌎地方卫视🌎",深圳体育健康
-http://113.111.111.96:4022/udp/239.77.1.128:5146
+http://113.111.110.40:4022/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🌎地方卫视🌎",深圳体育健康
-http://113.111.111.96:4022/udp/239.77.1.140:5146
+http://113.111.110.40:4022/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🌎地方卫视🌎",深圳电视剧频道
 http://113.100.31.43:4022/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🌎地方卫视🌎",深圳电视剧频道
 http://113.104.185.72:7088/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🌎地方卫视🌎",深圳电视剧频道
-http://113.111.111.96:4022/udp/239.77.1.125:5146
+http://113.111.110.40:4022/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🌎地方卫视🌎",深圳财经生活
 http://113.100.31.43:4022/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🌎地方卫视🌎",深圳财经生活
 http://113.104.185.72:7088/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🌎地方卫视🌎",深圳财经生活
-http://113.111.111.96:4022/udp/239.77.1.242:5146
+http://113.111.110.40:4022/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🌎地方卫视🌎",深圳都市频道
 http://113.100.31.43:4022/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🌎地方卫视🌎",深圳都市频道
 http://113.104.185.72:7088/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🌎地方卫视🌎",深圳都市频道
-http://113.111.111.96:4022/udp/239.77.1.176:5146
+http://113.111.110.40:4022/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="🇭🇰港澳台🇭🇰",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="🇭🇰港澳台🇭🇰",凤凰资讯
@@ -2034,9 +2034,9 @@ http://zzy789.xyz/douyu1.php?id=488743
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://logo.catvod.com/JJ斗地主.png" group-title="🏆体育频道🏅",JJ斗地主
 http://106.53.99.30/tv/api.php?id=jj
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://logo.catvod.com/快乐垂钓.png" group-title="🏆体育频道🏅",快乐垂钓
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=20260308080223d42518dd1785452697b145d0ee3982cc&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260308080223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260308080223&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=75902f1e6cbc43d58d7b819da0548bea$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=20260308120228d893057243214bf6bb569ae93a98fa3f&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260308120228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260308120228&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=166eafe83cf94a6d96052cc9ac5bdfdd$咪咕视频
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://logo.catvod.com/四海钓鱼.png" group-title="🏆体育频道🏅",四海钓鱼
-http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?msisdn=202603080802236cab10e6c95e4b98a167fce13c41649c&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260308080223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=218.28.233.106&SecurityKey=20260308080223&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1d28094b6b5e6064d5c8033090c890cb$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?msisdn=202603081202288cdbc4d9a5ae4fe7bc3237357656db9a&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260308120228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=218.28.233.106&SecurityKey=20260308120228&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3df63b35e6481c9cb650f989ee33805f$咪咕视频
 #EXTINF:-1 tvg-name="Trace Sports" tvg-logo="https://logo.catvod.com/Trace Sports.png" group-title="🏆体育频道🏅",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="红牛运动" tvg-logo="https://logo.catvod.com/红牛运动.png" group-title="🏆体育频道🏅",红牛运动
@@ -2179,9 +2179,9 @@ http://migu.heropx.dpdns.org/963442608
 http://migu.heropx.dpdns.org/963464679
 #EXTINF:-1 tvg-name="广西县级足球超级联赛 百色市田东县队2-1河池市金城江区队 25/26赛季广西县级足球超级联赛第4轮：百色市田东县队2:1河池市金城江区队 4:30" tvg-logo="https://logo.catvod.com/广西县级足球超级联赛 百色市田东县队2-1河池市金城江区队 25/26赛季广西县级足球超级联赛第4轮：百色市田东县队2:1河池市金城江区队 4:30.png" group-title="🎾昨日赛事🎾",广西县级足球超级联赛 百色市田东县队2-1河池市金城江区队 25/26赛季广西县级足球超级联赛第4轮：百色市田东县队2:1河池市金城江区队 4:30
 http://migu.heropx.dpdns.org/963467719
-#EXTINF:-1 tvg-name="广西县级足球超级联赛 柳州市柳南区队3-0来宾市武宣县队 25/26赛季广西县级足球超级联赛第4轮：柳州市柳南区队3:0来宾市武宣县队 14:30" tvg-logo="https://logo.catvod.com/广西县级足球超级联赛 柳州市柳南区队3-0来宾市武宣县队 25/26赛季广西县级足球超级联赛第4轮：柳州市柳南区队3:0来宾市武宣县队 14:30.png" group-title="🎾昨日赛事🎾",广西县级足球超级联赛 柳州市柳南区队3-0来宾市武宣县队 25/26赛季广西县级足球超级联赛第4轮：柳州市柳南区队3:0来宾市武宣县队 14:30
+#EXTINF:-1 tvg-name="广西县级足球超级联赛 柳州市柳南区队3-0来宾市武宣县队 25/26赛季广西县级足球超级联赛第4轮：柳州市柳南区队3:0来宾市武宣县队 4:30" tvg-logo="https://logo.catvod.com/广西县级足球超级联赛 柳州市柳南区队3-0来宾市武宣县队 25/26赛季广西县级足球超级联赛第4轮：柳州市柳南区队3:0来宾市武宣县队 4:30.png" group-title="🎾昨日赛事🎾",广西县级足球超级联赛 柳州市柳南区队3-0来宾市武宣县队 25/26赛季广西县级足球超级联赛第4轮：柳州市柳南区队3:0来宾市武宣县队 4:30
 http://migu.heropx.dpdns.org/963465060
-#EXTINF:-1 tvg-name="云南省城市足球联赛 丽江队VS西双版纳队 全场回放 15:00" tvg-logo="https://logo.catvod.com/云南省城市足球联赛 丽江队VS西双版纳队 全场回放 15:00.png" group-title="🎾昨日赛事🎾",云南省城市足球联赛 丽江队VS西双版纳队 全场回放 15:00
+#EXTINF:-1 tvg-name="云南省城市足球联赛 丽江队VS西双版纳队 全场回放 5:00" tvg-logo="https://logo.catvod.com/云南省城市足球联赛 丽江队VS西双版纳队 全场回放 5:00.png" group-title="🎾昨日赛事🎾",云南省城市足球联赛 丽江队VS西双版纳队 全场回放 5:00
 http://migu.heropx.dpdns.org/963465529
 #EXTINF:-1 tvg-name="云南省城市足球联赛 昭通队VS大理队 全场回放 5:00" tvg-logo="https://logo.catvod.com/云南省城市足球联赛 昭通队VS大理队 全场回放 5:00.png" group-title="🎾昨日赛事🎾",云南省城市足球联赛 昭通队VS大理队 全场回放 5:00
 http://migu.heropx.dpdns.org/963466444
@@ -2201,12 +2201,6 @@ http://migu.heropx.dpdns.org/963465436
 http://migu.heropx.dpdns.org/963465581
 #EXTINF:-1 tvg-name="女篮俱乐部杯 合肥文旅VS四川蜀道远达 全场回放（原声） 16:55" tvg-logo="https://logo.catvod.com/女篮俱乐部杯 合肥文旅VS四川蜀道远达 全场回放（原声） 16:55.png" group-title="🎾昨日赛事🎾",女篮俱乐部杯 合肥文旅VS四川蜀道远达 全场回放（原声） 16:55
 http://migu.heropx.dpdns.org/963466757
-#EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 2026BWF英国羽毛球公开赛Day5一号场全场回放（四） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 2026BWF英国羽毛球公开赛Day5一号场全场回放（四） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 2026BWF英国羽毛球公开赛Day5一号场全场回放（四） 02:00
-http://migu.heropx.dpdns.org/963475729
-#EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 2026BWF英国羽毛球公开赛男双半决赛回放：金元浩/徐承宰2-0因陀罗/华金（鸿昆） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 2026BWF英国羽毛球公开赛男双半决赛回放：金元浩/徐承宰2-0因陀罗/华金（鸿昆） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 2026BWF英国羽毛球公开赛男双半决赛回放：金元浩/徐承宰2-0因陀罗/华金（鸿昆） 02:00
-http://migu.heropx.dpdns.org/963474939
-#EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 2026BWF英国羽毛球公开赛Day5一号场全场回放（三） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 2026BWF英国羽毛球公开赛Day5一号场全场回放（三） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 2026BWF英国羽毛球公开赛Day5一号场全场回放（三） 02:00
-http://migu.heropx.dpdns.org/963474917
 #EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】郭新娃/陈芳卉1-2吉凯尔/德尔吕（余博洋） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】郭新娃/陈芳卉1-2吉凯尔/德尔吕（余博洋） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】郭新娃/陈芳卉1-2吉凯尔/德尔吕（余博洋） 02:00
 http://migu.heropx.dpdns.org/963465180
 #EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】林俊易2-1昆拉武特（余博洋） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】林俊易2-1昆拉武特（余博洋） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】林俊易2-1昆拉武特（余博洋） 02:00
@@ -2225,15 +2219,21 @@ http://migu.heropx.dpdns.org/963473990
 http://migu.heropx.dpdns.org/963474220
 #EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】山口茜0-2王祉怡（鸿昆） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】山口茜0-2王祉怡（鸿昆） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】山口茜0-2王祉怡（鸿昆） 02:00
 http://migu.heropx.dpdns.org/963474585
-#EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 一号场全场回放（一） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 一号场全场回放（一） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 一号场全场回放（一） 02:00
+#EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】金元浩/徐承宰2-0因陀罗/华金（鸿昆） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】金元浩/徐承宰2-0因陀罗/华金（鸿昆） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 【回放】金元浩/徐承宰2-0因陀罗/华金（鸿昆） 02:00
+http://migu.heropx.dpdns.org/963474939
+#EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（一） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（一） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（一） 02:00
 http://migu.heropx.dpdns.org/963472850
-#EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 一号场全场回放（二） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 一号场全场回放（二） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 一号场全场回放（二） 02:00
+#EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（二） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（二） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（二） 02:00
 http://migu.heropx.dpdns.org/963473893
+#EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（四） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（四） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（四） 02:00
+http://migu.heropx.dpdns.org/963475729
+#EXTINF:-1 tvg-name="BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（三） 02:00" tvg-logo="https://logo.catvod.com/BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（三） 02:00.png" group-title="🎾昨日赛事🎾",BWF 陈雨菲1-2止步 王祉怡晋级决赛 【全场回放】一号场（三） 02:00
+http://migu.heropx.dpdns.org/963474917
 #EXTINF:-1 tvg-name="WBC 韩国6-8日本 【全场回放】韩国6-8日本（中文解说） 18:00" tvg-logo="https://logo.catvod.com/WBC 韩国6-8日本 【全场回放】韩国6-8日本（中文解说） 18:00.png" group-title="🎾昨日赛事🎾",WBC 韩国6-8日本 【全场回放】韩国6-8日本（中文解说） 18:00
 http://migu.heropx.dpdns.org/963472688
 #EXTINF:-1 tvg-name="WBC 韩国6-8日本 【全场回放】韩国6-8日本 18:00" tvg-logo="https://logo.catvod.com/WBC 韩国6-8日本 【全场回放】韩国6-8日本 18:00.png" group-title="🎾昨日赛事🎾",WBC 韩国6-8日本 【全场回放】韩国6-8日本 18:00
 http://migu.heropx.dpdns.org/963472037
-#EXTINF:-1 tvg-name="江西省城市篮球联赛 宜春79-73吉安 2026江西省城市篮球联赛全场回放：宜春VS吉安 19:00" tvg-logo="https://logo.catvod.com/江西省城市篮球联赛 宜春79-73吉安 2026江西省城市篮球联赛全场回放：宜春VS吉安 19:00.png" group-title="🎾昨日赛事🎾",江西省城市篮球联赛 宜春79-73吉安 2026江西省城市篮球联赛全场回放：宜春VS吉安 19:00
+#EXTINF:-1 tvg-name="江西省城市篮球联赛 宜春79-73吉安 2026江西省城市篮球联赛全场回放：宜春VS吉安 9:00" tvg-logo="https://logo.catvod.com/江西省城市篮球联赛 宜春79-73吉安 2026江西省城市篮球联赛全场回放：宜春VS吉安 9:00.png" group-title="🎾昨日赛事🎾",江西省城市篮球联赛 宜春79-73吉安 2026江西省城市篮球联赛全场回放：宜春VS吉安 9:00
 http://migu.heropx.dpdns.org/963471095
 #EXTINF:-1 tvg-name="女足亚洲杯 印度女足VS日本女足 全场回放（兰子非） 18:45" tvg-logo="https://logo.catvod.com/女足亚洲杯 印度女足VS日本女足 全场回放（兰子非） 18:45.png" group-title="🎾昨日赛事🎾",女足亚洲杯 印度女足VS日本女足 全场回放（兰子非） 18:45
 http://migu.heropx.dpdns.org/963469769
@@ -2247,7 +2247,7 @@ http://migu.heropx.dpdns.org/963472417
 http://migu.heropx.dpdns.org/963471167
 #EXTINF:-1 tvg-name="中超 上海海港VS河南俱乐部彩陶坊 全场回放（孙雨轩、黄健翔、程思钦） 19:20" tvg-logo="https://logo.catvod.com/中超 上海海港VS河南俱乐部彩陶坊 全场回放（孙雨轩、黄健翔、程思钦） 19:20.png" group-title="🎾昨日赛事🎾",中超 上海海港VS河南俱乐部彩陶坊 全场回放（孙雨轩、黄健翔、程思钦） 19:20
 http://migu.heropx.dpdns.org/963471553
-#EXTINF:-1 tvg-name="云南省城市足球联赛 曲靖队VS昆明队 全场回放 19:05" tvg-logo="https://logo.catvod.com/云南省城市足球联赛 曲靖队VS昆明队 全场回放 19:05.png" group-title="🎾昨日赛事🎾",云南省城市足球联赛 曲靖队VS昆明队 全场回放 19:05
+#EXTINF:-1 tvg-name="云南省城市足球联赛 曲靖队VS昆明队 全场回放 9:35" tvg-logo="https://logo.catvod.com/云南省城市足球联赛 曲靖队VS昆明队 全场回放 9:35.png" group-title="🎾昨日赛事🎾",云南省城市足球联赛 曲靖队VS昆明队 全场回放 9:35
 http://migu.heropx.dpdns.org/963471860
 #EXTINF:-1 tvg-name="NBL 香港金牛VS山东蜜獾 全场回放（官方解说） 19:50" tvg-logo="https://logo.catvod.com/NBL 香港金牛VS山东蜜獾 全场回放（官方解说） 19:50.png" group-title="🎾昨日赛事🎾",NBL 香港金牛VS山东蜜獾 全场回放（官方解说） 19:50
 http://migu.heropx.dpdns.org/963472262
@@ -2289,16 +2289,10 @@ http://migu.heropx.dpdns.org/963473916
 http://migu.heropx.dpdns.org/963474176
 #EXTINF:-1 tvg-name="法甲 欧塞尔VS斯特拉斯堡 全场回放（张天翼） 01:45" tvg-logo="https://logo.catvod.com/法甲 欧塞尔VS斯特拉斯堡 全场回放（张天翼） 01:45.png" group-title="🏀今日赛事🏀",法甲 欧塞尔VS斯特拉斯堡 全场回放（张天翼） 01:45
 http://migu.heropx.dpdns.org/963473946
-#EXTINF:-1 tvg-name="WTA 佩古拉出战 小米拉两盘6-0晋级 鲁季奇 vs 郑钦文(房朕) 07:00" tvg-logo="https://logo.catvod.com/WTA 佩古拉出战 小米拉两盘6-0晋级 鲁季奇 vs 郑钦文(房朕) 07:00.png" group-title="🏀今日赛事🏀",WTA 佩古拉出战 小米拉两盘6-0晋级 鲁季奇 vs 郑钦文(房朕) 07:00
-http://migu.heropx.dpdns.org/963456941
-#EXTINF:-1 tvg-name="WTA 佩古拉出战 小米拉两盘6-0晋级 赛场原声 03:00" tvg-logo="https://logo.catvod.com/WTA 佩古拉出战 小米拉两盘6-0晋级 赛场原声 03:00.png" group-title="🏀今日赛事🏀",WTA 佩古拉出战 小米拉两盘6-0晋级 赛场原声 03:00
+#EXTINF:-1 tvg-name="WTA 小米拉两盘6-0晋级 佩古拉逆转 赛场原声 03:00" tvg-logo="https://logo.catvod.com/WTA 小米拉两盘6-0晋级 佩古拉逆转 赛场原声 03:00.png" group-title="🏀今日赛事🏀",WTA 小米拉两盘6-0晋级 佩古拉逆转 赛场原声 03:00
 http://migu.heropx.dpdns.org/963361703
-#EXTINF:-1 tvg-name="WTA 佩古拉出战 小米拉两盘6-0晋级 赛场原声 07:00" tvg-logo="https://logo.catvod.com/WTA 佩古拉出战 小米拉两盘6-0晋级 赛场原声 07:00.png" group-title="🏀今日赛事🏀",WTA 佩古拉出战 小米拉两盘6-0晋级 赛场原声 07:00
-http://migu.heropx.dpdns.org/963461295
-#EXTINF:-1 tvg-name="WTA 佩古拉出战 小米拉两盘6-0晋级 英文原声 03:00" tvg-logo="https://logo.catvod.com/WTA 佩古拉出战 小米拉两盘6-0晋级 英文原声 03:00.png" group-title="🏀今日赛事🏀",WTA 佩古拉出战 小米拉两盘6-0晋级 英文原声 03:00
+#EXTINF:-1 tvg-name="WTA 小米拉两盘6-0晋级 佩古拉逆转 英文原声 03:00" tvg-logo="https://logo.catvod.com/WTA 小米拉两盘6-0晋级 佩古拉逆转 英文原声 03:00.png" group-title="🏀今日赛事🏀",WTA 小米拉两盘6-0晋级 佩古拉逆转 英文原声 03:00
 http://migu.heropx.dpdns.org/963361720
-#EXTINF:-1 tvg-name="WTA 佩古拉出战 小米拉两盘6-0晋级 英文原声 07:00" tvg-logo="https://logo.catvod.com/WTA 佩古拉出战 小米拉两盘6-0晋级 英文原声 07:00.png" group-title="🏀今日赛事🏀",WTA 佩古拉出战 小米拉两盘6-0晋级 英文原声 07:00
-http://migu.heropx.dpdns.org/963457353
 #EXTINF:-1 tvg-name="意甲 尤文图斯VS比萨 全场回放（吴桐、刘腾） 03:30" tvg-logo="https://logo.catvod.com/意甲 尤文图斯VS比萨 全场回放（吴桐、刘腾） 03:30.png" group-title="🏀今日赛事🏀",意甲 尤文图斯VS比萨 全场回放（吴桐、刘腾） 03:30
 http://migu.heropx.dpdns.org/963474481
 #EXTINF:-1 tvg-name="西甲 毕尔巴鄂竞技VS巴塞罗那 全场回放（张昊泽、李欣） 03:45" tvg-logo="https://logo.catvod.com/西甲 毕尔巴鄂竞技VS巴塞罗那 全场回放（张昊泽、李欣） 03:45.png" group-title="🏀今日赛事🏀",西甲 毕尔巴鄂竞技VS巴塞罗那 全场回放（张昊泽、李欣） 03:45
@@ -2317,52 +2311,56 @@ http://migu.heropx.dpdns.org/963474562
 http://migu.heropx.dpdns.org/963474543
 #EXTINF:-1 tvg-name="法甲 图卢兹VS马赛 全场回放（乔迁） 03:50" tvg-logo="https://logo.catvod.com/法甲 图卢兹VS马赛 全场回放（乔迁） 03:50.png" group-title="🏀今日赛事🏀",法甲 图卢兹VS马赛 全场回放（乔迁） 03:50
 http://migu.heropx.dpdns.org/963474639
-#EXTINF:-1 tvg-name="UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 王琰博 郝俊 李景亮 06:20" tvg-logo="https://logo.catvod.com/UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 王琰博 郝俊 李景亮 06:20.png" group-title="🏀今日赛事🏀",UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 王琰博 郝俊 李景亮 06:20
-http://migu.heropx.dpdns.org/963423653
-#EXTINF:-1 tvg-name="UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 郑文祺 汪乐 06:20" tvg-logo="https://logo.catvod.com/UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 郑文祺 汪乐 06:20.png" group-title="🏀今日赛事🏀",UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 郑文祺 汪乐 06:20
-http://migu.heropx.dpdns.org/963423695
-#EXTINF:-1 tvg-name="UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 英文原声 06:20" tvg-logo="https://logo.catvod.com/UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 英文原声 06:20.png" group-title="🏀今日赛事🏀",UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 英文原声 06:20
-http://migu.heropx.dpdns.org/963423779
-#EXTINF:-1 tvg-name="UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 智能字幕 06:20" tvg-logo="https://logo.catvod.com/UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 智能字幕 06:20.png" group-title="🏀今日赛事🏀",UFC数字赛 UFC第326期：霍洛威VS奥利维拉 肖龙苏木出战 智能字幕 06:20
-http://migu.heropx.dpdns.org/963451976
-#EXTINF:-1 tvg-name="NBA 活塞VS篮网 邵化谦 06:55" tvg-logo="https://logo.catvod.com/NBA 活塞VS篮网 邵化谦 06:55.png" group-title="🏀今日赛事🏀",NBA 活塞VS篮网 邵化谦 06:55
-http://migu.heropx.dpdns.org/963349268
-#EXTINF:-1 tvg-name="NBA 活塞VS篮网 英文原声 06:55" tvg-logo="https://logo.catvod.com/NBA 活塞VS篮网 英文原声 06:55.png" group-title="🏀今日赛事🏀",NBA 活塞VS篮网 英文原声 06:55
-http://migu.heropx.dpdns.org/963349285
-#EXTINF:-1 tvg-name="NBA 老鹰VS76人 盛哲 06:55" tvg-logo="https://logo.catvod.com/NBA 老鹰VS76人 盛哲 06:55.png" group-title="🏀今日赛事🏀",NBA 老鹰VS76人 盛哲 06:55
-http://migu.heropx.dpdns.org/963349314
-#EXTINF:-1 tvg-name="NBA 老鹰VS76人 英文原声 06:55" tvg-logo="https://logo.catvod.com/NBA 老鹰VS76人 英文原声 06:55.png" group-title="🏀今日赛事🏀",NBA 老鹰VS76人 英文原声 06:55
-http://migu.heropx.dpdns.org/963349317
-#EXTINF:-1 tvg-name="G联赛 撕裂之城混音VS山谷太阳 邢晨 06:55" tvg-logo="https://logo.catvod.com/G联赛 撕裂之城混音VS山谷太阳 邢晨 06:55.png" group-title="🏀今日赛事🏀",G联赛 撕裂之城混音VS山谷太阳 邢晨 06:55
-http://migu.heropx.dpdns.org/963446663
-#EXTINF:-1 tvg-name="G联赛 撕裂之城混音VS山谷太阳 英文原声 06:55" tvg-logo="https://logo.catvod.com/G联赛 撕裂之城混音VS山谷太阳 英文原声 06:55.png" group-title="🏀今日赛事🏀",G联赛 撕裂之城混音VS山谷太阳 英文原声 06:55
-http://migu.heropx.dpdns.org/963446659
-#EXTINF:-1 tvg-name="马拉松系列赛 2026南京银行南京北岸马拉松 2026南京银行南京北岸马拉松 07:20" tvg-logo="https://logo.catvod.com/马拉松系列赛 2026南京银行南京北岸马拉松 2026南京银行南京北岸马拉松 07:20.png" group-title="🏀今日赛事🏀",马拉松系列赛 2026南京银行南京北岸马拉松 2026南京银行南京北岸马拉松 07:20
-http://migu.heropx.dpdns.org/963426364
-#EXTINF:-1 tvg-name="WTA 鲁季奇VS郑钦文 房朕 07:00" tvg-logo="https://logo.catvod.com/WTA 鲁季奇VS郑钦文 房朕 07:00.png" group-title="🏀今日赛事🏀",WTA 鲁季奇VS郑钦文 房朕 07:00
-http://migu.heropx.dpdns.org/963456941
-#EXTINF:-1 tvg-name="WTA 鲁季奇VS郑钦文 赛场原声 07:00" tvg-logo="https://logo.catvod.com/WTA 鲁季奇VS郑钦文 赛场原声 07:00.png" group-title="🏀今日赛事🏀",WTA 鲁季奇VS郑钦文 赛场原声 07:00
-http://migu.heropx.dpdns.org/963461295
-#EXTINF:-1 tvg-name="WTA 鲁季奇VS郑钦文 英文原声 07:00" tvg-logo="https://logo.catvod.com/WTA 鲁季奇VS郑钦文 英文原声 07:00.png" group-title="🏀今日赛事🏀",WTA 鲁季奇VS郑钦文 英文原声 07:00
-http://migu.heropx.dpdns.org/963457353
-#EXTINF:-1 tvg-name="NBA 雄鹿VS爵士 刘沛元 08:55" tvg-logo="https://logo.catvod.com/NBA 雄鹿VS爵士 刘沛元 08:55.png" group-title="🏀今日赛事🏀",NBA 雄鹿VS爵士 刘沛元 08:55
-http://migu.heropx.dpdns.org/963349455
-#EXTINF:-1 tvg-name="NBA 雄鹿VS爵士 英文原声 08:55" tvg-logo="https://logo.catvod.com/NBA 雄鹿VS爵士 英文原声 08:55.png" group-title="🏀今日赛事🏀",NBA 雄鹿VS爵士 英文原声 08:55
-http://migu.heropx.dpdns.org/963349472
-#EXTINF:-1 tvg-name="NBA 灰熊VS快船 王冠证 08:55" tvg-logo="https://logo.catvod.com/NBA 灰熊VS快船 王冠证 08:55.png" group-title="🏀今日赛事🏀",NBA 灰熊VS快船 王冠证 08:55
-http://migu.heropx.dpdns.org/963349385
-#EXTINF:-1 tvg-name="NBA 灰熊VS快船 英文原声 08:55" tvg-logo="https://logo.catvod.com/NBA 灰熊VS快船 英文原声 08:55.png" group-title="🏀今日赛事🏀",NBA 灰熊VS快船 英文原声 08:55
-http://migu.heropx.dpdns.org/963349423
-#EXTINF:-1 tvg-name="WBC 英国vs美国 中文解说 09:00" tvg-logo="https://logo.catvod.com/WBC 英国vs美国 中文解说 09:00.png" group-title="🏀今日赛事🏀",WBC 英国vs美国 中文解说 09:00
-http://migu.heropx.dpdns.org/963368392
-#EXTINF:-1 tvg-name="WBC 英国vs美国 清流 09:00" tvg-logo="https://logo.catvod.com/WBC 英国vs美国 清流 09:00.png" group-title="🏀今日赛事🏀",WBC 英国vs美国 清流 09:00
-http://migu.heropx.dpdns.org/963368385
-#EXTINF:-1 tvg-name="NBA 雷霆VS勇士 庄宁宇 陈正昊 徐咏 09:15" tvg-logo="https://logo.catvod.com/NBA 雷霆VS勇士 庄宁宇 陈正昊 徐咏 09:15.png" group-title="🏀今日赛事🏀",NBA 雷霆VS勇士 庄宁宇 陈正昊 徐咏 09:15
-http://migu.heropx.dpdns.org/963349415
-#EXTINF:-1 tvg-name="NBA 雷霆VS勇士 英文原声 09:25" tvg-logo="https://logo.catvod.com/NBA 雷霆VS勇士 英文原声 09:25.png" group-title="🏀今日赛事🏀",NBA 雷霆VS勇士 英文原声 09:25
-http://migu.heropx.dpdns.org/963349444
-#EXTINF:-1 tvg-name="NBA 雷霆VS勇士 拜月宁 09:25" tvg-logo="https://logo.catvod.com/NBA 雷霆VS勇士 拜月宁 09:25.png" group-title="🏀今日赛事🏀",NBA 雷霆VS勇士 拜月宁 09:25
-http://migu.heropx.dpdns.org/963349452
+#EXTINF:-1 tvg-name="UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【主赛】王琰博、郝俊、李景亮 06:20" tvg-logo="https://logo.catvod.com/UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【主赛】王琰博、郝俊、李景亮 06:20.png" group-title="🏀今日赛事🏀",UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【主赛】王琰博、郝俊、李景亮 06:20
+http://migu.heropx.dpdns.org/963478844
+#EXTINF:-1 tvg-name="UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【主赛】郑文祺、汪乐 06:20" tvg-logo="https://logo.catvod.com/UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【主赛】郑文祺、汪乐 06:20.png" group-title="🏀今日赛事🏀",UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【主赛】郑文祺、汪乐 06:20
+http://migu.heropx.dpdns.org/963478883
+#EXTINF:-1 tvg-name="UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【主赛】英文原声 06:20" tvg-logo="https://logo.catvod.com/UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【主赛】英文原声 06:20.png" group-title="🏀今日赛事🏀",UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【主赛】英文原声 06:20
+http://migu.heropx.dpdns.org/963479032
+#EXTINF:-1 tvg-name="UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【副赛】王琰博、郝俊、李景亮 06:20" tvg-logo="https://logo.catvod.com/UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【副赛】王琰博、郝俊、李景亮 06:20.png" group-title="🏀今日赛事🏀",UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【副赛】王琰博、郝俊、李景亮 06:20
+http://migu.heropx.dpdns.org/963476906
+#EXTINF:-1 tvg-name="UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【副赛】郑文祺、汪乐 06:20" tvg-logo="https://logo.catvod.com/UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【副赛】郑文祺、汪乐 06:20.png" group-title="🏀今日赛事🏀",UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【副赛】郑文祺、汪乐 06:20
+http://migu.heropx.dpdns.org/963476871
+#EXTINF:-1 tvg-name="UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【副赛】英文原声 06:20" tvg-logo="https://logo.catvod.com/UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【副赛】英文原声 06:20.png" group-title="🏀今日赛事🏀",UFC数字赛 奥利维拉加冕BMF新王 苏木迎三连胜 【副赛】英文原声 06:20
+http://migu.heropx.dpdns.org/963477312
+#EXTINF:-1 tvg-name="NBA 活塞VS篮网 全场回放（邵化谦） 06:55" tvg-logo="https://logo.catvod.com/NBA 活塞VS篮网 全场回放（邵化谦） 06:55.png" group-title="🏀今日赛事🏀",NBA 活塞VS篮网 全场回放（邵化谦） 06:55
+http://migu.heropx.dpdns.org/963476449
+#EXTINF:-1 tvg-name="NBA 活塞VS篮网 全场回放（英文原声） 06:55" tvg-logo="https://logo.catvod.com/NBA 活塞VS篮网 全场回放（英文原声） 06:55.png" group-title="🏀今日赛事🏀",NBA 活塞VS篮网 全场回放（英文原声） 06:55
+http://migu.heropx.dpdns.org/963476654
+#EXTINF:-1 tvg-name="NBA 老鹰VS76人 全场回放（盛哲） 06:55" tvg-logo="https://logo.catvod.com/NBA 老鹰VS76人 全场回放（盛哲） 06:55.png" group-title="🏀今日赛事🏀",NBA 老鹰VS76人 全场回放（盛哲） 06:55
+http://migu.heropx.dpdns.org/963476366
+#EXTINF:-1 tvg-name="NBA 老鹰VS76人 全场回放（英文原声） 06:55" tvg-logo="https://logo.catvod.com/NBA 老鹰VS76人 全场回放（英文原声） 06:55.png" group-title="🏀今日赛事🏀",NBA 老鹰VS76人 全场回放（英文原声） 06:55
+http://migu.heropx.dpdns.org/963476454
+#EXTINF:-1 tvg-name="G联赛 撕裂之城混音VS山谷太阳 全场回放（邢晨） 06:55" tvg-logo="https://logo.catvod.com/G联赛 撕裂之城混音VS山谷太阳 全场回放（邢晨） 06:55.png" group-title="🏀今日赛事🏀",G联赛 撕裂之城混音VS山谷太阳 全场回放（邢晨） 06:55
+http://migu.heropx.dpdns.org/963476184
+#EXTINF:-1 tvg-name="G联赛 撕裂之城混音VS山谷太阳 全场回放（英文原声） 06:55" tvg-logo="https://logo.catvod.com/G联赛 撕裂之城混音VS山谷太阳 全场回放（英文原声） 06:55.png" group-title="🏀今日赛事🏀",G联赛 撕裂之城混音VS山谷太阳 全场回放（英文原声） 06:55
+http://migu.heropx.dpdns.org/963476714
+#EXTINF:-1 tvg-name="马拉松系列赛 2026南京银行南京北岸马拉松 2026南京银行南京北岸马拉松全场回放 07:20" tvg-logo="https://logo.catvod.com/马拉松系列赛 2026南京银行南京北岸马拉松 2026南京银行南京北岸马拉松全场回放 07:20.png" group-title="🏀今日赛事🏀",马拉松系列赛 2026南京银行南京北岸马拉松 2026南京银行南京北岸马拉松全场回放 07:20
+http://migu.heropx.dpdns.org/963478684
+#EXTINF:-1 tvg-name="WTA 鲁季奇VS郑钦文 【回放】鲁季奇2-0郑钦文（房朕） 07:00" tvg-logo="https://logo.catvod.com/WTA 鲁季奇VS郑钦文 【回放】鲁季奇2-0郑钦文（房朕） 07:00.png" group-title="🏀今日赛事🏀",WTA 鲁季奇VS郑钦文 【回放】鲁季奇2-0郑钦文（房朕） 07:00
+http://migu.heropx.dpdns.org/963477695
+#EXTINF:-1 tvg-name="WTA 鲁季奇VS郑钦文 【回放】鲁季奇2-0郑钦文 07:00" tvg-logo="https://logo.catvod.com/WTA 鲁季奇VS郑钦文 【回放】鲁季奇2-0郑钦文 07:00.png" group-title="🏀今日赛事🏀",WTA 鲁季奇VS郑钦文 【回放】鲁季奇2-0郑钦文 07:00
+http://migu.heropx.dpdns.org/963477478
+#EXTINF:-1 tvg-name="WTA 鲁季奇VS郑钦文 【回放】鲁季奇2-0郑钦文（英文原声） 07:00" tvg-logo="https://logo.catvod.com/WTA 鲁季奇VS郑钦文 【回放】鲁季奇2-0郑钦文（英文原声） 07:00.png" group-title="🏀今日赛事🏀",WTA 鲁季奇VS郑钦文 【回放】鲁季奇2-0郑钦文（英文原声） 07:00
+http://migu.heropx.dpdns.org/963477542
+#EXTINF:-1 tvg-name="NBA 雄鹿VS爵士 全场回放（刘沛元） 08:55" tvg-logo="https://logo.catvod.com/NBA 雄鹿VS爵士 全场回放（刘沛元） 08:55.png" group-title="🏀今日赛事🏀",NBA 雄鹿VS爵士 全场回放（刘沛元） 08:55
+http://migu.heropx.dpdns.org/963477863
+#EXTINF:-1 tvg-name="NBA 雄鹿VS爵士 全场回放（英文原声） 08:55" tvg-logo="https://logo.catvod.com/NBA 雄鹿VS爵士 全场回放（英文原声） 08:55.png" group-title="🏀今日赛事🏀",NBA 雄鹿VS爵士 全场回放（英文原声） 08:55
+http://migu.heropx.dpdns.org/963477842
+#EXTINF:-1 tvg-name="NBA 灰熊VS快船 全场回放（王冠证） 08:55" tvg-logo="https://logo.catvod.com/NBA 灰熊VS快船 全场回放（王冠证） 08:55.png" group-title="🏀今日赛事🏀",NBA 灰熊VS快船 全场回放（王冠证） 08:55
+http://migu.heropx.dpdns.org/963478036
+#EXTINF:-1 tvg-name="NBA 灰熊VS快船 全场回放（英文原声） 08:55" tvg-logo="https://logo.catvod.com/NBA 灰熊VS快船 全场回放（英文原声） 08:55.png" group-title="🏀今日赛事🏀",NBA 灰熊VS快船 全场回放（英文原声） 08:55
+http://migu.heropx.dpdns.org/963477959
+#EXTINF:-1 tvg-name="WBC 英国1-9美国 【全场回放】英国1-9美国（中文解说） 09:00" tvg-logo="https://logo.catvod.com/WBC 英国1-9美国 【全场回放】英国1-9美国（中文解说） 09:00.png" group-title="🏀今日赛事🏀",WBC 英国1-9美国 【全场回放】英国1-9美国（中文解说） 09:00
+http://migu.heropx.dpdns.org/963478984
+#EXTINF:-1 tvg-name="WBC 英国1-9美国 【全场回放】英国1-9美国 09:00" tvg-logo="https://logo.catvod.com/WBC 英国1-9美国 【全场回放】英国1-9美国 09:00.png" group-title="🏀今日赛事🏀",WBC 英国1-9美国 【全场回放】英国1-9美国 09:00
+http://migu.heropx.dpdns.org/963479397
+#EXTINF:-1 tvg-name="NBA 雷霆VS勇士 全场回放（庄宁宇、陈正昊、徐咏、金佳悦） 09:25" tvg-logo="https://logo.catvod.com/NBA 雷霆VS勇士 全场回放（庄宁宇、陈正昊、徐咏、金佳悦） 09:25.png" group-title="🏀今日赛事🏀",NBA 雷霆VS勇士 全场回放（庄宁宇、陈正昊、徐咏、金佳悦） 09:25
+http://migu.heropx.dpdns.org/963478301
+#EXTINF:-1 tvg-name="NBA 雷霆VS勇士 全场回放（英文原声） 09:25" tvg-logo="https://logo.catvod.com/NBA 雷霆VS勇士 全场回放（英文原声） 09:25.png" group-title="🏀今日赛事🏀",NBA 雷霆VS勇士 全场回放（英文原声） 09:25
+http://migu.heropx.dpdns.org/963478322
+#EXTINF:-1 tvg-name="NBA 雷霆VS勇士 全场回放（拜月宁） 09:25" tvg-logo="https://logo.catvod.com/NBA 雷霆VS勇士 全场回放（拜月宁） 09:25.png" group-title="🏀今日赛事🏀",NBA 雷霆VS勇士 全场回放（拜月宁） 09:25
+http://migu.heropx.dpdns.org/963478275
 #EXTINF:-1 tvg-name="蓝湾大师赛 LPGA蓝湾大师赛第四日 清流播出 12:00" tvg-logo="https://logo.catvod.com/蓝湾大师赛 LPGA蓝湾大师赛第四日 清流播出 12:00.png" group-title="🏀今日赛事🏀",蓝湾大师赛 LPGA蓝湾大师赛第四日 清流播出 12:00
 http://migu.heropx.dpdns.org/963340125
 #EXTINF:-1 tvg-name="广西县级足球超级联赛 来宾市兴宾区队vs柳州市融水苗族自治县队 广西县级足球超级联赛第四轮: 来宾市兴宾区队vs柳州市融水苗族自治县队 14:30" tvg-logo="https://logo.catvod.com/广西县级足球超级联赛 来宾市兴宾区队vs柳州市融水苗族自治县队 广西县级足球超级联赛第四轮: 来宾市兴宾区队vs柳州市融水苗族自治县队 14:30.png" group-title="🏀今日赛事🏀",广西县级足球超级联赛 来宾市兴宾区队vs柳州市融水苗族自治县队 广西县级足球超级联赛第四轮: 来宾市兴宾区队vs柳州市融水苗族自治县队 14:30
@@ -2371,15 +2369,15 @@ http://migu.heropx.dpdns.org/963405857
 http://migu.heropx.dpdns.org/963405860
 #EXTINF:-1 tvg-name="云南省城市足球联赛 迪庆队VS德宏队 2026云南省城市足球联赛第七轮: 迪庆州VS德宏州 15:00" tvg-logo="https://logo.catvod.com/云南省城市足球联赛 迪庆队VS德宏队 2026云南省城市足球联赛第七轮: 迪庆州VS德宏州 15:00.png" group-title="🏀今日赛事🏀",云南省城市足球联赛 迪庆队VS德宏队 2026云南省城市足球联赛第七轮: 迪庆州VS德宏州 15:00
 http://migu.heropx.dpdns.org/963396403
-#EXTINF:-1 tvg-name="云南省城市足球联赛 文山队VS楚雄队 2026云南省城市足球联赛第七轮: 文山州VS楚雄州 15:00" tvg-logo="https://logo.catvod.com/云南省城市足球联赛 文山队VS楚雄队 2026云南省城市足球联赛第七轮: 文山州VS楚雄州 15:00.png" group-title="🏀今日赛事🏀",云南省城市足球联赛 文山队VS楚雄队 2026云南省城市足球联赛第七轮: 文山州VS楚雄州 15:00
+#EXTINF:-1 tvg-name="云南省城市足球联赛 文山队VS楚雄队 2026云南省城市足球联赛第七轮: 文山州VS楚雄州 14:30" tvg-logo="https://logo.catvod.com/云南省城市足球联赛 文山队VS楚雄队 2026云南省城市足球联赛第七轮: 文山州VS楚雄州 14:30.png" group-title="🏀今日赛事🏀",云南省城市足球联赛 文山队VS楚雄队 2026云南省城市足球联赛第七轮: 文山州VS楚雄州 14:30
 http://migu.heropx.dpdns.org/963396436
 #EXTINF:-1 tvg-name="云南省城市足球联赛 临沧队VS红河队 2026云南省城市足球联赛第七轮: 临沧市VS红河州 15:00" tvg-logo="https://logo.catvod.com/云南省城市足球联赛 临沧队VS红河队 2026云南省城市足球联赛第七轮: 临沧市VS红河州 15:00.png" group-title="🏀今日赛事🏀",云南省城市足球联赛 临沧队VS红河队 2026云南省城市足球联赛第七轮: 临沧市VS红河州 15:00
 http://migu.heropx.dpdns.org/963396450
-#EXTINF:-1 tvg-name="WTT 【抽签仪式】王楚钦、朱雨玲出席 抽签仪式 15:00" tvg-logo="https://logo.catvod.com/WTT 【抽签仪式】王楚钦、朱雨玲出席 抽签仪式 15:00.png" group-title="🏀今日赛事🏀",WTT 【抽签仪式】王楚钦、朱雨玲出席 抽签仪式 15:00
-http://migu.heropx.dpdns.org/963425661
 #EXTINF:-1 tvg-name="WTT 【抽签仪式】王楚钦、朱雨玲出席 周泽昊 15:00" tvg-logo="https://logo.catvod.com/WTT 【抽签仪式】王楚钦、朱雨玲出席 周泽昊 15:00.png" group-title="🏀今日赛事🏀",WTT 【抽签仪式】王楚钦、朱雨玲出席 周泽昊 15:00
 http://migu.heropx.dpdns.org/963425684
-#EXTINF:-1 tvg-name="中超 浙江俱乐部绿城VS青岛西海岸 张昊泽 徐云龙 15:30" tvg-logo="https://logo.catvod.com/中超 浙江俱乐部绿城VS青岛西海岸 张昊泽 徐云龙 15:30.png" group-title="🏀今日赛事🏀",中超 浙江俱乐部绿城VS青岛西海岸 张昊泽 徐云龙 15:30
+#EXTINF:-1 tvg-name="WTT 【抽签仪式】王楚钦、朱雨玲出席 抽签仪式 15:00" tvg-logo="https://logo.catvod.com/WTT 【抽签仪式】王楚钦、朱雨玲出席 抽签仪式 15:00.png" group-title="🏀今日赛事🏀",WTT 【抽签仪式】王楚钦、朱雨玲出席 抽签仪式 15:00
+http://migu.heropx.dpdns.org/963425661
+#EXTINF:-1 tvg-name="中超 浙江俱乐部绿城VS青岛西海岸 张昊泽 徐云龙 15:15" tvg-logo="https://logo.catvod.com/中超 浙江俱乐部绿城VS青岛西海岸 张昊泽 徐云龙 15:15.png" group-title="🏀今日赛事🏀",中超 浙江俱乐部绿城VS青岛西海岸 张昊泽 徐云龙 15:15
 http://migu.heropx.dpdns.org/963400981
 #EXTINF:-1 tvg-name="中超 浙江俱乐部绿城VS青岛西海岸 赛场原声 15:15" tvg-logo="https://logo.catvod.com/中超 浙江俱乐部绿城VS青岛西海岸 赛场原声 15:15.png" group-title="🏀今日赛事🏀",中超 浙江俱乐部绿城VS青岛西海岸 赛场原声 15:15
 http://migu.heropx.dpdns.org/963400983
@@ -2395,6 +2393,8 @@ http://migu.heropx.dpdns.org/963424023
 http://migu.heropx.dpdns.org/963424030
 #EXTINF:-1 tvg-name="女足亚洲杯 伊朗女足VS菲律宾女足 赛场原声 16:45" tvg-logo="https://logo.catvod.com/女足亚洲杯 伊朗女足VS菲律宾女足 赛场原声 16:45.png" group-title="🏀今日赛事🏀",女足亚洲杯 伊朗女足VS菲律宾女足 赛场原声 16:45
 http://migu.heropx.dpdns.org/963424049
+#EXTINF:-1 tvg-name="女篮俱乐部杯 山西竹叶青酒VS新疆天山 赛场原声 16:55" tvg-logo="https://logo.catvod.com/女篮俱乐部杯 山西竹叶青酒VS新疆天山 赛场原声 16:55.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 山西竹叶青酒VS新疆天山 赛场原声 16:55
+http://migu.heropx.dpdns.org/963477052
 #EXTINF:-1 tvg-name="WBC 澳大利亚vs日本 中文解说 18:00" tvg-logo="https://logo.catvod.com/WBC 澳大利亚vs日本 中文解说 18:00.png" group-title="🏀今日赛事🏀",WBC 澳大利亚vs日本 中文解说 18:00
 http://migu.heropx.dpdns.org/963368415
 #EXTINF:-1 tvg-name="WBC 澳大利亚vs日本 清流 18:00" tvg-logo="https://logo.catvod.com/WBC 澳大利亚vs日本 清流 18:00.png" group-title="🏀今日赛事🏀",WBC 澳大利亚vs日本 清流 18:00
@@ -2407,6 +2407,8 @@ http://migu.heropx.dpdns.org/963401018
 http://migu.heropx.dpdns.org/963401032
 #EXTINF:-1 tvg-name="CBA 南区明星队VS北区明星队 图文直播 19:00" tvg-logo="https://logo.catvod.com/CBA 南区明星队VS北区明星队 图文直播 19:00.png" group-title="🏀今日赛事🏀",CBA 南区明星队VS北区明星队 图文直播 19:00
 http://migu.heropx.dpdns.org/963404751
+#EXTINF:-1 tvg-name="BWF 冲冠！国羽王祉怡、圣坛组合出战 孙宁智 19:00" tvg-logo="https://logo.catvod.com/BWF 冲冠！国羽王祉怡、圣坛组合出战 孙宁智 19:00.png" group-title="🏀今日赛事🏀",BWF 冲冠！国羽王祉怡、圣坛组合出战 孙宁智 19:00
+http://migu.heropx.dpdns.org/963477385
 #EXTINF:-1 tvg-name="BWF 冲冠！国羽王祉怡、圣坛组合出战 1号场 19:00" tvg-logo="https://logo.catvod.com/BWF 冲冠！国羽王祉怡、圣坛组合出战 1号场 19:00.png" group-title="🏀今日赛事🏀",BWF 冲冠！国羽王祉怡、圣坛组合出战 1号场 19:00
 http://migu.heropx.dpdns.org/963367251
 #EXTINF:-1 tvg-name="广西县级足球超级联赛 百色市平果市队vs北海市海城区队 广西县级足球超级联赛第四轮: 百色市平果市队vs北海市海城区队 19:00" tvg-logo="https://logo.catvod.com/广西县级足球超级联赛 百色市平果市队vs北海市海城区队 广西县级足球超级联赛第四轮: 百色市平果市队vs北海市海城区队 19:00.png" group-title="🏀今日赛事🏀",广西县级足球超级联赛 百色市平果市队vs北海市海城区队 广西县级足球超级联赛第四轮: 百色市平果市队vs北海市海城区队 19:00
@@ -2439,6 +2441,8 @@ http://migu.heropx.dpdns.org/963153460
 http://migu.heropx.dpdns.org/963369183
 #EXTINF:-1 tvg-name="中国女篮系列热身赛 中国女篮VS捷克女篮 赛场原声 19:20" tvg-logo="https://logo.catvod.com/中国女篮系列热身赛 中国女篮VS捷克女篮 赛场原声 19:20.png" group-title="🏀今日赛事🏀",中国女篮系列热身赛 中国女篮VS捷克女篮 赛场原声 19:20
 http://migu.heropx.dpdns.org/963369202
+#EXTINF:-1 tvg-name="女篮俱乐部杯 江苏南钢VS四川蜀道远达 赛场原声 19:25" tvg-logo="https://logo.catvod.com/女篮俱乐部杯 江苏南钢VS四川蜀道远达 赛场原声 19:25.png" group-title="🏀今日赛事🏀",女篮俱乐部杯 江苏南钢VS四川蜀道远达 赛场原声 19:25
+http://migu.heropx.dpdns.org/963477054
 #EXTINF:-1 tvg-name="足总杯 富勒姆VS南安普顿 苗锟 19:45" tvg-logo="https://logo.catvod.com/足总杯 富勒姆VS南安普顿 苗锟 19:45.png" group-title="🏀今日赛事🏀",足总杯 富勒姆VS南安普顿 苗锟 19:45
 http://migu.heropx.dpdns.org/963424547
 #EXTINF:-1 tvg-name="足总杯 富勒姆VS南安普顿 赛场原声 19:45" tvg-logo="https://logo.catvod.com/足总杯 富勒姆VS南安普顿 赛场原声 19:45.png" group-title="🏀今日赛事🏀",足总杯 富勒姆VS南安普顿 赛场原声 19:45
@@ -2511,9 +2515,9 @@ http://migu.heropx.dpdns.org/963460459
 http://migu.heropx.dpdns.org/963425186
 #EXTINF:-1 tvg-name="西甲 塞维利亚VS巴列卡诺 赛场原声 01:15" tvg-logo="https://logo.catvod.com/西甲 塞维利亚VS巴列卡诺 赛场原声 01:15.png" group-title="⚽明日赛事⚽",西甲 塞维利亚VS巴列卡诺 赛场原声 01:15
 http://migu.heropx.dpdns.org/963425178
-#EXTINF:-1 tvg-name="WTA 女单第三轮 赛场原声 02:00" tvg-logo="https://logo.catvod.com/WTA 女单第三轮 赛场原声 02:00.png" group-title="⚽明日赛事⚽",WTA 女单第三轮 赛场原声 02:00
+#EXTINF:-1 tvg-name="WTA 萨巴伦卡出战 高芙、大阪直美登场 赛场原声 02:00" tvg-logo="https://logo.catvod.com/WTA 萨巴伦卡出战 高芙、大阪直美登场 赛场原声 02:00.png" group-title="⚽明日赛事⚽",WTA 萨巴伦卡出战 高芙、大阪直美登场 赛场原声 02:00
 http://migu.heropx.dpdns.org/963361722
-#EXTINF:-1 tvg-name="WTA 女单第三轮 英文原声 02:00" tvg-logo="https://logo.catvod.com/WTA 女单第三轮 英文原声 02:00.png" group-title="⚽明日赛事⚽",WTA 女单第三轮 英文原声 02:00
+#EXTINF:-1 tvg-name="WTA 萨巴伦卡出战 高芙、大阪直美登场 英文原声 02:00" tvg-logo="https://logo.catvod.com/WTA 萨巴伦卡出战 高芙、大阪直美登场 英文原声 02:00.png" group-title="⚽明日赛事⚽",WTA 萨巴伦卡出战 高芙、大阪直美登场 英文原声 02:00
 http://migu.heropx.dpdns.org/963361734
 #EXTINF:-1 tvg-name="NBA 湖人VS尼克斯 连睿 03:25" tvg-logo="https://logo.catvod.com/NBA 湖人VS尼克斯 连睿 03:25.png" group-title="⚽明日赛事⚽",NBA 湖人VS尼克斯 连睿 03:25
 http://migu.heropx.dpdns.org/963460513
@@ -2577,6 +2581,8 @@ http://migu.heropx.dpdns.org/963459503
 http://migu.heropx.dpdns.org/963459749
 #EXTINF:-1 tvg-name="NBA 国王VS公牛 姜帆 08:55" tvg-logo="https://logo.catvod.com/NBA 国王VS公牛 姜帆 08:55.png" group-title="⚽明日赛事⚽",NBA 国王VS公牛 姜帆 08:55
 http://migu.heropx.dpdns.org/963459768
+#EXTINF:-1 tvg-name="NBA 国王VS公牛 英文原声 08:55" tvg-logo="https://logo.catvod.com/NBA 国王VS公牛 英文原声 08:55.png" group-title="⚽明日赛事⚽",NBA 国王VS公牛 英文原声 08:55
+http://migu.heropx.dpdns.org/963476370
 #EXTINF:-1 tvg-name="NBA 太阳VS黄蜂 孙博 09:55" tvg-logo="https://logo.catvod.com/NBA 太阳VS黄蜂 孙博 09:55.png" group-title="⚽明日赛事⚽",NBA 太阳VS黄蜂 孙博 09:55
 http://migu.heropx.dpdns.org/963459879
 #EXTINF:-1 tvg-name="NBA 太阳VS黄蜂 英文原声 09:55" tvg-logo="https://logo.catvod.com/NBA 太阳VS黄蜂 英文原声 09:55.png" group-title="⚽明日赛事⚽",NBA 太阳VS黄蜂 英文原声 09:55
@@ -2596,33 +2602,33 @@ http://migu.heropx.dpdns.org/963368475
 #EXTINF:-1 tvg-name="WBC 韩国vs澳大利亚 清流 18:00" tvg-logo="https://logo.catvod.com/WBC 韩国vs澳大利亚 清流 18:00.png" group-title="⚽明日赛事⚽",WBC 韩国vs澳大利亚 清流 18:00
 http://migu.heropx.dpdns.org/963368463
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://logo.catvod.com/老故事.png" group-title="🥝精品频道🥝",老故事
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=202603080802221d6b79c3a632444c8d912cac7ed1c290&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260308080222&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=218.28.233.106&SecurityKey=20260308080222&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b5c22ad7e859ac14ca638bc86e2fac6e$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=202603081202278bfe6bf1678e409696ec46666d83133b&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260308120227&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=218.28.233.106&SecurityKey=20260308120227&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b642178611d7508ff54a7b19515ac5f7$咪咕视频
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://logo.catvod.com/发现之旅.png" group-title="🥝精品频道🥝",发现之旅
-http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/1000/index.m3u8?msisdn=202603080802227bbbea3bcb8b4d41a8fd520518c206c2&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260308080222&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=218.28.233.106&SecurityKey=20260308080222&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=03bc1f5882ec95540be9d3ce489a6c63$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/1000/index.m3u8?msisdn=2026030812022743c397c96b254f5a85ecb4545418160c&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260308120227&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=218.28.233.106&SecurityKey=20260308120227&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8a1a25960a84665f55747c3533a0ed3e$咪咕视频
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://logo.catvod.com/中学生.png" group-title="🥝精品频道🥝",中学生
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=2026030808022277c7cfa2158948548b22e6d7e60b38e5&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20260308080222&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=218.28.233.106&SecurityKey=20260308080222&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=10fc6f6a8cf12d7ca71a3b03cb62aa2f$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=20260308120227ea4d21d0a3b24527a9abc50e5cd4ec4f&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20260308120227&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=218.28.233.106&SecurityKey=20260308120227&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=95cbc3a951816b96c47eef08875a0e35$咪咕视频
 #EXTINF:-1 tvg-name="赛事最经典" tvg-logo="https://logo.catvod.com/赛事最经典.png" group-title="🥝精品频道🥝",赛事最经典
 http://hlszymgsplive.miguvideo.com:8080/wd_r3/cctv/saishijingdian/600/index.m3u8?msisdn=20260302195314a44e221ed53b40198493af47a70e11fb&mdspid=&spid=699004&netType=0&sid=5500592947&pid=2028597139&timestamp=20260302195314&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=646596895&ParentNodeID=-99&assertID=5500592947&client_ip=47.92.222.227&SecurityKey=20260302195314&promotionId=&mvid=5101034296&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=88d1f40a1bd29bb2cb8afc7c6866cbe3&sv=10004&ct=android$ioptu
 #EXTINF:-1 tvg-name="体坛名栏汇" tvg-logo="https://logo.catvod.com/体坛名栏汇.png" group-title="🥝精品频道🥝",体坛名栏汇
 http://hlszymgsplive.miguvideo.com:8080/wd_r3/cctv/titanminglan/600/index.m3u8?msisdn=20260302195315ffb3fa2a168a4d0aa68e851d21edf0cd&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20260302195315&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=47.92.222.227&SecurityKey=20260302195315&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cd7adb8029ca8d8f9cba2297db582395&sv=10004&ct=android$ioptu
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://logo.catvod.com/四海钓鱼.png" group-title="🥝精品频道🥝",四海钓鱼
-http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?msisdn=202603080802236cab10e6c95e4b98a167fce13c41649c&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260308080223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=218.28.233.106&SecurityKey=20260308080223&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1d28094b6b5e6064d5c8033090c890cb$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?msisdn=202603081202288cdbc4d9a5ae4fe7bc3237357656db9a&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260308120228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=218.28.233.106&SecurityKey=20260308120228&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3df63b35e6481c9cb650f989ee33805f$咪咕视频
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://logo.catvod.com/快乐垂钓.png" group-title="🥝精品频道🥝",快乐垂钓
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=20260308080223d42518dd1785452697b145d0ee3982cc&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260308080223&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260308080223&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=75902f1e6cbc43d58d7b819da0548bea$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=20260308120228d893057243214bf6bb569ae93a98fa3f&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260308120228&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260308120228&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=166eafe83cf94a6d96052cc9ac5bdfdd$咪咕视频
 #EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://logo.catvod.com/经典香港电影.png" group-title="🥝精品频道🥝",经典香港电影
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=2026030808022977da25ad7ee24e4ab26eea81904b24fb&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260308080229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=218.28.233.106&SecurityKey=20260308080229&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a1caaec9822f6e904a9d6a1fbd85ac1d$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=20260308120234b6c7329be14f46508e991e6357a32864&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260308120234&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=218.28.233.106&SecurityKey=20260308120234&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7c5de3e1eca988067171e9af3be7ab6f$咪咕视频
 #EXTINF:-1 tvg-name="抗战经典影片" tvg-logo="https://logo.catvod.com/抗战经典影片.png" group-title="🥝精品频道🥝",抗战经典影片
-http://hlsztemgsplive.miguvideo.com:8080/wd-virtuallive5100002089-75/index.m3u8?msisdn=202603080802293c16aaf83ff449d1817d33aa55d8e9a5&mdspid=&spid=800033&netType=0&sid=5500002717&pid=2028597139&timestamp=20260308080229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617432318&ParentNodeID=-99&assertID=5500002717&client_ip=218.28.233.106&SecurityKey=20260308080229&promotionId=&mvid=5100002089&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=128c6cf25607fc09f950dbbe2cce2e6c$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/wd-virtuallive5100002089-75/index.m3u8?msisdn=20260308120234d3b96a1d892e404890ddff6d01c24b4c&mdspid=&spid=800033&netType=0&sid=5500002717&pid=2028597139&timestamp=20260308120234&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617432318&ParentNodeID=-99&assertID=5500002717&client_ip=218.28.233.106&SecurityKey=20260308120234&promotionId=&mvid=5100002089&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a8f651143b73c0905182411b836a9932$咪咕视频
 #EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://logo.catvod.com/新片放映厅.png" group-title="🥝精品频道🥝",新片放映厅
 http://hlszymgsplive.miguvideo.com:8080/wd-virtuallive5100030975-75/index.m3u8?msisdn=2026030219532089febca9c06b4aa4b4b1c0f743b6c124&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20260302195320&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=47.92.222.227&SecurityKey=20260302195320&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=48f95150aaf16fa198816b1fd3420ba4&sv=10004&ct=android$ioptu
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="🥝精品频道🥝",CHC影迷电影
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202603080802299bc309917fc54b72b5c890aa14e40000&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260308080229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=218.28.233.106&SecurityKey=20260308080229&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=250900b013445d763441680906937991$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202603081202345e78d6affa1944dca81046b616da043d&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260308120234&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=218.28.233.106&SecurityKey=20260308120234&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=48135180780a19d13a756ee6e050bc69$咪咕视频
 #EXTINF:-1 tvg-name="和美乡途轮播台" tvg-logo="https://logo.catvod.com/和美乡途轮播台.png" group-title="🥝精品频道🥝",和美乡途轮播台
 http://hlszymgsplive.miguvideo.com:8080/migu/virtuallive2/5900002411/50/20210706/index.m3u8?msisdn=202603021953218717200d77124094bc246e5af593b3c9&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20260302195321&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=47.92.222.227&SecurityKey=20260302195321&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7916ba011646c3bc58fc8c7677fbd44f&sv=10004&ct=android$ioptu
 #EXTINF:-1 tvg-name="南方影视" tvg-logo="https://logo.catvod.com/南方影视.png" group-title="🥝精品频道🥝",南方影视
 http://hlszymgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=202603021953212659172c379a41e5b43239887c49ab13&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20260302195321&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=39.98.168.103&SecurityKey=20260302195321&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=df77cb64f0d16cf149a95a1307120897&sv=10004&ct=android$ioptu
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://logo.catvod.com/中国天气.png" group-title="🥝精品频道🥝",中国天气
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgtq/50/20251103/index.m3u8?msisdn=202603080802305fa47b578b8e41a09f6677d7c51096d4&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20260308080230&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=218.28.233.106&SecurityKey=20260308080230&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4a39e65dcf5ed700702cf497eb1a0dad$咪咕视频
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgtq/50/20251103/index.m3u8?msisdn=20260308120235bcb06b2ebd874f3e91793d9fef00bc11&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20260308120235&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=218.28.233.106&SecurityKey=20260308120235&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=64f71b4c2c5f09041ddd908d74e1e9ce$咪咕视频
 #EXTINF:-1 tvg-name="新动力量创一流" tvg-logo="https://logo.catvod.com/新动力量创一流.png" group-title="🥝精品频道🥝",新动力量创一流
 http://hlszymgsplive.miguvideo.com:8080/migu/virtuallive2/5900002409/50/20210706/index.m3u8?msisdn=202603021953394b9f93e046f0405fa547899f74e3377e&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20260302195339&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=39.98.168.103&SecurityKey=20260302195339&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0836e5693cb62967f10a7c7768c24d08&sv=10004&ct=android$ioptu
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://logo.catvod.com/中华特产.png" group-title="🥝精品频道🥝",中华特产
@@ -2664,79 +2670,79 @@ http://113.100.31.43:4022/udp/239.253.43.114:5146
 #EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://logo.catvod.com/CETV-4.png" group-title="🥝精品频道🥝",CETV-4
 http://113.104.185.72:7088/udp/239.253.43.114:5146
 #EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://logo.catvod.com/CETV-4.png" group-title="🥝精品频道🥝",CETV-4
-http://113.111.111.96:4022/udp/239.253.43.114:5146
+http://113.111.110.40:4022/udp/239.253.43.114:5146
 #EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://logo.catvod.com/CGTN Documentary.png" group-title="🥝精品频道🥝",CGTN Documentary
 http://113.100.31.43:4022/udp/239.253.43.122:5146
 #EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://logo.catvod.com/CGTN Documentary.png" group-title="🥝精品频道🥝",CGTN Documentary
 http://113.104.185.72:7088/udp/239.253.43.122:5146
 #EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://logo.catvod.com/CGTN Documentary.png" group-title="🥝精品频道🥝",CGTN Documentary
-http://113.111.111.96:4022/udp/239.253.43.122:5146
+http://113.111.110.40:4022/udp/239.253.43.122:5146
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="🥝精品频道🥝",CGTN俄语
 http://113.100.31.43:4022/udp/239.253.43.201:5146
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="🥝精品频道🥝",CGTN俄语
 http://113.104.185.72:7088/udp/239.253.43.201:5146
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="🥝精品频道🥝",CGTN俄语
-http://113.111.111.96:4022/udp/239.253.43.201:5146
+http://113.111.110.40:4022/udp/239.253.43.201:5146
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="🥝精品频道🥝",CGTN法语
 http://113.100.31.43:4022/udp/239.77.0.228:5146
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="🥝精品频道🥝",CGTN法语
 http://113.104.185.72:7088/udp/239.77.0.228:5146
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="🥝精品频道🥝",CGTN法语
-http://113.111.111.96:4022/udp/239.77.0.228:5146
+http://113.111.110.40:4022/udp/239.77.0.228:5146
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://logo.catvod.com/CGTN英语.png" group-title="🥝精品频道🥝",CGTN英语
 http://113.100.31.43:4022/udp/239.77.0.199:5146
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://logo.catvod.com/CGTN英语.png" group-title="🥝精品频道🥝",CGTN英语
 http://113.104.185.72:7088/udp/239.77.0.199:5146
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://logo.catvod.com/CGTN英语.png" group-title="🥝精品频道🥝",CGTN英语
-http://113.111.111.96:4022/udp/239.77.0.199:5146
+http://113.111.110.40:4022/udp/239.77.0.199:5146
 #EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://logo.catvod.com/CGTN西班牙语.png" group-title="🥝精品频道🥝",CGTN西班牙语
 http://113.100.31.43:4022/udp/239.77.0.221:5146
 #EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://logo.catvod.com/CGTN西班牙语.png" group-title="🥝精品频道🥝",CGTN西班牙语
 http://113.104.185.72:7088/udp/239.77.0.221:5146
 #EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://logo.catvod.com/CGTN西班牙语.png" group-title="🥝精品频道🥝",CGTN西班牙语
-http://113.111.111.96:4022/udp/239.77.0.221:5146
+http://113.111.110.40:4022/udp/239.77.0.221:5146
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://logo.catvod.com/CGTN阿拉伯语.png" group-title="🥝精品频道🥝",CGTN阿拉伯语
 http://113.100.31.43:4022/udp/239.253.43.200:5146
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://logo.catvod.com/CGTN阿拉伯语.png" group-title="🥝精品频道🥝",CGTN阿拉伯语
 http://113.104.185.72:7088/udp/239.253.43.200:5146
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://logo.catvod.com/CGTN阿拉伯语.png" group-title="🥝精品频道🥝",CGTN阿拉伯语
-http://113.111.111.96:4022/udp/239.253.43.200:5146
+http://113.111.110.40:4022/udp/239.253.43.200:5146
 #EXTINF:-1 tvg-name="IPTV1" tvg-logo="https://logo.catvod.com/IPTV1.png" group-title="🥝精品频道🥝",IPTV1
 http://113.100.31.43:4022/udp/239.77.1.7:5146
 #EXTINF:-1 tvg-name="IPTV1" tvg-logo="https://logo.catvod.com/IPTV1.png" group-title="🥝精品频道🥝",IPTV1
 http://113.104.185.72:7088/udp/239.77.1.7:5146
 #EXTINF:-1 tvg-name="IPTV1" tvg-logo="https://logo.catvod.com/IPTV1.png" group-title="🥝精品频道🥝",IPTV1
-http://113.111.111.96:4022/udp/239.77.1.7:5146
+http://113.111.110.40:4022/udp/239.77.1.7:5146
 #EXTINF:-1 tvg-name="IPTV2" tvg-logo="https://logo.catvod.com/IPTV2.png" group-title="🥝精品频道🥝",IPTV2
 http://113.100.31.43:4022/udp/239.77.1.8:5146
 #EXTINF:-1 tvg-name="IPTV2" tvg-logo="https://logo.catvod.com/IPTV2.png" group-title="🥝精品频道🥝",IPTV2
 http://113.104.185.72:7088/udp/239.77.1.8:5146
 #EXTINF:-1 tvg-name="IPTV2" tvg-logo="https://logo.catvod.com/IPTV2.png" group-title="🥝精品频道🥝",IPTV2
-http://113.111.111.96:4022/udp/239.77.1.8:5146
+http://113.111.110.40:4022/udp/239.77.1.8:5146
 #EXTINF:-1 tvg-name="IPTV4" tvg-logo="https://logo.catvod.com/IPTV4.png" group-title="🥝精品频道🥝",IPTV4
 http://113.100.31.43:4022/udp/239.77.1.10:5146
 #EXTINF:-1 tvg-name="IPTV4" tvg-logo="https://logo.catvod.com/IPTV4.png" group-title="🥝精品频道🥝",IPTV4
 http://113.104.185.72:7088/udp/239.77.1.10:5146
 #EXTINF:-1 tvg-name="IPTV4" tvg-logo="https://logo.catvod.com/IPTV4.png" group-title="🥝精品频道🥝",IPTV4
-http://113.111.111.96:4022/udp/239.77.1.10:5146
+http://113.111.110.40:4022/udp/239.77.1.10:5146
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://logo.catvod.com/世界地理.png" group-title="🥝精品频道🥝",世界地理
 http://113.100.31.43:4022/udp/239.253.43.7:5146
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://logo.catvod.com/世界地理.png" group-title="🥝精品频道🥝",世界地理
 http://113.104.185.72:7088/udp/239.253.43.7:5146
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://logo.catvod.com/世界地理.png" group-title="🥝精品频道🥝",世界地理
-http://113.111.111.96:4022/udp/239.253.43.7:5146
+http://113.111.110.40:4022/udp/239.253.43.7:5146
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://logo.catvod.com/中国天气.png" group-title="🥝精品频道🥝",中国天气
 http://113.100.31.43:4022/udp/239.77.1.2:5146
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://logo.catvod.com/中国天气.png" group-title="🥝精品频道🥝",中国天气
 http://113.104.185.72:7088/udp/239.77.1.2:5146
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://logo.catvod.com/中国天气.png" group-title="🥝精品频道🥝",中国天气
-http://113.111.111.96:4022/udp/239.77.1.2:5146
+http://113.111.110.40:4022/udp/239.77.1.2:5146
 #EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://logo.catvod.com/中国教育-1.png" group-title="🥝精品频道🥝",中国教育-1
 http://113.100.31.43:4022/udp/239.77.0.200:5146
 #EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://logo.catvod.com/中国教育-1.png" group-title="🥝精品频道🥝",中国教育-1
 http://113.104.185.72:7088/udp/239.77.0.200:5146
 #EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://logo.catvod.com/中国教育-1.png" group-title="🥝精品频道🥝",中国教育-1
-http://113.111.111.96:4022/udp/239.77.0.200:5146
+http://113.111.110.40:4022/udp/239.77.0.200:5146
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://logo.catvod.com/兵器科技.png" group-title="🥝精品频道🥝",兵器科技
 http://113.100.31.43:4022/udp/239.253.43.18:5146
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://logo.catvod.com/兵器科技.png" group-title="🥝精品频道🥝",兵器科技
@@ -2746,21 +2752,21 @@ http://113.104.185.72:7088/udp/239.253.43.18:5146
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://logo.catvod.com/兵器科技.png" group-title="🥝精品频道🥝",兵器科技
 http://113.104.185.72:7088/udp/239.253.43.9:5146
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://logo.catvod.com/兵器科技.png" group-title="🥝精品频道🥝",兵器科技
-http://113.111.111.96:4022/udp/239.253.43.18:5146
+http://113.111.110.40:4022/udp/239.253.43.18:5146
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://logo.catvod.com/兵器科技.png" group-title="🥝精品频道🥝",兵器科技
-http://113.111.111.96:4022/udp/239.253.43.9:5146
+http://113.111.110.40:4022/udp/239.253.43.9:5146
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://logo.catvod.com/卫生健康.png" group-title="🥝精品频道🥝",卫生健康
 http://113.100.31.43:4022/udp/239.77.0.212:5146
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://logo.catvod.com/卫生健康.png" group-title="🥝精品频道🥝",卫生健康
 http://113.104.185.72:7088/udp/239.77.0.212:5146
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://logo.catvod.com/卫生健康.png" group-title="🥝精品频道🥝",卫生健康
-http://113.111.111.96:4022/udp/239.77.0.212:5146
+http://113.111.110.40:4022/udp/239.77.0.212:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="🥝精品频道🥝",嘉佳卡通
 http://113.100.31.43:4022/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="🥝精品频道🥝",嘉佳卡通
 http://113.104.185.72:7088/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="🥝精品频道🥝",嘉佳卡通
-http://113.111.111.96:4022/udp/239.77.0.179:5146
+http://113.111.110.40:4022/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://logo.catvod.com/央视台球.png" group-title="🥝精品频道🥝",央视台球
 http://113.100.31.43:4022/udp/239.253.43.11:5146
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://logo.catvod.com/央视台球.png" group-title="🥝精品频道🥝",央视台球
@@ -2770,15 +2776,15 @@ http://113.104.185.72:7088/udp/239.253.43.11:5146
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://logo.catvod.com/央视台球.png" group-title="🥝精品频道🥝",央视台球
 http://113.104.185.72:7088/udp/239.253.43.21:5146
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://logo.catvod.com/央视台球.png" group-title="🥝精品频道🥝",央视台球
-http://113.111.111.96:4022/udp/239.253.43.11:5146
+http://113.111.110.40:4022/udp/239.253.43.11:5146
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://logo.catvod.com/央视台球.png" group-title="🥝精品频道🥝",央视台球
-http://113.111.111.96:4022/udp/239.253.43.21:5146
+http://113.111.110.40:4022/udp/239.253.43.21:5146
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://logo.catvod.com/央视文化精品.png" group-title="🥝精品频道🥝",央视文化精品
 http://113.100.31.43:4022/udp/239.253.43.13:5146
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://logo.catvod.com/央视文化精品.png" group-title="🥝精品频道🥝",央视文化精品
 http://113.104.185.72:7088/udp/239.253.43.13:5146
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://logo.catvod.com/央视文化精品.png" group-title="🥝精品频道🥝",央视文化精品
-http://113.111.111.96:4022/udp/239.253.43.13:5146
+http://113.111.110.40:4022/udp/239.253.43.13:5146
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://logo.catvod.com/女性时尚.png" group-title="🥝精品频道🥝",女性时尚
 http://113.100.31.43:4022/udp/239.253.43.23:5146
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://logo.catvod.com/女性时尚.png" group-title="🥝精品频道🥝",女性时尚
@@ -2788,57 +2794,57 @@ http://113.104.185.72:7088/udp/239.253.43.23:5146
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://logo.catvod.com/女性时尚.png" group-title="🥝精品频道🥝",女性时尚
 http://113.104.185.72:7088/udp/239.253.43.8:5146
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://logo.catvod.com/女性时尚.png" group-title="🥝精品频道🥝",女性时尚
-http://113.111.111.96:4022/udp/239.253.43.23:5146
+http://113.111.110.40:4022/udp/239.253.43.23:5146
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://logo.catvod.com/女性时尚.png" group-title="🥝精品频道🥝",女性时尚
-http://113.111.111.96:4022/udp/239.253.43.8:5146
+http://113.111.110.40:4022/udp/239.253.43.8:5146
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://logo.catvod.com/岭南戏曲.png" group-title="🥝精品频道🥝",岭南戏曲
 http://113.100.31.43:4022/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://logo.catvod.com/岭南戏曲.png" group-title="🥝精品频道🥝",岭南戏曲
 http://113.104.185.72:7088/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://logo.catvod.com/岭南戏曲.png" group-title="🥝精品频道🥝",岭南戏曲
-http://113.111.111.96:4022/udp/239.77.0.122:5146
+http://113.111.110.40:4022/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://logo.catvod.com/广东少儿.png" group-title="🥝精品频道🥝",广东少儿
 http://113.100.31.43:4022/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://logo.catvod.com/广东少儿.png" group-title="🥝精品频道🥝",广东少儿
 http://113.104.185.72:7088/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://logo.catvod.com/广东少儿.png" group-title="🥝精品频道🥝",广东少儿
-http://113.111.111.96:4022/udp/239.77.0.250:5146
+http://113.111.110.40:4022/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://logo.catvod.com/广东影视.png" group-title="🥝精品频道🥝",广东影视
 http://113.100.31.43:4022/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://logo.catvod.com/广东影视.png" group-title="🥝精品频道🥝",广东影视
 http://113.104.185.72:7088/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://logo.catvod.com/广东影视.png" group-title="🥝精品频道🥝",广东影视
-http://113.111.111.96:4022/udp/239.77.0.217:5146
+http://113.111.110.40:4022/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://logo.catvod.com/广东新闻.png" group-title="🥝精品频道🥝",广东新闻
 http://113.100.31.43:4022/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://logo.catvod.com/广东新闻.png" group-title="🥝精品频道🥝",广东新闻
 http://113.104.185.72:7088/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://logo.catvod.com/广东新闻.png" group-title="🥝精品频道🥝",广东新闻
-http://113.111.111.96:4022/udp/239.77.0.173:5146
+http://113.111.110.40:4022/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://logo.catvod.com/广东民生.png" group-title="🥝精品频道🥝",广东民生
 http://113.100.31.43:4022/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://logo.catvod.com/广东民生.png" group-title="🥝精品频道🥝",广东民生
 http://113.104.185.72:7088/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://logo.catvod.com/广东民生.png" group-title="🥝精品频道🥝",广东民生
-http://113.111.111.96:4022/udp/239.77.0.225:5146
+http://113.111.110.40:4022/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://logo.catvod.com/广东珠江.png" group-title="🥝精品频道🥝",广东珠江
 http://113.100.31.43:4022/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://logo.catvod.com/广东珠江.png" group-title="🥝精品频道🥝",广东珠江
 http://113.104.185.72:7088/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://logo.catvod.com/广东珠江.png" group-title="🥝精品频道🥝",广东珠江
-http://113.111.111.96:4022/udp/239.77.0.1:5146
+http://113.111.110.40:4022/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://logo.catvod.com/广州综合.png" group-title="🥝精品频道🥝",广州综合
 http://113.100.31.43:4022/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://logo.catvod.com/广州综合.png" group-title="🥝精品频道🥝",广州综合
 http://113.104.185.72:7088/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://logo.catvod.com/广州综合.png" group-title="🥝精品频道🥝",广州综合
-http://113.111.111.96:4022/udp/239.253.43.71:5146
+http://113.111.110.40:4022/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://logo.catvod.com/怀旧剧场.png" group-title="🥝精品频道🥝",怀旧剧场
 http://113.100.31.43:4022/udp/239.253.43.5:5146
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://logo.catvod.com/怀旧剧场.png" group-title="🥝精品频道🥝",怀旧剧场
 http://113.104.185.72:7088/udp/239.253.43.5:5146
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://logo.catvod.com/怀旧剧场.png" group-title="🥝精品频道🥝",怀旧剧场
-http://113.111.111.96:4022/udp/239.253.43.5:5146
+http://113.111.110.40:4022/udp/239.253.43.5:5146
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://logo.catvod.com/早期教育.png" group-title="🥝精品频道🥝",早期教育
 http://113.100.31.43:4022/udp/239.77.0.180:5146
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://logo.catvod.com/早期教育.png" group-title="🥝精品频道🥝",早期教育
@@ -2848,15 +2854,15 @@ http://113.104.185.72:7088/udp/239.77.0.180:5146
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://logo.catvod.com/早期教育.png" group-title="🥝精品频道🥝",早期教育
 http://113.104.185.72:7088/udp/239.77.1.114:5146
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://logo.catvod.com/早期教育.png" group-title="🥝精品频道🥝",早期教育
-http://113.111.111.96:4022/udp/239.77.0.180:5146
+http://113.111.110.40:4022/udp/239.77.0.180:5146
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://logo.catvod.com/早期教育.png" group-title="🥝精品频道🥝",早期教育
-http://113.111.111.96:4022/udp/239.77.1.114:5146
+http://113.111.110.40:4022/udp/239.77.1.114:5146
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://logo.catvod.com/求索纪录.png" group-title="🥝精品频道🥝",求索纪录
 http://113.100.31.43:4022/udp/239.77.0.21:5146
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://logo.catvod.com/求索纪录.png" group-title="🥝精品频道🥝",求索纪录
 http://113.104.185.72:7088/udp/239.77.0.21:5146
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://logo.catvod.com/求索纪录.png" group-title="🥝精品频道🥝",求索纪录
-http://113.111.111.96:4022/udp/239.77.0.21:5146
+http://113.111.110.40:4022/udp/239.77.0.21:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🥝精品频道🥝",深圳体育健康
 http://113.100.31.43:4022/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🥝精品频道🥝",深圳体育健康
@@ -2866,39 +2872,39 @@ http://113.104.185.72:7088/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🥝精品频道🥝",深圳体育健康
 http://113.104.185.72:7088/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🥝精品频道🥝",深圳体育健康
-http://113.111.111.96:4022/udp/239.77.1.128:5146
+http://113.111.110.40:4022/udp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🥝精品频道🥝",深圳体育健康
-http://113.111.111.96:4022/udp/239.77.1.140:5146
+http://113.111.110.40:4022/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🥝精品频道🥝",深圳电视剧频道
 http://113.100.31.43:4022/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🥝精品频道🥝",深圳电视剧频道
 http://113.104.185.72:7088/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🥝精品频道🥝",深圳电视剧频道
-http://113.111.111.96:4022/udp/239.77.1.125:5146
+http://113.111.110.40:4022/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🥝精品频道🥝",深圳财经生活
 http://113.100.31.43:4022/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🥝精品频道🥝",深圳财经生活
 http://113.104.185.72:7088/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🥝精品频道🥝",深圳财经生活
-http://113.111.111.96:4022/udp/239.77.1.242:5146
+http://113.111.110.40:4022/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🥝精品频道🥝",深圳都市频道
 http://113.100.31.43:4022/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🥝精品频道🥝",深圳都市频道
 http://113.104.185.72:7088/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🥝精品频道🥝",深圳都市频道
-http://113.111.111.96:4022/udp/239.77.1.176:5146
+http://113.111.110.40:4022/udp/239.77.1.176:5146
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://logo.catvod.com/爱体育.png" group-title="🥝精品频道🥝",爱体育
 http://113.100.31.43:4022/udp/239.77.0.176:5146
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://logo.catvod.com/爱体育.png" group-title="🥝精品频道🥝",爱体育
 http://113.104.185.72:7088/udp/239.77.0.176:5146
 #EXTINF:-1 tvg-name="爱体育" tvg-logo="https://logo.catvod.com/爱体育.png" group-title="🥝精品频道🥝",爱体育
-http://113.111.111.96:4022/udp/239.77.0.176:5146
+http://113.111.110.40:4022/udp/239.77.0.176:5146
 #EXTINF:-1 tvg-name="现代教育" tvg-logo="https://logo.catvod.com/现代教育.png" group-title="🥝精品频道🥝",现代教育
 http://113.100.31.43:4022/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-name="现代教育" tvg-logo="https://logo.catvod.com/现代教育.png" group-title="🥝精品频道🥝",现代教育
 http://113.104.185.72:7088/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-name="现代教育" tvg-logo="https://logo.catvod.com/现代教育.png" group-title="🥝精品频道🥝",现代教育
-http://113.111.111.96:4022/udp/239.77.0.213:5146
+http://113.111.110.40:4022/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://logo.catvod.com/电视指南.png" group-title="🥝精品频道🥝",电视指南
 http://113.100.31.43:4022/udp/239.253.43.10:5146
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://logo.catvod.com/电视指南.png" group-title="🥝精品频道🥝",电视指南
@@ -2908,51 +2914,51 @@ http://113.104.185.72:7088/udp/239.253.43.10:5146
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://logo.catvod.com/电视指南.png" group-title="🥝精品频道🥝",电视指南
 http://113.104.185.72:7088/udp/239.253.43.19:5146
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://logo.catvod.com/电视指南.png" group-title="🥝精品频道🥝",电视指南
-http://113.111.111.96:4022/udp/239.253.43.10:5146
+http://113.111.110.40:4022/udp/239.253.43.10:5146
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://logo.catvod.com/电视指南.png" group-title="🥝精品频道🥝",电视指南
-http://113.111.111.96:4022/udp/239.253.43.19:5146
+http://113.111.110.40:4022/udp/239.253.43.19:5146
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://logo.catvod.com/睛彩广场舞.png" group-title="🥝精品频道🥝",睛彩广场舞
 http://113.100.31.43:4022/udp/239.77.1.23:5146
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://logo.catvod.com/睛彩广场舞.png" group-title="🥝精品频道🥝",睛彩广场舞
 http://113.104.185.72:7088/udp/239.77.1.23:5146
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://logo.catvod.com/睛彩广场舞.png" group-title="🥝精品频道🥝",睛彩广场舞
-http://113.111.111.96:4022/udp/239.77.1.23:5146
+http://113.111.110.40:4022/udp/239.77.1.23:5146
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://logo.catvod.com/睛彩竞技.png" group-title="🥝精品频道🥝",睛彩竞技
 http://113.100.31.43:4022/udp/239.77.1.20:5146
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://logo.catvod.com/睛彩竞技.png" group-title="🥝精品频道🥝",睛彩竞技
 http://113.104.185.72:7088/udp/239.77.1.20:5146
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://logo.catvod.com/睛彩竞技.png" group-title="🥝精品频道🥝",睛彩竞技
-http://113.111.111.96:4022/udp/239.77.1.20:5146
+http://113.111.110.40:4022/udp/239.77.1.20:5146
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://logo.catvod.com/睛彩青少.png" group-title="🥝精品频道🥝",睛彩青少
 http://113.100.31.43:4022/udp/239.77.1.22:5146
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://logo.catvod.com/睛彩青少.png" group-title="🥝精品频道🥝",睛彩青少
 http://113.104.185.72:7088/udp/239.77.1.22:5146
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://logo.catvod.com/睛彩青少.png" group-title="🥝精品频道🥝",睛彩青少
-http://113.111.111.96:4022/udp/239.77.1.22:5146
+http://113.111.110.40:4022/udp/239.77.1.22:5146
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://logo.catvod.com/第一剧场.png" group-title="🥝精品频道🥝",第一剧场
 http://113.100.31.43:4022/udp/239.253.43.15:5146
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://logo.catvod.com/第一剧场.png" group-title="🥝精品频道🥝",第一剧场
 http://113.104.185.72:7088/udp/239.253.43.15:5146
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://logo.catvod.com/第一剧场.png" group-title="🥝精品频道🥝",第一剧场
-http://113.111.111.96:4022/udp/239.253.43.15:5146
+http://113.111.110.40:4022/udp/239.253.43.15:5146
 #EXTINF:-1 tvg-name="经济科教" tvg-logo="https://logo.catvod.com/经济科教.png" group-title="🥝精品频道🥝",经济科教
 http://113.100.31.43:4022/udp/239.77.0.85:5146
 #EXTINF:-1 tvg-name="经济科教" tvg-logo="https://logo.catvod.com/经济科教.png" group-title="🥝精品频道🥝",经济科教
 http://113.104.185.72:7088/udp/239.77.0.85:5146
 #EXTINF:-1 tvg-name="经济科教" tvg-logo="https://logo.catvod.com/经济科教.png" group-title="🥝精品频道🥝",经济科教
-http://113.111.111.96:4022/udp/239.77.0.85:5146
+http://113.111.110.40:4022/udp/239.77.0.85:5146
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="🥝精品频道🥝",金鹰卡通
 http://113.100.31.43:4022/udp/239.77.0.164:5146
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="🥝精品频道🥝",金鹰卡通
 http://113.104.185.72:7088/udp/239.77.0.164:5146
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="🥝精品频道🥝",金鹰卡通
-http://113.111.111.96:4022/udp/239.77.0.164:5146
+http://113.111.110.40:4022/udp/239.77.0.164:5146
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://logo.catvod.com/风云剧场.png" group-title="🥝精品频道🥝",风云剧场
 http://113.100.31.43:4022/udp/239.253.43.16:5146
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://logo.catvod.com/风云剧场.png" group-title="🥝精品频道🥝",风云剧场
 http://113.104.185.72:7088/udp/239.253.43.16:5146
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://logo.catvod.com/风云剧场.png" group-title="🥝精品频道🥝",风云剧场
-http://113.111.111.96:4022/udp/239.253.43.16:5146
+http://113.111.110.40:4022/udp/239.253.43.16:5146
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://logo.catvod.com/风云足球.png" group-title="🥝精品频道🥝",风云足球
 http://113.100.31.43:4022/udp/239.253.43.14:5146
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://logo.catvod.com/风云足球.png" group-title="🥝精品频道🥝",风云足球
@@ -2962,15 +2968,15 @@ http://113.104.185.72:7088/udp/239.253.43.14:5146
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://logo.catvod.com/风云足球.png" group-title="🥝精品频道🥝",风云足球
 http://113.104.185.72:7088/udp/239.253.43.20:5146
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://logo.catvod.com/风云足球.png" group-title="🥝精品频道🥝",风云足球
-http://113.111.111.96:4022/udp/239.253.43.14:5146
+http://113.111.110.40:4022/udp/239.253.43.14:5146
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://logo.catvod.com/风云足球.png" group-title="🥝精品频道🥝",风云足球
-http://113.111.111.96:4022/udp/239.253.43.20:5146
+http://113.111.110.40:4022/udp/239.253.43.20:5146
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://logo.catvod.com/风云音乐.png" group-title="🥝精品频道🥝",风云音乐
 http://113.100.31.43:4022/udp/239.253.43.6:5146
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://logo.catvod.com/风云音乐.png" group-title="🥝精品频道🥝",风云音乐
 http://113.104.185.72:7088/udp/239.253.43.6:5146
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://logo.catvod.com/风云音乐.png" group-title="🥝精品频道🥝",风云音乐
-http://113.111.111.96:4022/udp/239.253.43.6:5146
+http://113.111.110.40:4022/udp/239.253.43.6:5146
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://logo.catvod.com/高尔夫网球.png" group-title="🥝精品频道🥝",高尔夫网球
 http://113.100.31.43:4022/udp/239.253.43.12:5146
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://logo.catvod.com/高尔夫网球.png" group-title="🥝精品频道🥝",高尔夫网球
@@ -2980,9 +2986,9 @@ http://113.104.185.72:7088/udp/239.253.43.12:5146
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://logo.catvod.com/高尔夫网球.png" group-title="🥝精品频道🥝",高尔夫网球
 http://113.104.185.72:7088/udp/239.253.43.22:5146
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://logo.catvod.com/高尔夫网球.png" group-title="🥝精品频道🥝",高尔夫网球
-http://113.111.111.96:4022/udp/239.253.43.12:5146
+http://113.111.110.40:4022/udp/239.253.43.12:5146
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://logo.catvod.com/高尔夫网球.png" group-title="🥝精品频道🥝",高尔夫网球
-http://113.111.111.96:4022/udp/239.253.43.22:5146
+http://113.111.110.40:4022/udp/239.253.43.22:5146
 #EXTINF:-1 tvg-name="叶问系列" tvg-logo="https://logo.catvod.com/叶问系列.png" group-title="🎥飞扬电影🎥",叶问系列
 http://live.chinacert.cftest5.cn/huya/23829543
 #EXTINF:-1 tvg-name="狄仁杰系列" tvg-logo="https://logo.catvod.com/狄仁杰系列.png" group-title="🎥飞扬电影🎥",狄仁杰系列
