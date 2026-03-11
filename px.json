@@ -3,7 +3,7 @@
 //"spider":"https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7a3502fc0415ddd7/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460",  //  肥猫  https://gh-proxy.com/ https://ghfast.top/ https://down.nigx.cn/ https://gh.bugdey.us.kg https://g.blfrp.cn/
 //"spider":"https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/17719483685809pdmDM.txt;md5;934d3d347b9810c923d3db6fbc36d148",    //  王小二放牛娃
 //"spider":"http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",  //  OK杰克
-//"spider":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260227/GSaH/fish02272145.png;md5;8387754eb74866f3b38da991e5bb1ae4",  //  摸鱼儿
+//"spider":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260309/VWfh/0X0/fish03092137.png;md5;cd5f9778824ad3072244710d34477822",  //  摸鱼儿
 //"spider":"http://cdn.qiaoji8.com/fix260214.jar;md5;9cf151b68525633bd6c385d9a1a5815d",  //  巧技
 //"spider": "http://47.120.41.246:8025/vip/jar/ouge.php",  //  影视仓
 //"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",  //  Yoursmile
@@ -39,7 +39,7 @@
 
 "sites":[
 ##常用系列  //  ,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/N3RD/J/lem1230.jar;md5;748407F75DB16C42CB4978D143049683"
-{"key": "豆","name": "PX祝您：观影愉快！ 20260306 更新","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
+{"key": "豆","name": "PX祝您：观影愉快！ 20260311 更新","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"jar":"https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7a3502fc0415ddd7/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460"},
 {"key":"csp_SeedhubGuard","name":"📀SeedHub📀","type":3,"api":"csp_SeedhubGuard","changeable":0,"ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":0,"quickSearch":0,"changeable":0, "indexs":0,"style":{"type":"list"}},
     
@@ -88,10 +88,10 @@
 //{"key":"csp_Dygang","name":"🧲电影港🧲","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
 
 ##摸鱼儿系列  http://我不是.摸鱼儿.top
-//{"key":"醉挽清风","name":"♨️醉挽清风♨️","type":4,"api":"http://我不是.摸鱼儿.top/api/yuyutx.php","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260227/GSaH/fish02272145.png;md5;8387754eb74866f3b38da991e5bb1ae4"},
-//{"key":"驿站","name":"🌀驿站超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt","dataKey":"dyyztvapiappyyds","dataIv":"dyyztvapiappyyds","deviceId":"","version":"","ua":""},"jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260227/GSaH/fish02272145.png;md5;8387754eb74866f3b38da991e5bb1ae4"},
-//{"key":"五八","name":"🌀五八超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://dy.58ys.vip","site":"","dataKey":"JEWibY1AgWF0V1xx","dataIv":"JEWibY1AgWF0V1xx","deviceId":"","version":"","ua":""},"jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260227/GSaH/fish02272145.png;md5;8387754eb74866f3b38da991e5bb1ae4"},
-//{"key":"旗星","name":"🌀旗星超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"},"jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260227/GSaH/fish02272145.png;md5;8387754eb74866f3b38da991e5bb1ae4"},
+//{"key":"醉挽清风","name":"♨️醉挽清风♨️","type":4,"api":"http://我不是.摸鱼儿.top/api/yuyutx.php","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260309/VWfh/0X0/fish03092137.png;md5;cd5f9778824ad3072244710d34477822"},
+//{"key":"驿站","name":"🌀驿站超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt","dataKey":"dyyztvapiappyyds","dataIv":"dyyztvapiappyyds","deviceId":"","version":"","ua":""},"jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260309/VWfh/0X0/fish03092137.png;md5;cd5f9778824ad3072244710d34477822"},
+//{"key":"五八","name":"🌀五八超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://dy.58ys.vip","site":"","dataKey":"JEWibY1AgWF0V1xx","dataIv":"JEWibY1AgWF0V1xx","deviceId":"","version":"","ua":""},"jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260309/VWfh/0X0/fish03092137.png;md5;cd5f9778824ad3072244710d34477822"},
+//{"key":"旗星","name":"🌀旗星超清🌀","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"},"jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260309/VWfh/0X0/fish03092137.png;md5;cd5f9778824ad3072244710d34477822"},
 
 ##巧技系列  http://cdn.qiaoji8.com/tvbox.json
 //{"key":"天天","name":"🍋天天App🍋","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li","jar":"http://cdn.qiaoji8.com/fix260214.jar;md5;9cf151b68525633bd6c385d9a1a5815d"},
