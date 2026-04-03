@@ -7,7 +7,7 @@
 //"spider":"http://cdn.qiaoji8.com/fix260214.jar;md5;9cf151b68525633bd6c385d9a1a5815d",  //  巧技
 //"spider": "http://47.120.41.246:8025/vip/jar/ouge.php",  //  影视仓
 //"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/bluefriendCN/bin/refs/heads/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",  //  Yoursmile
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+"wallpaper":"https://深色壁纸.xxooo.cf/",          // https://kakaxi.indevs.in/ipv4.txt
 "logo": "http://hello.xn--z7x900a.com/fm.gif",
 "warningText":"潘兴祝你：观影愉快！",
 
@@ -20,7 +20,7 @@
 {"name":"湖南电信组播","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/luoye20230624/hndxzb/main/湖南_电信_组播.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"广东电信组播","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/luoye20230624/hndxzb/main/广东_电信_组播.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"墨韵","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/leiyou-li/moyuntv3/main/live.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"kakaxi","type":0,"playerType":1,"url": "https://kakaxi.indevs.in/ipv4.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"kakaxi","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"百宝箱","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/leexuben/collect-txt/main/bbxx.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"cyh92","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/iptv-api/master/output/list.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Moo930","type":0,"playerType":1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/Moo930/iptv-api/master/output/motv.txt","ua": "okhttp/3.15","timeout": 20,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
