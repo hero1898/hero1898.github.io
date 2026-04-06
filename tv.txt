@@ -526,9 +526,7 @@ TVBS新闻,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 咪咕直播4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3%24
 
 🏆体育频道🏅,#genre#
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
-JJ斗地主,http://106.53.99.30/tv/api.php?id=jj
+JJ斗地主,https://live.iill.top/douyin/685317364746
 快乐垂钓,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=20260309000207b9bbdac3484d4bf09689397cced814de&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260309000207&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260309000207&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=22d80e2ca375c80dbae6c406c9f315ff$咪咕视频
 四海钓鱼,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?msisdn=202603090002068975f25a071a40079c6f29741b6a1f3a&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260309000206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=218.28.233.106&SecurityKey=20260309000206&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d621409589dae2035b3061fed4d9970c$咪咕视频
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
