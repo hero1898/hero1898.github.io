@@ -32,7 +32,7 @@
 
 "sites":[
 ##常用系列  //  ,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/N3RD/J/lem1230.jar;md5;748407F75DB16C42CB4978D143049683"
-{"key": "豆","name": "PX祝您：观影愉快！ 20260311 更新","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
+{"key": "豆","name": "PX祝您：观影愉快！ 20260412 电视节目地址全面更新","type": 3,"api": "csp_DouDouGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"config","name":"🐼配置中心🐼","type":3,"api":"csp_Config","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"jar":"https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7a3502fc0415ddd7/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460"},
 {"key":"csp_SeedhubGuard","name":"📀SeedHub📀","type":3,"api":"csp_SeedhubGuard","changeable":0,"ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":0,"quickSearch":0,"changeable":0, "indexs":0,"style":{"type":"list"}},
     
